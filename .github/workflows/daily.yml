@@ -1,0 +1,95 @@
+name: Daily News Summary
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests pytz
+
+      - name: Fetch summary from proxy & write JSON+HTML
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}              # e.g. https://your-proxy.hf.space
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}    # user-provided key for your app
+          SUBJECT_AREA: "physics"                          # change to your default
+          CONTENT_TYPE: "news"
+          AUDIENCE: "general"
+          DAYS_LIMIT: "1"
+          TOP_ENTRIES: "10"
+          # If you protected your proxy with an x-proxy-key header, add it:
+          PROXY_KEY: ${{ secrets.PROXY_KEY }}
+        run: |
+          python - <<'PY'
+          import os, json, requests, datetime
+          from pytz import timezone
+
+          PROXY_URL   = os.environ["PROXY_URL"].rstrip("/")
+          API_KEY     = os.environ["OPENAI_API_KEY"]
+          SUBJECT     = os.environ.get("SUBJECT_AREA","physics")
+          CTYPE       = os.environ.get("CONTENT_TYPE","news")
+          AUDIENCE    = os.environ.get("AUDIENCE","general")
+          DAYS_LIMIT  = int(os.environ.get("DAYS_LIMIT","1"))
+          TOP_ENTRIES = int(os.environ.get("TOP_ENTRIES","10"))
+          PROXY_KEY   = os.environ.get("PROXY_KEY","")
+
+          payload = {
+              "api_key": API_KEY,
+              "subject_area": SUBJECT,
+              "content_type": CTYPE,
+              "audience": AUDIENCE,
+              "days_limit": DAYS_LIMIT,
+              "top_entries": TOP_ENTRIES
+          }
+          headers = {"Content-Type": "application/json"}
+          if PROXY_KEY:
+              headers["x-proxy-key"] = PROXY_KEY
+
+          r = requests.post(f"{PROXY_URL}/api/summarize", json=payload, headers=headers, timeout=120)
+          r.raise_for_status()
+          data = r.json()
+
+          # date-stamped + latest files
+          now = datetime.datetime.now(timezone("UTC"))
+          ymd = now.strftime("%Y-%m-%d")
+          os.makedirs("data", exist_ok=True)
+          with open(f"data/{ymd}.json","w",encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          with open("data/latest.json","w",encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          # quick HTML fragment (optional) that your blog can embed via iFrame if you prefer
+          html = ["<section><h2>🧠 Daily Science Summary</h2>"]
+          html.append(f"<p>{data.get('bulk_summary','')}</p>")
+          html.append("<h3>Entries</h3><ol>")
+          for e in data.get("entries",[]):
+              t = e.get("title","").replace("<","&lt;")
+              l = e.get("link","#")
+              p = e.get("published","")
+              s = e.get("summary","").replace("<","&lt;")
+              html.append(f"<li><a href='{l}' target='_blank' rel='noopener'>{t}</a><br><small>{p}</small><br>{s}</li>")
+          html.append("</ol></section>")
+          with open("data/latest.html","w",encoding="utf-8") as f:
+              f.write("\n".join(html))
+          PY
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json data/*.html
+          git commit -m "daily update" || echo "no changes"
+          git push origin gh-pages
