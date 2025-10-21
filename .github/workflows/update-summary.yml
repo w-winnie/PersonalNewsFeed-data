@@ -10,16 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
+      # Checkout gh-pages branch to write data
       - uses: actions/checkout@v4
         with:
           ref: gh-pages
 
+      # Python setup
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests pytz
+      # Dependencies for API + formatting
+      - run: pip install requests pytz markdown
 
       - name: Fetch summaries for Astro & AI
         env:
@@ -31,6 +35,7 @@ jobs:
           python - <<'PY'
           import os, json, requests, datetime
           from pytz import timezone
+          import markdown
 
           PROXY_URL   = os.environ["PROXY_URL"].rstrip("/")
           API_KEY     = os.environ["OPENAI_API_KEY"]
@@ -71,31 +76,95 @@ jobs:
               with open(f"data/{tag}_{ymd}.json","w",encoding="utf-8") as f:
                   json.dump(data, f, ensure_ascii=False, indent=2)
 
-              # Save HTML
-              html = [f"<section><h2>🧠 {subject.title()} Daily Summary</h2>"]
-              html.append(f"<p>{data.get('bulk_summary','')}</p>")
-              html.append("<h3>Entries</h3><ol>")
-              for e in data.get("entries",[]):
-                  t = e.get("title","").replace("<","&lt;")
-                  l = e.get("link","#")
-                  p = e.get("published","")
-                  s = e.get("summary","").replace("<","&lt;")
-                  html.append(f"<li><a href='{l}' target='_blank'>{t}</a><br><small>{p}</small><br>{s}</li>")
-              html.append("</ol></section>")
-              with open(f"data/{tag}_latest.html","w",encoding="utf-8") as f:
-                  f.write("\n".join(html))
+              # --- Build Markdown summary ---
+              summary_md = f"""# 🧠 {subject.capitalize()} Daily Summary
 
-          # Fetch both
+{data.get('bulk_summary','')}
+
+---
+
+## 📰 Entries
+
+"""
+
+              for e in data.get("entries", []):
+                  summary_md += f"- **[{e.get('title','')}]({e.get('link','#')})**  \n"
+                  summary_md += f"  *{e.get('published','')}*  \n"
+                  summary_md += f"  {e.get('summary','')}\n\n"
+
+              # Save Markdown and convert to HTML
+              md_path = f"data/{tag}_latest.md"
+              html_path = f"data/{tag}_latest.html"
+
+              with open(md_path, "w", encoding="utf-8") as f:
+                  f.write(summary_md)
+
+              html_content = markdown.markdown(
+                  summary_md,
+                  extensions=['extra', 'sane_lists', 'tables']
+              )
+
+              # Minimal CSS for nice display
+              html_wrapped = f"""
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{subject.capitalize()} Summary</title>
+<style>
+body {{
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 850px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #f8fafc;
+  color: #222;
+}}
+h1, h2, h3 {{
+  color: #004080;
+}}
+a {{ color: #007acc; }}
+a:hover {{ text-decoration: underline; }}
+small {{ color: #666; }}
+</style>
+</head>
+<body>
+{html_content}
+</body>
+</html>
+"""
+              with open(html_path, "w", encoding="utf-8") as f:
+                  f.write(html_wrapped)
+
+          # Fetch both topics
           fetch_and_save("astro", "astro_enthusiasts", "astro")
           fetch_and_save("ai", "ai_enthusiasts", "ai")
 
+          # --- Build index.html linking both ---
+          index_html = """
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<title>Daily Science Feeds</title></head>
+<body style="font-family:sans-serif;max-width:600px;margin:auto;padding:2rem;">
+<h1>📚 Daily Science Feeds</h1>
+<ul>
+  <li><a href="data/ai_latest.html">🧠 AI News Summary</a></li>
+  <li><a href="data/astro_latest.html">🌌 Astronomy News Summary</a></li>
+</ul>
+<p><small>Updated daily via GitHub Actions.</small></p>
+</body></html>
+"""
+          with open("index.html","w",encoding="utf-8") as f:
+              f.write(index_html)
+
           PY
 
+      # Commit and push back to gh-pages
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           date > data/last_run.txt
-          git add data/*.json data/*.html data/last_run.txt
+          git add data/*.json data/*.html data/*.md data/last_run.txt index.html
           git commit -m "daily update $(date)" || echo "no changes"
           git push origin gh-pages
