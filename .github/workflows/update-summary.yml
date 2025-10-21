@@ -1,0 +1,52 @@
+name: Daily Summary Update
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # runs every day at 10:00 UTC
+  workflow_dispatch:       # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Fetch summary from your proxy app
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Fetching summary..."
+          mkdir -p data
+
+          # Example: call your Space’s API endpoint (replace this URL!)
+          curl -s -X POST "$PROXY_URL/api/summarize" \
+            -H "Content-Type: application/json" \
+            -d '{"api_key":"${OPENAI_API_KEY}","subject_area":"Science","content_type":"news","audience":"general","days_limit":1,"top_entries":10}' \
+            -o data/latest.json
+
+          DATE=$(date +"%Y-%m-%d")
+          cp data/latest.json data/${DATE}.json
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "update daily summary $(date)" || echo "No changes to commit"
+          git push origin gh-pages
