@@ -12,17 +12,14 @@ jobs:
       contents: write
 
     steps:
-      # Checkout gh-pages branch to write data
       - uses: actions/checkout@v4
         with:
           ref: gh-pages
 
-      # Python setup
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # Dependencies for API + formatting
       - run: pip install requests pytz markdown
 
       - name: Fetch summaries for Astro & AI
@@ -86,13 +83,11 @@ jobs:
 ## 📰 Entries
 
 """
-
               for e in data.get("entries", []):
                   summary_md += f"- **[{e.get('title','')}]({e.get('link','#')})**  \n"
                   summary_md += f"  *{e.get('published','')}*  \n"
                   summary_md += f"  {e.get('summary','')}\n\n"
 
-              # Save Markdown and convert to HTML
               md_path = f"data/{tag}_latest.md"
               html_path = f"data/{tag}_latest.html"
 
@@ -104,9 +99,7 @@ jobs:
                   extensions=['extra', 'sane_lists', 'tables']
               )
 
-              # Minimal CSS for nice display
-              html_wrapped = f"""
-<!DOCTYPE html>
+              html_wrapped = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -141,9 +134,8 @@ small {{ color: #666; }}
           fetch_and_save("astro", "astro_enthusiasts", "astro")
           fetch_and_save("ai", "ai_enthusiasts", "ai")
 
-          # --- Build index.html linking both ---
-          index_html = """
-<!DOCTYPE html><html><head><meta charset="utf-8">
+          # Build index.html
+          index_html = """<!DOCTYPE html><html><head><meta charset="utf-8">
 <title>Daily Science Feeds</title></head>
 <body style="font-family:sans-serif;max-width:600px;margin:auto;padding:2rem;">
 <h1>📚 Daily Science Feeds</h1>
@@ -152,14 +144,11 @@ small {{ color: #666; }}
   <li><a href="data/astro_latest.html">🌌 Astronomy News Summary</a></li>
 </ul>
 <p><small>Updated daily via GitHub Actions.</small></p>
-</body></html>
-"""
+</body></html>"""
           with open("index.html","w",encoding="utf-8") as f:
               f.write(index_html)
-
           PY
 
-      # Commit and push back to gh-pages
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
