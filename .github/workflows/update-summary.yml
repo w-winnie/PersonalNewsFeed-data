@@ -80,17 +80,18 @@ jobs:
               summary_md = f"""# 🧠 {subject.capitalize()} Daily Summary
 
               {data.get('bulk_summary','')}
-              
+                          
               ---
-              
+                          
               ## 📰 Entries
-              
               """
 
               for e in data.get("entries", []):
-                  summary_md += f"- **[{e.get('title','')}]({e.get('link','#')})**  \n"
-                  summary_md += f"  *{e.get('published','')}*  \n"
-                  summary_md += f"  {e.get('summary','')}\n\n"
+                  title = e.get('title','')
+                  link = e.get('link','#')
+                  published = e.get('published','')
+                  summary = e.get('summary','')
+                  summary_md += f"<details><summary><strong><a href='{link}' target='_blank'>{title}</a></strong> — <em>{published}</em></summary>\n\n{summary}\n\n</details>\n\n"
 
               # Save Markdown and convert to HTML
               md_path = f"data/{tag}_latest.md"
@@ -104,9 +105,8 @@ jobs:
                   extensions=['extra', 'sane_lists', 'tables']
               )
 
-              # Minimal CSS for nice display
-              html_wrapped = f"""
-              <!DOCTYPE html>
+              # Minimal CSS for nice display + collapsibles
+              html_wrapped = f"""<!DOCTYPE html>
               <html lang="en">
               <head>
               <meta charset="utf-8">
@@ -127,13 +127,31 @@ jobs:
               a {{ color: #007acc; }}
               a:hover {{ text-decoration: underline; }}
               small {{ color: #666; }}
+              details {{
+                background: #fff;
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                padding: 0.6em 1em;
+                margin: 0.6em 0;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+              }}
+              summary {{
+                font-weight: bold;
+                cursor: pointer;
+                color: #004080;
+                outline: none;
+              }}
+              summary:hover {{
+                color: #007acc;
+              }}
               </style>
               </head>
               <body>
               {html_content}
+              <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}</p>
               </body>
-              </html>
-              """
+              </html>"""
+
               with open(html_path, "w", encoding="utf-8") as f:
                   f.write(html_wrapped)
 
@@ -142,8 +160,8 @@ jobs:
           fetch_and_save("ai", "ai_enthusiasts", "ai")
 
           # --- Build index.html linking both ---
-          index_html = """
-          <!DOCTYPE html><html><head><meta charset="utf-8">
+          index_html = """<!DOCTYPE html>
+          <html><head><meta charset="utf-8">
           <title>Daily Science Feeds</title></head>
           <body style="font-family:sans-serif;max-width:600px;margin:auto;padding:2rem;">
           <h1>📚 Daily Science Feeds</h1>
