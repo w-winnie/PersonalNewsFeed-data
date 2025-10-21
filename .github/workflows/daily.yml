@@ -39,11 +39,11 @@ jobs:
 
           PROXY_URL   = os.environ["PROXY_URL"].rstrip("/")
           API_KEY     = os.environ["OPENAI_API_KEY"]
-          SUBJECT     = os.environ.get("SUBJECT_AREA","physics")
+          SUBJECT     = os.environ.get("SUBJECT_AREA","astro")
           CTYPE       = os.environ.get("CONTENT_TYPE","news")
           AUDIENCE    = os.environ.get("AUDIENCE","general")
           DAYS_LIMIT  = int(os.environ.get("DAYS_LIMIT","1"))
-          TOP_ENTRIES = int(os.environ.get("TOP_ENTRIES","10"))
+          TOP_ENTRIES = int(os.environ.get("TOP_ENTRIES","3"))
           PROXY_KEY   = os.environ.get("PROXY_KEY","")
 
           payload = {
