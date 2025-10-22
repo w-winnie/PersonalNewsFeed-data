@@ -1,0 +1,196 @@
+name: Daily Papers Summary
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # every day at 10:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Checkout gh-pages branch
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      # Python setup
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Install dependencies
+      - run: pip install requests pytz markdown
+
+      - name: Fetch summaries for Astro & AI
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          PROXY_KEY: ${{ secrets.PROXY_KEY }}
+        run: |
+          python - <<'PY'
+          import os, json, requests, datetime
+          from pytz import timezone
+          import markdown
+
+          PROXY_URL   = os.environ["PROXY_URL"].rstrip("/")
+          API_KEY     = os.environ["OPENAI_API_KEY"]
+          HF_TOKEN    = os.environ.get("HF_TOKEN","")
+          PROXY_KEY   = os.environ.get("PROXY_KEY","")
+
+          headers = {"Content-Type": "application/json"}
+          if HF_TOKEN:
+              headers["Authorization"] = f"Bearer {HF_TOKEN}"
+          if PROXY_KEY:
+              headers["x-proxy-key"] = PROXY_KEY
+
+          def fetch_and_save(subject, audience, tag):
+              payload = {
+                  "api_key": API_KEY,
+                  "subject_area": subject,
+                  "content_type": "papers",
+                  "audience": audience,
+                  "days_limit": 1,
+                  "top_entries": 10
+              }
+
+              print(f"Fetching {subject} summary for {audience} ...")
+              r = requests.post(f"{PROXY_URL}/api/summarize", json=payload, headers=headers, timeout=180)
+              print("Status:", r.status_code)
+              if r.status_code != 200:
+                  print(r.text)
+                  r.raise_for_status()
+              data = r.json()
+
+              os.makedirs("data", exist_ok=True)
+              now = datetime.datetime.now(timezone("UTC"))
+              ymd = now.strftime("%Y-%m-%d")
+
+              # Save JSON
+              with open(f"data/{tag}_papers_latest.json","w",encoding="utf-8") as f:
+                  json.dump(data, f, ensure_ascii=False, indent=2)
+              with open(f"data/{tag}_papers_{ymd}.json","w",encoding="utf-8") as f:
+                  json.dump(data, f, ensure_ascii=False, indent=2)
+
+              # --- Build Markdown summary ---
+              summary_md = f"""# {subject.capitalize()} Daily Summary
+
+              {data.get('bulk_summary','')}
+                          
+              ---
+                          
+              ## 📰 Sources
+              """
+
+              for e in data.get("entries", []):
+                  title = e.get('title','')
+                  link = e.get('link','#')
+                  published = e.get('published','')
+                  summary = e.get('summary','') 
+                  summary_md += f"<details><summary><strong><a href='{link}' target='_blank'>{title}</a></strong> — <em>{published}</em></summary>\n\n{summary}\n\n</details>\n\n"
+
+              # Save Markdown and convert to HTML
+              md_path = f"data/{tag}_papers_latest.md"
+              html_path = f"data/{tag}_papers_latest.html"
+
+              with open(md_path, "w", encoding="utf-8") as f:
+                  f.write(summary_md)
+
+              html_content = markdown.markdown(
+                  summary_md,
+                  extensions=['extra', 'sane_lists', 'tables']
+              )
+
+              # Minimal CSS for nice display + collapsibles
+              html_wrapped = f"""<!DOCTYPE html>
+              <html lang="en">
+              <head>
+              <meta charset="utf-8">
+              <title>{subject.capitalize()} Summary</title>
+              <style>
+              body {{
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                max-width: 850px;
+                margin: 2rem auto;
+                padding: 1rem;
+                background: #f8fafc;
+                color: #222;
+              }}
+              h1, h2, h3 {{
+                color: #004080;
+              }}
+              a {{ color: #007acc; }}
+              a:hover {{ text-decoration: underline; }}
+              small {{ color: #666; }}
+              details {{
+                background: #fff;
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                padding: 0.6em 1em;
+                margin: 0.6em 0;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+              }}
+              details[open] {{
+                  display: block;
+              }}
+              details:not([open]) summary::before {{
+                  content: "▶ ";
+              }}
+              details[open] summary::before {{
+                  content: "▼ ";
+              }}
+              summary {{
+                font-weight: bold;
+                cursor: pointer;
+                color: #004080;
+                outline: none;
+              }}
+              summary:hover {{
+                color: #007acc;
+              }}
+              </style>
+              </head>
+              <body>
+              {html_content}
+              <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}</p>
+              </body>
+              </html>"""
+
+              with open(html_path, "w", encoding="utf-8") as f:
+                  f.write(html_wrapped)
+
+          # Fetch both topics
+          fetch_and_save("astro", "astro_enthusiasts", "astro")
+          fetch_and_save("ai", "ai_enthusiasts", "ai")
+
+          # --- Build index.html linking both ---
+          index_html = """<!DOCTYPE html>
+          <html><head><meta charset="utf-8">
+          <title>Daily Science Feeds</title></head>
+          <body style="font-family:sans-serif;max-width:600px;margin:auto;padding:2rem;">
+          <h1>📚 Daily Science Papers Feeds</h1>
+          <ul>
+            <li><a href="data/ai_papers_latest.html">🧠 AI Papers Summary</a></li>
+            <li><a href="data/astro_papers_latest.html">🌌 Astro Papers Summary</a></li>
+          </ul>
+          <p><small>Updated daily via GitHub Actions.</small></p>
+          </body></html>
+          """
+          with open("index_papers.html","w",encoding="utf-8") as f:
+              f.write(index_html)
+          PY
+
+      # Commit and push changes to gh-pages
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          date > data/last_run.txt
+          git add data/*.json data/*.html data/*.md data/last_run.txt index.html
+          git commit -m "daily update $(date)" || echo "no changes"
+          git push origin gh-pages
