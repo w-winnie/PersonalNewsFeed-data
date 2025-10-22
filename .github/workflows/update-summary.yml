@@ -83,7 +83,7 @@ jobs:
                           
               ---
                           
-              ## 📰 Entries
+              ## 📰 Sources
               """
 
               for e in data.get("entries", []):
@@ -91,6 +91,7 @@ jobs:
                   link = e.get('link','#')
                   published = e.get('published','')
                   summary = e.get('summary','')
+                  # summary_md += f"<details><summary><strong><a href='{link}' target='_blank'>{title}</a></strong> — <em>{published}</em></summary>\n\n{summary}\n\n</details>\n\n"
                   summary_md += f"<details><summary><strong><a href='{link}' target='_blank'>{title}</a></strong> — <em>{published}</em></summary>\n\n{summary}\n\n</details>\n\n"
 
               # Save Markdown and convert to HTML
@@ -135,6 +136,16 @@ jobs:
                 margin: 0.6em 0;
                 box-shadow: 0 1px 2px rgba(0,0,0,0.05);
               }}
+              details[open] {{
+                  display: block;
+              }}
+              details:not([open]) summary::before {{
+                  content: "▶ ";
+              }}
+              details[open] summary::before {{
+                  content: "▼ ";
+              }}
+
               summary {{
                 font-weight: bold;
                 cursor: pointer;
