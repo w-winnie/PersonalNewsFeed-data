@@ -90,8 +90,7 @@ jobs:
                   title = e.get('title','')
                   link = e.get('link','#')
                   published = e.get('published','')
-                  summary = e.get('summary','')
-                  # summary_md += f"<details><summary><strong><a href='{link}' target='_blank'>{title}</a></strong> — <em>{published}</em></summary>\n\n{summary}\n\n</details>\n\n"
+                  summary = e.get('summary','') 
                   summary_md += f"<details><summary><strong><a href='{link}' target='_blank'>{title}</a></strong> — <em>{published}</em></summary>\n\n{summary}\n\n</details>\n\n"
 
               # Save Markdown and convert to HTML
@@ -145,7 +144,6 @@ jobs:
               details[open] summary::before {{
                   content: "▼ ";
               }}
-
               summary {{
                 font-weight: bold;
                 cursor: pointer;
