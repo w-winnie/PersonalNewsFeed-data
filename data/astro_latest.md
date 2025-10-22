@@ -2,46 +2,58 @@
 
     ### Major Themes in Recent Astrophysics News
 
-#### 1. Insights into Early Galaxy Formation
-Recent findings from the James Webb Space Telescope (JWST) have fundamentally altered our understanding of early galaxy formation, revealing a chaotic and tumultuous environment just a few hundred million years after the Big Bang. This challenges traditional models that depicted early galaxies as more orderly structures, suggesting that interactions among stars and gas were far more complex than previously thought. These insights have significant implications for our understanding of cosmic evolution and the conditions that fostered the formation of the first galaxies.
+**Galactic Dynamics and Structure**  
+Recent investigations into the Milky Way's structure, particularly through data from the ESA's Gaia telescope, have unveiled a massive wave affecting star positions and gas dynamics across a vast region. This phenomenon, which may be linked to past galactic collisions, raises questions about the evolutionary history of our galaxy. As Gaia continues to deliver data, researchers anticipate a deeper understanding of these galactic interactions and their implications for star formation and movement.
 
-Key Items:
-- JWST captures chaotic early galaxies just a few hundred million years post-Big Bang - https://phys.org/news/2025-10-messy-galaxies-early-universe-struggled.html - Highlights the disorganized nature of early galaxy formation.
-- New telescope opens window to southern sky - https://phys.org/news/2025-10-telescope-window-southern-sky.html - A powerful new telescope could enhance our understanding of cosmic evolution.
+Key Items:  
+1. "A giant wave is rippling through the Milky Way, and scientists don’t know why" - https://www.sciencedaily.com/releases/2025/10/251021083650.htm - Gaia telescope data indicates significant galactic dynamics affecting star positions.  
+2. "Messy' galaxies in the early universe struggled to settle, Webb reveals" - https://phys.org/news/2025-10-messy-galaxies-early-universe-struggled.html - JWST captures chaotic early galaxy formation, providing context for current galactic structures.
 
-#### 2. Cometary Encounters and Interstellar Studies
-The anticipated passage of comet 3I/ATLAS is set to provide a unique opportunity for NASA's Europa Clipper and Hera missions to study the comet's ion tail. This event is particularly significant as it may yield new data about the composition and behavior of interstellar objects, enhancing our understanding of their interactions with solar system bodies. Such studies are crucial for piecing together the history of our solar system and the materials that populate it.
+**Innovations in Space Exploration**  
+The pace of space exploration is accelerating, highlighted by SpaceX's record-setting 133rd Falcon 9 launch and China's advancements in reusable rocket technology with LandSpace. These developments reflect a growing global emphasis on sustainable and efficient space access, which could transform satellite deployment and interplanetary missions. The increasing frequency of launches indicates a robust commercial space sector poised for future growth.
 
-Key Items:
-- Comet 3I/ATLAS may shower NASA's Jupiter probe with charged particles - https://www.space.com/astronomy/comets/comet-3i-atlas-could-soon-shower-nasas-jupiter-probe-in-charged-particles-will-it-reveal-more-about-the-interstellar-invader - This encounter could yield insights into interstellar material.
-- Hera and Europa Clipper will pass through 3I/ATLAS' tail - https://phys.org/news/2025-10-hera-europa-clipper-3iatlas-tail.html - Dual spacecraft observation of an interstellar object.
+Key Items:  
+1. "Watch SpaceX launch its record-breaking 133rd Falcon 9 mission of the year today" - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-record-133rd-falcon-9-mission - SpaceX continues to lead in launch frequency and satellite deployment.  
+2. "China's 1st reusable rocket test fires engines ahead of debut flight (video)" - https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-fires-up-its-reusable-rocket-ahead-of-debut-flight-video - LandSpace's progress signifies a shift towards reusable launch systems in China.
 
-#### 3. Advances in Space Technology
-The space exploration sector is experiencing notable advancements, particularly in reusable rocket technology and satellite communications. China's LandSpace is preparing to launch its Zhuque-3 rocket, which aims to enhance launch capabilities significantly. Simultaneously, the European Space Agency (ESA) is developing new satellite technologies that promise improved connectivity, showcasing the growing intersection of space exploration and everyday applications.
+**Astrobiology and Planetary Science**  
+Exploration of celestial bodies like Titan and the Moon is yielding insights into prebiotic chemistry and the origins of water in the solar system. Titan's complex atmospheric chemistry has drawn parallels with early Earth conditions, while samples from the Moon's far side could reshape our understanding of water's history. These findings are critical for astrobiology, as they enhance our understanding of where life-sustaining conditions may exist beyond Earth.
 
-Key Items:
-- China's reusable Zhuque-3 rocket undergoes static-fire test - https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-fires-up-its-reusable-rocket-ahead-of-debut-flight-video - A significant step for China's reusable launch systems.
-- ESA-supported test leads to better in-flight connectivity - https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA-supported_test_leads_to_better_in-flight_connectivity - This innovation could revolutionize satellite communications.
+Key Items:  
+1. "Chemistry on Saturn's huge moon Titan is even weirder than we thought" - https://www.space.com/astronomy/saturn/chemistry-on-saturns-huge-moon-titan-is-even-weirder-than-we-thought - Titan's atmospheric studies enhance our understanding of prebiotic chemistry.  
+2. "Dust from far side of the moon could reveal more about origin of water in our solar system" - https://phys.org/news/2025-10-side-moon-reveal-solar.html - Chang'e-6 samples may reshape theories on water sources in the solar system.
 
 ### Conclusion
-The field of astrophysics is currently characterized by a dynamic interplay of observational advancements, innovative technologies, and collaborative international efforts. As researchers delve deeper into the complexities of early cosmic structures and enhance our exploration capabilities, the implications for our understanding of the universe become increasingly profound. The focus on interstellar studies and technological advancements reflects a broader trend toward a more interconnected and exploratory approach to astronomy and space science.
+The current astrophysics landscape is marked by significant strides in understanding galactic dynamics, rapid advancements in space exploration technologies, and profound insights into the origins of life in our solar system. As missions like Gaia and Webb continue to provide groundbreaking data, the field is on the cusp of transformative developments that could redefine our understanding of the universe and humanity's place within it.
 
 ### Top Sources:
-1. Messy galaxies in the early universe struggled to settle - https://phys.org/news/2025-10-messy-galaxies-early-universe-struggled.html - JWST reveals chaotic early galaxy formation.
-2. Comet 3I/ATLAS could soon shower NASA's Jupiter probe in charged particles - https://www.space.com/astronomy/comets/comet-3i-atlas-could-soon-shower-nasas-jupiter-probe-in-charged-particles-will-it-reveal-more-about-the-interstellar-invader - Anticipated encounter with interstellar material.
-3. China's 1st reusable rocket test fires engines ahead of debut flight - https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-fires-up-its-reusable-rocket-ahead-of-debut-flight-video - LandSpace prepares for new launch capabilities.
-4. New telescope opens window to southern sky - https://phys.org/news/2025-10-telescope-window-southern-sky.html - A new telescope enhances cosmic understanding.
-5. Hera and Europa Clipper will pass through 3I/ATLAS' tail - https://phys.org/news/2025-10-hera-europa-clipper-3iatlas-tail.html - Dual spacecraft observation of an interstellar object.
-6. ESA-supported test leads to better in-flight connectivity - https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA-supported_test_leads_to_better_in-flight_connectivity - Advancements in satellite communications technology.
-7. Dust from far side of the moon could reveal more about origin of water in our solar system - https://phys.org/news/2025-10-side-moon-reveal-solar.html - Lunar dust analysis may change water origin theories.
-8. TESS detects two new Jupiter-sized exoplanets orbiting dwarf stars - https://phys.org/news/2025-10-tess-jupiter-sized-exoplanets-orbiting.html - New exoplanet discoveries expand our knowledge of planetary systems.
-9. How a trick from radio astronomy could help astronomers find Earth-like planets - https://phys.org/news/2025-10-radio-astronomy-astronomers-earth-planets.html - Innovative techniques in exoplanet detection.
-10. Chemistry on Saturn's huge moon Titan is even weirder than we thought - https://www.space.com/astronomy/saturn/chemistry-on-saturns-huge-moon-titan-is-even-weirder-than-we-thought - Titan's complex chemistry offers insights into prebiotic conditions.
+1. A giant wave is rippling through the Milky Way, and scientists don’t know why - https://www.sciencedaily.com/releases/2025/10/251021083650.htm - Gaia telescope data indicates significant galactic dynamics affecting star positions.  
+2. Watch SpaceX launch its record-breaking 133rd Falcon 9 mission of the year today - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-record-133rd-falcon-9-mission - SpaceX continues to lead in launch frequency and satellite deployment.  
+3. How spacefaring nations could avoid conflict on the moon - https://phys.org/news/2025-10-spacefaring-nations-conflict-moon.html - Discussion on potential frameworks for peaceful lunar exploration.  
+4. 'Messy' galaxies in the early universe struggled to settle, Webb reveals - https://phys.org/news/2025-10-messy-galaxies-early-universe-struggled.html - JWST captures chaotic early galaxy formation.  
+5. China's 1st reusable rocket test fires engines ahead of debut flight (video) - https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-fires-up-its-reusable-rocket-ahead-of-debut-flight-video - LandSpace's progress signifies a shift towards reusable launch systems in China.  
+6. Comet 3I/ATLAS could soon shower NASA's Jupiter probe in charged particles - https://www.space.com/astronomy/comets/comet-3i-atlas-could-soon-shower-nasas-jupiter-probe-in-charged-particles-will-it-reveal-more-about-the-interstellar-invader - Upcoming flyby may provide new data on interstellar objects.  
+7. Chemistry on Saturn's huge moon Titan is even weirder than we thought - https://www.space.com/astronomy/saturn/chemistry-on-saturns-huge-moon-titan-is-even-weirder-than-we-thought - Titan's atmospheric studies enhance our understanding of prebiotic chemistry.  
+8. Dust from far side of the moon could reveal more about origin of water in our solar system - https://phys.org/news/2025-10-side-moon-reveal-solar.html - Chang'e-6 samples may reshape theories on water sources in the solar system.  
+9. TESS detects two new Jupiter-sized exoplanets orbiting dwarf stars - https://phys.org/news/2025-10-tess-jupiter-sized-exoplanets-orbiting.html - New exoplanet discoveries expand our knowledge of planetary systems.  
+10. NASA stacks Artemis 2 moon mission's Orion capsule atop SLS rocket ahead of 2026 launch - https://www.space.com/space-exploration/artemis/nasa-stacks-artemis-2-moon-missions-orion-capsule-atop-sls-rocket-ahead-of-2026-launch - Artemis 2 preparations signal a significant step in lunar exploration.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2025-10-spacefaring-nations-conflict-moon.html' target='_blank'>How spacefaring nations could avoid conflict on the moon</a></strong> — <em>2025-10-22 01:20:05</em></summary>
+    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/10/251021083650.htm' target='_blank'>A giant wave is rippling through the Milky Way, and scientists don’t know why</a></strong> — <em>2025-10-22 06:29:01</em></summary>
+
+Our Milky Way is far from calm — it ripples with a colossal wave spanning tens of thousands of light-years, revealed by ESA’s Gaia telescope. This wave, moving through the galaxy’s disc like ripples in water, shifts stars up and down in a mesmerizing pattern. Astronomers, studying young giant and Cepheid stars, think even the galactic gas joins the motion. The origin remains mysterious, possibly from an ancient collision, but upcoming Gaia data could soon unveil the secrets of our galaxy’s undulating heart.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-record-133rd-falcon-9-mission' target='_blank'>Watch SpaceX launch its record-breaking 133rd Falcon 9 mission of the year today</a></strong> — <em>2025-10-22 04:01:00</em></summary>
+
+SpaceX will launch its record-breaking 133rd Falcon 9 mission of 2025 today (Oct. 22), and you can watch the action live.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-spacefaring-nations-conflict-moon.html' target='_blank'>How spacefaring nations could avoid conflict on the moon</a></strong> — <em>2025-10-22 01:20:05</em></summary>
 
 In the 1960s, Frank Sinatra's song "Fly Me to the Moon" became closely associated with the Apollo missions. The optimistic track was recorded in 1964, when US success against the Soviet Union in the moon race was not assured.
 
@@ -186,12 +198,6 @@ Are you ready to take your first step into the space sector? The countdown has b
 
 
 The new Copernicus Sentinel-4 mission has delivered its first images, highlighting concentrations of atmospheric nitrogen dioxide, sulphur dioxide and ozone. Despite being preliminary, these images mark a major milestone in Europe’s ability to monitor air quality all the way from geostationary orbit, 36 000 kilometres above Earth.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-space-exploration-backyard-nasa-simulates.html' target='_blank'>Space exploration in the backyard, on a budget: How NASA simulates conditions in space without blasting off</a></strong> — <em>2025-10-21 07:00:01</em></summary>
-
-Humanity's drive to explore has taken us across the solar system, with astronaut boots, various landers and rovers' wheels exploring the surfaces of several different planetary bodies. These environments are generally hostile to human and equipment health, so designing and executing these missions requires a lot of planning, testing and technological development.
 
 </details>
 
