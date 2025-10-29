@@ -1,221 +1,270 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Innovations in Rocket Launch Systems
-The field of rocket technology is witnessing notable advancements, particularly in reusable systems. China's LandSpace achieved a significant milestone with its Zhuque-3 rocket, successfully hovering for over 200 seconds during a recent test. This achievement aligns with the ongoing developments in reusable rockets, such as SpaceX's latest Starlink satellite launch, which further enhances its operational capabilities. These innovations not only reduce costs but also increase the frequency of launches, contributing to a more robust space infrastructure.
-
-Key Items:
-1. China's Zhuque-3 achieves a 200-second hover during a VTVL test - https://phys.org/news/2025-10-china-zhuque-reusable-rocket-key.html.
-2. SpaceX launches 28 Starlink satellites, marking another successful mission - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-11-21-ocisly.
-
-#### Breakthroughs in Exoplanet Discoveries
-Recent exoplanet research has yielded exciting findings, including the discovery of three Earth-size candidates orbiting binary stars, reminiscent of Tatooine from "Star Wars." This discovery challenges existing theories on planetary formation in multi-star systems and suggests new possibilities for habitability. Additionally, a nearby super-Earth candidate has been identified, presenting opportunities for future direct imaging and study, which could deepen our understanding of planetary atmospheres and potential life.
+#### Advancements in Dark Matter Detection
+Recent breakthroughs in dark matter detection have emerged, particularly with the development of a new quantum network by researchers at Tohoku University. This network significantly enhances the sensitivity of quantum sensors, allowing them to detect faint signals potentially linked to dark matter, even in noisy environments. Such advancements not only hold promise for astrophysical research but could also influence technologies in fields like radar and medical imaging.
 
 Key Items:
-1. Discovery of three Earth-size exoplanets around binary stars - https://www.space.com/astronomy/exoplanets/scientists-discover-3-earth-size-exoplanets-that-may-have-double-sunsets-like-tatooine-in-star-wars.
-2. Identification of a super-Earth candidate nearby, enhancing prospects for future imaging - https://skyandtelescope.org/astronomy-news/a-super-earth-candidate-less-than-20-light-years-away/.
+1. New quantum network could finally reveal dark matter - https://www.sciencedaily.com/releases/2025/10/251029002923.htm - Researchers have enhanced quantum sensors to detect dark matter signals.
+2. Gravitational Wave Detectors Spot Merging Black Holes That Have Merged Before - https://skyandtelescope.org/astronomy-news/gravitational-wave-detectors-spot-merging-black-holes-that-have-merged-before/ - Evidence supports repeat black hole mergers, suggesting complex dynamics in their evolution.
 
-#### Advances in Cosmic Observation Techniques
-The X-ray Imaging and Spectroscopy Mission (XRISM) has made significant contributions to our understanding of cosmic phenomena, including unexpected results from pulsar winds. The MeerKAT telescope has also expanded the catalog of radio transient pulsars by detecting 30 new examples, enhancing our knowledge of these mysterious objects. Furthermore, new analyses of the Tycho supernova have revealed complex origins, suggesting that supernovae may have more intricate histories than previously thought.
+#### Insights into Cosmic Formation
+NASA's James Webb Space Telescope (JWST) has made significant strides in our understanding of cosmic formation, particularly through its observations of a carbon-rich disk surrounding the exoplanet CT Cha b, located 625 light-years away. This disk is believed to function as a "moon factory," crucial for studying the processes of moon and planet formation in emerging solar systems.
 
 Key Items:
-1. XRISM catches unexpected results from pulsar winds - https://phys.org/news/2025-10-xrism-pulsar-cosmic-result.html.
-2. MeerKAT identifies 30 new radio transient pulsars - https://phys.org/news/2025-10-meerkat-radio-transient-pulsars.html.
-3. New analysis of Tycho supernova suggests a complex origin - https://phys.org/news/2025-10-tycho-supernova-hidden-secret.html.
+1. James Webb spots a cosmic moon factory 625 light-years away - https://www.sciencedaily.com/releases/2025/10/251027224915.htm - Observations reveal a disk around a young star, indicating moon formation.
+2. JWST observations discover large debris disk around nearby M dwarf - https://phys.org/news/2025-10-jwst-large-debris-disk-nearby.html - Discovery of a debris disk enhances understanding of star systems.
+
+#### Understanding Extreme States of Matter
+Research at Rice University has successfully measured the temperature profile of quark-gluon plasma, a state of matter believed to have existed shortly after the Big Bang. By analyzing emissions from atomic collisions, researchers have confirmed theoretical predictions and refined the QCD phase diagram, deepening our understanding of the universe's early moments.
+
+Key Items:
+1. Physicists capture trillion degree heat from the Big Bang’s primordial plasma - https://www.sciencedaily.com/releases/2025/10/251029002907.htm - Study refines our understanding of quark-gluon plasma.
+2. Gravitational wave events hint at 'second-generation' black holes - https://phys.org/news/2025-10-gravitational-events-hint-generation-black.html - New findings in gravitational waves add to black hole evolution insights.
 
 ### Conclusion
-The current landscape of astrophysics is marked by rapid technological advancements and groundbreaking discoveries. The progress in reusable rocket technology is reshaping space exploration, while the ongoing investigation into exoplanets and cosmic phenomena is enriching our understanding of the universe's complexity. As researchers continue to leverage innovative observational techniques and refine theoretical models, the potential for transformative insights into planetary systems and cosmic events is expanding, signaling an exciting era for the field.
+The current landscape of astrophysics is characterized by significant advancements in dark matter detection, insights into cosmic formation, and a deeper understanding of extreme states of matter. These developments not only enhance our comprehension of fundamental astrophysical processes but also pave the way for new methodologies that could reshape various scientific fields. As researchers continue to explore these areas, the integration of observational data with theoretical frameworks remains essential for unraveling the universe's complexities.
 
 ### Top Sources:
-1. China's Zhuque-3 reusable rocket passes key milestone - https://phys.org/news/2025-10-china-zhuque-reusable-rocket-key.html - LandSpace achieves a significant hover milestone with its Zhuque-3 rocket.
-2. SpaceX launches 28 Starlink satellites from California, lands rocket at sea - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-11-21-ocisly - Another successful launch adds to SpaceX's operational capabilities.
-3. XRISM catches a pulsar's cosmic wind—and sees a surprising result - https://phys.org/news/2025-10-xrism-pulsar-cosmic-result.html - New insights from the XRISM observatory on pulsar dynamics.
-4. Scientists discover 3 Earth-size exoplanets that may have double sunsets — like Tatooine in Star Wars - https://www.space.com/astronomy/exoplanets/scientists-discover-3-earth-size-exoplanets-that-may-have-double-sunsets-like-tatooine-in-star-wars - Exoplanet discovery challenges existing planetary formation theories.
-5. A Super-Earth Candidate Less Than 20 Light-Years Away - https://skyandtelescope.org/astronomy-news/a-super-earth-candidate-less-than-20-light-years-away/ - New potential for direct imaging of a super-Earth.
-6. The Tycho supernova's hidden secret - https://phys.org/news/2025-10-tycho-supernova-hidden-secret.html - New analysis reveals complexities in the origin of Tycho's supernova.
-7. MeerKAT detects 30 new radio transient pulsars - https://phys.org/news/2025-10-meerkat-radio-transient-pulsars.html - Expanding the catalog of radio transient pulsars.
-8. AI learns to identify exploding stars with just 15 examples - https://phys.org/news/2025-10-ai-stars-examples.html - AI technology aids in the identification of celestial events.
-9. Tiny galaxy, big find: Black hole discovered in nearby Segue 1 - https://phys.org/news/2025-10-tiny-galaxy-big-black-hole.html - Discovery of a black hole in a dwarf galaxy challenges existing dark matter theories.
-10. Astronomical data collection of Taurus Molecular Cloud-1 reveals over 100 different molecules - https://news.mit.edu/2025/astronomical-data-collection-reveals-over-100-different-molecules-1027 - A significant chemical inventory that aids star and planet formation studies.
+1. New quantum network could finally reveal dark matter - https://www.sciencedaily.com/releases/2025/10/251029002923.htm - Researchers have enhanced quantum sensors to detect dark matter signals.
+2. Physicists capture trillion degree heat from the Big Bang’s primordial plasma - https://www.sciencedaily.com/releases/2025/10/251029002907.htm - Study refines our understanding of quark-gluon plasma.
+3. James Webb spots a cosmic moon factory 625 light-years away - https://www.sciencedaily.com/releases/2025/10/251027224915.htm - Observations reveal a disk around a young star, indicating moon formation.
+4. Gravitational Wave Detectors Spot Merging Black Holes That Have Merged Before - https://skyandtelescope.org/astronomy-news/gravitational-wave-detectors-spot-merging-black-holes-that-have-merged-before/ - Evidence supports repeat black hole mergers.
+5. JWST observations discover large debris disk around nearby M dwarf - https://phys.org/news/2025-10-jwst-large-debris-disk-nearby.html - Discovery of a debris disk enhances understanding of star systems.
+6. Gravitational wave events hint at 'second-generation' black holes - https://phys.org/news/2025-10-gravitational-events-hint-generation-black.html - New findings in gravitational waves add to black hole evolution insights.
+7. Astronomers discover end-dominated collapse and hub-filament system in G53 star-forming region - https://phys.org/news/2025-10-astronomers-dominated-collapse-hub-filament.html - Study reveals processes driving star formation.
+8. Now in 3D, maps begin to bring exoplanets into focus - https://phys.org/news/2025-10-3d-exoplanets-focus.html - First 3D map of an exoplanet's atmosphere reveals temperature zones.
+9. Scientists hear 2 newborn black holes 'crying' through ripples in spacetime - https://www.space.com/astronomy/black-holes/scientists-hear-2-newborn-black-holes-crying-through-ripples-in-spacetime-and-one-had-a-birth-unlike-anything-seen-before - Detection of unique properties in newborn black holes.
+10. Young sun-like star's dual-temperature plasma ejections offer clues to early planetary environments - https://phys.org/news/2025-10-young-sun-star-dual-temperature.html - Findings provide insights into the formative conditions of planetary systems.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2025-10-china-zhuque-reusable-rocket-key.html' target='_blank'>China's Zhuque-3 reusable rocket passes key milestone</a></strong> — <em>2025-10-28 05:30:01</em></summary>
+    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/10/251029002923.htm' target='_blank'>New quantum network could finally reveal dark matter</a></strong> — <em>2025-10-29 06:12:27</em></summary>
 
-The Chinese company LandSpace continues to develop the Zhuque-3 (ZQ-3), a two-stage reusable launch vehicle inspired by SpaceX's Starship and Super Heavy. They achieved their first milestone in January 2024 with a vertical takeoff and vertical landing (VTVL) using their VTVL-1 test vehicle at the Jiuquan Satellite Launch Center (JSLC) in northern China. By September, the company conducted a second VTVL test where the prototype hovered for over 200 seconds (the previous test lasting 60 seconds), followed by a static fire test with a prototype booster by June.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-11-21-ocisly' target='_blank'>SpaceX launches 28 Starlink satellites from California, lands rocket at sea</a></strong> — <em>2025-10-28 01:31:33</em></summary>
-
-SpaceX launched yet another batch of its Starlink satellites today (Oct. 27), sending 28 of them up from California's central coast.
+Tohoku University researchers have found a way to make quantum sensors more sensitive by connecting superconducting qubits in optimized network patterns. These networks amplify faint signals possibly left by dark matter. The approach outperformed traditional methods even under realistic noise. Beyond physics, it could revolutionize radar, MRI, and navigation technologies.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-10-xrism-pulsar-cosmic-result.html' target='_blank'>XRISM catches a pulsar's cosmic wind—and sees a surprising result</a></strong> — <em>2025-10-28 01:00:01</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/10/251029002907.htm' target='_blank'>Physicists capture trillion degree heat from the Big Bang’s primordial plasma</a></strong> — <em>2025-10-29 05:47:27</em></summary>
 
-The universe is a strange place. The X-ray Imaging and Spectroscopy Mission (XRISM) orbiting observatory recently highlighted this fact, when it was turned on a pulsar to document its powerful cosmic winds.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2025/astronomical-data-collection-reveals-over-100-different-molecules-1027' target='_blank'>Astronomical data collection of Taurus Molecular Cloud-1 reveals over 100 different molecules</a></strong> — <em>2025-10-27 21:00:00</em></summary>
-
-The discovery will help researchers understand how chemicals form and change before stars and planets are born.
+Rice University researchers have captured the temperature profile of quark-gluon plasma, the ultra-hot state of matter from the dawn of the universe. By analyzing rare electron-positron emissions from atomic collisions, they determined precise temperatures at different phases of the plasma’s evolution. The results not only confirm theoretical predictions but also refine the “QCD phase diagram,” which maps matter’s behavior under extreme conditions.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2025/astronomical-data-collection-reveals-over-100-different-molecules-1027' target='_blank'>Astronomical data collection of Taurus Molecular Cloud-1 reveals over 100 different molecules</a></strong> — <em>2025-10-27 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/10/251027224915.htm' target='_blank'>James Webb spots a cosmic moon factory 625 light-years away</a></strong> — <em>2025-10-29 04:43:01</em></summary>
 
-The discovery will help researchers understand how chemicals form and change before stars and planets are born.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/scientists-discover-3-earth-size-exoplanets-that-may-have-double-sunsets-like-tatooine-in-star-wars' target='_blank'>Scientists discover 3 Earth-size exoplanets that may have double sunsets — like Tatooine in Star Wars</a></strong> — <em>2025-10-27 20:00:00</em></summary>
-
-Using NASA's TESS exoplanet hunter, astronomers have discovered a strange arrangement of exoplanets around tight binary stars that shouldn't be.
+NASA’s James Webb Space Telescope has captured the first detailed look at a carbon-rich disk surrounding the exoplanet CT Cha b, located about 625 light-years from Earth. The observations reveal a possible “moon factory,” where dust and gas could be coalescing into new moons. The planet orbits a young star only 2 million years old, and the disk’s composition offers rare insight into how moons and planets form in the early stages of a solar system’s life.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-the-latest-bbc-space-documentary-series' target='_blank'>'Once Upon a Time in Space': How to watch the latest BBC space documentary series from anywhere in the world</a></strong> — <em>2025-10-27 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/spacewalking-russian-cosmonauts-install-experiments-on-the-international-space-station' target='_blank'>Spacewalking Russian cosmonauts install experiments on the International Space Station</a></strong> — <em>2025-10-28 23:00:00</em></summary>
 
-Follow the space program since the moon landing in the four-part documentary "Once Upon a Time in Space". Here’s how to watch it anywhere on the planet.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/a-super-earth-candidate-less-than-20-light-years-away/' target='_blank'>A Super-Earth Candidate Less Than 20 Light-Years Away</a></strong> — <em>2025-10-27 18:53:15</em></summary>
-
-Astronomers have discovered a ready-to-image super-Earth candidate less than 20 light-years away.
-The post A Super-Earth Candidate Less Than 20 Light-Years Away appeared first on Sky & Telescope.
+Russian cosmonauts Sergey Ryzhikov and Alexey Zubritsky completed a 6 hour and 54 minute spacewalk outside the International Space Station on Tuesday, Oct. 28, 2025.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-10-mysterious-transient-sky-linked-nuclear.html' target='_blank'>Mysterious transient objects in sky linked to nuclear testing and unidentified anomalous phenomena</a></strong> — <em>2025-10-27 18:43:47</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/spacex-falcon-heavy-launch-of-private-griffin-moon-lander-now-targeting-mid-2026' target='_blank'>SpaceX Falcon Heavy launch of private Griffin moon lander delayed to 2026</a></strong> — <em>2025-10-28 22:04:45</em></summary>
 
-A new study analyzing historical photographs taken by the Palomar Observatory between 1949 and 1957 has detected several mysterious bright spots in the sky. These transient objects, captured on film before the first satellites were ever launched, appear to have occurred on dates that strongly correlated with nuclear weapons tests.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-global-worsens-space-communications.html' target='_blank'>As global warming worsens, so may space communications</a></strong> — <em>2025-10-27 18:32:03</em></summary>
-
-Researchers at Kyushu University have found that rising CO2 levels in our atmosphere could lead to future disruptions in shortwave radio communications, including systems used for air traffic control, maritime communication, and radio broadcasting.
+The mission had previously targeted a launch at the end of 2025.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-14-us-states-oct-27-29-2025' target='_blank'>Northern lights may be visible in 14 US states tonight</a></strong> — <em>2025-10-27 17:41:14</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-10-expansive-view-milky-reveals-galaxy.html' target='_blank'>A new, expansive view of the Milky Way reveals our galaxy in unprecedented radio color</a></strong> — <em>2025-10-28 22:00:02</em></summary>
 
-Auroras may be visible from Alaska to New York as geomagnetic storm conditions are predicted for tonight.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-tiny-galaxy-big-black-hole.html' target='_blank'>Tiny galaxy, big find: Black hole discovered in nearby Segue 1</a></strong> — <em>2025-10-27 17:28:03</em></summary>
-
-Small and unassuming, Segue 1 is a nearby dwarf galaxy containing only a handful of stars—too few to provide the gravity needed to keep itself from scattering into space. Like other dwarf galaxies, it was long believed that gravity from a mysterious substance called dark matter was the main binding force.
+Astronomers from the International Centre of Radio Astronomy Research (ICRAR) have created the largest low-frequency radio color image of the Milky Way ever assembled. This spectacular new image captures the Southern Hemisphere view of our Milky Way galaxy, revealing it across a wide range of radio wavelengths, the colors of radio light.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-could-help-protect-earth-from-dangerous-asteroids-heres-how' target='_blank'>Interstellar comet 3I/ATLAS could help protect Earth from dangerous asteroids. Here's how</a></strong> — <em>2025-10-27 17:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/gravitational-wave-detectors-spot-merging-black-holes-that-have-merged-before/' target='_blank'>Gravitational Wave Detectors Spot Merging Black Holes That Have Merged Before</a></strong> — <em>2025-10-28 20:04:07</em></summary>
 
-While interstellar comet 3I/ATLAS will not come near our planet, future ones may. A new campaign seeks to improve orbit predictions.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-dwarf-galaxies-scales-favor-dark.html' target='_blank'>Dwarf galaxies tip the scales in favor of dark matter over modified gravity</a></strong> — <em>2025-10-27 16:48:16</em></summary>
-
-An international team of researchers led by the Leibniz Institute for Astrophysics Potsdam (AIP) has shed light on a decades-long debate about why galaxies spin faster than expected—and whether this behavior is caused by invisible dark matter or by a collapse of gravity on cosmic scales.
+Two recent discoveries of black hole mergers add to the evidence that such mergers happen over and over again.
+The post Gravitational Wave Detectors Spot Merging Black Holes That Have Merged Before appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/glowing-meteor-trail-photobombs-comet-lemmon-in-incredible-telescope-footage-a-pure-perspective-miracle' target='_blank'>Glowing meteor trail photobombs Comet Lemmon in incredible telescope footage. 'A pure perspective miracle'</a></strong> — <em>2025-10-27 16:22:44</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/sun/nasa-spots-a-spooky-face-glowing-on-the-sun-just-in-time-for-halloween-photo' target='_blank'>NASA spots a spooky face glowing on the sun just in time for Halloween (photo)</a></strong> — <em>2025-10-28 19:00:00</em></summary>
 
-A meteor photobombed the patch of sky containing Comet Lemmon on Oct. 24, wrapping it in a glowing trail.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-spacex-space-coast-89th-mission.html' target='_blank'>SpaceX launches Space Coast's 89th mission of the year</a></strong> — <em>2025-10-27 15:39:31</em></summary>
-
-The Space Coast hosted its 89th orbital launch of the year with another SpaceX Starlink mission on Sunday morning (Oct. 26).
+A haunting grin appeared on the sun as bright active regions and dark coronal holes combined to create a jack-o'-lantern face just in time for Halloween.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/10/Sentinel-1D_encapsulated_inside_Ariane_6_fairing' target='_blank'>Sentinel-1D encapsulated inside Ariane 6 fairing</a></strong> — <em>2025-10-27 15:12:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos' target='_blank'>NASA's X-59 'quiet' supersonic jet makes historic 1st flight (photos)</a></strong> — <em>2025-10-28 18:56:39</em></summary>
+
+NASA's X-59 "quiet" supersonic jet took off on its first-ever flight on Oct. 28, flying from Palmdale, California to its new home at Edwards Air Force Base.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/al-nagler-1935-2025/' target='_blank'>Al Nagler (1935–2025)</a></strong> — <em>2025-10-28 18:01:41</em></summary>
+
+Albert H. Nagler, a pioneer of telescope optics, passed away at the office of his company Tele Vue Optics on Monday, October 27th. He was 90 years old.
+The post Al Nagler (1935–2025) appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/12-year-old-discovers-2-possible-new-asteroids' target='_blank'>12-year-old discovers 2 possible new asteroids</a></strong> — <em>2025-10-28 18:00:00</em></summary>
+
+Siddharth Patel has been watching the sky since the age of five. Fresh off two possible asteroid discoveries, he's taking a big step toward his astronaut dream.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-red-spider-nebula-caught-webb.html' target='_blank'>The Red Spider Nebula, caught by Webb</a></strong> — <em>2025-10-28 17:11:02</em></summary>
+
+This new NASA/ESA/CSA James Webb Space Telescope Picture of the Month features a cosmic creepy-crawly called NGC 6537—the Red Spider Nebula. Using its Near-InfraRed Camera (NIRCam), Webb has revealed never-before-seen details in this picturesque planetary nebula with a rich backdrop of thousands of stars.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/how-ai-and-sand-dunes-on-mars-can-reveal-the-planets-history-one-grain-at-a-time' target='_blank'>How AI and sand dunes on Mars can reveal the planet's history, one grain at a time</a></strong> — <em>2025-10-28 17:00:00</em></summary>
+
+An innovative technique for measuring the force acting on individual grains of sand could help scientists uncover how winds have shaped the surface of Mars.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/scientists-hear-2-newborn-black-holes-crying-through-ripples-in-spacetime-and-one-had-a-birth-unlike-anything-seen-before' target='_blank'>Scientists hear 2 newborn black holes 'crying' through ripples in spacetime — and one had a birth unlike anything seen before</a></strong> — <em>2025-10-28 16:35:42</em></summary>
+
+Gravitational wave detectors on Earth have heard the "cry" of two newborn black holes with some unusual and remarkable properties.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-solar-storms-history-environmental-historian.html' target='_blank'>Solar storms have influenced our history. An environmental historian explains how they could also threaten our future</a></strong> — <em>2025-10-28 16:19:05</em></summary>
+
+In May 2024, part of the sun exploded.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/1st-samples-ever-collected-from-the-moons-far-side-could-help-reveal-where-earth-got-its-water' target='_blank'>1st samples ever collected from the moon's far side could help reveal where Earth got its water</a></strong> — <em>2025-10-28 16:00:00</em></summary>
+
+Fragments of CI chondrite meteorites, which are space rocks that are typically rich in water, have turned up in the sample collected from the moon's South Pole-Aitken basin by China's Chang'e 6 mission.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/Corporate_news/Europe_turns_to_space_to_boost_resilience' target='_blank'>Europe turns to space to boost resilience</a></strong> — <em>2025-10-28 15:25:00</em></summary>
+
+
+The role of space for security was presented at a high-level event in Brussels on Tuesday.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-young-sun-star-dual-temperature.html' target='_blank'>Young sun-like star's dual-temperature plasma ejections offer clues to early planetary environments</a></strong> — <em>2025-10-28 15:15:03</em></summary>
+
+Astronomers have used simultaneous ground-based and space-based observations to measure the temperature and velocity of gas ejected from a young sun-like star. The result showed a two-component ejection consisting of a hot fast component followed by a slower, cooler component. This result is important for understanding how young stars affect their surrounding environment where planets and life may first be forming, and by extension provides insights into the early days of the solar system, Earth, and life on Earth.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-gravitational-events-hint-generation-black.html' target='_blank'>Gravitational wave events hint at 'second-generation' black holes</a></strong> — <em>2025-10-28 15:00:10</em></summary>
+
+In a paper published in The Astrophysical Journal Letters, the international LIGO-Virgo-KAGRA Collaboration reports on the detection of two gravitational wave events in October and November of 2024 with unusual black hole spins. This observation adds an important new piece to our understanding of the most elusive phenomena in the universe.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-astronomers-dominated-collapse-hub-filament.html' target='_blank'>Astronomers discover end-dominated collapse and hub-filament system in G53 star-forming region</a></strong> — <em>2025-10-28 14:51:03</em></summary>
+
+Meng Dezhao, a Ph.D. student from the Xinjiang Astronomical Observatory of the Chinese Academy of Sciences, together with his collaborators, has conducted a systematic study of the filamentary structure within the G53 molecular cloud. By combining multi-wavelength observations and simulations, they revealed for the first time that the filament is undergoing an "end-dominated collapse" (EDC), a process that is driving star formation. The paper is published in Astronomy & Astrophysics.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/satellites-watch-category-5-hurricane-melissa-ahead-of-potentially-record-breaking-landfall-in-jamaica' target='_blank'>Satellites watch Category 5 Hurricane Melissa ahead of record-breaking landfall in Jamaica</a></strong> — <em>2025-10-28 14:17:00</em></summary>
+
+Hurricane Melissa made a record-breaking landfall in Jamaica, and satellites are monitoring the situation.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-cosmic-microwave-background-wall.html' target='_blank'>The cosmic microwave background is a wall of light—here's how we might see beyond it</a></strong> — <em>2025-10-28 14:00:04</em></summary>
+
+So much happened in the earliest moments of the universe. Elementary particles appeared, the first nuclei of hydrogen and helium, and fluctuations of energy and matter set into motion the formation of galaxies and supermassive black holes. But all of it is invisible to us.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/the-search-for-life-a-space-science-quiz' target='_blank'>The search for life: A space science quiz</a></strong> — <em>2025-10-28 14:00:00</em></summary>
+
+This quiz dives into the historic and scientific journey behind the search for life in the universe—testing your knowledge of the thinkers, missions, and discoveries that shaped our cosmic curiosity.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-spectral-biosignatures-airborne-microbes-planetary.html' target='_blank'>Spectral biosignatures of airborne microbes in planetary atmospheres</a></strong> — <em>2025-10-28 13:50:01</em></summary>
+
+Could scientists find life in the clouds of exoplanet atmospheres? This is what a manuscripton the arXiv preprint server hopes to address as a team of researchers investigate how the biosignatures of microbes could be identified in exoplanet atmospheres and clouds.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-10-jwst-large-debris-disk-nearby.html' target='_blank'>JWST observations discover large debris disk around nearby M dwarf</a></strong> — <em>2025-10-28 13:00:03</em></summary>
+
+An international team of astronomers have employed the James Webb Space Telescope (JWST) to observe a nearby M-dwarf star known as TWA 20. As a result, they detected a large debris disk around this star. The finding was reported in a paper published October 23 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/10/The_Red_Spider_Nebula_caught_by_Webb' target='_blank'>The Red Spider Nebula, caught by Webb</a></strong> — <em>2025-10-28 13:00:00</em></summary>
 
 
 	Image:
-			Sentinel-1D encapsulated inside Ariane 6 fairing
+			The Red Spider Nebula (Webb)
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-10-tycho-supernova-hidden-secret.html' target='_blank'>The Tycho supernova's hidden secret</a></strong> — <em>2025-10-27 15:09:03</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/10/The_Red_Spider_Nebula_caught_by_Webb' target='_blank'>The Red Spider Nebula, caught by Webb</a></strong> — <em>2025-10-28 13:00:00</em></summary>
 
-In November 1572, a brilliant new star appeared in the constellation Cassiopeia, shining so brightly that it was visible during the day. Danish astronomer Tycho Brahe carefully documented this celestial phenomenon, and the supernova remnant that bears his name has been studied intensively ever since. Now, a new analysis of recent observations suggests that Tycho's supernova had a more dramatic origin story than previously thought: it exploded not in empty space, but inside the ghostly remains of a planetary nebula.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-ai-stars-examples.html' target='_blank'>AI learns to identify exploding stars with just 15 examples</a></strong> — <em>2025-10-27 15:03:03</em></summary>
-
-How can artificial intelligence (AI) help astronomers identify celestial objects in the night sky? This is what a recent study published in Nature Astronomy hopes to address as an international team of researchers investigated the potential for using AI to conduct astrophysical surveys of celestial events, including black holes consuming stars or even exploding stars themselves. This study has the potential to help astronomers use AI to enhance the field by reducing time and resources that have traditionally been used to scan the night sky.
+	Image:
+			The Red Spider Nebula (Webb)
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/spacex-settles-usd15-million-trespassing-lawsuit-with-cards-against-humanity' target='_blank'>SpaceX settles $15 million trespassing lawsuit with Cards Against Humanity</a></strong> — <em>2025-10-27 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/1st-cosmic-view-from-4most-looks-pure-sci-fi-space-photo-of-the-day-for-oct-28-2025' target='_blank'>1st cosmic view from 4MOST looks pure sci-fi | Space photo of the day for Oct. 28, 2025</a></strong> — <em>2025-10-28 13:00:00</em></summary>
 
-Elon Musk's rocket company is clearing out its "gravel, tractors and space junk" from a once-pristine plot of South Texas land.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-nasa-space-rocket-moon-bound.html' target='_blank'>NASA's Space Launch System rocket for moon-bound Artemis II mission fully stacked at Kennedy Space Center</a></strong> — <em>2025-10-27 14:57:35</em></summary>
-
-Despite the ongoing government shutdown, NASA did manage to complete a major milestone in its effort to send astronauts back to the moon.
+The 4MOST instrument on the European Southern Observatory's VISTA telescope has captured its first light.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-10-meerkat-radio-transient-pulsars.html' target='_blank'>MeerKAT detects 30 new radio transient pulsars</a></strong> — <em>2025-10-27 14:19:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-10-meteorite-slammed-western-australia-billions.html' target='_blank'>A meteorite slammed into Western Australia billions of years ago. Or did it?</a></strong> — <em>2025-10-28 12:59:40</em></summary>
 
-Using the MeerKAT telescope, an international team of astronomers have detected 30 new radio transient pulsars as part of the Meer(more) TRAnsients and Pulsars (MeerTRAP) project. The discovery was reported in a paper published Oct. 20 on the arXiv pre-print server.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/awakening-an-interstellar-wanderer-surprising-nickel-detection-in-comet-3i-atlas' target='_blank'>Awakening an interstellar wanderer: Surprising nickel detection in Comet 3I/ATLAS</a></strong> — <em>2025-10-27 14:00:00</em></summary>
-
-Our team detected glowing nickel vapor in the gas surrounding the incoming interstellar comet 3I/ATLAS at an extraordinary distance from the sun, where temperatures remain far too cold for metals to normally vaporize.
+In the beginning, Earth was a violent place with no atmosphere to soften the blow.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/the-solar-system-on-demand-heo-robotics-aims-to-push-spacecraft-imaging-deep-into-the-final-frontier' target='_blank'>'The solar system on demand': HEO Robotics aims to push spacecraft imaging deep into the final frontier</a></strong> — <em>2025-10-27 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-10-photonic-ai-chips-space.html' target='_blank'>Engineers test photonic AI chips in space</a></strong> — <em>2025-10-28 12:23:03</em></summary>
 
-From viral shots of Tiangong to a new deal with Astroscale, HEO Robotics is pioneering satellite-to-satellite imagery in orbit and even plans to expand beyond Earth.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-10-young-stars-ejecting-plasma-clues.html' target='_blank'>Young stars ejecting plasma could offer clues into the sun's past</a></strong> — <em>2025-10-27 12:50:03</em></summary>
-
-The sun is frequently ejecting huge masses of plasma, called coronal mass ejections (CMEs), into space. They often occur together with sudden brightenings called flares, and sometimes extend far enough to disturb Earth's magnetosphere, generating space weather phenomena including auroras or geomagnetic storms, and even damaging power grids on occasion.
+In a new milestone for space-enabled semiconductor research, the University of Florida, in collaboration with NASA, MIT, Vanguard Automation, AIM Photonics and Germany's Fraunhofer Heinrich Hertz Institute, launched a suite of photonic AI chips to the International Space Station aboard JAXA's HTV-XI spacecraft this weekend.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/10/251027023748.htm' target='_blank'>AI restores James Webb telescope’s crystal-clear vision</a></strong> — <em>2025-10-27 12:12:49</em></summary>
+<details><summary><strong><a href='https://www.esa.int/About_Us/Corporate_news/ESA_establishes_presence_in_Tokyo_to_strengthen_strategic_partnership_with_Japan' target='_blank'>ESA establishes presence in Tokyo to strengthen strategic partnership with Japan</a></strong> — <em>2025-10-28 12:04:00</em></summary>
 
-Two Sydney PhD students have pulled off a remarkable space science feat from Earth—using AI-driven software to correct image blurring in NASA’s James Webb Space Telescope. Their innovation, called AMIGO, fixed distortions in the telescope’s infrared camera, restoring its ultra-sharp vision without the need for a space mission.
 
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/esas-lunar-lander-on-a-simulated-moon-space-photo-of-the-day-for-oct-28-2025' target='_blank'>ESA's lunar lander on a simulated moon | Space photo of the day for Oct. 27, 2025</a></strong> — <em>2025-10-27 12:00:00</em></summary>
-
-With the Argonaut lunar lander and the LUNA simulation facility in Germany, the European Space Agency is building the technology and training to have life on the moon.
+The European Space Agency has announced it is establishing a new presence in Tokyo, Japan, its first in Asia.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/10/251027023741.htm' target='_blank'>Scientists finally spot hidden waves powering the Sun’s corona</a></strong> — <em>2025-10-27 10:48:09</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/see-a-colossal-x-and-v-appear-on-the-moon-after-sunset-tonight' target='_blank'>See a colossal 'X' and 'V' appear on the moon after sunset tonight</a></strong> — <em>2025-10-28 12:00:00</em></summary>
 
-Researchers have directly observed torsional Alfvén waves twisting through the Sun’s corona — magnetic waves first predicted over 80 years ago. Captured using the Daniel K. Inouye Solar Telescope, these motions could explain why the corona is millions of degrees hotter than the Sun’s surface. The finding helps validate decades of solar physics theories and opens new paths to studying solar energy transfer.
+Turn your telescope on the moon at sunset on Oct. 28 to see a colossal "X" and "V" form on the lunar surface as sunlight picks out broken terrain along the terminator.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/spacex-starlink-internet-isnt-fast-enough-for-ukraines-combat-robots' target='_blank'>SpaceX Starlink internet isn't fast enough for Ukraine's combat robots</a></strong> — <em>2025-10-27 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-10-3d-exoplanets-focus.html' target='_blank'>Now in 3D, maps begin to bring exoplanets into focus</a></strong> — <em>2025-10-28 10:00:08</em></summary>
 
-The amount of bandwidth provided by SpaceX's Starlink satellites is limiting Ukraine's ability to operate ground robots on the frontline of the nation's war against Russia.
+Astronomers have generated the first three-dimensional map of a planet orbiting another star, revealing an atmosphere with distinct temperature zones—one so scorching that it breaks down water vapor, a team co-led by a Cornell expert reports in new research.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/watch-2-russian-cosmonauts-spacewalk-outside-the-iss-today' target='_blank'>Watch 2 Russian cosmonauts spacewalk outside the ISS today</a></strong> — <em>2025-10-28 10:00:00</em></summary>
+
+Cosmonauts Sergey Ryzhikov and Alexey Zubritsky will conduct a spacewalk outside the International Space Station today (Oct. 28), and you can watch the action live.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/10/Hurricane_Melissa_barrels_through_the_Caribbean' target='_blank'>Hurricane Melissa barrels through the Caribbean</a></strong> — <em>2025-10-28 09:24:00</em></summary>
+
+
+	Image:
+			This image captured by the Copernicus Sentinel-3 mission show Hurricane Melissa as it barrelled through the Caribbean Sea
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6' target='_blank'>Watch live: Sentinel-1D launch on Ariane 6</a></strong> — <em>2025-10-28 09:00:00</em></summary>
+
+
+The Copernicus Sentinel-1 mission is about to get its fourth satellite, with Sentinel-1D now ready for liftoff. Launch will take place with an Ariane 6 rocket from Kourou, French Guiana and live coverage will be shown on Tuesday, 4 November, at 22:02 CET (18:02 at Kourou).
 
 </details>
 
