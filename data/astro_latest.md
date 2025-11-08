@@ -1,241 +1,220 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Major Themes in Recent Astrophysical Developments
 
-#### Innovations in Space-Based Observations
-Recent advancements in satellite technology are reshaping our approach to studying both terrestrial and extraterrestrial phenomena. The European Space Agency's HydroGNSS mission, scheduled for launch, aims to leverage navigation signals for climate research, particularly focusing on water-related variables. Concurrently, NASA's ESCAPADE mission will send twin satellites to Mars to create a detailed 3D map of the planet's magnetic fields and atmosphere, marking a significant leap in planetary exploration techniques.
+#### Aging Stars and Planetary Dynamics
+Recent research has highlighted a significant shift in understanding how aging stars interact with their planetary systems. It has been observed that older stars are more adept at engulfing their closely orbiting planets, which raises critical questions about the long-term stability of planetary systems as their host stars evolve. This finding suggests that the fate of planets, including Earth, may be more precarious than previously thought, necessitating a reevaluation of models related to planetary formation and destruction. 
 
-Key Items:
-1. **ESA's HydroGNSS Scout satellites ready for launch** - These satellites will explore climate-related variables, enhancing our understanding of Earth's water systems. [Link](https://phys.org/news/2025-11-esa-hydrognss-scout-satellites-ready.html)
-2. **NASA's ESCAPADE mission to Mars** - Launching twin satellites to map Mars' upper atmosphere and magnetic fields, it aims to provide a stereo view of the planet's environment. [Link](https://phys.org/news/2025-11-nasa-escapade-mission-mars-twin.html)
+Key items illustrating this theme include a study indicating that the engulfment process by aging stars is more efficient than previously recognized, potentially affecting the habitability of surrounding planets (Space.com). This notion is further supported by theoretical models that predict dramatic shifts in planetary orbits as stars age, emphasizing the need for updated simulations of stellar evolution.
 
-#### New Insights into Cosmic Objects
-Observations from various missions are yielding fresh insights into the behavior and characteristics of celestial bodies. The Tianwen 1 Mars probe from China has successfully captured images of the interstellar comet 3I/ATLAS, providing essential data for understanding these rare cosmic visitors. Additionally, new research on pulsar PSR J2129+4119 has revealed intricate details about its emission processes, enhancing our comprehension of pulsar dynamics.
+#### Volcanic Activity on Icy Moons
+The volcanic activity on Jupiter's moon Io has come under scrutiny with new data from NASA's Juno mission, revealing that its surface temperatures may be significantly hotter than earlier estimates, potentially reshaping our understanding of volcanic processes in the solar system. Concurrently, findings from Saturn's moon Enceladus indicate substantial heat flow at its north pole, suggesting the presence of a stable subsurface ocean, which could have implications for astrobiology.
 
-Key Items:
-1. **China's Tianwen 1 Mars probe images interstellar comet** - This observation adds to our knowledge of interstellar objects and their interactions with the solar system. [Link](https://www.space.com/astronomy/comets/chinas-tianwen-1-mars-probe-captures-images-of-interstellar-comet-3i-atlas)
-2. **Insights into nearby pulsar PSR J2129+4119** - New findings from FAST enhance our understanding of pulsar emission and behavior. [Link](https://phys.org/news/2025-11-nearby-pulsar-insights-emission-physics.html)
+Notable highlights include the Juno spacecraft's temperature measurements that challenge existing models of Io's geology (Space.com) and recent evidence reinforcing the habitability potential of Enceladus due to its warm ocean beneath the icy surface (Space.com).
 
-#### Breakthroughs in Galactic Evolution
-Research into the formation of early galaxies has made significant strides, particularly regarding the role of massive stars. A recent study demonstrates how these colossal stars influenced the creation of the universe's earliest clusters, suggesting they were pivotal in the formation of the first black holes. This work underscores the importance of massive stars in the evolution of cosmic structures.
+#### Interstellar Comets and Organic Chemistry
+The study of interstellar comets has gained momentum, particularly with the comet 3I/ATLAS. Observations have clarified misconceptions about its color variations, indicating that its properties remain stable as it approaches the inner solar system. Additionally, the James Webb Space Telescope has achieved a milestone by detecting complex organic molecules around a distant star, enhancing our understanding of the chemical precursors necessary for life.
 
-Key Items:
-1. **Colossal stars shaped the universe's earliest clusters** - Findings illustrate how these stars contributed to the chemical makeup of ancient globular clusters. [Link](https://www.sciencedaily.com/releases/2025/11/251106003212.htm)
+Key developments include clarifications on the stability of 3I/ATLAS as it nears the Sun (Space.com) and the groundbreaking detection of organic compounds in a galaxy beyond our own, which could inform the search for life elsewhere in the universe (Space.com).
+
+#### Mars Exploration and Atmospheric Studies
+NASA's upcoming ESCAPADE mission is set to enhance our understanding of Mars' atmospheric dynamics and magnetic field through a dual-satellite approach. This mission aims to uncover the mechanisms behind Mars' loss of water and atmosphere, which is critical for understanding its climatic history and potential for habitability.
+
+The ESCAPADE mission's objectives include detailed mapping of Mars' magnetic field and atmospheric interactions, promising to yield valuable data for future exploration efforts (Space.com).
 
 ### Conclusion
-The current state of astrophysics is marked by a convergence of innovative satellite missions and groundbreaking observational studies that deepen our understanding of both cosmic phenomena and climate dynamics. As these technologies advance, they not only enhance our knowledge of the universe but also contribute to critical discussions about our planet's future. The ongoing research promises to unveil new layers of complexity in both galactic evolution and planetary science, paving the way for future discoveries.
+The current trajectory in astrophysics is characterized by a deeper understanding of planetary systems, volcanic activity on moons, and the implications of interstellar bodies for the origins of life. As new missions and discoveries unfold, researchers are increasingly focused on integrating observational data with theoretical models to refine our comprehension of celestial phenomena. This period is marked by a collaborative spirit in the scientific community, driving forward the quest to understand the complexities of our universe.
 
-Top Sources:
-1. ESA's HydroGNSS Scout satellites ready for launch - https://phys.org/news/2025-11-esa-hydrognss-scout-satellites-ready.html - HydroGNSS satellites will study climate variables related to water.
-2. NASA's ESCAPADE mission to Mars - https://phys.org/news/2025-11-nasa-escapade-mission-mars-twin.html - Twin satellites will map Mars' atmosphere and magnetic fields.
-3. China's Tianwen 1 Mars probe captures images of interstellar comet 3I/ATLAS - https://www.space.com/astronomy/comets/chinas-tianwen-1-mars-probe-captures-images-of-interstellar-comet-3i-atlas - Contributes data to the study of interstellar objects.
-4. Nearby pulsar offers insights into emission physics near the death line - https://phys.org/news/2025-11-nearby-pulsar-insights-emission-physics.html - New findings deepen understanding of pulsar behavior.
-5. Colossal stars forged the Universe’s earliest clusters - https://www.sciencedaily.com/releases/2025/11/251106003212.htm - Research reveals the role of massive stars in cosmic evolution.
+### Top Sources:
+1. Aging Stars Destroy Their Planets More Often - https://www.space.com/astronomy/exoplanets/aging-stars-destroy-their-planets-more-often-than-we-thought-what-does-this-mean-for-earth - Study reveals the efficiency of aging stars in engulfing close planets.
+2. Jupiter's Volcanic Moon Io May Be Hotter - https://www.space.com/astronomy/jupiter/jupiters-volcanic-moon-io-may-be-hundreds-of-times-hotter-than-scientists-thought - NASA's Juno spacecraft finds higher-than-expected temperatures on Io.
+3. Heat Leaking from Saturn's Moon Enceladus - https://www.space.com/space-exploration/search-for-life/heat-leaking-from-saturns-moon-enceladus-strengthens-case-for-its-habitability - New evidence suggests stable ocean conditions on Enceladus.
+4. JWST Detects Organic Molecules Beyond the Milky Way - https://www.space.com/astronomy/james-webb-space-telescope/jwst-makes-1st-ever-detection-of-complex-organic-molecules-around-star-in-galaxy-beyond-our-milky-way - First detection of complex organics in another galaxy.
+5. NASA's New Mars Mission: ESCAPADE - https://www.space.com/space-exploration/missions/nasas-new-mars-mission-these-twin-satellites-could-reveal-how-the-red-planet-lost-its-atmosphere - Dual-satellite mission to study Mars' atmosphere and magnetic field.
+6. Nearby Brown Dwarf's Weather Mapped - https://phys.org/news/2025-11-nearby-brown-dwarf-weather-unprecedented.html - Atmospheric features of a brown dwarf mapped in detail.
+7. Rare Meteoroid Impact on Mars - https://phys.org/news/2025-11-rare-meteoroid-impact-triggers-avalanches.html - New streaks on Mars' surface from a meteoroid impact.
+8. Lunar Water Traced to Solar Wind - https://phys.org/news/2025-11-lunar-solar-latitude-regolith-maturity.html - Study reveals factors affecting lunar water distribution.
+9. Black Hole Devours Massive Star - https://www.sciencedaily.com/releases/2025/11/251107010257.htm - Black hole flare detected, brighter than any previously recorded.
+10. Icarus Wildlife Tracking Project Resumes - https://phys.org/news/2025-11-icarus-space-aboard-spacex-wildlife.html - Satellite for wildlife tracking set to resume operations.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2025-11-esa-hydrognss-scout-satellites-ready.html' target='_blank'>ESA's HydroGNSS Scout satellites ready for launch</a></strong> — <em>2025-11-07 01:40:01</em></summary>
+    <details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/aging-stars-destroy-their-planets-more-often-than-we-thought-what-does-this-mean-for-earth' target='_blank'>Aging stars destroy their planets more often than we thought: What does this mean for Earth?</a></strong> — <em>2025-11-07 22:00:00</em></summary>
 
-After arriving at the California launch site at the end of September, the two HydroGNSS satellites have been carefully prepared for liftoff, scheduled this month.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-student-built-cubesat-solar-space.html' target='_blank'>Student-built CubeSat to study solar wind and space weather from orbit</a></strong> — <em>2025-11-07 00:40:01</em></summary>
-
-A multidisciplinary team of undergraduate students from three different universities has designed and built a mini satellite, known as a CubeSat, that will launch into space to gather data in collaboration with NASA's Interstellar Mapping and Acceleration Probe (IMAP) mission.
+"We expected to see this effect, but we were still surprised by just how efficient these stars seem to be at engulfing their close planets."
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/best-sci-fi-strategy-games-ranked' target='_blank'>Best sci-fi strategy games, ranked</a></strong> — <em>2025-11-06 22:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/no-interstellar-comet-3i-atlas-hasnt-changed-color-scientists-say' target='_blank'>No, interstellar comet 3I/ATLAS hasn't 'changed color', scientist says</a></strong> — <em>2025-11-07 21:09:32</em></summary>
 
-Forget the space battles, we're going planetside with our list of the most must-play sci-fi strategy games, packed full of aliens, robots, and futuristic armies.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/make-it-so-lego-unveils-1st-star-trek-kit-with-the-iconic-uss-enterprise-d' target='_blank'>Make it so: Lego unveils 1st 'Star Trek' kit with the iconic USS Enterprise D and 'Next Generation' crew</a></strong> — <em>2025-11-06 22:00:00</em></summary>
-
-The iconic Star Trek U.S.S. Enterprise is available with Lego starting on Nov. 28, featuring the craft and crew from The Next Generation.
+While media outlets have reported that curious interstellar comet 3I/ATLAS has changed color, the scientists behind a recent study say that isn't actually the case.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-14-b1093-vsfb-ocisly' target='_blank'>SpaceX launches 28 Starlink satellites from California's central coast (video)</a></strong> — <em>2025-11-06 21:27:47</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/this-company-wants-to-be-the-1st-to-launch-human-remains-to-mars-will-it-ever-get-there' target='_blank'>This company wants to be the 1st to launch human remains to Mars. Will it ever get there?</a></strong> — <em>2025-11-07 21:00:00</em></summary>
 
-SpaceX launched yet another batch of its Starlink satellites to orbit from California's central coast today (Nov. 6).
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/chinas-tianwen-1-mars-probe-captures-images-of-interstellar-comet-3i-atlas' target='_blank'>China's Tianwen 1 Mars probe captures images of interstellar comet 3I/ATLAS</a></strong> — <em>2025-11-06 20:00:00</em></summary>
-
-China's Tianwen 1 spacecraft has imaged the interstellar comet 3I/ATLAS from Mars orbit, contributing to global efforts to study the rare visitor from beyond the solar system.
+Space memorial company Celestis has opened reservations for its "Mars300" spaceflight that aims to send human remains to orbit around the Red Planet.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/science/climate-change/space-dust-in-the-arctic-is-helping-scientists-track-the-climate-crisis' target='_blank'>Space dust in the Arctic is helping scientists track the climate crisis</a></strong> — <em>2025-11-06 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/jupiter/jupiters-volcanic-moon-io-may-be-hundreds-of-times-hotter-than-scientists-thought' target='_blank'>Jupiter's volcanic moon Io may be hundreds of times hotter than scientists thought</a></strong> — <em>2025-11-07 20:00:00</em></summary>
 
-A historical record of Arctic sea ice based on the abundance of cosmic dust in sediments on the sea bed of the Arctic Ocean has revealed how the sea ice responds to climate warming.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-northern-visible-due-solar-storms.html' target='_blank'>Northern lights may be visible in parts of the US due to solar storms</a></strong> — <em>2025-11-06 18:10:18</em></summary>
-
-Solar storms may bring colorful auroras to several northern U.S. states Thursday night.
+NASA's Juno spacecraft has revealed that the solar system's most volcanic body is even hotter than scientists thought.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/disney-hulu-espn-streaming-deal-november' target='_blank'>Get the world's greatest sci-fi movies and TV at your fingertips and save money with this Disney Plus, Hulu and ESPN streaming bundle</a></strong> — <em>2025-11-06 18:01:52</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-saturn-icy-moon-host-stable.html' target='_blank'>Saturn's icy moon may host a stable ocean fit for life</a></strong> — <em>2025-11-07 19:00:04</em></summary>
 
-Alien, Predator, Star Wars, Marvel and many more — this streaming deal starts before Black Friday and gives you full access to best sci-fi franchises on the planet.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-nuclear-missile-from-vandenberg-space-force-base' target='_blank'>US military launches unarmed nuclear missile from Vandenberg Space Force Base</a></strong> — <em>2025-11-06 18:00:00</em></summary>
-
-The U.S. military test launched an unarmed intercontinental ballistic missile in a routine exercise to maintain the readiness of its nuclear arsenal.
+A new study led by researchers from Oxford University, Southwest Research Institute and the Planetary Science Institute in Tucson, Arizona has provided the first evidence of significant heat flow at Enceladus's north pole, overturning previous assumptions that heat loss was confined to its active south pole.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/china-reached-out-to-nasa-to-avoid-a-potential-satellite-collision-in-1st-of-its-kind-space-cooperation' target='_blank'>China reached out to NASA to avoid a potential satellite collision in 1st-of-its-kind space cooperation</a></strong> — <em>2025-11-06 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/nemesis-board-game-review' target='_blank'>Nemesis board game review</a></strong> — <em>2025-11-07 19:00:00</em></summary>
 
-A NASA official said that China contacted the U.S. space agency recently to coordinate a satellite maneuver, marking the first time the Chinese side had reached out to its American counterpart.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-nasa-escapade-mission-mars-twin.html' target='_blank'>NASA's ESCAPADE mission to Mars—twin satellites dubbed Blue and Gold will launch in early November</a></strong> — <em>2025-11-06 15:19:52</em></summary>
-
-The first dual-satellite mission to another planet, NASA's ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers), is scheduled for launch no earlier than Sunday, Nov. 9, from Cape Canaveral, Florida. The two identical spacecraft are managed and operated by the University of California, Berkeley, and will fly in formation to map the magnetic fields, upper atmosphere and ionosphere of Mars in 3D, providing the first stereo view of the Red Planet's unique near-space environment.
+In space, no one can hear you scream...with joy as you play one of the best sci-fi board games of all time.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-equipment/choosing-astronomy-equipment/st-test-report-the-zwo-seestar-s30-telescope/' target='_blank'>S&T Test Report: The ZWO Seestar S30 Telescope</a></strong> — <em>2025-11-06 15:16:39</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/heat-leaking-from-saturns-moon-enceladus-strengthens-case-for-its-habitability' target='_blank'>Heat leaking from Saturn's ocean moon Enceladus bolsters its case as an abode for life</a></strong> — <em>2025-11-07 19:00:00</em></summary>
 
-This pintsized powerhouse takes images of the night sky that will surprise even seasoned astrophotographers.   
-The post S&T Test Report: The ZWO Seestar S30 Telescope appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-bright-blue-aurora-formation-hyperspectral.html' target='_blank'>Bright blue aurora formation: Hyperspectral camera captures first precise altitude distribution</a></strong> — <em>2025-11-06 15:10:06</em></summary>
-
-The Institute for Fusion Science installed the Hyperspectral Camera for Auroral Imaging (HySCAI) in Kiruna, Sweden, in May 2023 and commenced full-scale observations in September of the same year. A research group has now succeeded in observing the altitude distribution of blue nitrogen ion (N₂⁺) auroras emitting light during astronomical twilight using HySCAI.
+Excess heat detected at Saturn moon Enceladus' north pole helps to account for a finely balanced energy budget that keeps the moon's ocean liquefied. What could this mean in the search for life?
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/hoverair-x1-promax-drone-review' target='_blank'>HoverAir X1 PROMAX drone review</a></strong> — <em>2025-11-06 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown' target='_blank'>FAA restricts commercial rocket launches indefinitely due to air traffic risks from government shutdown</a></strong> — <em>2025-11-07 18:04:24</em></summary>
 
-The HoverAir X1 PROMAX is ZeroZero Robotics’ flagship selfie drone with up to 8K video capture alongside fantastic subject tracking capabilities and manual flight control.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/science/climate-change/wildfires-are-getting-more-intense-around-the-world-due-to-human-driven-climate-change' target='_blank'>Wildfires are getting more intense around the world due to human-driven climate change</a></strong> — <em>2025-11-06 15:00:00</em></summary>
-
-A new global wildfire report reveals how human-caused warming made fire weather dozens of times more likely — and shows how satellites are helping scientists track the planet's future.
+The FAA hopes to alleviate some of the airline delays being caused by the government shutdown, and will restrict commercial space launches during peak air traffic hours.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251106003906.htm' target='_blank'>A new equation may explain the Universe without dark matter</a></strong> — <em>2025-11-06 14:53:54</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/jwst-makes-1st-ever-detection-of-complex-organic-molecules-around-star-in-galaxy-beyond-our-milky-way' target='_blank'>JWST makes 1st-ever detection of complex organic molecules around star in galaxy beyond our Milky Way</a></strong> — <em>2025-11-07 18:00:00</em></summary>
 
-A new theory claims dark matter and dark energy don’t exist — they’re just side effects of the universe’s changing forces. By rethinking gravity and cosmic timelines, it could rewrite our understanding of space and time itself.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-nearby-pulsar-insights-emission-physics.html' target='_blank'>Nearby pulsar offers insights into emission physics near the death line</a></strong> — <em>2025-11-06 14:37:16</em></summary>
-
-Using the Five-hundred-meter Aperture Spherical Radio Telescope (FAST), astronomers from the Chinese Academy of Sciences (CAS) and elsewhere have observed a nearby pulsar known as PSR J2129+4119. Results of the observational campaign, published October 30 on the arXiv pre-print server, deliver important insights into the behavior and properties of this pulsar.
+The molecules are building blocks of the chemical precursors of things such as RNA.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251106003212.htm' target='_blank'>Colossal stars forged the Universe’s earliest clusters</a></strong> — <em>2025-11-06 14:33:11</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/powerful-geomagnetic-storm-sparks-stunning-northern-lights-across-north-america-and-europe-photos-november-2025' target='_blank'>Powerful geomagnetic storm sparks stunning northern lights across North America (photos)</a></strong> — <em>2025-11-07 17:00:00</em></summary>
 
-A team of astrophysicists has unveiled how colossal stars thousands of times more massive than the Sun shaped the earliest star clusters and galaxies. These short-lived giants not only forged the strange chemical fingerprints found in ancient globular clusters but may also have been the seeds of the universe’s first black holes.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/the-moon-looks-set-to-roll-down-a-ridge-space-photo-of-the-day-for-nov-6-2025' target='_blank'>The moon looks set to roll down a ridge | Space photo of the day for Nov. 6, 2025</a></strong> — <em>2025-11-06 14:00:00</em></summary>
-
-In Cerro Pachón, a full moon lights up the desert night sky and shows its many features.
+The storm hit earlier than predicted, surprising skywatchers with a delightful aurora show.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-jwst-io-volcanic-nature-spotlight.html' target='_blank'>The JWST puts Io's volcanic nature in the spotlight</a></strong> — <em>2025-11-06 13:43:04</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_journey_to_space' target='_blank'>Copernicus Sentinel-1D journey to space</a></strong> — <em>2025-11-07 16:30:00</em></summary>
 
-Jupiter's moon Io stands alone among the solar system's moons. It has more than 400 active volcanoes, and its surface is home to more than 100 massive volcanic mountains, some of which are taller than Mt. Everest. Its surface is painted and repainted with the sulfur-rich fallout from these volcanoes, coloring the moon in red, yellow, and orange hues. Vast lakes of lava—the largest of which is 200 km across—also dot its surface. All this on a world that's only about one quarter as large as Earth.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-sxdf-nb1006-young-starburst-galaxy.html' target='_blank'>SXDF-NB1006-2 is a young starburst galaxy experiencing ionized gas outflows, observations find</a></strong> — <em>2025-11-06 13:00:01</em></summary>
-
-An international team of astronomers has employed the James Webb Space Telescope (JWST) to observe a distant galaxy designated SXDF-NB1006-2. As a result, they found that SXDF-NB1006-2 is a young starburst galaxy that experiences ionized gas outflows. The new findings were detailed in a paper published October 29 on the arXiv pre-print server.
+	Video: 
+			00:03:39
+				The Copernicus Sentinel-1D satellite has joined the Sentinel-1 mission in orbit. Launch took place on 4 November 2025 at 22:02 CET (18:02 local time) on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana.The Sentinel-1 mission delivers high-resolution radar images of Earth’s surface, performing in all weathers, day-and-night. This service is used by disaster response teams, environmental agencies, maritime authorities and climate scientists, who depend on frequent updates of critical data.Sentinel-1D will work in tandem with Sentinel-1C, flying in the same orbit but 180° apart, to optimise global coverage and data delivery. Both satellites have a C-band synthetic aperture radar (SAR) instrument on board, which captures high-resolution imagery of Earth’s surface. They are also equipped with Automatic Identification System (AIS) instruments to improve detection and tracking of ships. When Sentinel-1D is fully operational, it will enable more frequent AIS observations, including data on vessel identity, location and direction of passage, enabling precise tracking.Sentinel-1D was launched on Europe’s heavy-lift rocket Ariane 6 on flight designated VA265. Read full story: Copernicus Sentinel-1D reaches orbit on Ariane 6Access the related broadcast quality video material: Sentinel-1D launch on Ariane 6 - VA265 / Sentinel-1 mission animations
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/ancient-australian-rocks-may-shed-new-light-on-the-birth-of-the-moon' target='_blank'>Ancient Australian rocks may shed new light on the birth of the moon</a></strong> — <em>2025-11-06 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-icarus-space-aboard-spacex-wildlife.html' target='_blank'>Icarus returns to space aboard SpaceX for wildlife tracking</a></strong> — <em>2025-11-07 16:08:32</em></summary>
 
-Some of Earth's oldest rocks buried deep in Western Australia may hold new clues about the dramatic event that gave rise to our moon.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-fantastic-four-first-steps-how-to-watch' target='_blank'>'The Fantastic Four: First Steps' is finally available to stream; here's how to watch online and from anywhere</a></strong> — <em>2025-11-06 12:44:22</em></summary>
-
-It's time to suit up as "The Fantastic Four: First Steps" officially launches on Disney+
+After a three-year pause, Icarus, the pioneering project that tracks wildlife from space, is set to resume operations. On 11 November 2025, a rocket is scheduled to carry a satellite equipped with the Icarus receiver into space—opening a new chapter in the study of animal observation. The latest launch status will be updated on the SpaceX site.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-22-us-states-nov-6-7-2025' target='_blank'>Northern lights may be visible in 22 US states tonight</a></strong> — <em>2025-11-06 12:08:40</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/pluribus-release-date-plot-and-how-to-watch-apple-tvs-sci-fi-series-from-breaking-bad-creator-vince-gilligan' target='_blank'>'Pluribus': Release date, plot, & how to watch Apple TV's sci-fi series from 'Breaking Bad' creator Vince Gilligan</a></strong> — <em>2025-11-07 16:00:00</em></summary>
 
-Auroras may be visible from Alaska to Illinois as geomagnetic storm conditions are predicted to continue tonight.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-spacex-ula-line-night-space.html' target='_blank'>SpaceX, ULA line up double launch night that would tie Space Coast record</a></strong> — <em>2025-11-06 12:00:31</em></summary>
-
-While SpaceX has managed the lion's share of launches this year, it's set to be a team effort with United Launch Alliance as the two companies have lined up a pair of launches that would tie the annual record for orbital missions from the Space Coast.
+"Breaking Bad" creator Vince Gilligan delivers an existential puzzle-box for curious viewers, but what's it all about?
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/see-stunning-photos-full-beaver-moon-largest-supermoon-nov-5-2025' target='_blank'>See stunning photos of November's full 'Beaver Moon' — the biggest supermoon of 2025</a></strong> — <em>2025-11-06 11:47:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-nearby-brown-dwarf-weather-unprecedented.html' target='_blank'>Nearby brown dwarf's 'weather' mapped in unprecedented detail</a></strong> — <em>2025-11-07 15:54:04</em></summary>
 
-See breathtaking photos of the full "Beaver Moon" brightening November's sky.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251106003209.htm' target='_blank'>The Universe may have already started slowing down</a></strong> — <em>2025-11-06 10:08:07</em></summary>
-
-Evidence now suggests the universe’s expansion has started to slow, not speed up. The findings imply dark energy is weakening, marking a possible revolution in cosmology.
+Researchers at McGill University and collaborating institutions have mapped the atmospheric features of a planetary-mass brown dwarf, a type of space object that is neither a star nor a planet, existing in a category in-between. This particular brown dwarf's mass, however, is just at the threshold between being a Jupiter-like planet and a brown dwarf. It has thus also been called a free-floating, or rogue, planet, not bound to a star.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251106003158.htm' target='_blank'>Astronomers discover dying stars eating their planets</a></strong> — <em>2025-11-06 09:34:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/astronomer-catches-sight-of-interstellar-comet-3i-atlas-returning-to-the-predawn-sky-heres-how-you-can-too' target='_blank'>Astronomer catches sight of interstellar Comet 3I/ATLAS returning to the predawn sky — Here's how you can too</a></strong> — <em>2025-11-07 15:00:00</em></summary>
 
-Astronomers have discovered that aging stars may be devouring their closest giant planets as they swell into red giants. Using NASA’s TESS telescope to study nearly half a million stars, scientists found far fewer close-orbiting planets around older, expanded stars—clear evidence that many have already been destroyed.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/surprise-geomagnetic-storm-arrives-early-as-noaa-warns-more-solar-impacts-are-on-their-way' target='_blank'>Surprise geomagnetic storm arrives early as NOAA warns more solar impacts are on their way today</a></strong> — <em>2025-11-06 09:24:11</em></summary>
-
-Northern lights danced overnight and more displays may follow tonight, as solar storms continue.
+Amateur astronomers with backyard telescopes can now catch a glimpse of Interstellar comet 3I/ATLAS
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/11/Swoosh' target='_blank'>Swoosh!</a></strong> — <em>2025-11-06 08:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_November_2025' target='_blank'>Week in images: 03-07 November 2025</a></strong> — <em>2025-11-07 14:15:00</em></summary>
+
+
+Week in images: 03-07 November 2025
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-rare-meteoroid-impact-triggers-avalanches.html' target='_blank'>Rare meteoroid impact triggers dust avalanches and new streaks on slopes on Mars</a></strong> — <em>2025-11-07 14:01:44</em></summary>
+
+When a meteoroid shook the edge of Apollinaris Mons on Mars, it triggered streaks that carved a hundred new scratches on the surface. The European Space Agency's ExoMars Trace Gas Orbiter captured these dust avalanches on the slopes the night before Christmas in 2023.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacexs-fiery-falcon-9-comes-in-for-a-landing-space-photo-of-the-day-for-nov-6-2025' target='_blank'>SpaceX's fiery Falcon 9 comes in for a landing | Space photo of the day for Nov. 7, 2025</a></strong> — <em>2025-11-07 14:00:00</em></summary>
+
+The Bandwagon-4 rideshare mission, which launched on Nov. 2, sent 18 payloads to orbit and, like most SpaceX launches, featured a rocket landing.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251107010257.htm' target='_blank'>Black hole blast outshines 10 trillion Suns</a></strong> — <em>2025-11-07 13:52:52</em></summary>
+
+A colossal black hole 10 billion light-years away has been caught devouring one of the universe’s biggest stars, unleashing a flare 30 times brighter than any seen before. The flare, detected by Caltech’s ZTF, likely marks a tidal disruption event — when a star is shredded by a black hole’s gravity.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-lunar-solar-latitude-regolith-maturity.html' target='_blank'>Lunar water traced to solar wind: Latitude and regolith maturity shape its abundance, study finds</a></strong> — <em>2025-11-07 13:50:04</em></summary>
+
+The abundance, distribution, and origin of lunar surface water has recently drawn significant scientific interest, owing to its critical role in future space exploration.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251107010252.htm' target='_blank'>CERN creates cosmic “fireballs” that could reveal the Universe’s hidden magnetism</a></strong> — <em>2025-11-07 13:43:57</em></summary>
+
+Using CERN’s Super Proton Synchrotron, researchers generated plasma fireballs to simulate blazar jets. The beams stayed stable, suggesting plasma instabilities aren’t responsible for missing gamma rays. Instead, the data strengthens the idea of ancient intergalactic magnetic fields, possibly from the Universe’s earliest moments.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-insects-space-menu-sustainable-food.html' target='_blank'>Insects on the space menu: A sustainable food source for future missions</a></strong> — <em>2025-11-07 13:26:04</em></summary>
+
+Long before humans reached orbit, insects had already shown they could handle the hurdles of spaceflight. Light, highly adaptable and nutritionally rich, these resilient animals present an attractive option for European researchers studying reliable food sources for long-duration missions.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/missions/nasas-new-mars-mission-these-twin-satellites-could-reveal-how-the-red-planet-lost-its-atmosphere' target='_blank'>NASA's new Mars mission: These twin satellites could reveal how the Red Planet lost its atmosphere</a></strong> — <em>2025-11-07 13:00:00</em></summary>
+
+NASA's first dual-satellite mission to another planet, ESCAPADE, will study Mars' magnetic field and atmosphere in 3D to uncover how it lost its water and air.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/blue-origin-new-glenn-escapade-mars-launch-webcast' target='_blank'>Watch Blue Origin's huge New Glenn rocket launch NASA Mars mission on Nov. 9</a></strong> — <em>2025-11-07 11:00:00</em></summary>
+
+The ESCAPADE Mars mission is scheduled to launch atop a Blue Origin New Glenn rocket on Sunday (Nov. 9), and you can watch the action live.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_satellites_track_progress_on_Paris_Agreement_goals' target='_blank'>ESA satellites track progress on Paris Agreement goals</a></strong> — <em>2025-11-07 10:52:00</em></summary>
+
+
+As the United Nations COP30 climate change conference convenes in Belém, Brazil, the world's attention will turn to the heart of the Amazon rainforest – a region that symbolises both hope and concern in the fight against climate change.Once considered one of Earth's most vital carbon sinks, the Amazon is now showing troubling signs – satellite observations reveal that parts of this vast ecosystem are no longer absorbing carbon dioxide as they once did. In some areas, the forest has even become a net source of carbon emissions.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-november-7-16/' target='_blank'>This Week's Sky at a Glance, November 7 – 16</a></strong> — <em>2025-11-07 10:03:00</em></summary>
+
+The interstellar comet: Can you see it in your scope? Maybe you can, starting late this week as Comet 3I/ATLAS emerges from behind the Sun. If you have a large […]
+The post This Week's Sky at a Glance, November 7 – 16 appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Branco_River_Brazil' target='_blank'>Earth from Space: Branco River, Brazil</a></strong> — <em>2025-11-07 09:00:00</em></summary>
 
 
 	Image:
-			Swoosh!
+			Ahead of the 30th UN Climate Change Conference of the Parties (COP30) taking place in Belém, Brazil, from 10-21 November, this IRIDE image shows the Branco River and its surrounding forests in the Brazilian state of Roraima.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/11/Swoosh' target='_blank'>Swoosh!</a></strong> — <em>2025-11-06 08:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu' target='_blank'>Insects on the space menu</a></strong> — <em>2025-11-07 08:00:00</em></summary>
 
 
-	Image:
-			Swoosh!
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch' target='_blank'>ESA’s HydroGNSS Scout satellites ready for launch</a></strong> — <em>2025-11-06 08:00:00</em></summary>
-
-
-After arriving at the California launch site at the end of September, the two HydroGNSS satellites have been carefully prepared for liftoff, scheduled this month.HydroGNSS – a twin-satellite mission – marks the European Space Agency’s first ‘Scout’ venture. By harnessing signals from navigation satellites, HydroGNSS will help scientists gain new insights into key climate variables linked to water.
+Long before humans reached orbit, insects had already shown they could handle the hurdles of spaceflight. Light, highly adaptable and nutritionally rich, these resilient animals present an attractive option for European researchers studying reliable food sources for long-duration missions.
 
 </details>
 
