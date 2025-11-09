@@ -2,122 +2,42 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Enhanced Integration of AI Systems
-Recent innovations emphasize the need for AI systems to integrate seamlessly with existing data infrastructures, particularly in cloud environments. Amazon's Bedrock has rolled out features that allow AI agents to connect with knowledge bases across multiple AWS accounts, significantly improving data accessibility and operational efficiency. This advancement is particularly crucial for organizations managing diverse data sources, as it streamlines workflows and enhances the utility of AI tools.
+#### Limitations of Multimodal AI Models
+Recent studies have shed light on the inherent limitations of multimodal large language models (MLLMs), particularly their ability to handle tasks that require spatial reasoning, such as reading analog clocks. Research by Javier Conde and colleagues demonstrated that these models, despite being trained on extensive datasets, often failed to accurately interpret the positions of clock hands, leading to significant errors in time interpretation. This highlights a critical gap in the models' generalization capabilities, raising concerns about their reliability in real-world applications where accurate visual data interpretation is essential.
 
 Key Items:
-- **Cross-account knowledge base integration in Amazon Bedrock** - This feature enables organizations to utilize structured data effectively across AWS accounts, enhancing AI capabilities.
-- **Structured output for Custom Model Import in Amazon Bedrock** - Real-time generation of structured outputs streamlines interactions between models and defined schemas.
+1. Conde et al. found that MLLMs struggled to read analog clocks accurately, even after retraining with new clock images.
+2. The study revealed that errors in recognizing clock hands led to cascading failures in determining time, underlining the need for diverse training datasets.
+3. The researchers emphasized that weaknesses in spatial orientation and recognition are interconnected challenges that must be addressed.
 
-#### 2. Democratization of AI Development
-The movement towards making AI tools more accessible is gaining traction, as evidenced by Thomson Reuters' Open Arena, which offers no-code solutions. This trend aims to empower users without technical expertise to leverage AI for solving business challenges, reflecting a broader commitment to inclusivity in AI development.
-
-Key Items:
-- **Thomson Reuters Open Arena's no-code AI solutions** - This initiative illustrates how organizations can build scalable AI applications using simplified interfaces, catering to a wider audience.
-
-#### 3. Advances in Machine Learning Techniques
-Innovative methodologies in machine learning are emerging, such as Google's Nested Learning, which focuses on continual learning. This paradigm allows models to adapt to new information while retaining previously learned knowledge, a critical feature for developing more responsive AI systems.
+#### The Need for Enhanced Training Protocols
+The findings regarding MLLMs underscore the urgent need for improved training protocols that better prepare AI models for real-world variability. The researchers advocate for a shift towards more comprehensive training methodologies that include diverse data variations. This approach could help mitigate the cascading errors observed in MLLMs, ensuring more robust performance across a range of tasks.
 
 Key Items:
-- **Nested Learning: A new approach for continual learning** - This technique enhances model adaptability and efficiency in processing ongoing data streams.
-
-#### 4. Robust Evaluation Frameworks for AI Outputs
-With the increasing prevalence of AI-generated content, the need for effective evaluation mechanisms has become paramount. New benchmarking frameworks like ComputeEval are being developed to assess the performance of AI coding assistants, ensuring they meet industry standards.
-
-Key Items:
-- **ComputeEval 2025.2 for benchmarking AI-generated code** - This framework provides a structured assessment for evaluating the coding capabilities of AI tools, essential for improving their reliability.
+1. The study indicated that increasing the diversity of training data could enhance model performance but noted that exposure alone is insufficient.
+2. Researchers suggested that fine-tuning models with distorted or altered images might effectively address specific recognition weaknesses.
+3. These insights are particularly relevant for critical applications such as medical imaging and autonomous driving, where accurate image interpretation is vital for safety and efficacy.
 
 ### Conclusion
-The current state of AI research and development is characterized by a strong emphasis on integration, accessibility, and innovative learning methodologies. Significant progress in connecting AI systems to diverse data sources, democratizing tools for broader user engagement, and refining evaluation techniques signals a rapidly evolving field. These advancements not only enhance the functionality of AI systems but also ensure their applicability across various sectors, suggesting a dynamic and promising future for AI technologies.
+The current trajectory of AI research reveals a heightened awareness of the limitations facing advanced models like MLLMs. As researchers continue to identify and analyze these shortcomings, there is a compelling need for enhanced training methodologies that focus on robustness and adaptability. The ongoing investigation into the capabilities and vulnerabilities of AI systems is essential for their successful implementation in complex, real-world environments.
 
 ### Top Sources:
-1. Connect Amazon Bedrock agents to cross-account knowledge bases - https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agents-to-cross-account-knowledge-bases/ - A practical solution for integrating AI agents with structured data across AWS accounts.
-2. Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/ - An exploration of no-code AI solutions for diverse business use cases.
-3. Introducing structured output for Custom Model Import in Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/introducing-structured-output-for-custom-model-import-in-amazon-bedrock/ - A feature allowing real-time generation of structured outputs in AI models.
-4. Introducing Nested Learning: A new ML paradigm for continual learning - https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/ - A new approach enhancing continual learning in AI systems.
-5. Benchmarking LLMs on AI-Generated CUDA Code with ComputeEval 2025.2 - https://developer.nvidia.com/blog/benchmarking-llms-on-ai-generated-cuda-code-with-computeeval-2025-2/ - A benchmark for evaluating the coding capabilities of AI assistants.
-6. Building an Interactive AI Agent for Lightning-Fast Machine Learning Tasks - https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/ - Insights into creating AI agents that expedite data preparation tasks.
-7. Understanding prompt injections: a frontier security challenge - https://openai.com/index/prompt-injections - An overview of security challenges posed by prompt injections in AI systems.
-8. Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows - https://openai.com/index/notion - A look at how GPT-5 is transforming productivity through autonomous AI agents.
-9. Evaluating Synthetic Data — The Million Dollar Question - https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/ - A quantitative approach to assessing synthetic data quality.
-10. How to Use GPT-5 Effectively - https://towardsdatascience.com/how-to-use-gpt-5-effectively/ - Guidance on optimizing the use of GPT-5 features for various applications.
+1. AI Models Fail Miserably at This One Easy Task: Telling Time - https://spectrum.ieee.org/large-language-models-reading-clocks - A study reveals MLLMs struggle with reading analog clocks, highlighting broader implications for AI robustness.
+2. Power Analysis in Marketing: A Hands-On Introduction - https://towardsdatascience.com/power-analysis-in-marketing/ - An introduction to statistical power analysis, relevant for AI applications in marketing.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agents-to-cross-account-knowledge-bases/' target='_blank'>Connect Amazon Bedrock agents to cross-account knowledge bases</a></strong> — <em>2025-11-07 23:14:33</em></summary>
+    <details><summary><strong><a href='https://spectrum.ieee.org/large-language-models-reading-clocks' target='_blank'>AI Models Fail Miserably at This One Easy Task: Telling Time</a></strong> — <em>2025-11-08 14:00:03</em></summary>
 
-Organizations need seamless access to their structured data repositories to power intelligent AI agents. However, when these resources span multiple AWS accounts integration challenges can arise. This post explores a practical solution for connecting Amazon Bedrock agents to knowledge bases in Amazon Redshift clusters residing in different AWS accounts.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/' target='_blank'>Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock</a></strong> — <em>2025-11-07 21:51:22</em></summary>
-
-In this blog post, we explore how TR addressed key business use cases with Open Arena, a highly scalable and flexible no-code AI solution powered by Amazon Bedrock and other AWS services such as Amazon OpenSearch Service, Amazon Simple Storage Service (Amazon S3), Amazon DynamoDB, and AWS Lambda. We'll explain how TR used AWS services to build this solution, including how the architecture was designed, the use cases it solves, and the business profiles that use it.
+This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.The rapidly advancing abilities of AI have left many people worrying. But don’t fret quite yet: If you can read an analog clock correctly, you are still outperforming AI in that regard.AI models that are capable of analyzing different types of media in the form of text, images and video—called multimodal large language models (MLLMs)—are gaining traction in various applications, such as sports analytics and autonomous driving. But sometimes, these models can fail at what seems like the simplest of tasks, including accurately reading time from analog clock. This raises questions of which factors of image analysis, exactly, are these models struggling with. For example, when it comes to reading traditional clocks, do the models struggle to discern between the short and long hands? Or struggle to pinpoint the exact angle and direction of hands relative to the numbers? The answers to these seemingly trivial questions can provide critical insights into the major limitations of these models. Javier Conde, an assistant professor at the Universidad Politécnica de Madrid, and colleagues at Politécnico di Milano and Universidad de Valladolid, sought to investigate these limitations in a recent study. The results, published 16 October in IEEE Internet Computing, suggest that if a MLLM struggles with one facet of image analysis, this can cause a cascading effect that impacts other aspects of its image analysis. How Well Can AI Tell Time?First, the research team constructed a large dataset of synthetic images of analog clocks, which collectively displayed more than 43,000 indicated times, and tested the ability of four different MLLMs to read the times in a subset of images. All four models initially failed to tell time accurately. The researchers were able to boost performance of the models by training them with an additional 5,000 images from the dataset and testing the models again, using additional images they hadn’t seen before. However, the models’ performance dropped again when tested against a completely new collection of clock images. The results touch on a key limitation of many AI models: They are good at recognizing data they are familiar with, but often fail to recognize new scenarios they have not yet encountered in their training data. In other words, they often lack generalization. Conde and his colleagues wanted to dig deeper into what makes it so difficult for MLLMs to tell time. If the problem is related to the model’s sensitivity to the spatial directions of a clock’s hands, then further fine-tuning could address this limitation—simply expose the model to more data and then it will become better at the task at hand. In a series of experiments, they created new datasets of analog clocks, either with distorted shapes or altered the appearance of the clock hands, for example by adding arrows to the ends. “While such variations pose little difficulty for humans, models often fail at this task,” Conde explains, citing Salvador Dalí’s famous painting of distorted clocks, The Persistence of Memory. While humans can decipher the time of the warped, melting clocks, MLLMs struggle to tell the time of similarly warped clocks.The results show that MLLMS struggle to pinpoint the spatial orientation of the clock hands, but struggle even more so when the clock hands have a unique appearance (for example, arrows on their tips) which the model hasn’t been extensively exposed to. However, these issues were not exclusive from one another: Through additional experiments, the researchers found that if the MLLMs made an error in recognizing the clock hands, this in turn resulted in greater spatial errors. “It appears that reading the time is not as simple a task as it may seem, since the model must identify the clock hands, determine their orientations, and combine these observations to infer the correct time,” Conde explains, noting that the models struggle to process these changes simultaneously. In their study, the researchers underscored that, in more complex real-world scenarios such as medical image analysis or autonomous driving perception, these subtle yet critical failures could lead to more severe consequences.“These results demonstrate that we cannot take model performance for granted,” Conde says, emphasizing the need for extensive training and testing with varied inputs is necessary to ensure that models remain robust against the diverse scenarios they are likely to encounter in real-world applications.Many people anticipate that AI will continue to improve, and this in turn raises the question: will AI models eventually be able to accurately read traditional analog clocks? Only time will tell.This story was updated on 8 November, 2025 to correct that the analog clock data used by the researchers was synthetic data, not publicly available data.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/' target='_blank'>Evaluating Synthetic Data — The Million Dollar Question</a></strong> — <em>2025-11-07 20:23:50</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/power-analysis-in-marketing/' target='_blank'>Power Analysis in Marketing: A Hands-On Introduction</a></strong> — <em>2025-11-08 14:00:00</em></summary>
 
-Learn how to evaluate synthetic data quality using the Maximum Similarity Test — a simple, quantitative approach for assessing fidelity, utility, and privacy in synthetic datasets.
-The post Evaluating Synthetic Data — The Million Dollar Question appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2025/mit-energy-initiative-launches-data-center-power-forum-1107' target='_blank'>MIT Energy Initiative launches Data Center Power Forum</a></strong> — <em>2025-11-07 19:55:00</em></summary>
-
-MIT faculty and MITEI member company experts address power demand from data centers.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/introducing-structured-output-for-custom-model-import-in-amazon-bedrock/' target='_blank'>Introducing structured output for Custom Model Import in Amazon Bedrock</a></strong> — <em>2025-11-07 18:53:55</em></summary>
-
-Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/' target='_blank'>Building an Interactive AI Agent for Lightning-Fast Machine Learning Tasks</a></strong> — <em>2025-11-07 17:44:52</em></summary>
-
-Data scientists spend a lot of time cleaning and preparing large, unstructured datasets before analysis can begin, often requiring strong programming and...
-
-</details>
-
-<details><summary><strong><a href='https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/' target='_blank'>Introducing Nested Learning: A new ML paradigm for continual learning</a></strong> — <em>2025-11-07 17:37:22</em></summary>
-
-Algorithms & Theory
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/benchmarking-llms-on-ai-generated-cuda-code-with-computeeval-2025-2/' target='_blank'>Benchmarking LLMs on AI-Generated CUDA Code with ComputeEval 2025.2</a></strong> — <em>2025-11-07 16:30:00</em></summary>
-
-Can AI coding assistants write efficient CUDA code? To help measure and improve their capabilities, we created ComputeEval, a robust, open source benchmark for...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/beyond-numbers-how-to-humanize-your-data-analysis/' target='_blank'>Beyond Numbers: How to Humanize Your Data & Analysis</a></strong> — <em>2025-11-07 14:00:00</em></summary>
-
-The scintillating grid optical illusion is a perfect metaphor for how raw data can mislead us, causing us to see false trends. To escape the "data-rich, action-poor" paradox, organizations should need data humanization.
-This approach focuses on turning abstract metrics (the what) into clear, actionable stories (the why). It requires new roles like "Data Artisans," a core competency in "Data Storytelling," and a focus on proving the financial Impact (ROI) of these clearer insights.
-The post Beyond Numbers: How to Humanize Your Data & Analysis appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-use-gpt-5-effectively/' target='_blank'>How to Use GPT-5 Effectively</a></strong> — <em>2025-11-07 12:30:00</em></summary>
-
-Learn about GPT-5's features and settings, and how to optimally apply them to your use case
-The post How to Use GPT-5 Effectively appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/prompt-injections' target='_blank'>Understanding prompt injections: a frontier security challenge</a></strong> — <em>2025-11-07 11:30:00</em></summary>
-
-Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/notion' target='_blank'>Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows</a></strong> — <em>2025-11-07 10:00:00</em></summary>
-
-Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.
+Part 1: What is statistical power and how do we compute it?
+The post Power Analysis in Marketing: A Hands-On Introduction appeared first on Towards Data Science.
 
 </details>
 
