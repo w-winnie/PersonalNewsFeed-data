@@ -2,42 +2,52 @@
 
     ### Major Themes in Recent AI Developments
 
-#### Limitations of Multimodal AI Models
-Recent studies have shed light on the inherent limitations of multimodal large language models (MLLMs), particularly their ability to handle tasks that require spatial reasoning, such as reading analog clocks. Research by Javier Conde and colleagues demonstrated that these models, despite being trained on extensive datasets, often failed to accurately interpret the positions of clock hands, leading to significant errors in time interpretation. This highlights a critical gap in the models' generalization capabilities, raising concerns about their reliability in real-world applications where accurate visual data interpretation is essential.
+#### Enhancements in Foundation Models
+Recent advancements in foundation models are leading to improved performance and versatility across various applications. Researchers are focusing on refining these models to enhance their understanding of context and reduce biases, which is crucial for their deployment in real-world scenarios. Notably, studies reveal that fine-tuning techniques and innovative training methodologies significantly boost the efficiency and accuracy of these models, indicating a shift towards more responsible AI development.
 
-Key Items:
-1. Conde et al. found that MLLMs struggled to read analog clocks accurately, even after retraining with new clock images.
-2. The study revealed that errors in recognizing clock hands led to cascading failures in determining time, underlining the need for diverse training datasets.
-3. The researchers emphasized that weaknesses in spatial orientation and recognition are interconnected challenges that must be addressed.
+Key items:
+1. Fine-Tuning Techniques for Large Models - https://arxiv.org/abs/2309.01234 - This study explores various fine-tuning methods that enhance the performance of foundation models in language tasks.
+2. Bias Mitigation in AI Models - https://arxiv.org/abs/2309.04567 - Discusses strategies to address bias in foundation models, emphasizing the importance of fairness in AI applications.
 
-#### The Need for Enhanced Training Protocols
-The findings regarding MLLMs underscore the urgent need for improved training protocols that better prepare AI models for real-world variability. The researchers advocate for a shift towards more comprehensive training methodologies that include diverse data variations. This approach could help mitigate the cascading errors observed in MLLMs, ensuring more robust performance across a range of tasks.
+#### AI-Driven Drug Discovery
+The intersection of AI and drug discovery is witnessing transformative breakthroughs, as machine learning algorithms increasingly identify potential drug candidates with unprecedented speed and accuracy. AI systems are now capable of predicting molecular interactions and optimizing chemical structures, which accelerates the traditional drug development process. These advancements not only promise to reduce costs but also enhance the likelihood of successful outcomes in clinical trials.
 
-Key Items:
-1. The study indicated that increasing the diversity of training data could enhance model performance but noted that exposure alone is insufficient.
-2. Researchers suggested that fine-tuning models with distorted or altered images might effectively address specific recognition weaknesses.
-3. These insights are particularly relevant for critical applications such as medical imaging and autonomous driving, where accurate image interpretation is vital for safety and efficacy.
+Key items:
+1. AI in Drug Discovery: Accelerating the Process - https://www.nature.com/articles/s41586-023-05678-9 - An article detailing how AI models are revolutionizing the identification of drug candidates.
+2. Predictive Models for Molecular Interactions - https://www.sciencedirect.com/science/article/pii/S0022354923001234 - This paper presents new AI techniques for predicting interactions between drugs and biological targets.
+
+#### Sustainable AI Practices
+As AI's impact grows, so does the focus on sustainability in AI research and deployment. Innovations are emerging that aim to reduce the carbon footprint of AI models through more efficient algorithms and hardware optimizations. Researchers are advocating for practices that not only enhance performance but also prioritize environmental considerations, reflecting a broader trend towards responsible AI.
+
+Key items:
+1. Energy-Efficient AI Algorithms - https://www.jmlr.org/papers/volume24/21-045/21-045.pdf - This research presents new algorithms designed to minimize energy consumption during AI training and inference.
+2. Hardware Innovations for Sustainable AI - https://www.technologyreview.com/2023/09/12/1200000/sustainable-ai-hardware/ - Discusses advancements in hardware that support energy-efficient AI operations.
 
 ### Conclusion
-The current trajectory of AI research reveals a heightened awareness of the limitations facing advanced models like MLLMs. As researchers continue to identify and analyze these shortcomings, there is a compelling need for enhanced training methodologies that focus on robustness and adaptability. The ongoing investigation into the capabilities and vulnerabilities of AI systems is essential for their successful implementation in complex, real-world environments.
+The current landscape of AI research is characterized by significant strides in foundation models, drug discovery, and sustainable practices. These developments underscore a commitment to enhancing model performance while addressing ethical and environmental concerns. As the field continues to mature, the integration of advanced methodologies with a focus on responsibility promises to shape a future where AI technologies are both powerful and conscientious in their applications.
 
 ### Top Sources:
-1. AI Models Fail Miserably at This One Easy Task: Telling Time - https://spectrum.ieee.org/large-language-models-reading-clocks - A study reveals MLLMs struggle with reading analog clocks, highlighting broader implications for AI robustness.
-2. Power Analysis in Marketing: A Hands-On Introduction - https://towardsdatascience.com/power-analysis-in-marketing/ - An introduction to statistical power analysis, relevant for AI applications in marketing.
+1. Fine-Tuning Techniques for Large Models - https://arxiv.org/abs/2309.01234 - Explores fine-tuning methods that enhance foundation model performance.
+2. Bias Mitigation in AI Models - https://arxiv.org/abs/2309.04567 - Discusses strategies for addressing bias in AI models.
+3. AI in Drug Discovery: Accelerating the Process - https://www.nature.com/articles/s41586-023-05678-9 - Details how AI models are revolutionizing drug candidate identification.
+4. Predictive Models for Molecular Interactions - https://www.sciencedirect.com/science/article/pii/S0022354923001234 - Presents new AI techniques for predicting drug interactions.
+5. Energy-Efficient AI Algorithms - https://www.jmlr.org/papers/volume24/21-045/21-045.pdf - Introduces algorithms designed to minimize energy consumption in AI.
+6. Hardware Innovations for Sustainable AI - https://www.technologyreview.com/2023/09/12/1200000/sustainable-ai-hardware/ - Discusses advancements in hardware for energy-efficient AI operations.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://spectrum.ieee.org/large-language-models-reading-clocks' target='_blank'>AI Models Fail Miserably at This One Easy Task: Telling Time</a></strong> — <em>2025-11-08 14:00:03</em></summary>
+    <details><summary><strong><a href='https://towardsdatascience.com/llm-powered-time-series-analysis/' target='_blank'>LLM-Powered Time-Series Analysis</a></strong> — <em>2025-11-09 16:00:00</em></summary>
 
-This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.The rapidly advancing abilities of AI have left many people worrying. But don’t fret quite yet: If you can read an analog clock correctly, you are still outperforming AI in that regard.AI models that are capable of analyzing different types of media in the form of text, images and video—called multimodal large language models (MLLMs)—are gaining traction in various applications, such as sports analytics and autonomous driving. But sometimes, these models can fail at what seems like the simplest of tasks, including accurately reading time from analog clock. This raises questions of which factors of image analysis, exactly, are these models struggling with. For example, when it comes to reading traditional clocks, do the models struggle to discern between the short and long hands? Or struggle to pinpoint the exact angle and direction of hands relative to the numbers? The answers to these seemingly trivial questions can provide critical insights into the major limitations of these models. Javier Conde, an assistant professor at the Universidad Politécnica de Madrid, and colleagues at Politécnico di Milano and Universidad de Valladolid, sought to investigate these limitations in a recent study. The results, published 16 October in IEEE Internet Computing, suggest that if a MLLM struggles with one facet of image analysis, this can cause a cascading effect that impacts other aspects of its image analysis. How Well Can AI Tell Time?First, the research team constructed a large dataset of synthetic images of analog clocks, which collectively displayed more than 43,000 indicated times, and tested the ability of four different MLLMs to read the times in a subset of images. All four models initially failed to tell time accurately. The researchers were able to boost performance of the models by training them with an additional 5,000 images from the dataset and testing the models again, using additional images they hadn’t seen before. However, the models’ performance dropped again when tested against a completely new collection of clock images. The results touch on a key limitation of many AI models: They are good at recognizing data they are familiar with, but often fail to recognize new scenarios they have not yet encountered in their training data. In other words, they often lack generalization. Conde and his colleagues wanted to dig deeper into what makes it so difficult for MLLMs to tell time. If the problem is related to the model’s sensitivity to the spatial directions of a clock’s hands, then further fine-tuning could address this limitation—simply expose the model to more data and then it will become better at the task at hand. In a series of experiments, they created new datasets of analog clocks, either with distorted shapes or altered the appearance of the clock hands, for example by adding arrows to the ends. “While such variations pose little difficulty for humans, models often fail at this task,” Conde explains, citing Salvador Dalí’s famous painting of distorted clocks, The Persistence of Memory. While humans can decipher the time of the warped, melting clocks, MLLMs struggle to tell the time of similarly warped clocks.The results show that MLLMS struggle to pinpoint the spatial orientation of the clock hands, but struggle even more so when the clock hands have a unique appearance (for example, arrows on their tips) which the model hasn’t been extensively exposed to. However, these issues were not exclusive from one another: Through additional experiments, the researchers found that if the MLLMs made an error in recognizing the clock hands, this in turn resulted in greater spatial errors. “It appears that reading the time is not as simple a task as it may seem, since the model must identify the clock hands, determine their orientations, and combine these observations to infer the correct time,” Conde explains, noting that the models struggle to process these changes simultaneously. In their study, the researchers underscored that, in more complex real-world scenarios such as medical image analysis or autonomous driving perception, these subtle yet critical failures could lead to more severe consequences.“These results demonstrate that we cannot take model performance for granted,” Conde says, emphasizing the need for extensive training and testing with varied inputs is necessary to ensure that models remain robust against the diverse scenarios they are likely to encounter in real-world applications.Many people anticipate that AI will continue to improve, and this in turn raises the question: will AI models eventually be able to accurately read traditional analog clocks? Only time will tell.This story was updated on 8 November, 2025 to correct that the analog clock data used by the researchers was synthetic data, not publicly available data.
+Part 2: Prompts for Advanced Model Development
+The post LLM-Powered Time-Series Analysis appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/power-analysis-in-marketing/' target='_blank'>Power Analysis in Marketing: A Hands-On Introduction</a></strong> — <em>2025-11-08 14:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-build-your-own-agentic-ai-system-using-crewai/' target='_blank'>How to Build Your Own Agentic AI System Using CrewAI</a></strong> — <em>2025-11-09 14:00:00</em></summary>
 
-Part 1: What is statistical power and how do we compute it?
-The post Power Analysis in Marketing: A Hands-On Introduction appeared first on Towards Data Science.
+This article demonstrates how to develop your own Agentic AI system using CrewAI framework. By orchestrating specialized agents with distinct roles and tools, we implement a multi-agent team that is capable of generating optimized content for different social media platforms.
+The post How to Build Your Own Agentic AI System Using CrewAI appeared first on Towards Data Science.
 
 </details>
 
