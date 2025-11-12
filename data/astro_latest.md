@@ -1,251 +1,208 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics and Space Technology
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Advances in Autonomous Space Systems
-Recent developments in satellite technology have seen the successful in-orbit testing of an AI-based attitude controller aboard the 3U nanosatellite InnoCube. This milestone represents the first instance of AI autonomously managing satellite orientation, which could significantly streamline future space missions by reducing the need for human oversight. The implications extend beyond operational efficiency, potentially enhancing the safety and complexity of satellite functions.
-
-Key items:
-1. AI controls satellite attitude in orbit for first time - https://phys.org/news/2025-11-ai-satellite-attitude-orbit.html - This groundbreaking test demonstrates the potential for autonomous satellite systems.
-2. Scientists 3D printed muscle tissue in microgravity - https://www.space.com/astronomy/earth/scientists-3d-printed-muscle-tissue-in-microgravity-the-goal-is-to-make-human-organs-from-scratch - Aiming to create human organs in space, this research showcases the intersection of biotechnology and space exploration.
-
-#### Cosmic Structure and Composition Insights
-New studies have reshaped our understanding of cosmic dust, indicating it may be "spongier" than previously thought. This finding could influence theories on planet formation and the distribution of materials throughout the universe. Furthermore, research suggests that water may be a fundamental component during the early stages of planetary formation, hinting at a greater prevalence of habitable conditions across the cosmos.
+#### Early Universe Star Formation
+Recent observations have revealed a remarkable region in the early universe where stars form at a staggering rate—180 times that of the Milky Way. This discovery challenges existing theories of galaxy formation and suggests that rapid star formation played a crucial role in the growth of galaxies shortly after the Big Bang. Understanding these processes may significantly alter our theories of cosmic evolution and the conditions that prevailed in the universe's infancy.
 
 Key items:
-1. Cosmic dust bunnies: Why the universe might be fluffier than we thought - https://phys.org/news/2025-11-cosmic-bunnies-universe-fluffier-thought.html - This research reshapes our understanding of cosmic materials and their role in the universe.
-2. Planets may make their own water as they form - https://www.space.com/space-exploration/search-for-life/planets-may-make-their-own-water-as-they-form-could-that-mean-more-habitable-worlds-in-the-universe - New findings suggest that the conditions for habitability could be more common in the universe.
+1. **Superheated Star Factory Discovered** - https://phys.org/news/2025-11-superheated-star-factory-early-universe.html - Astronomers have identified a region where stars are forming at unprecedented rates, challenging existing models of galaxy formation.
+2. **Observations Suggest GRB Origin for Fast X-ray Transient** - https://phys.org/news/2025-11-grb-fast-ray-transient-einstein.html - New findings indicate a gamma-ray burst origin for a recently detected fast X-ray transient, shedding light on high-energy processes in the universe.
 
-#### Breakthroughs in Observational Astronomy
-The ESA's Solar Orbiter has successfully captured its first close-up images of the Sun's magnetic engine, offering unprecedented insights into solar dynamics. Additionally, the Southern African Large Telescope (SALT) has celebrated 20 years of contributions to astrophysics, enhancing our understanding of various cosmic phenomena and solidifying its role in the global astronomical community.
+#### Advancements in Space Exploration Technology
+India is progressing toward its first human spaceflight with successful parachute system tests for its Gaganyaan capsule, marking a pivotal moment in its space program. Concurrently, innovative designs for lunar mining robots are emerging, focusing on in-situ resource utilization, which is essential for sustainable human exploration of the Moon and beyond. These advancements highlight a growing international interest in human space exploration and resource extraction technologies.
 
 Key items:
-1. ESA's sun spacecraft captures 1st close-up of our star's magnetic engine in motion - https://www.space.com/astronomy/sun/esas-sun-spacecraft-captures-1st-close-up-of-our-stars-magnetic-engine-in-motion - This marks a significant advancement in solar research.
-2. South Africa's flagship telescope at 20: An eye on the sky and on the community - https://phys.org/news/2025-11-south-africa-flagship-telescope-eye.html - Celebrating two decades of scientific discovery, SALT continues to impact our understanding of the universe.
+1. **India Tests Parachutes for Gaganyaan** - https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video - Successful parachute tests bring India closer to its first human spaceflight.
+2. **New Robot for Lunar Mining** - https://phys.org/news/2025-11-robot-clever-lunar.html - Robotics designed for lunar resource extraction could play a crucial role in supporting human exploration.
 
-### Conclusion
-The current landscape in astrophysics and space technology is characterized by significant advancements in autonomous systems, deeper insights into cosmic materials, and enhanced observational capabilities. These developments not only push the boundaries of our understanding of the universe but also set the stage for future explorations and discoveries that could reshape our knowledge of planetary habitability and the dynamics of celestial bodies.
+#### Astrobiology and Habitability Studies
+Research into rogue moons has taken an intriguing turn, suggesting that these celestial bodies may possess conditions suitable for life, despite their detachment from parent planets. This perspective broadens the search for habitable environments, encouraging scientists to explore unconventional locations in the universe. Additionally, new methodologies for studying exoplanets with dense cloud cover could enhance our ability to detect signs of life.
 
-### Top Sources:
-1. AI controls satellite attitude in orbit for first time - https://phys.org/news/2025-11-ai-satellite-attitude-orbit.html - This groundbreaking test demonstrates the potential for autonomous satellite systems.
-2. Cosmic dust bunnies: Why the universe might be fluffier than we thought - https://phys.org/news/2025-11-cosmic-bunnies-universe-fluffier-thought.html - This research reshapes our understanding of cosmic materials and their role in the universe.
-3. Planets may make their own water as they form - https://www.space.com/space-exploration/search-for-life/planets-may-make-their-own-water-as-they-form-could-that-mean-more-habitable-worlds-in-the-universe - New findings suggest that the conditions for habitability could be more common in the universe.
-4. ESA's sun spacecraft captures 1st close-up of our star's magnetic engine in motion - https://www.space.com/astronomy/sun/esas-sun-spacecraft-captures-1st-close-up-of-our-stars-magnetic-engine-in-motion - This marks a significant advancement in solar research.
-5. South Africa's flagship telescope at 20: An eye on the sky and on the community - https://phys.org/news/2025-11-south-africa-flagship-telescope-eye.html - Celebrating two decades of scientific discovery, SALT continues to impact our understanding of the universe.
-6. Scientists 3D printed muscle tissue in microgravity - https://www.space.com/astronomy/earth/scientists-3d-printed-muscle-tissue-in-microgravity-the-goal-is-to-make-human-organs-from-scratch - Aiming to create human organs in space, this research showcases the intersection of biotechnology and space exploration.
-7. 'Impossible' merger of two massive black holes explained - https://phys.org/news/2025-11-impossible-merger-massive-black-holes.html - This study sheds light on the formation of massive black holes and challenges existing theories.
-8. China's Tianwen-1 orbiter spots 3I/ATLAS - https://phys.org/news/2025-11-china-tianwen-orbiter-3iatlas.html - New observations of interstellar objects enhance our understanding of these rare visitors.
-9. A neutron star’s weird wind rewrites space physics - https://www.sciencedaily.com/releases/2025/11/251110021054.htm - This discovery challenges existing models of radiation-driven outflows.
-10. Physicists prove the Universe isn’t a simulation after all - https://www.sciencedaily.com/releases/2025/11/251110021052.htm - This research challenges the simulation hypothesis and reveals fundamental truths about reality.
+Key items:
+1. **Rogue Moons and Life** - https://phys.org/news/2025-11-mind-rogue-planets-moons-life.html - Scientists suggest that rogue moons could possess the necessary conditions for life, broadening the scope of astrobiological studies.
+2. **Detecting Life in Cloudy Exoplanets** - https://phys.org/news/2025-11-life-clouds-worlds.html - New methodologies for studying exoplanets with dense cloud cover could enhance our ability to detect signs of life.
+
+### Synthesis
+The current landscape of astrophysics is marked by significant strides in understanding the universe's origins, advancing technologies for exploration, and expanding the criteria for habitability. Each discovery not only enriches our knowledge but also poses new questions for future research. This dynamic interplay between theoretical insights and practical applications is propelling the field forward, fostering a climate of curiosity and innovation.
+
+### Top Sources
+1. Superheated Star Factory Discovered - https://phys.org/news/2025-11-superheated-star-factory-early-universe.html - Astronomers have identified a region where stars are forming at unprecedented rates, challenging existing models of galaxy formation.
+2. Observations Suggest GRB Origin for Fast X-ray Transient - https://phys.org/news/2025-11-grb-fast-ray-transient-einstein.html - New findings indicate a gamma-ray burst origin for a recently detected fast X-ray transient.
+3. India Tests Parachutes for Gaganyaan - https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video - Successful parachute tests bring India closer to its first human spaceflight.
+4. New Robot for Lunar Mining - https://phys.org/news/2025-11-robot-clever-lunar.html - Robotics designed for lunar resource extraction could play a crucial role in supporting human exploration.
+5. Rogue Moons and Life - https://phys.org/news/2025-11-mind-rogue-planets-moons-life.html - Scientists suggest that rogue moons could possess the necessary conditions for life, broadening the scope of astrobiological studies.
+6. Detecting Life in Cloudy Exoplanets - https://phys.org/news/2025-11-life-clouds-worlds.html - New methodologies for studying exoplanets with dense cloud cover could enhance our ability to detect signs of life.
+7. China Plans to Go to the Moon by 2030 - https://phys.org/news/2025-11-china-moon-mission.html - China's lunar ambitions are set to unfold with plans for a crewed mission by the end of the decade.
+8. Sun Unleashes Strongest Solar Flare of 2025 - https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe - A powerful solar flare has caused widespread radio disruptions, highlighting the sun's impact on Earth.
+9. Flower-like Satellite Constellations for Titan Missions - https://phys.org/news/2025-11-satellite-constellations-future-missions-titan.html - Innovative satellite designs aim to overcome challenges in exploring Titan's unique environment.
+10. Mars Orbiter Observes Avalanche - https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact - A European Mars orbiter has documented the aftermath of a meteoroid impact, revealing insights into Martian geological processes.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2025-11-ai-satellite-attitude-orbit.html' target='_blank'>AI controls satellite attitude in orbit for first time</a></strong> — <em>2025-11-11 04:20:01</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2025-11-superheated-star-factory-early-universe.html' target='_blank'>Superheated star factory discovered in early universe</a></strong> — <em>2025-11-12 07:00:01</em></summary>
 
-As a true milestone on the path to autonomous space systems, a research team at Julius-Maximilians-Universität Würzburg (JMU) has successfully tested an AI-based attitude controller for satellites directly in orbit—a world first. The test was carried out aboard the 3U nanosatellite InnoCube.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/could-this-film-become-the-1st-western-movie-to-send-a-filmmaker-into-space' target='_blank'>Could this film become the 1st western movie to send a filmmaker into space?</a></strong> — <em>2025-11-10 23:00:00</em></summary>
-
-An Italian producer has announced plans for the first western film to launch a filmmaker into low-Earth orbit to shoot key scenes.
+The discovery of a superheated star factory that forms stars 180 times faster than our own Milky Way could help solve a long-standing puzzle about how galaxies grew so quickly in the early universe.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/astronomy-heaven-sky-telescope-tours-chile/' target='_blank'>Astronomy Heaven: Sky & Telescope Tours Chile</a></strong> — <em>2025-11-10 22:00:29</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-hard-good-photo-moon.html' target='_blank'>Why is it so hard to take a good photo of the moon with my phone?</a></strong> — <em>2025-11-12 04:10:01</em></summary>
 
-Sky & Telescope's Chile tour offered magnificent views of the southern sky, professional observatories, and one of the world’s most remarkable deserts.
-The post Astronomy Heaven: Sky & Telescope Tours Chile appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/shocking-vulnerabilities-satellite-communications-study' target='_blank'>'Shockingly large' amount of sensitive satellite communications are unencrypted and vulnerable to interception, researchers find</a></strong> — <em>2025-11-10 22:00:00</em></summary>
-
-A mind-boggling lack of encryption allowed researchers to eavesdrop on satellite links and intercept vast quantities of private communications, including those by government and military officials.
+It's a beautiful clear night. The stars are out and the moon looks breathtaking against the sky, so you reach for your phone to take a snap. The results are, to be blunt, disappointing.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-cosmic-bunnies-universe-fluffier-thought.html' target='_blank'>Cosmic dust bunnies: Why the universe might be fluffier than we thought</a></strong> — <em>2025-11-10 21:02:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video' target='_blank'>India tests parachutes for Gaganyaan astronaut capsule (video)</a></strong> — <em>2025-11-11 22:00:00</em></summary>
 
-Space dust provides more than just awe-inspiring pictures like the Pillars of Creation. It can provide the necessary materials to build everything from planets to asteroids. But what it actually looks like, especially in terms of its "porosity" (i.e., how many holes it has) has been an area of debate for astrochemists for decades. A new paper from Alexey Potapov of Friedrich Schiller University Jena and his co-authors published in The Astronomy and Astrophysics Review suggests that the dust that makes up so much of the universe might be "spongier" than originally thought.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-books/darth-vader-returns-in-the-new-star-wars-novel-master-of-evil-and-weve-got-a-sneak-peek-exclusive' target='_blank'>Darth Vader returns in the new 'Star Wars' novel 'Master of Evil', and we've got a sneak peek (exclusive)</a></strong> — <em>2025-11-10 21:00:00</em></summary>
-
-Author Adam Christopher takes us to Mustafar and beyond in the chilling new sci-fi story "Star Wars: Master of Evil."
+India took another step toward its first-ever human spaceflight last week, successfully testing the parachute system for its Gaganyaan astronaut capsule.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-habitable-zone-planets-red-dwarfs.html' target='_blank'>Habitable zone planets around red dwarfs aren't likely to host exomoons, simulations suggest</a></strong> — <em>2025-11-10 20:54:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/this-all-must-end-now-nasa-lab-closures-at-goddard-space-flight-center-under-congressional-scrutiny' target='_blank'>'This all must end now.' NASA lab closures at Goddard Space Flight Center under Congressional scrutiny</a></strong> — <em>2025-11-11 21:00:00</em></summary>
 
-There are no confirmed exomoons, moons orbiting distant exoplanets in other solar systems. There are a few candidates, but none have passed the threshold and been accepted as confirmed. But they must exist. Moons are common in our solar system, so it would be extremely weird if they didn't exist elsewhere.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-china-tianwen-orbiter-3iatlas.html' target='_blank'>China's Tianwen-1 orbiter spots 3I/ATLAS</a></strong> — <em>2025-11-10 20:50:03</em></summary>
-
-The interstellar object known as 3I/ATLAS just flew past Mars, and China's Tianwen-1 mission managed to snap some pics with its high-resolution camera. According to the China National Space Agency (CNSA), the orbiter's high-resolution camera captured images of the comet from a distance of about 30 million km (18.6 million mi). This makes the Tianwen-1 orbiter, which has been orbiting Mars for four years and eight months, one of the closest missions to observe the ISO since it was first detected (on May 7th, 2025).
+A congressional letter is putting NASA on blast.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/china-breaks-its-single-year-launch-record-with-weekend-flurry' target='_blank'>China breaks its single-year launch record with weekend flurry</a></strong> — <em>2025-11-10 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/see-mars-and-mercury-shine-in-the-glow-of-the-setting-sun-on-nov-12-2025' target='_blank'>See Mars and Mercury shine in the glow of the setting sun on Nov. 12</a></strong> — <em>2025-11-11 20:00:00</em></summary>
 
-Four Chinese rockets launched over the weekend, taking the nation's total for 2025 to a record-breaking 72 orbital missions.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-big-particle-interactions-black-holes.html' target='_blank'>Within a second after the Big Bang, particle interactions may have created black holes, boson stars and cannibal stars</a></strong> — <em>2025-11-10 19:50:03</em></summary>
-
-Before atomic elements came together, less than a second after the Big Bang, if particles condensed into halos of matter, these halos may then have collapsed, creating the first black holes, boson stars, and so-called cannibal stars. This is the conclusion of a new study just published in Physical Review D, conducted by a team of researchers from SISSA—Scuola Internazionale Superiore di Studi Avanzati, in collaboration with INFN, IFPU, and the University of Warsaw.
+Mars and Mercury will appear close to one another in the southwestern sky on Nov. 12.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/scientists-3d-printed-muscle-tissue-in-microgravity-the-goal-is-to-make-human-organs-from-scratch' target='_blank'>Scientists 3D printed muscle tissue in microgravity. The goal is to make human organs from scratch</a></strong> — <em>2025-11-10 19:21:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-mind-rogue-planets-moons-life.html' target='_blank'>Never mind rogue planets—their rogue moons could support life</a></strong> — <em>2025-11-11 19:47:04</em></summary>
 
-Scientists just 3D printed human muscle tissue in microgravity conditions. The ultimate goal is to make organs in space.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-south-africa-flagship-telescope-eye.html' target='_blank'>South Africa's flagship telescope at 20: An eye on the sky and on the community</a></strong> — <em>2025-11-10 18:03:05</em></summary>
-
-The Southern African Large Telescope (SALT) celebrates 20 years of observing the sky. SALT is the largest optical telescope in the southern hemisphere. It's been steadily revealing new science knowledge, ranging from the discovery of planets outside our solar system to understanding the unusual physics around black holes. It's also 20 years of doing science for society.
+At a young age, we're told how the sun warms Earth and makes life possible. That idea sticks with most of us for life. But when we want to understand things more thoroughly and we dig more deeply, we learn that Earth has its own heat sources that help it maintain habitability: remnant heat and radioactive decay. Other rocky worlds can have these sources, too.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/new-exosuit-with-artificial-muscles-could-help-astronauts-explore-the-moon-and-mars' target='_blank'>New 'exosuit' with artificial muscles could help astronauts explore the moon and Mars</a></strong> — <em>2025-11-10 18:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-china-moon-mission.html' target='_blank'>China plans to go to the moon by 2030. Here's what's known about the mission and why it matters</a></strong> — <em>2025-11-11 19:44:03</em></summary>
 
-A new "exosuit" was put through its paces with analog astronauts in Australia. The research team would love to try the suit out on the International Space Station, too.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-archaeologist-colonizing-worlds.html' target='_blank'>The archaeologist's guide to colonizing other worlds</a></strong> — <em>2025-11-10 17:55:04</em></summary>
-
-Models help scientists understand everything from the particles that make up the universe to massive superstructures of galaxies at the beginning of time. But sometimes they model more mundane, though perhaps even more complex, features—including the course of human civilization. A new paper by Thomas Leppard of the International Archaeological Research Institute and his co-authors, all of whom are also archaeologists, proposes applying a model of how humans expanded to the different islands across the Pacific Ocean during their early migration to glean insights into how humanity should manage our colonization of space.
+More than 50 years after the last time humans walked on the moon, China is working steadily toward landing its astronauts on the lunar surface.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/china-galactic-energy-ceres-1-rocket-launch-failure' target='_blank'>Private Chinese rocket fails during launch, 3 satellites lost</a></strong> — <em>2025-11-10 17:04:13</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-satellite-constellations-future-missions-titan.html' target='_blank'>Flower-like satellite constellations to guide future missions around Titan</a></strong> — <em>2025-11-11 19:41:04</em></summary>
 
-Galactic Energy's Ceres-1 rocket suffered a failure of its upper stage during a launch on Sunday (Nov. 9), leading to the loss of all three payloads on board.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-medieval-oxford-friar-stars-planets.html' target='_blank'>How a medieval Oxford friar used light and color to find out what stars and planets are made of</a></strong> — <em>2025-11-10 16:51:03</em></summary>
-
-During the 1240s, Richard Fishacre, a Dominican friar at Oxford University, used his knowledge of light and color to show that the stars and planets are made of the same elements found here on Earth. In so doing, he challenged the scientific orthodoxy of his day and preempted the methods and discoveries of the 21st-century James Webb space telescope.
+Titan, Saturn's largest natural satellite, captivates scientists with its Earth-like processes, dense nitrogen atmosphere, and surface lakes of liquid hydrocarbons. However, its nonuniform gravity field, thick haze, and low solar energy pose major obstacles for orbital missions. Traditional single-satellite systems struggle to balance coverage, stability, and data transmission under such conditions. Moreover, the gravitational pull from Saturn and nearby moons further complicates orbital control.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-tonight-nov-10-to-12' target='_blank'>Northern lights may be visible in 15 US states tonight</a></strong> — <em>2025-11-10 16:34:30</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/comet-lemmon-photos-are-plagued-by-satellite-streaks-heres-how-amateur-astronomers-face-the-problem' target='_blank'>Comet Lemmon photos are plagued by satellite streaks. Here's how amateur astronomers face the problem</a></strong> — <em>2025-11-11 19:00:00</em></summary>
 
-Auroras may be visible from Alaska to Iowa as an incoming flurry of coronal mass ejections could spark geomagnetic storm conditions overnight.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-interstellar-pose-threat-earth.html' target='_blank'>Do interstellar objects pose a threat to Earth?</a></strong> — <em>2025-11-10 16:20:04</em></summary>
-
-We know of three interstellar objects (ISO) that have visited our inner solar system. Oumuamua was the first one, and it came and went in 2017. 2l/Borisov, an interstellar comet, was next, appearing in 2019. And right now, the interstellar comet 3I/Atlas is enjoying a visit to the sun-warmed inner solar system.
+"Every single subframe I take (prior to stacking) now contains at least one, and usually more than one satellite streak."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-impossible-merger-massive-black-holes.html' target='_blank'>'Impossible' merger of two massive black holes explained</a></strong> — <em>2025-11-10 16:01:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact' target='_blank'>Mars orbiter spies 'barcode' aftermath of rare Red Planet avalanche caused by meteoroid impact</a></strong> — <em>2025-11-11 18:08:35</em></summary>
 
-In 2023, astronomers detected a huge collision. Two unprecedentedly massive black holes had crashed an estimated 7 billion light-years away. The enormous masses and extreme spins of the black holes puzzled astronomers. Black holes like these were not supposed to exist.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/planets-may-make-their-own-water-as-they-form-could-that-mean-more-habitable-worlds-in-the-universe' target='_blank'>Planets may make their own water as they form — could that mean more habitable worlds in the universe?</a></strong> — <em>2025-11-10 16:00:00</em></summary>
-
-New lab experiments suggest that water may not be a rare visitor delivered by chance but rather a fundamental ingredient woven into the process of planetary birth.
+A European Mars orbiter spotted barcode-like dust streaks on the slopes of Apollinaris Mons, revealing how tiny avalanches help drive the Red Planet's massive dust cycle.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-euclid-extra-years-fuel-scientist.html' target='_blank'>Euclid has eight extra years of fuel—a scientist has a brilliant plan to use it</a></strong> — <em>2025-11-10 15:19:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-life-clouds-worlds.html' target='_blank'>How to spot life in the clouds on other worlds</a></strong> — <em>2025-11-11 17:29:03</em></summary>
 
-It's almost become expected that many space telescopes and probes can have "extended missions." Both Voyagers are still sending data back 40+ years after their five-year primary mission ended. But figuring out what to do with those spacecraft after their primary mission takes some negotiation. One such craft that will reach its end-of-mission in 2030 is Euclid, which is currently on a mission to map the "dark universe" of dark energy and dark matter. According to a new paper from Luigi "Rolly" Bedin of the Astronomical Institute of Padua, which is available on the arXiv preprint server, for its second act we could turn Euclid into the most powerful astrometric telescope ever made.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/can-you-still-do-good-astrophotography-on-a-14-year-old-dslr' target='_blank'>Can you still do good astrophotography on a 14 year old DSLR?</a></strong> — <em>2025-11-10 15:00:00</em></summary>
-
-I took my Canon EOS Rebel T3i and headed to the fields to see whether the 14-year-old camera could grab great photos of the night sky.
+Cloud cover is bad for picnics and for viewing stars through a telescope. But an exoplanet with dense or even total cloud cover could help astronomers search for signs of life beyond our planet.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/esas-sun-spacecraft-captures-1st-close-up-of-our-stars-magnetic-engine-in-motion' target='_blank'>ESA's sun spacecraft captures 1st close-up of our star's magnetic engine in motion</a></strong> — <em>2025-11-10 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/denis-villeneuves-sci-fi-movies-ranked-worst-to-best' target='_blank'>Denis Villeneuve's sci-fi movies ranked, worst to best</a></strong> — <em>2025-11-11 17:00:00</em></summary>
 
-"Solar Orbiter can now provide this missing piece of the puzzle."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-totally-eclipsing-binary-uz-draconis.html' target='_blank'>Totally-eclipsing binary UZ Draconis inspected with TESS</a></strong> — <em>2025-11-10 14:22:30</em></summary>
-
-Astronomers from Keele University in the UK have utilized NASA's planet-hunting TESS telescope to investigate a totally-eclipsing binary known as UZ Draconis. Results of the new observations, published October 31 on the arXiv pre-print server, put more constraints on the properties of this system.
+The name's Villeneuve… Denis Villeneuve. As the acclaimed director takes the helm for the next James Bond movie, we're looking back at all his epic sci-fi movies to date.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games-toys/lego-city-modular-galactic-spaceship-review' target='_blank'>Lego City Modular Galactic Spaceship review</a></strong> — <em>2025-11-10 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-books/giving-gemini-its-due-apollo-13-author-jeffrey-kluger-honors-forgotten-nasa-program-with-new-book-exclusive-interview' target='_blank'>Giving Gemini its due: 'Apollo 13' author Jeffrey Kluger honors 'forgotten' NASA program with new book (exclusive interview)</a></strong> — <em>2025-11-11 16:00:00</em></summary>
 
-The perfect playset for kids wanting to jet off into space, the Lego City Modular Galactic Spaceship is a fun, detailed build.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/look-taurid-meteors-fireballs-at-their-best-this-week-november-2025' target='_blank'>The Taurid meteor shower could put on its best show this week — keep your eyes peeled for fireballs</a></strong> — <em>2025-11-10 14:00:00</em></summary>
-
-There is still time to look out for Taurid meteors lighting up November nights.
+"I felt like it was time to give the Gemini program its due. It was an opportunity not to be missed."
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/aurora-alert-sun-fires-off-2-colossal-x-flares-as-multiple-cmes-race-toward-earth' target='_blank'>Aurora alert! Sun fires off 2 colossal X flares as multiple CMEs race toward Earth</a></strong> — <em>2025-11-10 13:12:47</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-deployable-astronauts-muscle-mass-space.html' target='_blank'>New deployable structures could help astronauts maintain muscle mass in space</a></strong> — <em>2025-11-11 15:12:04</em></summary>
 
-Geomagnetic storm conditions are possible Nov. 10 through Nov. 12.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/volcano-belches-ash-over-chile-space-photo-of-the-day-for-nov-10-2025' target='_blank'>Volcano belches ash over Chile | Space photo of the day for Nov. 10, 2025</a></strong> — <em>2025-11-10 13:00:00</em></summary>
-
-The European Space Agency's Copernicus Sentinel-2 satellite mission captured a plume of ash over the Planchón-Peteroa volcanic complex.
+From muscle atrophy to bone loss, astronauts face a number of health risks while in space.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-laser-trial-eso-kickstarts-era.html' target='_blank'>Laser trial at ESO kickstarts new era of interferometry</a></strong> — <em>2025-11-10 12:07:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-robot-clever-lunar.html' target='_blank'>This new robot has a clever spin on lunar mining</a></strong> — <em>2025-11-11 15:07:04</em></summary>
 
-Last week, four lasers were projected into the sky above the European Southern Observatory (ESO) Paranal site in Chile. The lasers successfully created an "artificial star" that astronomers can use to measure and then correct the blur caused by Earth's atmosphere, ESO announced today.
+Work continues on designs for robots that can help assist the first human explorers on the moon in over half a century. One of the most important aspects of that future trip will be utilizing the resources available on the moon's surface, known as in-situ resource utilization (ISRU). This would give the explorers access to materials like water, structural metals, and propellant, but only if they can recover it from the rock and regolith that make up the moon's surface.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/11/Paxi_and_the_start_of_the_great_space_adventure' target='_blank'>Paxi and the start of the great space adventure</a></strong> — <em>2025-11-10 11:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-faa-restraints-spacex.html' target='_blank'>Amid new FAA restraints, SpaceX goes for record launch</a></strong> — <em>2025-11-11 15:00:10</em></summary>
+
+The government shutdown's strain on air traffic control has not only led to limitations on airlines, but spaceflight too.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/around-the-world-in-80-telescopes-a-space-trivia-quiz' target='_blank'>Around the world in 80 telescopes: a space trivia quiz</a></strong> — <em>2025-11-11 15:00:00</em></summary>
+
+This quiz explores the world's most powerful telescopes and observatories — on Earth and beyond.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/kenko-vc-smart-cellarto-10x30-wp-binoculars-review' target='_blank'>Kenko VC Smart Cellarto 10x30 WP binoculars review</a></strong> — <em>2025-11-11 15:00:00</em></summary>
+
+We put the Kenko VC Smart Cellarto 10x30 WP through their paces to find out if these image-stabilized smart binoculars live up to their name.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/comet-lemmon-lights-up-the-sky-over-spain-space-photo-of-the-day-for-nov-11-2025' target='_blank'>Comet Lemmon lights up the sky over Spain | Space photo of the day for Nov. 11, 2025</a></strong> — <em>2025-11-11 14:00:00</em></summary>
+
+This image captures Comet Lemmon in dramatic fashion, its bright coma and faint tail arcing across the starfield.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-grb-fast-ray-transient-einstein.html' target='_blank'>Observations suggest GRB origin for fast X-ray transient detected by Einstein Probe</a></strong> — <em>2025-11-11 13:00:01</em></summary>
+
+Astronomers have conducted multiwavelength observations of a recently detected fast X-ray transient designated EP241107a. Results of the observational campaign, published November 4 on the arXiv preprint server, shed more light on the nature of this transient, suggesting a gamma-ray burst origin.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/does-quantum-gravity-exist-a-new-experiment-has-deepened-the-mystery' target='_blank'>Does quantum gravity exist? A new experiment has deepened the mystery</a></strong> — <em>2025-11-11 13:00:00</em></summary>
+
+Quantum gravity seeks to unify the theory of general relativity with quantum physics to describe how gravity works at very small scales. But there's a big puzzle surrounding the idea.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-china-stranded-astronauts-good-condition.html' target='_blank'>China's stranded astronauts 'in good condition' after space debris delays planned return</a></strong> — <em>2025-11-11 12:44:31</em></summary>
+
+The stranded crew of a Chinese space mission is "in good condition, working and living normally," China's Manned Space Engineering office said on Tuesday.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe' target='_blank'>Sun unleashes strongest solar flare of 2025, sparking radio blackouts across Africa and Europe</a></strong> — <em>2025-11-11 12:40:37</em></summary>
+
+The X5.1-class eruption from sunspot AR4274 is this year's most powerful solar flare and Earth is in the firing line.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/fujifilm-fujinon-techno-stabi-ts-l-1640-image-stabilized-binoculars-review' target='_blank'>Fujifilm Fujinon Techno-Stabi TS-L 1640 image stabilized binoculars review</a></strong> — <em>2025-11-11 12:00:00</em></summary>
+
+Lightweight, image stabilized and with 16x magnification, these Fujifilm binoculars are a must-have for outdoor stargazing.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16' target='_blank'>John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16</a></strong> — <em>2025-11-11 11:00:00</em></summary>
 
 
 	Video: 
-			00:04:49
-				English: Paxi and the Start of the Great Space AdventureJoin Paxi on a journey through time! Learn how humans first started exploring space, why countries in Europe teamed up to create the European Space Agency (ESA), what ESA does today, and how kids can be part of the adventure. Czech: Paxi a Začátek velkého vesmírného dobrodružstvíVydejte se s Paxi na cestu časem! Dozvíte se, jak lidé začali zkoumat vesmír, proč se evropské země spojily a založily Evropskou kosmickou agenturu (ESA), čím se ESA dnes zabývá a jak se děti mohou zapojit do tohoto dobrodružství. Danish: Paxi og begyndelsen på det store rumeventyrTag med Paxi på en rejse gennem tiden! Lær, hvordan mennesket begyndte at udforske rummet, hvorfor lande i Europa gik sammen om at oprette Den Europæiske Rumorganisation (ESA), hvad ESA laver i dag, og hvordan børn kan være en del af eventyret. Dutch: Paxi en het begin van het grote ruimteavontuurGa met Paxi mee op een reis door de tijd! Ontdek hoe mensen voor het eerst de ruimte gingen verkennen, waarom Europese landen samen de Europese Ruimtevaartorganisatie (ESA) hebben opgericht, wat ESA vandaag de dag doet en hoe kinderen deel kunnen uitmaken van dit avontuur. Estonian: Paxi ja suure kosmoseseikluse algusLiitu Paxiga ajarännakule! Õpi, kuidas inimesed hakkasid kosmost uurima, miks Euroopa riigid ühinesid Euroopa Kosmoseagentuuri (ESA) loomiseks, mida ESA täna teeb ja kuidas lapsed saavad sellest seiklusest osa võtta. Finnish: Paxi ja suuren avaruusseikkailun alkuLähde Paxin kanssa matkalle ajassa taaksepäin! Opi, miten ihmiset alkoivat tutkia avaruutta, miksi Euroopan maat perustivat yhdessä Euroopan avaruusjärjestön (ESA), mitä ESA tekee nykyään ja miten lapset voivat osallistua seikkailuun.French: Paxi et le début de la grande aventure spatialeRejoignez Paxi dans un voyage à travers le temps ! Découvrez comment les humains ont commencé à explorer l'espace, pourquoi les pays européens se sont associés pour créer l'Agence spatiale européenne (ESA), ce que fait l'ESA aujourd'hui et comment les enfants peuvent participer à l'aventure. German: Paxi und der Beginn des großen WeltraumabenteuersBegleite Paxi auf einer Reise durch die Zeit! Erfahre, wie die Menschen begannen, den Weltraum zu erforschen, warum sich europäische Länder zusammengeschlossen haben, um die Europäische Weltraumorganisation (ESA) zu gründen, was die ESA heute macht und wie Kinder Teil dieses Abenteuers werden können. Greek: Ο Πάξι και η αρχή της μεγάλης διαστημικής περιπέτειαςΕλάτε μαζί με τον Paxi σε ένα ταξίδι στο χρόνο! Μάθετε πώς οι άνθρωποι άρχισαν να εξερευνούν το διάστημα, γιατί οι χώρες της Ευρώπης συνεργάστηκαν για να δημιουργήσουν τον Ευρωπαϊκό Οργανισμό Διαστήματος (ESA), τι κάνει σήμερα ο ESA και πώς τα παιδιά μπορούν να συμμετάσχουν σε αυτή την περιπέτεια. Hungrarian: Paxi és a nagy űrkaland kezdeteCsatlakozz Paxihoz egy időutazásra! Tudj meg, hogyan kezdték el az emberek az űr kutatását, miért álltak össze az európai országok az Európai Űrügynökség (ESA) létrehozására, mit csinál ma az ESA, és hogyan vehetnek részt a gyerekek is ebben a kalandban. Italian: Paxi e l’inizio della grande avventura nello SpazioUnisciti a Paxi in un viaggio attraverso il tempo! Scopri come gli esseri umani hanno iniziato a esplorare lo spazio, perché i paesi europei hanno collaborato per creare l'Agenzia Spaziale Europea (ESA), cosa fa oggi l'ESA e come i bambini possono partecipare a questa avventura. Norwegian: Paxi og starten på det store romeventyretBli med Paxi på en reise gjennom tiden! Lær hvordan menneskene først begynte å utforske verdensrommet, hvorfor landene i Europa gikk sammen om å opprette Den europeiske romorganisasjonen (ESA), hva ESA gjør i dag, og hvordan barn kan være med på eventyret. Polish: Paxi i początek wielkiej kosmicznej przygodyDołącz do Paxi w podróży przez czas! Dowiedz się, jak ludzie zaczęli odkrywać kosmos, dlaczego kraje europejskie połączyły siły, aby stworzyć Europejską Agencję Kosmiczną (ESA), czym zajmuje się obecnie ESA i jak dzieci mogą wziąć udział w tej przygodzie. Portuguese: Paxi e o início da grande aventura espacialJunte-se a Paxi numa viagem pelo tempo! Saiba como os humanos começaram a explorar o espaço, por que os países da Europa se uniram para criar a Agência Espacial Europeia (ESA), o que a ESA faz hoje e como as crianças podem fazer parte dessa aventura. Romanian: Paxi și începutul marii aventuri spațialeAlătură-te lui Paxi într-o călătorie în timp! Află cum au început oamenii să exploreze spațiul, de ce țările din Europa s-au asociat pentru a crea Agenția Spațială Europeană (ESA), ce face ESA astăzi și cum pot copiii să participe la această aventură. Slovenian: Paxi in začetek velike vesoljske pustolovščinePridružite se Paxiju na potovanju skozi čas! Spoznajte, kako so ljudje začeli raziskovati vesolje, zakaj so se evropske države združile in ustanovile Evropsko vesoljsko agencijo (ESA), kaj ESA počne danes in kako lahko otroci sodelujejo v tej pustolovščini. Spanish: Paxi y el comienzo de la gran aventura espacial¡Acompaña a Paxi en un viaje a través del tiempo! Descubre cómo los seres humanos comenzaron a explorar el espacio, por qué los países europeos se unieron para crear la Agencia Espacial Europea (ESA), qué hace la ESA hoy en día y cómo los niños pueden formar parte de la aventura. Swedish: Paxi & början på det stora rymdäventyretFölj med Paxi på en resa genom tiden! Lär dig hur människan började utforska rymden, varför länderna i Europa gick samman för att bilda Europeiska rymdorganisationen (ESA), vad ESA gör idag och hur barn kan vara med på äventyret. 
+			00:12:53
+				Meet John McFall – Paralympian, medical doctor and member of ESA’s Astronaut Reserve. As part of ESA’s groundbreaking FLY initiative, John is helping prove that physical disability is no barrier to space. In this episode, he shares the results of a feasibility study showing no technical showstoppers for flying to the International Space Station with a prosthesis and talks about what’s next—from hardware certification and scientific proposals to astronaut reserve training and running in microgravity.In this miniseries, we take you on a journey through the ESA Astronaut Reserve, diving into the first part of their Astronaut Reserve Training (ART) at the European Astronaut Centre (EAC) near Cologne, Germany. Our “ARTists” are immersing themselves in everything from ESA and the International Space Station programme to the European space industry and institutions. They’re gaining hands-on experience in technical skills like spacecraft systems and robotics, alongside human behaviour, scientific lessons, scuba diving and survival training. ESA’s Astronaut Reserve Training programme is all about building Europe’s next generation of space explorers—preparing them for the opportunities of future missions in Earth orbit and beyond.This interview was recorded in February 2025.You can listen to this episode on all major podcast platforms.Keep exploring with ESA Explores!
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/the-unistellar-equinox-2-is-our-telescope-experts-pick-as-the-best-overall-smart-telescope-and-is-now-usd700-off-in-this-early-black-friday-telescope-deal' target='_blank'>The Unistellar eQuinox 2 is our telescope experts' pick as the best overall smart telescope, and is now $700 off in this early Black Friday telescope deal</a></strong> — <em>2025-11-10 10:39:44</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/space-rescue-services-needed-2-stranded-astronaut-incidents-are-a-massive-wake-up-call-experts-say' target='_blank'>Space rescue services needed? 2 'stranded' astronaut incidents are a 'massive wake-up call,' experts say</a></strong> — <em>2025-11-11 11:00:00</em></summary>
 
-With almost 30% off this B&H Photo deal on the eQuinox 2 is even cheaper than Unistellar's own Black Friday sale.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-bezos-blue-postpones-rocket-weather.html' target='_blank'>Bezos's Blue Origin postpones rocket launch over weather</a></strong> — <em>2025-11-10 09:19:27</em></summary>
-
-Blue Origin, the space company owned by billionaire Jeff Bezos, was forced Sunday to postpone the anticipated launch of its New Glenn rocket due to unfavorable weather conditions.
+China's decision to delay the return of its Shenzhou 20 astronauts due to a possible space debris impact has led to discussion of space rescue planning — or lack of it.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251110021054.htm' target='_blank'>A neutron star’s weird wind rewrites space physics</a></strong> — <em>2025-11-10 08:48:49</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-6-87-jrti' target='_blank'>SpaceX launches Starlink satellites on record-breaking 94th liftoff of the year from Florida's Space Coast (video)</a></strong> — <em>2025-11-11 08:03:01</em></summary>
 
-XRISM’s observations of GX13+1 revealed a slow, fog-like wind instead of the expected high-speed blast, challenging existing models of radiation-driven outflows. The discovery hints that temperature differences in accretion discs may determine how energy shapes the cosmos.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251110021052.htm' target='_blank'>Physicists prove the Universe isn’t a simulation after all</a></strong> — <em>2025-11-10 08:16:44</em></summary>
-
-New research from UBC Okanagan mathematically demonstrates that the universe cannot be simulated. Using Gödel’s incompleteness theorem, scientists found that reality requires “non-algorithmic understanding,” something no computation can replicate. This discovery challenges the simulation hypothesis and reveals that the universe’s foundations exist beyond any algorithmic system.
+SpaceX launched 29 of its Starlink satellites from Cape Canaveral Space Force Station on Monday night (Nov. 10). It was the record-breaking 94th launch of the year from Florida's Space Coast.
 
 </details>
 
