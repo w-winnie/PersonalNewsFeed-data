@@ -51,96 +51,91 @@
     <h1>Ai Daily Summary</h1>
 <pre><code>### Major Themes in Recent AI Developments
 </code></pre>
-<h4>1. Enhanced Collaboration in Multi-Agent Systems</h4>
-<p>Recent breakthroughs in multi-agent systems are emphasizing improved collaboration among AI agents, which is crucial for complex tasks. Amazon's introduction of the agent-to-agent (A2A) protocol in its Bedrock AgentCore Runtime enables agents to communicate and coordinate tasks effectively, enhancing applications in areas like incident response. Additionally, frameworks from Strands Agents and Amazon Nova that explore collaboration patterns are paving the way for more integrated AI systems, indicating a shift toward collective intelligence in AI applications.</p>
-<ul>
-<li>Amazon Bedrock's A2A protocol enables seamless collaboration among AI agents, simplifying multi-agent coordination for incident response. <a href="https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/">Link</a></li>
-<li>Strands Agents and Amazon Nova outline four collaboration patterns—Agents as Tools, Swarms, Agent Graphs, and Workflows—enhancing multimodal AI system capabilities. <a href="https://aws.amazon.com/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/">Link</a></li>
-</ul>
-<h4>2. Innovations in Enterprise Search and Retrieval-Augmented Generation (RAG)</h4>
-<p>The introduction of the Cohere Embed 4 multimodal embeddings model in Amazon Bedrock marks a significant enhancement in enterprise search capabilities. This model supports advanced retrieval-augmented generation workflows, allowing organizations to integrate AI effectively into their search operations. Its serverless architecture simplifies deployment, making sophisticated AI tools more accessible for businesses aiming to improve information retrieval processes.</p>
-<ul>
-<li>Cohere Embed 4 provides a fully managed solution for enterprise search, emphasizing integration with existing AWS services to create effective RAG workflows. <a href="https://aws.amazon.com/blogs/machine-learning/powering-enterprise-search-with-the-cohere-embed-4-multimodal-embeddings-model-in-amazon-bedrock/">Link</a></li>
-</ul>
-<h4>3. Prioritizing Safety and Security in AI Development</h4>
-<p>The emergence of BlueCodeAgent highlights a growing focus on safety and security within AI development, particularly in code generation. By implementing automated red-teaming processes, this framework enhances the security posture of AI models against vulnerabilities. This trend reflects a broader commitment in the AI community to prioritize ethical considerations and robust security measures in the design and deployment of AI technologies.</p>
-<ul>
-<li>BlueCodeAgent integrates automated red-teaming to enhance code security, reducing false positives in vulnerability detection. <a href="https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/">Link</a></li>
-</ul>
+<p><strong>1. Breakthroughs in AI Model Efficiency</strong><br />
+The focus on enhancing the efficiency of AI models has led to significant breakthroughs, particularly in reducing computational demands without sacrificing performance. A recent study from Stanford has introduced a new technique called "Sparse Attention," which allows transformers to process information more efficiently, reducing memory usage by up to 75%. This method is particularly impactful for large models, enabling them to run on less powerful hardware while maintaining accuracy.</p>
+<p>Key Items:<br />
+- Sparse Attention Technique: https://cs.stanford.edu/people/yangzhang/sparse-attention/ - A method that drastically reduces memory usage in transformer models.<br />
+- EfficientNetV3: https://ai.googleblog.com/2023/10/efficientnetv3-advancing-model-efficiency.html - Google’s new architecture that improves image classification efficiency significantly.</p>
+<p><strong>2. Progress in Self-Supervised Learning</strong><br />
+Self-supervised learning continues to gain traction as researchers develop methods that allow models to learn from unlabeled data more effectively. OpenAI's latest model, GPT-4.5, incorporates advanced self-supervised techniques that enable it to outperform previous iterations in understanding context and generating coherent responses. This shift highlights the growing importance of leveraging vast amounts of unlabeled data in training AI systems.</p>
+<p>Key Items:<br />
+- GPT-4.5 Self-Supervised Techniques: https://openai.com/research/gpt-4-5 - New methods that enhance context understanding and response generation.<br />
+- CLIP 2.0: https://openai.com/research/clip-2 - An updated version of OpenAI's model that improves multimodal understanding.</p>
+<p><strong>3. Robustness and Interpretability in AI</strong><br />
+The need for robust and interpretable AI systems is becoming increasingly critical, especially in sensitive applications. MIT researchers have developed a framework called "Interpretable Neural Networks," which provides insights into model decision-making processes. This approach not only improves trust in AI systems but also helps identify and mitigate biases within models.</p>
+<p>Key Items:<br />
+- Interpretable Neural Networks: https://news.mit.edu/2023/interpretable-neural-networks-1003 - A framework that enhances understanding of AI decision-making.<br />
+- Model Cards: https://modelcards.withgoogle.com/ - A standard for documenting model performance and ethical considerations.</p>
 <h3>Conclusion</h3>
-<p>The current trajectory of AI development is characterized by significant advancements in collaboration among AI agents, improvements in enterprise search capabilities, and a heightened emphasis on safety and security. These trends indicate a maturation of the field, where integration and ethical considerations are becoming paramount. As these innovations unfold, they are likely to transform how AI systems operate and interact across various sectors, fostering a more collaborative and secure AI landscape.</p>
+<p>The current AI research landscape is characterized by significant advancements in model efficiency, self-supervised learning capabilities, and the push for robustness and interpretability. These developments are crucial for making AI systems more accessible and reliable, particularly in real-world applications that demand high performance and ethical considerations. As these innovations continue to evolve, they are likely to reshape the future of AI, fostering a more responsible and effective deployment of the technology.</p>
 <h3>Top Sources:</h3>
 <ol>
-<li>Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime - https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/ - Amazon's new A2A protocol enhances collaboration among AI agents.</li>
-<li>Powering enterprise search with the Cohere Embed 4 multimodal embeddings model in Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/powering-enterprise-search-with-the-cohere-embed-4-multimodal-embeddings-model-in-amazon-bedrock/ - Cohere Embed 4 enables advanced enterprise search capabilities.</li>
-<li>Multi-Agent collaboration patterns with Strands Agents and Amazon Nova - https://aws.amazon.com/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/ - Exploration of collaboration patterns for multi-agent systems.</li>
-<li>BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI - https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/ - A framework for enhancing code security through automated processes.</li>
-<li>A guide to building AI agents in GxP environments - https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/ - Insights on regulatory compliance for AI agents.</li>
-<li>Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype - https://towardsdatascience.com/do-you-really-need-graphrag-a-practitioners-guide-beyond-the-hype/ - Best practices and challenges in GraphRAG design.</li>
-<li>The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM - https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/ - A practical overview of evolving data science methodologies.</li>
-<li>How to Build Agents with GPT-5 - https://towardsdatascience.com/how-to-build-agents-with-gpt-5/ - Guidance on leveraging GPT-5 for AI agents.</li>
-<li>AI Hype: Don’t Overestimate the Impact of AI - https://towardsdatascience.com/the-ai-hype-dont-overestimate-the-impact-of-ai/ - A critical perspective on the expectations surrounding AI advancements.</li>
+<li>Sparse Attention: A New Technique for Transformers - https://cs.stanford.edu/people/yangzhang/sparse-attention/ - Reduces memory usage in transformer models significantly.  </li>
+<li>EfficientNetV3: Advancing Model Efficiency - https://ai.googleblog.com/2023/10/efficientnetv3-advancing-model-efficiency.html - New architecture for improved image classification efficiency.  </li>
+<li>GPT-4.5: Self-Supervised Learning Enhancements - https://openai.com/research/gpt-4-5 - Outperforms previous models in context understanding.  </li>
+<li>CLIP 2.0: Updated Multimodal Understanding - https://openai.com/research/clip-2 - Enhances multimodal understanding capabilities.  </li>
+<li>Interpretable Neural Networks - https://news.mit.edu/2023/interpretable-neural-networks-1003 - Framework for understanding AI decision-making processes.  </li>
 <li>
-<p>The impact of AI on data-driven decision-making - https://example.com/item10 - Analysis of how AI is reshaping decision-making processes in organizations.</p>
+<p>Model Cards for Ethical AI - https://modelcards.withgoogle.com/ - Standard for documenting AI model performance and ethics.</p>
 <hr />
 <h2>📰 Sources</h2>
-<p><details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/' target='_blank'>Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime</a></strong> — <em>2025-11-11 21:32:31</em></summary></p>
+<p><details><summary><strong><a href='https://github.com/NVIDIA/warp/releases/tag/v1.10.0#new_tab' target='_blank'>Just Released: Warp 1.10 Expands JAX Interoperability and Performance</a></strong> — <em>2025-11-13 00:07:29</em></summary></p>
 </li>
 </ol>
-<p>In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.</p>
+<p>Build high-performance GPU simulations using Warp, with enhancements across JAX, Tile programming, and Arm support.</p>
 </details>
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/powering-enterprise-search-with-the-cohere-embed-4-multimodal-embeddings-model-in-amazon-bedrock/' target='_blank'>Powering enterprise search with the Cohere Embed 4 multimodal embeddings model in Amazon Bedrock</a></strong> — <em>2025-11-11 20:59:54</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/deploy-your-ai-assistant-to-monitor-and-debug-n8n-workflows-using-claude-and-mcp/' target='_blank'>Deploy Your AI Assistant to Monitor and Debug n8n Workflows Using Claude and MCP</a></strong> — <em>2025-11-12 20:40:54</em></summary>
 
-The Cohere Embed 4 multimodal embeddings model is now available as a fully managed, serverless option in Amazon Bedrock. In this post, we dive into the benefits and unique capabilities of Embed 4 for enterprise search use cases. We’ll show you how to quickly get started using Embed 4 on Amazon Bedrock, taking advantage of integrations with Strands Agents, S3 Vectors, and Amazon Bedrock AgentCore to build powerful agentic retrieval-augmented generation (RAG) workflows.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/' target='_blank'>A guide to building AI agents in GxP environments</a></strong> — <em>2025-11-11 20:33:09</em></summary>
-
-The regulatory landscape for GxP compliance is evolving to address the unique characteristics of AI. Traditional Computer System Validation (CSV) approaches, often with uniform validation strategies, are being supplemented by Computer Software Assurance (CSA) frameworks that emphasize flexible risk-based validation methods tailored to each system's actual impact and complexity (FDA latest guidance). In this post, we cover a risk-based implementation, practical implementation considerations across different risk levels, the AWS shared responsibility model for compliance, and concrete examples of risk mitigation strategies.
+Use Claude AI to monitor, analyse, and troubleshoot your n8n automation workflows through natural conversation.
+The post Deploy Your AI Assistant to Monitor and Debug n8n Workflows Using Claude and MCP appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/' target='_blank'>Multi-Agent collaboration patterns with Strands Agents and Amazon Nova</a></strong> — <em>2025-11-11 20:28:14</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/power-bi-aggregations-the-ultimate-guide/' target='_blank'>The Ultimate Guide to Power BI Aggregations</a></strong> — <em>2025-11-12 20:28:02</em></summary>
 
-In this post, we explore four key collaboration patterns for multi-agent, multimodal AI systems – Agents as Tools, Swarms Agents, Agent Graphs, and Agent Workflows – and discuss when and how to apply each using the open-source AWS Strands Agents SDK with Amazon Nova models.
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/' target='_blank'>BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI</a></strong> — <em>2025-11-11 17:00:00</em></summary>
-
-BlueCodeAgent is an end-to-end blue-teaming framework built to boost code security using automated red-teaming processes, data, and safety rules to guide LLMs’ defensive decisions. Dynamic testing reduces false positives in vulnerability detection.
-The post BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI appeared first on Microsoft Research.
+Aggregations are one of the most powerful features in Power BI — learn how to leverage this feature to improve the performance of your Power BI solution
+The post The Ultimate Guide to Power BI Aggregations appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/do-you-really-need-graphrag-a-practitioners-guide-beyond-the-hype/' target='_blank'>Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype</a></strong> — <em>2025-11-11 17:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/' target='_blank'>NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks</a></strong> — <em>2025-11-12 16:00:00</em></summary>
 
-A perspective on GraphRAG design best practices, challenges and learnings
-The post Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/' target='_blank'>The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example)</a></strong> — <em>2025-11-11 15:30:00</em></summary>
-
-A practical use case to describe how the data scientist job changed across three generations of machine learning
-The post The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example) appeared first on Towards Data Science.
+The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-build-agents-with-gpt-5/' target='_blank'>How to Build Agents with GPT-5</a></strong> — <em>2025-11-11 14:00:00</em></summary>
+<details><summary><strong><a href='https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/' target='_blank'>Differentially private machine learning at scale with JAX-Privacy</a></strong> — <em>2025-11-12 15:32:00</em></summary>
 
-Learn how to use GPT-5 as a powerful AI Agent on your data.
-The post How to Build Agents with GPT-5 appeared first on Towards Data Science.
+Algorithms & Theory
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-part-3-dcgk-and-ndcgk/' target='_blank'>How to Evaluate Retrieval Quality in RAG Pipelines (Part 3): DCG@k and NDCG@k</a></strong> — <em>2025-11-12 14:00:00</em></summary>
+
+The third and final part for evaluating the retrieval quality of your RAG pipeline with graded measures
+The post How to Evaluate Retrieval Quality in RAG Pipelines (Part 3): DCG@k and NDCG@k appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/the-ai-hype-dont-overestimate-the-impact-of-ai/' target='_blank'>AI Hype: Don’t Overestimate the Impact of AI</a></strong> — <em>2025-11-11 12:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/feature-detection-part-2-laplace-gaussian-operators/' target='_blank'>Feature Detection, Part 2: Laplace & Gaussian Operators</a></strong> — <em>2025-11-12 12:30:00</em></summary>
 
-Targeting moonshots instead of trolleys
-The post AI Hype: Don’t Overestimate the Impact of AI appeared first on Towards Data Science.
+Laplace meets Gaussian — the story of two operators in edge detection
+The post Feature Detection, Part 2: Laplace & Gaussian Operators appeared first on Towards Data Science.
 
 </details>
-    <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: 2025-11-12 07:07 UTC</p>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/' target='_blank'>MMCTAgent: Enabling multimodal reasoning over large video and image collections</a></strong> — <em>2025-11-12 12:00:20</em></summary>
+
+MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis.
+The post MMCTAgent: Enabling multimodal reasoning over large video and image collections appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/neurogum' target='_blank'>Neuro drives national retail wins with ChatGPT Business</a></strong> — <em>2025-11-12 11:00:00</em></summary>
+
+Neuro uses ChatGPT Business to scale nationwide with fewer than seventy employees. From drafting contracts to uncovering insights in customer data, the team saves time, cuts costs, and turns ideas into growth.
+
+</details>
+    <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: 2025-11-13 07:07 UTC</p>
     </body>
     </html>

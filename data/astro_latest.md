@@ -1,208 +1,298 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics Developments
+    ### Summary of Recent Developments in Astrophysics
 
-#### Early Universe Star Formation
-Recent observations have revealed a remarkable region in the early universe where stars form at a staggering rate—180 times that of the Milky Way. This discovery challenges existing theories of galaxy formation and suggests that rapid star formation played a crucial role in the growth of galaxies shortly after the Big Bang. Understanding these processes may significantly alter our theories of cosmic evolution and the conditions that prevailed in the universe's infancy.
-
-Key items:
-1. **Superheated Star Factory Discovered** - https://phys.org/news/2025-11-superheated-star-factory-early-universe.html - Astronomers have identified a region where stars are forming at unprecedented rates, challenging existing models of galaxy formation.
-2. **Observations Suggest GRB Origin for Fast X-ray Transient** - https://phys.org/news/2025-11-grb-fast-ray-transient-einstein.html - New findings indicate a gamma-ray burst origin for a recently detected fast X-ray transient, shedding light on high-energy processes in the universe.
-
-#### Advancements in Space Exploration Technology
-India is progressing toward its first human spaceflight with successful parachute system tests for its Gaganyaan capsule, marking a pivotal moment in its space program. Concurrently, innovative designs for lunar mining robots are emerging, focusing on in-situ resource utilization, which is essential for sustainable human exploration of the Moon and beyond. These advancements highlight a growing international interest in human space exploration and resource extraction technologies.
+#### Lunar Safety: Addressing Micrometeoroid Risks
+As NASA's Artemis program prepares for sustained lunar exploration, the impact of micrometeoroids—small particles that strike the Moon at velocities up to 70 km/s—has gained attention. These particles pose a significant threat to both the safety of astronauts and the integrity of equipment on the lunar surface. Ongoing research aims to quantify these risks and develop protective measures, which are crucial for the success of future missions.
 
 Key items:
-1. **India Tests Parachutes for Gaganyaan** - https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video - Successful parachute tests bring India closer to its first human spaceflight.
-2. **New Robot for Lunar Mining** - https://phys.org/news/2025-11-robot-clever-lunar.html - Robotics designed for lunar resource extraction could play a crucial role in supporting human exploration.
+1. "The hidden danger of lunar micrometeoroid storms" - https://phys.org/news/2025-11-hidden-danger-lunar-micrometeoroid-storms.html - Discusses the persistent threat of micrometeoroid impacts on lunar missions.
+2. NASA is integrating findings about micrometeoroid hazards into its Artemis safety protocols.
 
-#### Astrobiology and Habitability Studies
-Research into rogue moons has taken an intriguing turn, suggesting that these celestial bodies may possess conditions suitable for life, despite their detachment from parent planets. This perspective broadens the search for habitable environments, encouraging scientists to explore unconventional locations in the universe. Additionally, new methodologies for studying exoplanets with dense cloud cover could enhance our ability to detect signs of life.
+#### Insights into Black Hole Dynamics
+Recent discoveries regarding the merger of two massive black holes, previously thought to be impossible, are reshaping our understanding of black hole formation and evolution. This breakthrough challenges existing theoretical frameworks and opens new avenues for research into the dynamics of black holes and their influence on galactic structures.
 
 Key items:
-1. **Rogue Moons and Life** - https://phys.org/news/2025-11-mind-rogue-planets-moons-life.html - Scientists suggest that rogue moons could possess the necessary conditions for life, broadening the scope of astrobiological studies.
-2. **Detecting Life in Cloudy Exoplanets** - https://phys.org/news/2025-11-life-clouds-worlds.html - New methodologies for studying exoplanets with dense cloud cover could enhance our ability to detect signs of life.
+1. "Scientists solve the mystery of 'impossible' merger of 'forbidden' black holes" - https://www.space.com/astronomy/black-holes/scientists-solve-the-mystery-of-impossible-merger-of-forbidden-black-holes - Explores the implications of this merger on theoretical astrophysics.
 
-### Synthesis
-The current landscape of astrophysics is marked by significant strides in understanding the universe's origins, advancing technologies for exploration, and expanding the criteria for habitability. Each discovery not only enriches our knowledge but also poses new questions for future research. This dynamic interplay between theoretical insights and practical applications is propelling the field forward, fostering a climate of curiosity and innovation.
+#### Solar Activity and Its Consequences
+The recent surge in solar activity has resulted in intense geomagnetic storms, affecting satellite operations and creating stunning auroras visible as far south as Mexico. These events highlight the need for robust monitoring systems to mitigate risks associated with space weather, which can disrupt communication and navigation systems on Earth.
 
-### Top Sources
-1. Superheated Star Factory Discovered - https://phys.org/news/2025-11-superheated-star-factory-early-universe.html - Astronomers have identified a region where stars are forming at unprecedented rates, challenging existing models of galaxy formation.
-2. Observations Suggest GRB Origin for Fast X-ray Transient - https://phys.org/news/2025-11-grb-fast-ray-transient-einstein.html - New findings indicate a gamma-ray burst origin for a recently detected fast X-ray transient.
-3. India Tests Parachutes for Gaganyaan - https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video - Successful parachute tests bring India closer to its first human spaceflight.
-4. New Robot for Lunar Mining - https://phys.org/news/2025-11-robot-clever-lunar.html - Robotics designed for lunar resource extraction could play a crucial role in supporting human exploration.
-5. Rogue Moons and Life - https://phys.org/news/2025-11-mind-rogue-planets-moons-life.html - Scientists suggest that rogue moons could possess the necessary conditions for life, broadening the scope of astrobiological studies.
-6. Detecting Life in Cloudy Exoplanets - https://phys.org/news/2025-11-life-clouds-worlds.html - New methodologies for studying exoplanets with dense cloud cover could enhance our ability to detect signs of life.
-7. China Plans to Go to the Moon by 2030 - https://phys.org/news/2025-11-china-moon-mission.html - China's lunar ambitions are set to unfold with plans for a crewed mission by the end of the decade.
-8. Sun Unleashes Strongest Solar Flare of 2025 - https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe - A powerful solar flare has caused widespread radio disruptions, highlighting the sun's impact on Earth.
-9. Flower-like Satellite Constellations for Titan Missions - https://phys.org/news/2025-11-satellite-constellations-future-missions-titan.html - Innovative satellite designs aim to overcome challenges in exploring Titan's unique environment.
-10. Mars Orbiter Observes Avalanche - https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact - A European Mars orbiter has documented the aftermath of a meteoroid impact, revealing insights into Martian geological processes.
+Key items:
+1. "Severe geomagnetic storm sparks northern lights across North America and as far south as Mexico" - https://www.space.com/stargazing/auroras/severe-geomagnetic-storm-sparks-northern-lights-across-north-america-and-as-far-south-as-mexico-photos - Details the widespread visibility of auroras due to solar storms.
+2. "Intense solar storm delays Blue Origin launch of NASA Mars probes" - https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes - Highlights the operational impacts of solar activity on space missions.
+
+#### Mars' Ancient Habitability
+Emerging evidence indicates that ancient underground water on Mars may have prolonged its habitability, suggesting a more complex geological history than previously thought. This finding has significant implications for astrobiology and the search for past life on the Red Planet.
+
+Key items:
+1. "Evidence of ancient underground water reveals Mars may have stayed habitable longer than believed" - https://phys.org/news/2025-11-evidence-ancient-underground-reveals-mars.html - Discusses the implications for understanding Mars' potential for life.
+2. "Scientists discover caves carved by water on Mars that may have once harbored life" - https://phys.org/news/2025-11-scientists-caves-mars-harbored-life.html - Identifies specific locations for future Martian exploration.
+
+### Conclusion
+The field of astrophysics is currently witnessing significant advancements that enhance our understanding of both cosmic phenomena and planetary environments. From addressing the hazards of micrometeoroids for lunar missions to unraveling the complexities of black hole dynamics and solar activity, researchers are making strides that could redefine our grasp of the universe. Additionally, new insights into Martian habitability underscore the importance of subsurface water in astrobiological research, paving the way for future exploration endeavors.
+
+### Top Sources:
+1. The hidden danger of lunar micrometeoroid storms - https://phys.org/news/2025-11-hidden-danger-lunar-micrometeoroid-storms.html - Discusses the persistent threat of micrometeoroid impacts on lunar missions.
+2. Scientists solve the mystery of 'impossible' merger of 'forbidden' black holes - https://www.space.com/astronomy/black-holes/scientists-solve-the-mystery-of-impossible-merger-of-forbidden-black-holes - Explores the implications of this merger on theoretical astrophysics.
+3. Severe geomagnetic storm sparks northern lights across North America and as far south as Mexico - https://www.space.com/stargazing/auroras/severe-geomagnetic-storm-sparks-northern-lights-across-north-america-and-as-far-south-as-mexico-photos - Details the widespread visibility of auroras due to solar storms.
+4. Intense solar storm delays Blue Origin launch of NASA Mars probes - https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes - Highlights the operational impacts of solar activity on space missions.
+5. Evidence of ancient underground water reveals Mars may have stayed habitable longer than believed - https://phys.org/news/2025-11-evidence-ancient-underground-reveals-mars.html - Discusses the implications for understanding Mars' potential for life.
+6. Scientists discover caves carved by water on Mars that may have once harbored life - https://phys.org/news/2025-11-scientists-caves-mars-harbored-life.html - Identifies specific locations for future Martian exploration.
+7. Unique shape of star's explosion revealed just a day after detection - https://phys.org/news/2025-11-unique-star-explosion-revealed-day.html - Details the early observations of a supernova explosion.
+8. Astronomers spot 1st coronal mass ejection from an alien star - https://www.space.com/astronomy/stars/astronomers-spot-1st-coronal-mass-ejection-from-an-alien-star-and-thats-bad-news-in-the-search-for-life - Discusses implications for habitability around other stars.
+9. NASA's Webb finds life’s building blocks frozen in a galaxy next door - https://www.sciencedaily.com/releases/2025/11/251112011838.htm - Reports on complex organic molecules found in a neighboring galaxy.
+10. Astronomers discover the famous Pleiades star cluster could be 20 times bigger than we thought - https://www.space.com/astronomy/astronomers-discover-the-famous-pleiades-star-cluster-could-be-20-times-bigger-than-we-thought - Explains the expanded understanding of the Pleiades cluster.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2025-11-superheated-star-factory-early-universe.html' target='_blank'>Superheated star factory discovered in early universe</a></strong> — <em>2025-11-12 07:00:01</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2025-11-hidden-danger-lunar-micrometeoroid-storms.html' target='_blank'>The hidden danger of lunar micrometeoroid storms</a></strong> — <em>2025-11-13 01:30:04</em></summary>
 
-The discovery of a superheated star factory that forms stars 180 times faster than our own Milky Way could help solve a long-standing puzzle about how galaxies grew so quickly in the early universe.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-hard-good-photo-moon.html' target='_blank'>Why is it so hard to take a good photo of the moon with my phone?</a></strong> — <em>2025-11-12 04:10:01</em></summary>
-
-It's a beautiful clear night. The stars are out and the moon looks breathtaking against the sky, so you reach for your phone to take a snap. The results are, to be blunt, disappointing.
+The moon has no significant atmosphere, no weather, and no wind. Yet it faces an invisible bombardment more relentless than any terrestrial storm, a constant rain of micrometeoroids, tiny fragments of rock and metal traveling at speeds up to 70 kilometers per second. As NASA's Artemis program prepares to establish a permanent lunar base, understanding this silent threat has become critical to keeping future astronauts safe.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video' target='_blank'>India tests parachutes for Gaganyaan astronaut capsule (video)</a></strong> — <em>2025-11-11 22:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/mario-and-peach-go-planet-hopping-in-1st-trailer-for-the-super-mario-galaxy-movie-video' target='_blank'>Mario and Peach go planet-hopping in 1st trailer for 'The Super Mario Galaxy Movie' (video)</a></strong> — <em>2025-11-12 23:31:08</em></summary>
 
-India took another step toward its first-ever human spaceflight last week, successfully testing the parachute system for its Gaganyaan astronaut capsule.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/this-all-must-end-now-nasa-lab-closures-at-goddard-space-flight-center-under-congressional-scrutiny' target='_blank'>'This all must end now.' NASA lab closures at Goddard Space Flight Center under Congressional scrutiny</a></strong> — <em>2025-11-11 21:00:00</em></summary>
-
-A congressional letter is putting NASA on blast.
+Brie Larson and Benny Safdie join the original vocal cast for this cosmic Super Mario Brothers sequel.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/see-mars-and-mercury-shine-in-the-glow-of-the-setting-sun-on-nov-12-2025' target='_blank'>See Mars and Mercury shine in the glow of the setting sun on Nov. 12</a></strong> — <em>2025-11-11 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/scientists-solve-the-mystery-of-impossible-merger-of-forbidden-black-holes' target='_blank'>Scientists solve the mystery of 'impossible' merger of 'forbidden' black holes</a></strong> — <em>2025-11-12 22:00:00</em></summary>
 
-Mars and Mercury will appear close to one another in the southwestern sky on Nov. 12.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-mind-rogue-planets-moons-life.html' target='_blank'>Never mind rogue planets—their rogue moons could support life</a></strong> — <em>2025-11-11 19:47:04</em></summary>
-
-At a young age, we're told how the sun warms Earth and makes life possible. That idea sticks with most of us for life. But when we want to understand things more thoroughly and we dig more deeply, we learn that Earth has its own heat sources that help it maintain habitability: remnant heat and radioactive decay. Other rocky worlds can have these sources, too.
+Scientists may have solved the mystery of an "impossible" merger between two black holes so massive and fast-spinning that they shouldn't even exist, according to current theory.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-china-moon-mission.html' target='_blank'>China plans to go to the moon by 2030. Here's what's known about the mission and why it matters</a></strong> — <em>2025-11-11 19:44:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-earth-largest-modern-crater-southern.html' target='_blank'>Earth's largest modern crater discovered in Southern China</a></strong> — <em>2025-11-12 21:43:03</em></summary>
 
-More than 50 years after the last time humans walked on the moon, China is working steadily toward landing its astronauts on the lunar surface.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-satellite-constellations-future-missions-titan.html' target='_blank'>Flower-like satellite constellations to guide future missions around Titan</a></strong> — <em>2025-11-11 19:41:04</em></summary>
-
-Titan, Saturn's largest natural satellite, captivates scientists with its Earth-like processes, dense nitrogen atmosphere, and surface lakes of liquid hydrocarbons. However, its nonuniform gravity field, thick haze, and low solar energy pose major obstacles for orbital missions. Traditional single-satellite systems struggle to balance coverage, stability, and data transmission under such conditions. Moreover, the gravitational pull from Saturn and nearby moons further complicates orbital control.
+A newly discovered, remarkably well-preserved impact crater is shedding fresh light on how extraterrestrial bodies collide with Earth.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/comet-lemmon-photos-are-plagued-by-satellite-streaks-heres-how-amateur-astronomers-face-the-problem' target='_blank'>Comet Lemmon photos are plagued by satellite streaks. Here's how amateur astronomers face the problem</a></strong> — <em>2025-11-11 19:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-solar-storms-delay-blue-big.html' target='_blank'>Solar storms delay the launch of Blue Origin's big new rocket with Mars orbiters for NASA</a></strong> — <em>2025-11-12 20:21:30</em></summary>
 
-"Every single subframe I take (prior to stacking) now contains at least one, and usually more than one satellite streak."
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact' target='_blank'>Mars orbiter spies 'barcode' aftermath of rare Red Planet avalanche caused by meteoroid impact</a></strong> — <em>2025-11-11 18:08:35</em></summary>
-
-A European Mars orbiter spotted barcode-like dust streaks on the slopes of Apollinaris Mons, revealing how tiny avalanches help drive the Red Planet's massive dust cycle.
+Intense solar storms responsible for breathtaking auroras across the U.S. delayed the launch of Blue Origin's big new rocket Wednesday.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-life-clouds-worlds.html' target='_blank'>How to spot life in the clouds on other worlds</a></strong> — <em>2025-11-11 17:29:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-solar-storms-northern-unexpected.html' target='_blank'>Solar storms bring colorful northern lights to unexpected places</a></strong> — <em>2025-11-12 20:20:49</em></summary>
 
-Cloud cover is bad for picnics and for viewing stars through a telescope. But an exoplanet with dense or even total cloud cover could help astronomers search for signs of life beyond our planet.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/denis-villeneuves-sci-fi-movies-ranked-worst-to-best' target='_blank'>Denis Villeneuve's sci-fi movies ranked, worst to best</a></strong> — <em>2025-11-11 17:00:00</em></summary>
-
-The name's Villeneuve… Denis Villeneuve. As the acclaimed director takes the helm for the next James Bond movie, we're looking back at all his epic sci-fi movies to date.
+Solar storms brought colorful auroras to unexpected places on Tuesday night, and there could be more to come.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-books/giving-gemini-its-due-apollo-13-author-jeffrey-kluger-honors-forgotten-nasa-program-with-new-book-exclusive-interview' target='_blank'>Giving Gemini its due: 'Apollo 13' author Jeffrey Kluger honors 'forgotten' NASA program with new book (exclusive interview)</a></strong> — <em>2025-11-11 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-evidence-ancient-underground-reveals-mars.html' target='_blank'>Evidence of ancient underground water reveals Mars may have stayed habitable longer than believed</a></strong> — <em>2025-11-12 20:19:46</em></summary>
 
-"I felt like it was time to give the Gemini program its due. It was an opportunity not to be missed."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-deployable-astronauts-muscle-mass-space.html' target='_blank'>New deployable structures could help astronauts maintain muscle mass in space</a></strong> — <em>2025-11-11 15:12:04</em></summary>
-
-From muscle atrophy to bone loss, astronauts face a number of health risks while in space.
+Scientists from New York University Abu Dhabi (NYUAD) have uncovered new evidence that water once flowed beneath the surface of Mars, revealing that the planet may have remained habitable for life much longer than previously thought.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-robot-clever-lunar.html' target='_blank'>This new robot has a clever spin on lunar mining</a></strong> — <em>2025-11-11 15:07:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/rocket-lab-delays-debut-of-powerful-partially-reusable-neutron-rocket-to-2026' target='_blank'>Rocket Lab delays debut of powerful, partially reusable Neutron rocket to 2026</a></strong> — <em>2025-11-12 20:00:00</em></summary>
 
-Work continues on designs for robots that can help assist the first human explorers on the moon in over half a century. One of the most important aspects of that future trip will be utilizing the resources available on the moon's surface, known as in-situ resource utilization (ISRU). This would give the explorers access to materials like water, structural metals, and propellant, but only if they can recover it from the rock and regolith that make up the moon's surface.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-faa-restraints-spacex.html' target='_blank'>Amid new FAA restraints, SpaceX goes for record launch</a></strong> — <em>2025-11-11 15:00:10</em></summary>
-
-The government shutdown's strain on air traffic control has not only led to limitations on airlines, but spaceflight too.
+Rocket Lab has delayed the first launch of its medium-lift Neutron rocket to 2026, founder and CEO Peter Beck said during a company earnings call on Nov. 10.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/around-the-world-in-80-telescopes-a-space-trivia-quiz' target='_blank'>Around the world in 80 telescopes: a space trivia quiz</a></strong> — <em>2025-11-11 15:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/double-solar-eruption-sparks-widespread-aurora-more-to-come-tonight/' target='_blank'>Double Solar Eruptions Spark Widespread Aurora — With More to Come Tonight!</a></strong> — <em>2025-11-12 19:49:09</em></summary>
 
-This quiz explores the world's most powerful telescopes and observatories — on Earth and beyond.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/kenko-vc-smart-cellarto-10x30-wp-binoculars-review' target='_blank'>Kenko VC Smart Cellarto 10x30 WP binoculars review</a></strong> — <em>2025-11-11 15:00:00</em></summary>
-
-We put the Kenko VC Smart Cellarto 10x30 WP through their paces to find out if these image-stabilized smart binoculars live up to their name.
+Last night's aurora painted the sky in reds, greens and even oranges. It's expected to return tonight!
+The post Double Solar Eruptions Spark Widespread Aurora — With More to Come Tonight! appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/comet-lemmon-lights-up-the-sky-over-spain-space-photo-of-the-day-for-nov-11-2025' target='_blank'>Comet Lemmon lights up the sky over Spain | Space photo of the day for Nov. 11, 2025</a></strong> — <em>2025-11-11 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-unique-star-explosion-revealed-day.html' target='_blank'>Unique shape of star's explosion revealed just a day after detection</a></strong> — <em>2025-11-12 19:00:01</em></summary>
 
-This image captures Comet Lemmon in dramatic fashion, its bright coma and faint tail arcing across the starfield.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-grb-fast-ray-transient-einstein.html' target='_blank'>Observations suggest GRB origin for fast X-ray transient detected by Einstein Probe</a></strong> — <em>2025-11-11 13:00:01</em></summary>
-
-Astronomers have conducted multiwavelength observations of a recently detected fast X-ray transient designated EP241107a. Results of the observational campaign, published November 4 on the arXiv preprint server, shed more light on the nature of this transient, suggesting a gamma-ray burst origin.
+Swift observations with the European Southern Observatory's Very Large Telescope (ESO's VLT) have revealed the explosive death of a star just as the blast was breaking through the star's surface. For the first time, astronomers unveiled the shape of the explosion at its earliest, fleeting stage.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/does-quantum-gravity-exist-a-new-experiment-has-deepened-the-mystery' target='_blank'>Does quantum gravity exist? A new experiment has deepened the mystery</a></strong> — <em>2025-11-11 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-1st-time' target='_blank'>Scientists watch supernova shockwave shoot through a dying star for 1st time</a></strong> — <em>2025-11-12 19:00:00</em></summary>
 
-Quantum gravity seeks to unify the theory of general relativity with quantum physics to describe how gravity works at very small scales. But there's a big puzzle surrounding the idea.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-china-stranded-astronauts-good-condition.html' target='_blank'>China's stranded astronauts 'in good condition' after space debris delays planned return</a></strong> — <em>2025-11-11 12:44:31</em></summary>
-
-The stranded crew of a Chinese space mission is "in good condition, working and living normally," China's Manned Space Engineering office said on Tuesday.
+The supernova was the death of a red supergiant star 500 times larger than the sun, in a galaxy just 22 million light-years away.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe' target='_blank'>Sun unleashes strongest solar flare of 2025, sparking radio blackouts across Africa and Europe</a></strong> — <em>2025-11-11 12:40:37</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/interstellar-comet-3i-atlass-tail-is-still-growing-new-image-shows' target='_blank'>Interstellar comet 3I/ATLAS's tail is still growing, new image shows</a></strong> — <em>2025-11-12 18:00:00</em></summary>
 
-The X5.1-class eruption from sunspot AR4274 is this year's most powerful solar flare and Earth is in the firing line.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/fujifilm-fujinon-techno-stabi-ts-l-1640-image-stabilized-binoculars-review' target='_blank'>Fujifilm Fujinon Techno-Stabi TS-L 1640 image stabilized binoculars review</a></strong> — <em>2025-11-11 12:00:00</em></summary>
-
-Lightweight, image stabilized and with 16x magnification, these Fujifilm binoculars are a must-have for outdoor stargazing.
+New observations from the Virtual Telescope Project reveal 3I/ATLAS's sharply defined ion tail, highlighting increased activity as the interstellar comet moves through the inner solar system.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16' target='_blank'>John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16</a></strong> — <em>2025-11-11 11:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-high-resolution-solar-reveal-chromospheric.html' target='_blank'>High-resolution solar data reveal chromospheric jets' characteristics in active region</a></strong> — <em>2025-11-12 16:50:02</em></summary>
+
+A research team from the Yunnan Observatories of the Chinese Academy of Sciences (CAS) has detailed the physical characteristics of chromospheric jets in and around a sunspot, using high-resolution observations from the New Vacuum Solar Telescope (NVST). Their findings were published in The Astrophysical Journal.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-17-states-or-more-tonight-nov-12-13-2025' target='_blank'>Northern lights may be visible in 17 states (or more) tonight</a></strong> — <em>2025-11-12 16:40:20</em></summary>
+
+Auroras may be visible from Alaska to Illinois as an incoming coronal mass ejection could spark severe geomagnetic storm conditions overnight.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-alien-worlds.html' target='_blank'>What a missing signal tells us about alien worlds</a></strong> — <em>2025-11-12 16:01:10</em></summary>
+
+When the James Webb Space Telescope detected potential biosignatures in the atmosphere of K2-18 b last year, the discovery sparked intense debate. Here was a sub-Neptune exoplanet 124 light years away, possibly harboring methane, carbon dioxide, and even dimethyl sulfide, which is a gas produced by phytoplankton on Earth. But before we get too excited about alien life, it's necessary to understand if this planet's atmosphere can even survive the harsh environment of the host star.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-spot-1st-coronal-mass-ejection-from-an-alien-star-and-thats-bad-news-in-the-search-for-life' target='_blank'>Astronomers spot 1st coronal mass ejection from an alien star — and that's bad news in the search for life</a></strong> — <em>2025-11-12 16:01:00</em></summary>
+
+"Astronomers have wanted to spot a coronal mass ejection on another star for decades. We’ve now managed to do this for the first time."
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-coronal-mass-ejection-star-sun.html' target='_blank'>First confirmed coronal mass ejection spotted on a star beyond the sun</a></strong> — <em>2025-11-12 16:00:09</em></summary>
+
+Astronomers using the European Space Agency's XMM-Newton space observatory and the LOFAR telescope have definitively spotted an explosive burst of material thrown out into space by another star—a burst powerful enough to strip away the atmosphere of any unlucky planet in its path.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/First_confirmed_sighting_of_explosive_burst_on_nearby_star' target='_blank'>First confirmed sighting of explosive burst on nearby star</a></strong> — <em>2025-11-12 16:00:00</em></summary>
+
+
+Astronomers using the European Space Agency’s XMM-Newton space observatory and the LOFAR telescope have definitively spotted an explosive burst of material thrown out into space by another star – a burst powerful enough to strip away the atmosphere of any unlucky planet in its path.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/First_confirmed_sighting_of_explosive_burst_on_nearby_star' target='_blank'>First confirmed sighting of explosive burst on nearby star</a></strong> — <em>2025-11-12 16:00:00</em></summary>
+
+
+Astronomers using the European Space Agency’s XMM-Newton space observatory and the LOFAR telescope have definitively spotted an explosive burst of material thrown out into space by another star – a burst powerful enough to strip away the atmosphere of any unlucky planet in its path.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-path-mars-small-unsexy-problems.html' target='_blank'>The path to Mars: Small, unsexy problems</a></strong> — <em>2025-11-12 15:56:03</em></summary>
+
+This article is a speculative piece based on the European Space Agency (ESA) Strategy 2040 plan for the future of space exploration. Dr. Orson Sutherland, a program manager responsible for Mars exploration at ESA, shared his expertise and work on multiple ongoing projects.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes' target='_blank'>Intense solar storm delays Blue Origin launch of NASA Mars probes</a></strong> — <em>2025-11-12 15:51:48</em></summary>
+
+A severe geomagnetic storm during a period of heightened solar activity has delated Blue Origin's second-ever launch of its New Glenn rocket, with NASA's twin ESCAPADE probes.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-scientists-caves-mars-harbored-life.html' target='_blank'>Scientists discover caves carved by water on Mars that may have once harbored life</a></strong> — <em>2025-11-12 15:37:16</em></summary>
+
+If there is, or ever has been, life on Mars, the chances are it would exist in caves protected from the severe dust storms, extreme temperatures, and high radiation present on its surface. One place to focus our attention could be eight possible cave sites (called skylights) recently discovered by Chenyu Ding at Shenzhen University in China, and colleagues.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/nikon-z50-ii-camera-review' target='_blank'>Nikon Z50 II camera review</a></strong> — <em>2025-11-12 15:00:00</em></summary>
+
+Does the APS-C sensor at the heart of the compact Nikon Z50 II punch above its weight when it comes to shooting for the stars and beyond?
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-aurora-tonight-solar-flares-earth.html' target='_blank'>Aurora likely tonight as string of solar flares heads for Earth</a></strong> — <em>2025-11-12 14:51:03</em></summary>
+
+Over the past few days, an active sunspot has erupted multiple times, sending clouds of high-energy plasma into space. The sunspot happens to be facing Earth just now, so the plasma clouds are heading in our direction.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-martian-ice-age-left.html' target='_blank'>What a Martian ice age left behind</a></strong> — <em>2025-11-12 14:40:03</em></summary>
+
+Traveling up from the Mars equator toward its north pole, we find Coloe Fossae: a set of intriguing scratches within a region marked by deep valleys, speckled craters, and signs of an ancient ice age.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-life-space-beginner-universe.html' target='_blank'>Life in Space: A beginner's guide to life in the universe</a></strong> — <em>2025-11-12 14:39:03</em></summary>
+
+Exploring one of science's most exciting frontiers, the book "Life in Space" bridges astrophysics and biology to uncover the conditions that make life possible—on Earth and beyond. Designed for students and general readers alike, it introduces the emerging field of astrobiology through vivid explanations, real-world examples, and ethical reflections on humanity's role in the cosmos. From the detection of habitable planets to the search for biosignatures and intelligent life, the book offers a captivating, comprehensive view of life's place in the universe.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/see-saturns-rings-at-their-thinnest/' target='_blank'>See Saturn's Rings at Their Thinnest</a></strong> — <em>2025-11-12 14:30:01</em></summary>
+
+Saturn's as edgy as it'll get for the next 13 years. With special visual treats in store, here's what to keep eyes on the planet this month.
+The post See Saturn's Rings at Their Thinnest appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-astronomers-pulsating-ultraluminous-ray-source.html' target='_blank'>Astronomers discover new pulsating ultraluminous X-ray source</a></strong> — <em>2025-11-12 13:00:02</em></summary>
+
+Using ESA's XMM-Newton satellite, European astronomers have observed ultraluminous X-ray sources (ULXs) in the galaxy NGC 4631. As a result, they detected a new pulsating ULX, which received the designation X-8. The research is published November 6 on the arXiv preprint server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/star-and-satellite-streaks-in-a-green-night-sky-space-photo-of-the-day-for-nov-12-2025' target='_blank'>Star and satellite streaks in a green night sky | Space photo of the day for Nov. 12, 2025</a></strong> — <em>2025-11-12 13:00:00</em></summary>
+
+The dome of the Gemini North telescope can be seen on top of Mauna Kea in Hawaii, with shimmering star trails and satellite streaks arcing overhead.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-google-space-based.html' target='_blank'>Google's plan for space-based computing</a></strong> — <em>2025-11-12 12:36:04</em></summary>
+
+The sun produces more power than 100 trillion times humanity's entire electricity generation. In orbit, solar panels can be eight times more productive than their Earth-bound counterparts, generating energy almost continuously without the need for heavy battery storage. These facts have led a team of Google researchers to ask what if the best place to scale artificial intelligence isn't on Earth at all, but in space?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/severe-geomagnetic-storm-sparks-northern-lights-across-north-america-and-as-far-south-as-mexico-photos' target='_blank'>Severe geomagnetic storm sparks northern lights across North America and as far south as Mexico (photos)</a></strong> — <em>2025-11-12 12:24:55</em></summary>
+
+Vivid auroras lit up skies across North America and Europe as a severe G4 geomagnetic storm, one of the strongest this solar cycle, rattled Earth's magnetic field.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/alien-earth-renewed-for-season-2-at-fx-set-to-film-in-london-in-2026' target='_blank'>'Alien: Earth' renewed for season 2 at FX, set to film in London in 2026</a></strong> — <em>2025-11-12 12:01:19</em></summary>
+
+After a tense wait, it's finally been confirmed that Alien: Earth will return to our TV screens with more horrors in season 2.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Space_Safety/Space_weather/ESA_actively_monitoring_severe_space_weather_event' target='_blank'>ESA actively monitoring severe space weather event</a></strong> — <em>2025-11-12 11:18:00</em></summary>
+
+
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind' target='_blank'>What a martian ice age left behind</a></strong> — <em>2025-11-12 10:00:00</em></summary>
+
+
+Travelling up from Mars’s equator towards its north pole, we find Coloe Fossae: a set of intriguing scratches within a region marked by deep valleys, speckled craters, and signs of an ancient ice age.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind' target='_blank'>What a martian ice age left behind</a></strong> — <em>2025-11-12 10:00:00</em></summary>
+
+
+Travelling up from Mars’s equator towards its north pole, we find Coloe Fossae: a set of intriguing scratches within a region marked by deep valleys, speckled craters, and signs of an ancient ice age.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251112011838.htm' target='_blank'>NASA's Webb finds life’s building blocks frozen in a galaxy next door</a></strong> — <em>2025-11-12 09:33:53</em></summary>
+
+Astronomers using the James Webb Space Telescope have uncovered a trove of complex organic molecules frozen in ice around a young star in a neighboring galaxy — including the first-ever detection of acetic acid beyond the Milky Way. Found in the Large Magellanic Cloud, these molecules formed under harsh, metal-poor conditions similar to those in the early universe, suggesting that the chemical precursors of life may have existed far earlier and in more diverse environments than previously imagined.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-severe-solar-storms-trigger-widespread.html' target='_blank'>Severe solar storms may trigger widespread auroras and disrupt communications this week</a></strong> — <em>2025-11-12 09:10:04</em></summary>
+
+Space weather forecasters issued an alert on Tuesday for incoming severe solar storms that could produce colorful northern lights and temporarily disrupt communications.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/astronomers-discover-the-famous-pleiades-star-cluster-could-be-20-times-bigger-than-we-thought' target='_blank'>Astronomers discover the famous Pleiades star cluster could be 20 times bigger than we thought</a></strong> — <em>2025-11-12 09:01:00</em></summary>
+
+"This study changes how we see the Pleiades — not just seven bright stars, but thousands of long-lost siblings scattered across the whole sky."
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-11-pleiades-star-cluster-revealed-vast.html' target='_blank'>Pleiades star cluster revealed as just one part of a vast stellar family</a></strong> — <em>2025-11-12 09:00:01</em></summary>
+
+Astronomers at the University of North Carolina at Chapel Hill have discovered that the famous Pleiades star cluster, the "Seven Sisters" often spotted on winter nights, is just the bright tip of a much larger stellar family. The research paper appears in The Astrophysical Journal
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/11/Celebrating_30_years_of_European_satellite_navigation' target='_blank'>Celebrating 30 years of European satellite navigation</a></strong> — <em>2025-11-12 09:00:00</em></summary>
 
 
 	Video: 
-			00:12:53
-				Meet John McFall – Paralympian, medical doctor and member of ESA’s Astronaut Reserve. As part of ESA’s groundbreaking FLY initiative, John is helping prove that physical disability is no barrier to space. In this episode, he shares the results of a feasibility study showing no technical showstoppers for flying to the International Space Station with a prosthesis and talks about what’s next—from hardware certification and scientific proposals to astronaut reserve training and running in microgravity.In this miniseries, we take you on a journey through the ESA Astronaut Reserve, diving into the first part of their Astronaut Reserve Training (ART) at the European Astronaut Centre (EAC) near Cologne, Germany. Our “ARTists” are immersing themselves in everything from ESA and the International Space Station programme to the European space industry and institutions. They’re gaining hands-on experience in technical skills like spacecraft systems and robotics, alongside human behaviour, scientific lessons, scuba diving and survival training. ESA’s Astronaut Reserve Training programme is all about building Europe’s next generation of space explorers—preparing them for the opportunities of future missions in Earth orbit and beyond.This interview was recorded in February 2025.You can listen to this episode on all major podcast platforms.Keep exploring with ESA Explores!
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/space-rescue-services-needed-2-stranded-astronaut-incidents-are-a-massive-wake-up-call-experts-say' target='_blank'>Space rescue services needed? 2 'stranded' astronaut incidents are a 'massive wake-up call,' experts say</a></strong> — <em>2025-11-11 11:00:00</em></summary>
-
-China's decision to delay the return of its Shenzhou 20 astronauts due to a possible space debris impact has led to discussion of space rescue planning — or lack of it.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-6-87-jrti' target='_blank'>SpaceX launches Starlink satellites on record-breaking 94th liftoff of the year from Florida's Space Coast (video)</a></strong> — <em>2025-11-11 08:03:01</em></summary>
-
-SpaceX launched 29 of its Starlink satellites from Cape Canaveral Space Force Station on Monday night (Nov. 10). It was the record-breaking 94th launch of the year from Florida's Space Coast.
+			00:03:42
+				The year 2025 marked three decades of satellite navigation in Europe. To celebrate this milestone, on 2 September, the European Space Agency (ESA) opened the doors of ESTEC, its research and technology centre. Partners from across the continent joined a sensational event that took the audience on a journey through time, honouring the achievements and collaboration that have shaped the success story of the systems we rely on today: Galileo and EGNOS. 
 
 </details>
 
