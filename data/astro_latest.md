@@ -1,90 +1,109 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Emerging Insights into Stellar Phenomena
 
-#### Cosmic Rays and Black Holes
-Recent findings from the Large High Altitude Air Shower Observatory (LHAASO) have made significant strides in understanding cosmic rays, particularly the phenomenon known as the 'knee' in their energy spectrum. Researchers have established a connection between this knee, characterized by a sharp decrease in cosmic ray intensity above 3 PeV, and black holes. This breakthrough not only clarifies the origins of cosmic rays but also opens avenues for exploring how black holes may affect cosmic ray propagation, potentially influencing our broader understanding of high-energy astrophysical processes.
+Recent observations have significantly enhanced our understanding of stellar dynamics and the life cycles of stars. The supernova SN 2024ggi has been noted for its unique olive-shaped explosion, providing new insights into the mechanisms behind stellar explosions. This unprecedented observation underscores the value of international collaboration in astrophysics and may refine existing models of supernova mechanics. Additionally, astronomers have unveiled thousands of hidden stars linked to the Pleiades cluster, expanding its known size by a factor of 20, which deepens our understanding of stellar formation and evolution.
 
-Key items illustrating this theme include:
-1. LHAASO's milestone results released on November 16, 2025, linking cosmic rays to black hole environments.
-2. Ongoing investigations into how this discovery may reshape our understanding of cosmic ray sources and their energy distributions.
+Key items:
+1. **Supernova SN 2024ggi** - https://www.sciencedaily.com/releases/2025/11/251116231854.htm - The first recorded moment of a star's explosion breaking through its surface, revealing its unique shape.
+2. **Hidden Siblings of the Pleiades** - https://www.sciencedaily.com/releases/2025/11/251116105945.htm - Thousands of stars connected to the Pleiades were discovered, greatly expanding the cluster's known size.
 
-#### Supernovae and Hubble Tension
-A fresh analysis has cast doubt on the reliability of supernovae as standard candles in cosmology, raising important implications for the persistent Hubble tension, which refers to the mismatch between different measurements of the universe's expansion rate. While this study does not undermine the Big Bang theory, it suggests that a reexamination of supernova data could yield new insights and potentially reconcile observational discrepancies with theoretical predictions, thereby refining our cosmological models.
+### Advancements in Galactic Modeling
 
-Key items reflecting this theme include:
-1. A study questioning the reliability of supernovae, which may offer a path toward resolving the Hubble tension.
-2. Active discussions within the astrophysical community regarding the need for updated models that integrate new findings while preserving established cosmological principles.
+Galactic modeling is undergoing a transformative change with the integration of artificial intelligence. Researchers have developed a simulation of the Milky Way that tracks over 100 billion stars individually, significantly enhancing computational efficiency. This AI-driven approach addresses critical bottlenecks in simulating galactic dynamics, allowing for more detailed and precise models of star formation and interactions. These advancements are likely to reshape how astrophysicists study galaxy evolution and the underlying physical processes governing stellar behavior.
+
+Key items:
+1. **Milky Way Simulation** - https://www.sciencedaily.com/releases/2025/11/251116105515.htm - The first model to track over 100 billion stars, enhancing our understanding of galactic processes.
+
+### Cosmic Particle Acceleration
+
+Research into microquasars has unveiled their role as extreme particle accelerators within the Milky Way. These black holes, which feed on companion stars, generate ultra-high-energy gamma rays and protons, challenging previous assumptions about cosmic-ray sources. Findings from the LHAASO project suggest that black hole jet systems could significantly influence the observed "knee" structure of cosmic rays, indicating a complex relationship between stellar remnants and high-energy astrophysics.
+
+Key items:
+1. **Microquasars as Particle Accelerators** - https://www.sciencedaily.com/releases/2025/11/251116105513.htm - Discovery of microquasars producing high-energy gamma rays, redefining sources of cosmic rays.
 
 ### Conclusion
-The current landscape in astrophysics is characterized by pivotal discoveries that enhance our understanding of cosmic phenomena while challenging existing paradigms. The elucidation of the cosmic ray knee in relation to black holes and the reevaluation of supernovae as standard candles reflect a dynamic interplay between observational data and theoretical frameworks. These developments not only deepen our comprehension of the universe but also set the stage for future research that may further refine our cosmological understanding.
+
+The current landscape in astrophysics reflects a dynamic period of innovation and discovery, particularly in understanding stellar phenomena, galactic modeling, and cosmic particle acceleration. These advancements not only deepen our comprehension of the universe but also emphasize the importance of interdisciplinary approaches, such as AI integration and international collaboration, in addressing complex astronomical questions. As researchers continue to uncover the intricacies of stellar and galactic dynamics, the potential for new breakthroughs remains high.
 
 ### Top Sources:
-1. Cosmic ray puzzle resolved as scientists link 'knee' formation to black holes - https://phys.org/news/2025-11-cosmic-ray-puzzle-scientists-link.html - LHAASO's findings connect cosmic rays to black holes, resolving a decades-old mystery.
-2. If the supernova standard candle is wrong, it could solve the Hubble tension - https://phys.org/news/2025-11-supernova-standard-candle-wrong-hubble.html - New insights challenge the reliability of supernovae, potentially addressing the Hubble tension.
-3. NASA, European Partners Set to Launch Sentinel-6B Earth Satellite - https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/ - Sentinel-6B will track sea levels, contributing to Earth science but not directly related to astrophysics.
-4. SpaceX launches 2 rockets less than 4 hours apart from Florida's Space Coast - https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2-rockets-less-than-4-hours-apart-from-floridas-space-coast - SpaceX's rapid launches bolster satellite deployment, impacting global communications.
-5. Watch Blue Origin's huge New Glenn rocket ace its epic landing on a ship at sea (video) - https://www.space.com/space-exploration/launches-spacecraft/watch-blue-origins-huge-new-glenn-rocket-ace-its-epic-landing-on-a-ship-at-sea-video - Blue Origin's successful landing marks progress in reusable rocket technology.
-6. This Week In Space podcast: Episode 186 — Snow on the Moon? - https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-186-snow-on-the-moon - Discussion of lunar snow raises intriguing questions about the Moon's environment.
-7. Expert advice for new stargazers: How to begin your amateur astronomy journey - https://www.space.com/stargazing/expert-advice-for-new-stargazers-how-to-begin-your-amateur-astronomy-journey - Tips for beginners encourage public engagement with astronomy.
-8. How spacefaring nations could avoid conflict on the moon - https://www.space.com/astronomy/moon/how-spacefaring-nations-could-avoid-conflict-on-the-moon - Exploration of policy solutions to potential lunar conflicts, relevant to future missions.
-9. NASA's Artemis program updates - https://www.nasa.gov/specials/artemis/ - Ongoing developments in lunar exploration and human spaceflight.
-10. James Webb Space Telescope's recent findings - https://www.nasa.gov/mission_pages/webb/main/index.html - New discoveries from the JWST continue to reshape our understanding of the cosmos.
+1. Astronomers unveil the surprising hidden geometry of a supernova - https://www.sciencedaily.com/releases/2025/11/251116231854.htm - A unique observation of a supernova's explosion shape enhances understanding of stellar dynamics.
+2. Astronomers discover thousands of hidden siblings of the “Seven Sisters” - https://www.sciencedaily.com/releases/2025/11/251116105945.htm - Thousands of stars linked to the Pleiades cluster expand its known size significantly.
+3. AI creates the first 100-billion-star Milky Way simulation - https://www.sciencedaily.com/releases/2025/11/251116105515.htm - A groundbreaking simulation that tracks over 100 billion stars, improving galactic modeling efficiency.
+4. Microquasars emerge as the Milky Way’s most extreme particle engines - https://www.sciencedaily.com/releases/2025/11/251116105513.htm - Discovery that microquasars are powerful accelerators of ultra-high-energy particles.
+5. Dark matter acts surprisingly normal in a new cosmic test - https://www.sciencedaily.com/releases/2025/11/251116095924.htm - New evidence suggests dark matter behaves similarly to ordinary matter in cosmic dynamics.
+6. Extreme-pressure experiment reveals a strange new ice phase - https://www.sciencedaily.com/releases/2025/11/251115100051.htm - Discovery of Ice XXI may have implications for planetary science.
+7. SpaceX launches used rocket for 500th time, sends Sentinel-6B ocean-mapping satellite to orbit - https://www.space.com/space-exploration/launches-spacecraft/spacex-sentinel-6b-sea-level-monitoring-satellite-launch - A milestone launch by SpaceX marking its 500th mission.
+8. Watch interstellar comet 3I/ATLAS speed away from the sun in free telescope livestream on Nov. 16 - https://www.space.com/stargazing/watch-interstellar-comet-3iatlas-speed-away-from-the-sun-in-free-telescope-livestream-nov-16-2025 - An opportunity to observe a newly visible interstellar comet.
+9. The Leonid meteor shower peaks tonight: Here's where to look for 'shooting stars' - https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-peaks-tonight-where-to-look-for-shooting-stars-nov-16-17-2025 - Information on viewing the Leonid meteor shower.
+10. With more moon missions on the horizon, avoiding crowding and collisions will be a growing challenge - https://www.space.com/astronomy/moon/with-more-moon-missions-on-the-horizon-avoiding-crowding-and-collisions-will-be-a-growing-challenge - Discussion on the challenges posed by an increase in lunar missions.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2025-11-cosmic-ray-puzzle-scientists-link.html' target='_blank'>Cosmic ray puzzle resolved as scientists link 'knee' formation to black holes</a></strong> — <em>2025-11-16 06:00:01</em></summary>
+    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251116231854.htm' target='_blank'>Astronomers unveil the surprising hidden geometry of a supernova</a></strong> — <em>2025-11-17 04:28:07</em></summary>
 
-Milestone results released by the Large High Altitude Air Shower Observatory (LHAASO) on November 16 have solved a decades-old mystery about the cosmic ray energy spectrum—which shows a sharp decrease in cosmic rays above 3 PeV, giving it an unusual knee-like shape.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/' target='_blank'>NASA, European Partners Set to Launch Sentinel-6B Earth Satellite</a></strong> — <em>2025-11-16 00:02:29</em></summary>
-
-Set to track sea levels across more than 90% of Earth’s ocean, the mission must first get into orbit. Here’s what to expect.   Sentinel-6B, an ocean-tracking satellite jointly developed by NASA and ESA (European Space Agency), is ready to roll out to the launch pad, packed into the payload fairing of a SpaceX Falcon 9 […]
+Astronomers have, for the first time, recorded the moment a star’s explosion broke through its surface. The nearby supernova, SN 2024ggi, revealed a surprisingly olive-shaped blast when studied with ESO’s Very Large Telescope. The discovery helps scientists better understand the forces that drive massive stars to explode and underscores how quick international cooperation can lead to groundbreaking results.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/expert-advice-for-new-stargazers-how-to-begin-your-amateur-astronomy-journey' target='_blank'>Expert advice for new stargazers: How to begin your amateur astronomy journey</a></strong> — <em>2025-11-15 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251116105945.htm' target='_blank'>Astronomers discover thousands of hidden siblings of the “Seven Sisters”</a></strong> — <em>2025-11-17 04:02:16</em></summary>
 
-Astronomers and expert stargazers share their top skywatching tips for beginners
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-10-2025-which-hit-show-on-hulu-was-just-renewed-for-season-2' target='_blank'>Space.com headlines crossword quiz for week of Nov. 10, 2025: Which hit show on Hulu was just renewed for season 2?</a></strong> — <em>2025-11-15 15:00:00</em></summary>
-
-Test your space smarts with our weekly crossword challenge, crafted from Space.com's biggest headlines.
+The “Seven Sisters” have far more relatives than anyone imagined. Using NASA and ESA space telescopes, astronomers found thousands of hidden stars linked to the Pleiades, forming a colossal stellar complex. The discovery expands the cluster’s size by a factor of 20 and offers a new way to trace the shared origins of stars—including our own Sun.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-186-snow-on-the-moon' target='_blank'>This Week In Space podcast: Episode 186 — Snow on the Moon?</a></strong> — <em>2025-11-15 14:23:06</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251116105515.htm' target='_blank'>AI creates the first 100-billion-star Milky Way simulation</a></strong> — <em>2025-11-16 17:09:23</em></summary>
 
-On Episode 186 of This Week In Space, Rod Pyle and Tariq Malik talk with Dr. Jim Green, NASA's former chief scientist, about snow on the moon.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-supernova-standard-candle-wrong-hubble.html' target='_blank'>If the supernova standard candle is wrong, it could solve the Hubble tension</a></strong> — <em>2025-11-15 14:10:01</em></summary>
-
-Last time I wrote about new data that overturns the standard cosmological model. Before anyone starts dusting off their fringe cosmological models, we should note what this new study doesn't overturn. It doesn't say the Big Bang model is wrong, nor does it say that the universe isn't expanding or that Hubble's redshift-distance relation needs to be thrown out.
+Researchers combined deep learning with high-resolution physics to create the first Milky Way model that tracks over 100 billion stars individually. Their AI learned how gas behaves after supernovae, removing one of the biggest computational bottlenecks in galactic modeling. The result is a simulation hundreds of times faster than current methods.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/how-spacefaring-nations-could-avoid-conflict-on-the-moon' target='_blank'>How spacefaring nations could avoid conflict on the moon</a></strong> — <em>2025-11-15 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251116105513.htm' target='_blank'>Microquasars emerge as the Milky Way’s most extreme particle engines</a></strong> — <em>2025-11-16 16:46:04</em></summary>
 
-An expert discusses how the space race to the moon could lead to possible warfare, and how policies could avoid future conflict.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/watch-blue-origins-huge-new-glenn-rocket-ace-its-epic-landing-on-a-ship-at-sea-video' target='_blank'>Watch Blue Origin's huge New Glenn rocket ace its epic landing on a ship at sea (video)</a></strong> — <em>2025-11-15 11:00:00</em></summary>
-
-Blue Origin's powerful New Glenn rocket just aced its second-ever mission —and returned to Earth safely for the first time. See a video of the booster's dramatic homecoming here.
+LHAASO has uncovered that micro-quasars, black holes feeding on companion stars, are powerful PeV particle accelerators. Their jets produce ultra-high-energy gamma rays and protons that exceed long-held expectations. Precise cosmic-ray measurements reveal a new high-energy component, suggesting multiple sources within the Milky Way. These findings finally tie the “knee” structure to black hole jet systems.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2-rockets-less-than-4-hours-apart-from-floridas-space-coast' target='_blank'>SpaceX launches 2 rockets less than 4 hours apart from Florida's Space Coast (video)</a></strong> — <em>2025-11-15 07:15:17</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-peaks-tonight-where-to-look-for-shooting-stars-nov-16-17-2025' target='_blank'>The Leonid meteor shower peaks tonight: Here's where to look for 'shooting stars'</a></strong> — <em>2025-11-16 16:00:00</em></summary>
 
-SpaceX launched two Falcon 9 rockets in less than four hours overnight Friday (Nov. 14), adding another 58 satellites to its Starlink broadband megaconstellation.
+Leonid meteors may appear whenever the constellation Leo is above the horizon.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251115100051.htm' target='_blank'>Extreme-pressure experiment reveals a strange new ice phase</a></strong> — <em>2025-11-16 15:45:41</em></summary>
+
+Researchers at KRISS observed water’s rapid freeze–melt cycles under ultrahigh pressure and discovered Ice XXI, the first new ice phase found in decades. Using advanced high-pressure tech and microsecond XFEL imaging, they uncovered complex crystallization pathways never seen before. Ice XXI’s structure resembles the high-pressure ice found inside Jupiter and Saturn’s moons, hinting at planetary science implications.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-sentinel-6b-sea-level-monitoring-satellite-launch' target='_blank'>SpaceX launches used rocket for 500th time, sends Sentinel-6B ocean-mapping satellite to orbit</a></strong> — <em>2025-11-16 15:00:00</em></summary>
+
+SpaceX launched the Sentinel-6B ocean-mapping satellite from California early Monday morning (Nov. 17) on a landmark flight — the company's 500th mission with a used rocket.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/see-the-famous-winged-horse-pegasus-fly-in-the-autumn-night-sky' target='_blank'>See the famous winged horse Pegasus fly in the autumn night sky</a></strong> — <em>2025-11-16 14:00:00</em></summary>
+
+A few hours after darkness falls during November, the unquestioned landmark of the autumn night sky occupies a commanding position high in the south: the flying horse Pegasus.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/with-more-moon-missions-on-the-horizon-avoiding-crowding-and-collisions-will-be-a-growing-challenge' target='_blank'>With more moon missions on the horizon, avoiding crowding and collisions will be a growing challenge</a></strong> — <em>2025-11-16 13:00:00</em></summary>
+
+Experts dive into the many missions headed to the moon and how space programs can avoid override.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/watch-interstellar-comet-3iatlas-speed-away-from-the-sun-in-free-telescope-livestream-nov-16-2025' target='_blank'>Watch interstellar comet 3I/ATLAS speed away from the sun in free telescope livestream on Nov. 16</a></strong> — <em>2025-11-16 11:00:00</em></summary>
+
+Comet 3I/ATLAS recently emerged from behind the glare of the sun to become visible to ground-based telescopes.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251115095924.htm' target='_blank'>Dark matter acts surprisingly normal in a new cosmic test</a></strong> — <em>2025-11-16 08:57:55</em></summary>
+
+Dark matter may be invisible, but scientists are getting closer to understanding whether it follows the same rules as everything we can see. By comparing how galaxies move through cosmic gravity wells to the depth of those wells, researchers found that dark matter appears to behave much like ordinary matter, obeying familiar physical laws. Still, the possibility of a hidden fifth force lingers, one that must be very weak to have evaded detection so far.
 
 </details>
 
