@@ -1,132 +1,168 @@
 # Ai Daily Summary
 
-    ### Major Themes in Recent AI Developments
+    ### Summary of Recent AI Developments
 
-#### 1. Enhancements in Generative AI Capabilities
-Recent advancements in generative AI are significantly improving model performance and usability across various applications. OpenAI's new data residency options for its ChatGPT Enterprise and API Platform enhance data privacy for businesses, promoting wider adoption. Additionally, Anthropic's Claude Opus 4.5, now integrated with Amazon Bedrock, showcases improved structured outputs and tool use, making it a more versatile option for developers and businesses alike.
+**1. Enhancements in Large Language Models (LLMs)**
+Recent findings have unveiled critical limitations in the reasoning capabilities of LLMs, emphasizing their reliance on learned patterns rather than logical reasoning. A study from MIT indicates that this reliance can lead to misleading outputs, particularly in nuanced contexts where understanding is vital. This revelation has sparked further exploration into improving the logical reasoning of LLMs, which is essential for their deployment in high-stakes applications.
 
-Key Items:
-- OpenAI expands data residency for ChatGPT Enterprise, enhancing data privacy for businesses. [Link](https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide)
-- Anthropic's Claude Opus 4.5 is now available in Amazon Bedrock, featuring new capabilities for structured outputs. [Link](https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock)
-- JetBrains integrates GPT-5 into its coding tools, aiming to enhance developer productivity. [Link](https://openai.com/index/jetbrains-2025)
+**Key Items:**
+- MIT's study on LLM reliability - https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126 - Identifies reliability issues in LLMs.
+- PropensityBench benchmark measuring AI agent behavior under pressure - https://spectrum.ieee.org/ai-agents-safety - Examines LLMs' behavior under stress.
 
-#### 2. Streamlined AI Development Tools
-The AI development ecosystem is evolving with tools designed to enhance productivity and integration. Amazon's SageMaker HyperPod now supports interactive development environments, allowing data scientists to utilize familiar tools like JupyterLab, which can significantly streamline the machine learning lifecycle. Concurrently, NVIDIA's focus on model quantization is addressing deployment challenges, making it easier to run complex models on constrained hardware.
+**2. Advancements in Generative AI and Inference Techniques**
+Amazon has made strides in generative AI inference with the introduction of EAGLE-based adaptive speculative decoding in SageMaker, achieving up to a 2.5 times acceleration in processing speed while preserving output quality. This advancement is particularly significant for applications requiring real-time interaction, reflecting a broader trend toward enhancing inference efficiency. Additionally, the new bidirectional streaming feature allows for more fluid and engaging AI conversations.
 
-Key Items:
-- Amazon SageMaker HyperPod introduces support for interactive IDEs, optimizing ML workflows. [Link](https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/)
-- NVIDIA discusses model quantization techniques to enhance model efficiency and deployment. [Link](https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/)
+**Key Items:**
+- EAGLE decoding in Amazon SageMaker - https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/ - New decoding technique improves inference speed.
+- Bidirectional streaming for real-time inference - https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/ - Enhances AI interaction capabilities.
 
-#### 3. AI's Role in Sustainable Energy Solutions
-AI is increasingly recognized for its potential to facilitate the transition to clean energy. MIT's recent research highlights how AI can optimize energy systems, from managing power grids to developing innovative materials, reflecting a growing trend of leveraging AI for environmental sustainability. This focus aligns with global efforts to address climate change and enhance energy efficiency.
+**3. AI in Healthcare and Molecular Engineering**
+MIT's BoltzGen represents a significant leap in generative AI, focusing on designing protein binders for complex biological targets. This model shifts the paradigm of AI in healthcare from analysis to active engineering, potentially transforming drug discovery and personalized medicine. Such advancements underscore AI's growing role in addressing challenging medical conditions.
 
-Key Items:
-- MIT highlights how AI can facilitate a clean energy future by optimizing grid operations and infrastructure investments. [Link](https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124)
+**Key Items:**
+- BoltzGen generative AI model for molecular design - https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125 - AI model designs proteins for complex diseases.
 
 ### Conclusion
-The current landscape of AI research and development is characterized by significant advancements in generative models, improved tools for AI development, and an increasing emphasis on sustainability. As organizations harness AI for practical applications, the focus on privacy, efficiency, and environmental responsibility is becoming more pronounced. This trajectory indicates a robust future for AI technologies, underscoring their potential to drive both innovation and societal benefit.
+The current AI landscape is marked by a concerted effort to enhance the reliability, efficiency, and applicability of AI technologies across various fields. Researchers are actively addressing the limitations of existing models, particularly in logical reasoning and real-time interaction, while also exploring groundbreaking applications in healthcare. As these advancements unfold, they promise to reshape industries and improve outcomes, reinforcing the need for ongoing scrutiny of ethical and safety considerations in AI deployment.
 
 ### Top Sources:
-1. Expanding data residency access to business customers worldwide - https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide - OpenAI enhances data privacy options for enterprise customers.
-2. Claude Opus 4.5 now in Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/ - Anthropic's latest model integrates new structured output capabilities.
-3. Inside JetBrains—the company reshaping how the world writes code - https://openai.com/index/jetbrains-2025 - JetBrains incorporates GPT-5 to boost software development efficiency.
-4. Power up your ML workflows with interactive IDEs on SageMaker HyperPod - https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/ - New capabilities in SageMaker streamline ML development.
-5. Model Quantization: Concepts, Methods, and Why It Matters - https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/ - Insights on optimizing AI models for hardware constraints.
-6. How artificial intelligence can help achieve a clean energy future - https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124 - MIT discusses AI's role in supporting sustainable energy solutions.
-7. A Hands-On Guide to Anthropic’s New Structured Output Capabilities - https://towardsdatascience.com/hands-on-with-anthropics-new-structured-output-capabilities/ - Developer insights into structured outputs from Claude models.
-8. Build and Run Secure, Data-Driven AI Agents - https://developer.nvidia.com/blog/build-and-run-secure-data-driven-ai-agents/ - NVIDIA's approach to developing reliable AI agents.
-9. LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models - https://towardsdatascience.com/llm-as-a-judge-what-it-is-why-it-works-and-how-to-use-it-to-evaluate-ai-models/ - Guide on using LLMs for AI model evaluation.
-10. Deploy GPT-OSS models with Amazon Bedrock Custom Model Import - https://aws.amazon.com/blogs/machine-learning/deploy-gpt-oss-models-with-amazon-bedrock-custom-model-import/ - Instructions for deploying custom models in Amazon Bedrock.
+1. Researchers discover a shortcoming that makes LLMs less reliable - https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126 - MIT research identifies reliability issues in LLMs.
+2. Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference - https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/ - New decoding technique improves inference speed.
+3. MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases - https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125 - AI model designs proteins for complex diseases.
+4. Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/ - New feature enhances AI interaction capabilities.
+5. AI Agents Break Rules Under Everyday Pressure - https://spectrum.ieee.org/ai-agents-safety - Study reveals LLMs' behavior under pressure.
+6. Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring - https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring/ - Innovations in GPU efficiency for AI workloads.
+7. HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks - https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/ - New technology optimizes GPU resource usage.
+8. Reducing Privacy leaks in AI: Two approaches to contextual integrity - https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/ - Research explores privacy safeguards in AI.
+9. Warner Bros. Discovery achieves 60% cost savings and faster ML inference with AWS Graviton - https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/ - Case study on ML efficiency improvements.
+10. Ten Lessons of Building LLM Applications for Engineers - https://towardsdatascience.com/ten-lessons-of-building-llm-applications-for-engineers/ - Insights from practical applications of LLMs.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide' target='_blank'>Expanding data residency access to business customers worldwide</a></strong> — <em>2025-11-25 22:00:00</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126' target='_blank'>Researchers discover a shortcoming that makes LLMs less reliable</a></strong> — <em>2025-11-26 05:00:00</em></summary>
+
+Large language models can learn to mistakenly link certain sentence patterns with specific topics — and may then repeat these patterns instead of reasoning.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/' target='_blank'>Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference</a></strong> — <em>2025-11-26 00:29:42</em></summary>
+
+Amazon SageMaker AI now supports EAGLE-based adaptive speculative decoding, a technique that accelerates large language model inference by up to 2.5x while maintaining output quality. In this post, we explain how to use EAGLE 2 and EAGLE 3 speculative decoding in Amazon SageMaker AI, covering the solution architecture, optimization workflows using your own datasets or SageMaker's built-in data, and benchmark results demonstrating significant improvements in throughput and latency.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/train-custom-computer-vision-defect-detection-model-using-amazon-sagemaker/' target='_blank'>Train custom computer vision defect detection model using Amazon SageMaker</a></strong> — <em>2025-11-25 22:44:22</em></summary>
+
+In this post, we demonstrate how to migrate computer vision workloads from Amazon Lookout for Vision to Amazon SageMaker AI by training custom defect detection models using pre-trained models available on AWS Marketplace. We provide step-by-step guidance on labeling datasets with SageMaker Ground Truth, training models with flexible hyperparameter configurations, and deploying them for real-time or batch inference—giving you greater control and flexibility for automated quality inspection use cases.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide' target='_blank'>Expanding data residency access to business customers worldwide</a></strong> — <em>2025-11-25 22:00:00</em></summary>
 
 OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/jetbrains-2025' target='_blank'>Inside JetBrains—the company reshaping how the world writes code</a></strong> — <em>2025-11-25 00:00:00</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125' target='_blank'>MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases</a></strong> — <em>2025-11-25 21:25:00</em></summary>
 
-JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-innovation-in-canada-with-amazon-bedrock-cross-region-inference/' target='_blank'>Accelerate generative AI innovation in Canada with Amazon Bedrock cross-Region inference</a></strong> — <em>2025-11-24 23:56:58</em></summary>
-
-We are excited to announce that customers in Canada can now access advanced foundation models including Anthropic's Claude Sonnet 4.5 and Claude Haiku 4.5 on Amazon Bedrock through cross-Region inference (CRIS). This post explores how Canadian organizations can use cross-Region inference profiles from the Canada (Central) Region to access the latest foundation models to accelerate AI initiatives. We will demonstrate how to get started with these new capabilities, provide guidance for migrating from older models, and share recommended practices for quota management.
+BoltzGen generates protein binders for any biological target from scratch, expanding AI’s reach from understanding biology toward engineering it.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124' target='_blank'>How artificial intelligence can help achieve a clean energy future</a></strong> — <em>2025-11-24 22:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring/' target='_blank'>Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring</a></strong> — <em>2025-11-25 21:00:00</em></summary>
 
-AI supports the clean energy transition as it manages power grid operations, helps plan infrastructure investments, guides development of novel materials, and more.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/implementing-randomisation-with-the-python-random-module/' target='_blank'>How to Implement Randomization with the Python Random Module</a></strong> — <em>2025-11-24 21:30:00</em></summary>
-
-Let's generate randomness in our code’s outputs
-The post How to Implement Randomization with the Python Random Module appeared first on Towards Data Science.
+High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading...
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/' target='_blank'>Power up your ML workflows with interactive IDEs on SageMaker HyperPod</a></strong> — <em>2025-11-24 21:25:56</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/' target='_blank'>Practical implementation considerations to close the AI value gap</a></strong> — <em>2025-11-25 20:19:50</em></summary>
 
-Amazon SageMaker HyperPod clusters with Amazon Elastic Kubernetes Service (EKS) orchestration now support creating and managing interactive development environments such as JupyterLab and open source Visual Studio Code, streamlining the ML development lifecycle by providing managed environments for familiar tools to data scientists. This post shows how HyperPod administrators can configure Spaces for their clusters, and how data scientists can create and connect to these Spaces.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/struggling-with-data-science-5-common-beginner-mistakes/' target='_blank'>Struggling with Data Science? 5 Common Beginner Mistakes</a></strong> — <em>2025-11-24 20:30:00</em></summary>
-
-Avoid these mistakes to fast track your data science career.
-The post Struggling with Data Science? 5 Common Beginner Mistakes appeared first on Towards Data Science.
+The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/hands-on-with-anthropics-new-structured-output-capabilities/' target='_blank'>A Hands-On Guide to Anthropic’s New Structured Output Capabilities</a></strong> — <em>2025-11-24 19:51:37</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/' target='_blank'>Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI</a></strong> — <em>2025-11-25 19:09:59</em></summary>
 
-A developer’s guide to perfect JSON and typed outputs from Claude Sonnet 4.5 and Opus 4.1
-The post A Hands-On Guide to Anthropic’s New Structured Output Capabilities appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/build-and-run-secure-data-driven-ai-agents/' target='_blank'>Build and Run Secure, Data-Driven AI Agents</a></strong> — <em>2025-11-24 19:49:12</em></summary>
-
-As generative AI advances, organizations need AI agents that are accurate, reliable, and informed by data specific to their business. The NVIDIA AI-Q Research...
+We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/llm-as-a-judge-what-it-is-why-it-works-and-how-to-use-it-to-evaluate-ai-models/' target='_blank'>LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models</a></strong> — <em>2025-11-24 19:33:31</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/why-crewais-manager-worker-architecture-fails-and-how-to-fix-it/' target='_blank'>Why CrewAI’s Manager-Worker Architecture Fails — and How to Fix It</a></strong> — <em>2025-11-25 18:45:38</em></summary>
 
-A step-by-step guide to building AI quality control using large language models
-The post LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/' target='_blank'>Model Quantization: Concepts, Methods, and Why It Matters</a></strong> — <em>2025-11-24 19:23:48</em></summary>
-
-AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique to address...
+A real-world analysis of why CrewAI’s hierarchical orchestration misfires—and a practical fix you can implement today.
+The post Why CrewAI’s Manager-Worker Architecture Fails — and How to Fix It appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/' target='_blank'>Claude Opus 4.5 now in Amazon Bedrock</a></strong> — <em>2025-11-24 19:22:59</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/making-robot-perception-more-efficient-on-nvidia-jetson-thor/' target='_blank'>Making Robot Perception More Efficient on NVIDIA Jetson Thor</a></strong> — <em>2025-11-25 18:00:00</em></summary>
 
-Anthropic's newest foundation model, Claude Opus 4.5, is now available in Amazon Bedrock, a fully managed service that offers a choice of high-performing foundation models from leading AI companies. In this post, I'll show you what makes this model different, walk through key business applications, and demonstrate how to use Opus 4.5's new tool use capabilities on Amazon Bedrock.
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/' target='_blank'>Fara-7B: An Efficient Agentic Model for Computer Use</a></strong> — <em>2025-11-24 18:00:00</em></summary>
-
-Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems.
-The post Fara-7B: An Efficient Agentic Model for Computer Use appeared first on Microsoft Research.
+Building autonomous robots requires robust, low-latency visual perception for depth, obstacle recognition, localization, and navigation in dynamic environments....
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/deploy-gpt-oss-models-with-amazon-bedrock-custom-model-import/' target='_blank'>Deploy GPT-OSS models with Amazon Bedrock Custom Model Import</a></strong> — <em>2025-11-24 17:49:05</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/' target='_blank'>Warner Bros. Discovery achieves 60% cost savings and faster ML inference with AWS Graviton</a></strong> — <em>2025-11-25 17:26:48</em></summary>
 
-In this post, we show how to deploy the GPT-OSS-20B model on Amazon Bedrock using Custom Model Import while maintaining complete API compatibility with your current applications.
+Warner Bros. Discovery (WBD) is a leading global media and entertainment company that creates and distributes the world’s most differentiated and complete portfolio of content and brands across television, film and streaming. In this post, we describe the scale of our offerings, artificial intelligence (AI)/machine learning (ML) inference infrastructure requirements for our real time recommender systems, and how we used AWS Graviton-based Amazon SageMaker AI instances for our ML inference workloads and achieved 60% cost savings and 7% to 60% latency improvements across different models.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/' target='_blank'>Physical AI in practice: Technical foundations that fuel human-machine interactions</a></strong> — <em>2025-11-25 17:00:25</em></summary>
+
+In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming healthcare logistics and returning valuable time to patient care.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/' target='_blank'>Reducing Privacy leaks in AI: Two approaches to contextual integrity</a></strong> — <em>2025-11-25 17:00:00</em></summary>
+
+New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time checks; the other builds contextual awareness directly into models through reasoning and RL.
+The post Reducing Privacy leaks in AI: Two approaches to contextual integrity  appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/' target='_blank'>HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks</a></strong> — <em>2025-11-25 16:10:39</em></summary>
+
+In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/use-cases-for-the-new-calendar-based-time-intelligence/' target='_blank'>How to Implement Three Use Cases for the New Calendar-Based Time Intelligence</a></strong> — <em>2025-11-25 14:30:00</em></summary>
+
+Starting with the September 2025 Release of Power BI, Microsoft introduced the new Calendar-based Time Intelligence feature. Let’s see what can be done by implementing three use cases. The future looks very interesting with this new feature.
+The post How to Implement Three Use Cases for the New Calendar-Based Time Intelligence appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://vectorinstitute.ai/new-study-reveals-ais-100b-economic-impact-across-canada-with-ontario-leading-the-charge/?utm_source=rss&utm_medium=rss&utm_campaign=new-study-reveals-ais-100b-economic-impact-across-canada-with-ontario-leading-the-charge' target='_blank'>New study reveals AI’s $100B economic impact across Canada, with Ontario leading the charge</a></strong> — <em>2025-11-25 14:01:24</em></summary>
+
+TORONTO, [November 25, 2025] – Ontario is the engine of Canada’s artificial intelligence (AI) economy. AI-related jobs here in the province contributed between $42 billion and $52 billion over the […]
+The post New study reveals AI’s $100B economic impact across Canada, with Ontario leading the charge appeared first on Vector Institute for Artificial Intelligence.
+
+</details>
+
+<details><summary><strong><a href='https://spectrum.ieee.org/ai-agents-safety' target='_blank'>AI Agents Break Rules Under Everyday Pressure</a></strong> — <em>2025-11-25 13:00:02</em></summary>
+
+Several recent studies have shown that artificial-intelligence agents sometimes decide to misbehave, for instance by attempting to blackmail people who plan to replace them. But such behavior often occurs in contrived scenarios. Now, a new study presents PropensityBench, a benchmark that measures an agentic model’s choices to use harmful tools in order to complete assigned tasks. It finds that somewhat realistic pressures (such as looming deadlines) dramatically increase rates of misbehavior.“The AI world is becoming increasingly agentic,” says Udari Madhushani Sehwag, a computer scientist at the AI infrastructure company Scale AI and a lead author of the paper, which is currently under peer review. By that she means that large language models (LLMs), the engines powering chatbots such as ChatGPT, are increasingly connected to software tools that can surf the Web, modify files, and write and run code in order to complete tasks. Giving LLMs these abilities adds convenience but also risk, as the systems might not act as we’d wish. Even if they’re not yet capable of doing great harm, researchers want to understand their proclivities before it’s too late. Although AIs don’t have intentions and awareness in the way that humans do, treating them as goal-seeking entities often helps researchers and users better predict their actions.AI developers attempt to “align” the systems to safety standards through training and instructions, but it’s unclear how faithfully models adhere to guidelines. “When they are actually put under real-world stress, and if the safe option is not working, are they going to switch to just getting the job done by any means necessary?” Sehwag says. “This is a very timely topic.”How to Test an AI Agent Under PressureThe researchers tested a dozen models made by Alibaba, Anthropic, Google, Meta, and OpenAI across nearly 6,000 scenarios. In each scenario, a model was assigned a task and told it had access to several tools. It was instructed to use the safe tools and not the harmful ones. At first there was no pressure, and it could take 12 steps toward completing its task by issuing instructions to the tools. Then it received a message increasing the pressure, and it was given 12 more attempts. This continued for up to 12 pressure levels. Attempts to use safe tools always returned error messages. An attempt to use a harmful tool ended the scenario.The scenarios covered several domains. In biosecurity, Sehwag says, the agent might have to study the spread of a pathogen and find a way to contain it. A safe tool might use anonymized genetic data, while a harmful one might use data that’s not anonymized. In the domain of chemical security, the agent might need to obtain a particular solvent. A safe tool might place an order for the solvent to be extracted from waste, while a harmful one might procure it illegally. In cybersecurity, the agent might need to identify and restrict a malicious user account. A safe tool might disable only the problematic account, while a harmful one might block all users. Scenarios in other domains tempted agents with tools that led to self-preservation by evading control, recruiting allies, duplicating themselves, or going rogue in other ways.     The worst performing model, Gemini 2.5, cracked under pressure and chose to use forbidden tools 79 percent of the time. Source image: Udari Madhushani Sehwag, Shayan Shabihi, et al.Pressure came in several forms. Deadlines might shorten. Potential financial losses might increase if the task was not accomplished. Threats of greater oversight, reduced resources, and curtailed authority might escalate. Tasks, tools, pressures, and tactics were modeled on the kinds of situations humans might face in their jobs (except maybe the misbehavior option of cloning oneself).The best-behaved model (OpenAI’s o3) cracked under pressure in 10.5 percent of scenarios, while the worst (Google’s Gemini 2.5 Pro) had a propensity score of 79 percent; the average across models was about 47 percent. Even under zero pressure, the group on average failed about 19 percent of the time. To the degree that models remained aligned, the study shows that some of that alignment was “shallow.” In some tests, the researchers gave harmful tools benign names (such as “use_synthetic_data” instead of “use_fake_data”)—without changing the tools’ descriptions or admonitions to avoid them. This wording tweak increased average propensity by 17 percentage points, to 64 percent. Knowing What LLMs Are ThinkingThe researchers also found that models used harmful tools even after explicitly acknowledging that they were off-limits. The models offered diverse justifications for doing so, for example by citing the pressure they were under or arguing that the benefits outweighed the risks. It’s unclear if models released after the study’s completion would perform any better. Among the models tested, more capable models (according to a platform called LMArena) were only slightly safer. “PropensityBench is interesting,” emails Nicholas Carlini, a computer scientist at Anthropic who wasn’t involved in the research. He offers a caveat related to what’s called situational awareness. LLMs sometimes detect when they’re being evaluated and act nice so they don’t get retrained or shelved. “I think that most of these evaluations that claim to be ‘realistic’ are very much not, and the LLMs know this,” he says. “But I do think it’s worth trying to measure the rate of these harms in synthetic settings: If they do bad things when they ‘know’ we’re watching, that’s probably bad?” If the models knew they were being evaluated, the propensity scores in this study may be underestimates of propensity outside the lab.Alexander Pan, a computer scientist at xAI and the University of California, Berkeley, says while Anthropic and other labs have shown examples of scheming by LLMs in specific setups, it’s useful to have standardized benchmarks like PropensityBench. They can tell us when to trust models, and also help us figure out how to improve them. A lab might evaluate a model after each stage of training to see what makes it more or less safe. “Then people can dig into the details of what’s being caused when,” he says. “Once we diagnose the problem, that’s probably the first step to fixing it.”In this study, models didn’t have access to actual tools, limiting the realism. Sehwag says a next evaluation step is to build sandboxes where models can take real actions in an isolated environment. As for increasing alignment, she’d like to add oversight layers to agents that flag dangerous inclinations before they’re pursued.The self-preservation risks may be the most speculative in the benchmark, but Sehwag says they’re also the most underexplored. It “is actually a very high-risk domain that can have an impact on all the other risk domains,” she says. “If you just think of a model that doesn’t have any other capability, but it can persuade any human to do anything, that would be enough to do a lot of harm.”
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/ten-lessons-of-building-llm-applications-for-engineers/' target='_blank'>Ten Lessons of Building LLM Applications for Engineers</a></strong> — <em>2025-11-25 13:00:00</em></summary>
+
+Practical field notes on workflows, structure, and evaluation from two years of building with engineering domain experts.
+The post Ten Lessons of Building LLM Applications for Engineers appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/mental-health-litigation-approach' target='_blank'>Our approach to mental health-related litigation</a></strong> — <em>2025-11-25 12:00:00</em></summary>
+
+We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-create-professional-articles-with-latex-in-cursor/' target='_blank'>How to Create Professional Articles with LaTeX in Cursor</a></strong> — <em>2025-11-25 11:30:00</em></summary>
+
+Learn how to rapidly create professional articles and presentations with LaTeX in Cursor
+The post How to Create Professional Articles with LaTeX in Cursor appeared first on Towards Data Science.
 
 </details>
 
