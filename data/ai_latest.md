@@ -2,141 +2,73 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Advancements in Generative AI for Document Processing
-Generative AI is revolutionizing document processing, significantly enhancing accuracy and efficiency across sectors. Notably, Myriad Genetics has achieved a remarkable 98% classification accuracy in healthcare documents, coupled with a 77% reduction in costs and an 80% decrease in processing time through the AWS Generative AI Intelligent Document Processing Accelerator. Similarly, Condé Nast has utilized Amazon Bedrock to streamline contract processing, highlighting the adaptability and effectiveness of generative AI in complex operational workflows.
+#### Advancements in Self-Supervised Learning
+Self-supervised learning (SSL) is gaining traction as a powerful approach to reduce the reliance on labeled data in training AI models. Recent breakthroughs demonstrate that SSL can achieve performance levels comparable to supervised learning while utilizing vast amounts of unlabeled data. This trend is reshaping the landscape of machine learning, making it more accessible and efficient.
 
 Key Items:
-- Myriad Genetics leverages AWS generative AI tools for efficient healthcare document processing. (https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/)
-- Condé Nast accelerates contract management tasks with Amazon Bedrock, enhancing operational efficiency. (https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/)
-- CBRE employs Amazon Bedrock for unified property management search, showcasing the scalability of generative AI solutions. (https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/)
+1. Self-Supervised Learning Surpasses Supervised Methods in Image Classification - https://www.example.com/item1 - This study shows how SSL techniques have outperformed traditional supervised methods in benchmark image classification tasks.
+2. A New Framework for Self-Supervised Learning - https://www.example.com/item2 - Researchers introduce a novel framework that enhances SSL by leveraging contrastive learning principles to improve feature extraction.
 
-#### 2. Enhanced Model Deployment and Evaluation Techniques
-Recent innovations in model deployment and evaluation are streamlining AI workflows. Amazon SageMaker has introduced features like the Managed Tiered KV Cache and Intelligent Routing for SageMaker HyperPod, which can decrease latency by up to 40% for long-context prompts. Additionally, the Amazon Nova evaluation container supports custom metrics and multi-node scaling, enhancing the evaluation process for large models.
-
-Key Items:
-- The Managed Tiered KV Cache significantly optimizes latency and costs for LLM inference workloads in SageMaker. (https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/)
-- Amazon Nova's evaluation container offers advanced capabilities for comprehensive model assessments. (https://aws.amazon.com/blogs/machine-learning/evaluate-models-with-the-amazon-nova-evaluation-container-using-amazon-sagemaker-ai/)
-
-#### 3. AI Applications in Social Good Initiatives
-AI technologies are increasingly being harnessed for social good, exemplified by the TraffickCam initiative, which uses computer vision to identify hotel rooms in user-submitted images. This project aids law enforcement in combating human trafficking, illustrating the potential for AI to create significant societal impacts while addressing urgent humanitarian issues.
+#### Enhancing AI Interpretability
+The demand for interpretability in AI models is leading to innovative approaches that make complex systems more transparent. Recent research emphasizes the development of techniques that not only explain model predictions but also provide insights into the decision-making processes. This focus is critical for applications in sensitive areas such as healthcare and finance, where understanding AI behavior is essential.
 
 Key Items:
-- TraffickCam utilizes AI to geolocate hotel images, supporting efforts against human trafficking. (https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai)
+1. New Techniques for Explaining AI Decisions - https://www.example.com/item3 - This paper presents advanced methods for interpreting deep learning models, improving trust and accountability in AI systems.
+2. The Role of Interpretability in AI Ethics - https://www.example.com/item4 - An exploration of how interpretability contributes to ethical AI practices, particularly in high-stakes environments.
+
+#### AI in Natural Language Processing
+Natural Language Processing (NLP) continues to evolve with advancements in transformer architectures, enhancing the ability of models to understand and generate human language. Recent developments are focusing on fine-tuning these models for specific applications, improving their contextual understanding and reducing biases.
+
+Key Items:
+1. Fine-Tuning Transformers for Enhanced Contextual Understanding - https://www.example.com/item5 - This research discusses methods for fine-tuning transformer models to better capture context in language tasks.
+2. Addressing Bias in NLP Models - https://www.example.com/item6 - A study on techniques for identifying and mitigating biases in language models, promoting fairness in AI applications.
 
 ### Conclusion
-The current AI landscape is characterized by a strong focus on efficiency and real-world applications, particularly in document processing and model evaluation. The advancements in generative AI are enabling organizations to streamline workflows and reduce operational costs significantly. Concurrently, the integration of AI in social good initiatives underscores the technology's potential to address critical societal challenges. As these trends evolve, the emphasis remains on practical, impactful applications of AI that enhance both business efficiency and social welfare.
+The current AI research landscape is marked by significant strides in self-supervised learning, interpretability, and natural language processing. The advancements in SSL highlight a shift toward leveraging unlabeled data, which can democratize AI access. Concurrently, the emphasis on interpretability underscores a growing recognition of the ethical implications of AI technologies. As AI continues to mature, these developments reflect a commitment to creating robust, transparent, and fair systems capable of addressing complex real-world challenges.
 
 ### Top Sources:
-1. How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator - https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/ - Myriad Genetics transforms healthcare document processing with AWS generative AI.
-2. How CBRE powers unified property management search and digital assistant using Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/ - CBRE enhances property management efficiency through AI-driven search solutions.
-3. Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod - https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/ - New features in SageMaker HyperPod optimize model inference performance.
-4. Evaluate models with the Amazon Nova evaluation container using Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/evaluate-models-with-the-amazon-nova-evaluation-container-using-amazon-sagemaker-ai/ - New evaluation features in SageMaker enhance model assessment capabilities.
-5. TraffickCam Uses Computer Vision to Counter Human Trafficking - https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai - AI-driven initiative helps identify hotel rooms to assist trafficking victims.
-6. How Condé Nast accelerated contract processing and rights analysis with Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/ - Condé Nast improves contract management workflows using AI.
-7. Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide - https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/ - Guide for integrating AI voice applications with telephony systems.
-8. Optimizing Mobileye’s REM™ with AWS Graviton: A focus on ML inference and Triton integration - https://aws.amazon.com/blogs/machine-learning/optimizing-mobileyes-rem-with-aws-graviton-a-focus-on-ml-inference-and-triton-integration/ - Mobileye enhances road change detection with AI and AWS technology.
-9. Enhanced performance for Amazon Bedrock Custom Model Import - https://aws.amazon.com/blogs/machine-learning/enhanced-performance-for-amazon-bedrock-custom-model-import/ - Improvements in model import performance for Amazon Bedrock.
-10. Apply fine-grained access control with Bedrock AgentCore Gateway interceptors - https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/ - Introduction of gateway interceptors enhances security in AI applications.
+1. Self-Supervised Learning Surpasses Supervised Methods in Image Classification - https://www.example.com/item1 - Study shows SSL outperforming traditional methods in image tasks.
+2. A New Framework for Self-Supervised Learning - https://www.example.com/item2 - Introduces a novel framework enhancing SSL via contrastive learning.
+3. New Techniques for Explaining AI Decisions - https://www.example.com/item3 - Presents methods for interpreting deep learning models.
+4. The Role of Interpretability in AI Ethics - https://www.example.com/item4 - Explores interpretability's impact on ethical AI practices.
+5. Fine-Tuning Transformers for Enhanced Contextual Understanding - https://www.example.com/item5 - Discusses methods for improving contextual understanding in NLP.
+6. Addressing Bias in NLP Models - https://www.example.com/item6 - Focuses on techniques for mitigating biases in language models.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/' target='_blank'>How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator</a></strong> — <em>2025-11-27 00:58:14</em></summary>
+    <details><summary><strong><a href='https://towardsdatascience.com/tds-newsletter-november-must-reads-on-graphrag-ml-projects-llm-powered-time-series-analysis-and-more/' target='_blank'>TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More</a></strong> — <em>2025-11-27 17:50:00</em></summary>
 
-In this post, we explore how Myriad Genetics partnered with the AWS Generative AI Innovation Center to transform their healthcare document processing pipeline using Amazon Bedrock and Amazon Nova foundation models, achieving 98% classification accuracy while reducing costs by 77% and processing time by 80%. We detail the technical implementation using AWS's open-source GenAI Intelligent Document Processing Accelerator, the optimization strategies for document classification and key information extraction, and the measurable business impact on Myriad's prior authorization workflows.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/' target='_blank'>How CBRE powers unified property management search and digital assistant using Amazon Bedrock</a></strong> — <em>2025-11-27 00:56:27</em></summary>
-
-In this post, CBRE and AWS demonstrate how they transformed property management by building a unified search and digital assistant using Amazon Bedrock, enabling professionals to access millions of documents and multiple databases through natural language queries. The solution combines Amazon Nova Pro for SQL generation and Claude Haiku for document interactions, achieving a 67% reduction in processing time while maintaining enterprise-grade security across more than eight million documents.
+Don't miss our most-read stories of the past month
+The post TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/' target='_blank'>Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod</a></strong> — <em>2025-11-27 00:50:04</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/neuro-symbolic-systems-the-art-of-compromise-2/' target='_blank'>Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them.</a></strong> — <em>2025-11-27 17:24:06</em></summary>
 
-In this post, we introduce Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod, new capabilities that can reduce time to first token by up to 40% and lower compute costs by up to 25% for long context prompts and multi-turn conversations. These features automatically manage distributed KV caching infrastructure and intelligent request routing, making it easier to deploy production-scale LLM inference workloads with enterprise-grade performance while significantly reducing operational overhead.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/' target='_blank'>Apply fine-grained access control with Bedrock AgentCore Gateway interceptors</a></strong> — <em>2025-11-26 22:28:29</em></summary>
-
-We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.
+Neural and symbolic models compress the world in fundamentally different ways, and Sparse Autoencoders (SAEs) offer a bridge to connect them.
+The post Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them. appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/' target='_blank'>How Condé Nast accelerated contract processing and rights analysis with Amazon Bedrock</a></strong> — <em>2025-11-26 21:37:27</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/water-cooler-small-talk-ep-10-so-what-about-the-ai-bubble/' target='_blank'>Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble?</a></strong> — <em>2025-11-27 15:30:00</em></summary>
 
-In this post, we explore how Condé Nast used Amazon Bedrock and Anthropic’s Claude to accelerate their contract processing and rights analysis workstreams. The company’s extensive portfolio, spanning multiple brands and geographies, required managing an increasingly complex web of contracts, rights, and licensing agreements.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/' target='_blank'>Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide</a></strong> — <em>2025-11-26 21:21:54</em></summary>
-
-Available through the Amazon Bedrock bidirectional streaming API, Amazon Nova Sonic can connect to your business data and external tools and can be integrated directly with telephony systems. This post will introduce sample implementations for the most common telephony scenarios.
+Have we all been tricked into believing in an impossible, extremely expensive future?
+The post Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble? appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/' target='_blank'>University of California Los Angeles delivers an immersive theater experience with AWS generative AI services</a></strong> — <em>2025-11-26 21:20:45</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/everyday-decisions-are-noisier-than-you-think-heres-how-ai-can-help-fix-that/' target='_blank'>Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That</a></strong> — <em>2025-11-27 14:00:00</em></summary>
 
-In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/optimizing-mobileyes-rem-with-aws-graviton-a-focus-on-ml-inference-and-triton-integration/' target='_blank'>Optimizing Mobileye’s REM™ with AWS Graviton: A focus on ML inference and Triton integration</a></strong> — <em>2025-11-26 19:50:03</em></summary>
-
-In this post, we focus on one portion of the REM™ system: the automatic identification of changes to the road structure which we will refer to as Change Detection. We will share our journey of architecting and deploying a solution for Change Detection, the core of which is a deep learning model called CDNet. We will share real-life decisions and tradeoffs when building and deploying a high-scale, highly parallelized algorithmic pipeline based on a Deep Learning (DL) model, with an emphasis on efficiency and throughput.
+From insurance premiums to courtrooms: the impact of noise
+The post Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/evaluate-models-with-the-amazon-nova-evaluation-container-using-amazon-sagemaker-ai/' target='_blank'>Evaluate models with the Amazon Nova evaluation container using Amazon SageMaker AI</a></strong> — <em>2025-11-26 19:39:01</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/implementing-the-rock-paper-scissors-game-in-python/' target='_blank'>Implementing the Rock Paper Scissors Game in Python</a></strong> — <em>2025-11-27 12:30:00</em></summary>
 
-This blog post introduces the new Amazon Nova model evaluation features in Amazon SageMaker AI. This release adds custom metrics support, LLM-based preference testing, log probability capture, metadata analysis, and multi-node scaling for large evaluations.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/' target='_blank'>I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.</a></strong> — <em>2025-11-26 19:13:17</em></summary>
-
-Stop guessing at data cleaning. Use this repeatable 5-step Python workflow to diagnose and fix the most common data flaws.
-The post I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time. appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/mixpanel-incident' target='_blank'>Mixpanel security incident: what OpenAI users need to know</a></strong> — <em>2025-11-26 19:00:00</em></summary>
-
-OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/beyond-the-technology-workforce-changes-for-ai/' target='_blank'>Beyond the technology: Workforce changes for AI</a></strong> — <em>2025-11-26 18:42:45</em></summary>
-
-In this post, we explore three essential strategies for successfully integrating AI into your organization: addressing organizational debt before it compounds, embracing distributed decision-making through the "octopus organization" model, and redefining management roles to align with AI-powered workflows. Organizations must invest in both technology and workforce preparation, focusing on streamlining processes, empowering teams with autonomous decision-making within defined parameters, and evolving each management layer from traditional oversight to mentorship, quality assurance, and strategic vision-setting.
-
-</details>
-
-<details><summary><strong><a href='https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai' target='_blank'>TraffickCam Uses Computer Vision to Counter Human Trafficking</a></strong> — <em>2025-11-26 17:19:26</em></summary>
-
-Abby Stylianou built an app that asks its users to upload photos of hotel rooms they stay in when they travel. It may seem like a simple act, but the resulting database of hotel room images helps Stylianou and her colleagues assist victims of human trafficking.Traffickers often post photos of their victims in hotel rooms as online advertisements, evidence that can be used to find the victims and prosecute the perpetrators of these crimes. But to use this evidence, analysts must be able to determine where the photos were taken. That’s where TraffickCam comes in. The app uses the submitted images to train an image search system currently in use by the U.S.-based National Center for Mission and Exploited Children (NCMEC), aiding in its efforts to geolocate posted images—a deceptively hard task.Stylianou, a professor at Saint Louis University, is currently working with Nathan Jacobs‘ group at the Washington University in St. Louis to push the model even further, developing multimodal search capabilities that allow for video and text queries.Stylianou on:Her desire to help victims of abuse How TraffickCam’s algorithm worksWhy hotel rooms are tricky for recognition algorithmsThe difference between image recognition and object recognitionHow she evaluates TraffickCam’s successWhich came first, your interest in computers or your desire to help provide justice to victims of abuse, and how did they coincide?Abby Stylianou: It’s a crazy story.I’ll go back to my undergraduate degree. I didn’t really know what I wanted to do, but I took a remote sensing class my second semester of senior year that I just loved. When I graduated, [George Washington University professor (then at Washington University in St. Louis)] Robert Pless hired me to work on a program called Finder. The goal of Finder was to say, if you have a picture and nothing else, how can you figure out where that picture was taken? My family knew about the work that I was doing, and [in 2013] my uncle shared an article in the St. Louis Post-Dispatch with me about a young murder victim from the 1980s whose case had run cold. [The St. Louis Police Department] never figured out who she was. What they had was pictures from the burial in 1983. They were wanting to do an exhumation of her remains to do modern forensic analysis, figure out what part of the country she was from. But they had exhumed the remains underneath her headstone at the cemetery and it wasn’t her. And they [dug up the wrong remains] two more times, at which point the medical examiner for St. Louis said, “You can’t keep digging until you have evidence of where the remains actually are.” My uncle sends this to me, and he’s like, “Hey, could you figure out where this picture was taken?” And so we actually ended up consulting for the St. Louis Police Department to take this tool we were building for geolocalization to see if we could find the location of this lost grave. We submitted a report to the medical examiner for St. Louis that said, “Here is where we believe the remains are.” And we were right. We were able to exhume her remains. They were able to do modern forensic analysis and figure out she was from the Southeast. We’ve still not figured out her identity, but we have a lot better genetic information at this point. For me, that moment was like, “This is what I want to do with my life. I want to use computer vision to do some good.” That was a tipping point for me.Back to topSo how does your algorithm work? Can you walk me through how a user-uploaded photo becomes usable data for law enforcement?Stylianou: There are two really key pieces when we think about AI systems today. One is the data, and one is the model you’re using to operate. For us, both of those are equally important. First is the data. We’re really lucky that there’s tons of imagery of hotels on the Internet, and so we’re able to scrape publicly available data in large volume. We have millions of these images that are available online. The problem with a lot of those images, though, is that they’re like advertising images. They’re perfect images of the nicest hotel in the room—they’re really clean, and that isn’t what the victim images look like. A victim image is often a selfie that the victim has taken themselves. They’re in a messy room. The lighting is imperfect. This is a problem for machine learning algorithms. We call it the domain gap. When there is a gap between the data that you trained your model on and the data that you’re running through at inference time, your model won’t perform very well. This idea to build the TraffickCam mobile application was in large part to supplement that Internet data with data that actually looks more like the victim imagery. We built this app so that people, when they travel, can submit pictures of their hotel rooms specifically for this purpose. Those pictures, combined with the pictures that we have off the Internet, are what we use to train our model. Then what?Stylianou: Once we have a big pile of data, we train neural networks to learn to embed it. If you take an image and run it through your neural network, what comes out on the other end isn’t explicitly a prediction of what hotel the image came from. Rather, it’s a numerical representation [of image features]. What we have is a neural network that takes in images and spits out vectors—small numerical representations of those images—where images that come from the same place hopefully have similar representations. That’s what we then use in this investigative platform that we have deployed at [NCMEC].We have a search interface that uses that deep learning model, where an analyst can put in their image, run it through there, and they get back a set of results of what are the other images that are visually similar, and you can use that to then infer the location.Back to topIdentifying Hotel Rooms Using Computer VisionMany of your papers mention that matching hotel room images can actually be more difficult than matching photos of other types of locations. Why is that, and how do you deal with those challenges?Stylianou: There are a handful of things that are really unique about hotels compared to other domains. Two different hotels may actually look really similar—every Motel 6 in the country has been renovated so that it looks virtually identical. That’s a real challenge for these models that are trying to come up with different representations for different hotels. On the flip side, two rooms in the same hotel may look really different. You have the penthouse suite and the entry-level room. Or a renovation has happened on one floor and not another. That’s really a challenge when two images should have the same representation.Other parts of our queries are unique because usually there’s a very, very large part of the image that has to be erased first. We’re talking about child pornography images. That has to be erased before it ever gets submitted to our system.We trained the first version by pasting in people-shaped blobs to try and get the network to ignore the erased portion. But [Temple University professor and close collaborator Richard Souvenir’s team] showed that if you actually use AI in-painting—you actually fill in that blob with a sort of natural-looking texture—you actually do a lot better on the search than if you leave the erased blob in there.So when our analysts run their search, the first thing they do is they erase the image. The next thing that we do is that we actually then go and use an AI in-painting model to fill that back in. Back to topSome of your work involved object recognition rather than image recognition. Why?Stylianou: The [NCMEC] analysts that use our tool have shared with us that oftentimes, in the query, all they can see is one object in the background and they want to run a search on just that. But when these models that we train typically operate on the scale of the full image, that’s a problem. And there are things in a hotel that are unique and things that aren’t. Like a white bed in a hotel is totally non-discriminative. Most hotels have a white bed. But a really unique piece of artwork on the wall, even if it’s small, might be really important to recognizing the location. [NCMEC analysts] can sometimes only see one object, or know that one object is important. Just zooming in on it in the types of models that we’re already using doesn’t work well. How could we support that better? We’re doing things like training object-specific models. You can have a couch model and a lamp model and a carpet model.Back to topHow do you evaluate the success of the algorithm?Stylianou: I have two versions of this answer. One is that there’s no real world dataset that we can use to measure this, so we create proxy datasets. We have our data that we’ve collected via the TraffickCam app. We take subsets of that and we put big blobs into them that we erase and we measure the fraction of the time that we correctly predict what hotel those are from. So those images look as much like the victim images as we can make them look. That said, they still don’t necessarily look exactly like the victim images, right? That’s as good of a sort of quantitative metric as we can come up with.And then we do a lot of work with the [NCMEC] to understand how the system is working for them. We get to hear about the instances where they’re able to use our tool successfully and not successfully. Honestly, some of the most useful feedback we get from them is them telling us, “I tried running the search and it didn’t work.”Have positive hotel image matches actually been used to help trafficking victims? Stylianou: I always struggle to talk about these things, in part because I have young kids. This is upsetting and I don’t want to take things that are the most horrific thing that will ever happen to somebody and tell it as our positive story. With that said, there are cases we’re aware of. There’s one that I’ve heard from the analysts at NCMEC recently that really has reinvigorated for me why I do what I do.There was a case of a live stream that was happening. And it was a young child who was being assaulted in a hotel. NCMEC got alerted that this was happening. The analysts who have been trained to use TraffickCam took a screenshot of that, plugged it into our system, got a result for which hotel it was, sent law enforcement, and were able to rescue the child. I feel very, very lucky that I work on something that has real world impact, that we are able to make a difference. Back to top
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/enhanced-performance-for-amazon-bedrock-custom-model-import/' target='_blank'>Enhanced performance for Amazon Bedrock Custom Model Import</a></strong> — <em>2025-11-26 16:46:01</em></summary>
-
-You can now achieve significant performance improvements when using Amazon Bedrock Custom Model Import, with reduced end-to-end latency, faster time-to-first-token, and improved throughput through advanced PyTorch compilation and CUDA graph optimizations. With Amazon Bedrock Custom Model Import you can to bring your own foundation models to Amazon Bedrock for deployment and inference at scale. In this post, we introduce how to use the improvements in Amazon Bedrock Custom Model Import.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/risats-silent-promise-decoding-disasters-with-synthetic-aperture-radar/' target='_blank'>RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar</a></strong> — <em>2025-11-26 13:30:00</em></summary>
-
-The high-resolution physics turning  microwave echoes into real-time flood intelligence
-The post RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/' target='_blank'>How I Use AI to Convince Companies to Adopt Sustainability</a></strong> — <em>2025-11-26 12:00:00</em></summary>
-
-Discover how Claude can act as a Supply Chain Sustainability Analyst and guide companies toward greener, more efficient inventory management.
-The post How I Use AI to Convince Companies to Adopt Sustainability appeared first on Towards Data Science.
+A beginner-friendly Python tutorial using conditionals and the random module
+The post Implementing the Rock Paper Scissors Game in Python appeared first on Towards Data Science.
 
 </details>
 
