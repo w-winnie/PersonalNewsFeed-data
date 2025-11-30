@@ -1,287 +1,176 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysical Developments
+    ### Recent Developments in Astrobiology and Planetary Habitability
 
-#### 1. Exoplanet Atmospheres and Habitability
-Recent research underscores the importance of exoplanet atmospheres in evaluating their potential for habitability, moving beyond the traditional focus on their location within the habitable zone. This shift highlights that even planets within this zone may lack atmospheres conducive to life, suggesting that atmospheric characteristics could be more telling than mere orbital position. As a result, upcoming missions are set to prioritize the analysis of exoplanet atmospheres to identify biosignatures and assess habitability.
+Astrobiology is advancing with a nuanced understanding of the conditions that foster life beyond Earth. Researchers are increasingly recognizing that habitability extends beyond a planet's position in the habitable zone, incorporating diverse environmental factors such as atmospheric composition, geological activity, and magnetic fields. This holistic perspective is crucial for refining the criteria used to identify exoplanets as potential hosts for life, thereby influencing future exploration missions.
 
-Key items:
-- A study emphasizes that atmospheric composition is crucial for determining habitability, revealing that not all planets in the habitable zone are suitable for life.
-- Future missions, such as the James Webb Space Telescope's atmospheric studies, are expected to enhance our understanding of life-supporting conditions on distant worlds.
+1. **Complexities of Habitability** - A recent analysis emphasizes that evaluating exoplanets requires a multifaceted approach that considers various environmental conditions beyond mere temperature and atmosphere. This could lead to more precise assessments of distant worlds' potential for life. (Source: Why being in the 'right place' isn't enough for life - https://phys.org/news/2025-11-isnt-life.html)
 
-#### 2. Advancements in Space Observation Technology
-The field of astrophysics is experiencing a significant transformation due to the launch of new space telescopes and missions. Notably, the successful deployment of the first private space telescope marks a pivotal moment in expanding access to astronomical research and observation, potentially democratizing the field. This trend is complemented by innovative mission designs that enhance scientific outreach and data collection.
+2. **Amino Acids from Asteroids** - A study suggests that asteroids rich in amino acids may have played a critical role in the origins of life on Earth, bolstering the theory that prebiotic molecules were delivered via celestial bodies. This research could inform our understanding of life's emergence elsewhere in the universe. (Source: Asteroid loaded with amino acids offers new clues about the origin of life on Earth - https://phys.org/news/2025-11-asteroid-amino-acids-clues-life.html)
 
-Key items:
-- The first private space telescope has been successfully launched, indicating a growing trend of private sector involvement in astronomical research.
-- NASA's OSIRIS-APEX spacecraft has captured high-resolution images of Earth and the Moon during its slingshot maneuver, showcasing the potential for innovative mission designs.
+3. **Decades of Alien Life Search** - A comprehensive review of seventy years of extraterrestrial life research highlights both achievements and ongoing challenges, underscoring the importance of ancient meteorites in understanding life's building blocks. (Source: What seven decades of hunting for aliens tells us - https://phys.org/news/2025-11-decades-aliens.html)
 
-#### 3. Insights into Cosmic Phenomena
-Recent studies have provided valuable insights into cosmic phenomena, particularly regarding stellar dynamics around supermassive black holes and the mechanisms behind gamma-ray bursts. These findings contribute to our understanding of extreme astrophysical environments and the complex behaviors of celestial bodies under extraordinary conditions.
+### Advances in Dark Matter Research
 
-Key items:
-- Observations of stars in stable orbits around Sagittarius A* reveal intricate interactions in the vicinity of supermassive black holes.
-- The detection of quasi-periodic oscillations in a gamma-ray burst opens new avenues for exploring the underlying processes of these energetic events.
+The search for dark matter is gaining traction, with recent findings hinting at a breakthrough in detecting this enigmatic substance. Data from NASA’s Fermi Gamma-ray Space Telescope has revealed a potential signal that aligns with theoretical predictions about dark matter interactions, suggesting we may be closer to understanding this fundamental component of the universe.
+
+1. **Gamma-ray Halo Discovery** - Researchers have detected a halo of high-energy gamma rays that corresponds with expected outcomes from dark matter particle collisions. This finding could represent a significant advancement in the long-standing quest to identify dark matter, potentially reshaping our comprehension of the universe's makeup. (Source: Scientists may have found dark matter after 100 years of searching - https://www.sciencedaily.com/releases/2025/11/251129053349.htm)
 
 ### Conclusion
-The current landscape in astrophysics reflects a dynamic interplay between atmospheric science, technological advancements, and our understanding of cosmic phenomena. As researchers focus on atmospheric characteristics to refine the search for extraterrestrial life and leverage new observational technologies, the field is poised for significant discoveries. The emphasis on exoplanet atmospheres, combined with the rise of private sector involvement in astronomy, signals a promising trajectory for future exploration and understanding of the universe. 
 
-### Top Sources:
-1. Beyond the habitable zone: Exoplanet atmospheres are the next clue to finding life on planets orbiting distant stars - https://www.space.com/space-exploration/search-for-life/beyond-the-habitable-zone-exoplanet-atmospheres-are-the-next-clue-to-finding-life-on-planets-orbiting-distant-stars - New insights on the importance of exoplanet atmospheres in the search for life.
-2. NASA probe captures stunning photos of Earth and moon on the way to infamous asteroid Apophis - https://www.space.com/astronomy/asteroids/nasa-probe-captures-stunning-photos-of-earth-and-moon-on-the-way-to-infamous-asteroid-apophis - OSIRIS-APEX spacecraft captures detailed images during its mission.
-3. First Private Space Telescope Launches Successfully - https://skyandtelescope.org/astronomy-news/first-private-space-telescope-launches-successfully/ - A new milestone in the privatization of astronomical observation.
-4. Stars defy black hole by showing stable orbits around Sagittarius A* - https://phys.org/news/2025-11-stars-defy-black-hole-stable.html - New evidence of stellar dynamics around supermassive black holes.
-5. Quasi-periodic oscillations detected in unusual multi-trigger gamma-ray burst - https://phys.org/news/2025-11-quasi-periodic-oscillations-unusual-multi.html - Insights into the mechanisms of gamma-ray bursts.
-6. Newly Found Organics in Enceladus’ Plumes - https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/ - Discovery of organic compounds in the plumes of Saturn's moon Enceladus.
-7. Rare high-resolution observations of a flare-prolific solar active region - https://phys.org/news/2025-11-rare-high-resolution-flare-prolific.html - Detailed observations of solar flares and their implications for space weather.
-8. Astronomers unveil 400 sibling star clusters in the Milky Way - https://phys.org/news/2025-11-astronomers-unveil-sibling-star-clusters.html - New findings on the formation and evolution of star clusters.
-9. Dark matter-dark energy interaction shapes cosmic halo spin and alignment, simulations show - https://phys.org/news/2025-11-dark-energy-interaction-cosmic-halo.html - A study revealing interactions between dark matter and dark energy.
-10. Radio wave bursts linked to onset of intense auroral storms - https://phys.org/news/2025-11-radio-linked-onset-intense-auroral.html - Study revealing triggers for intense auroral activity.
+The current landscape in astrophysics and astrobiology is characterized by cautious optimism as researchers enhance their understanding of life-supporting conditions and the elusive nature of dark matter. The integration of innovative technologies and methodologies is not only enriching our comprehension of the universe but is also refining the search for extraterrestrial life. These developments signal a future filled with potential discoveries and deeper insights into the cosmos.
+
+Top Sources:
+1. Why being in the 'right place' isn't enough for life - https://phys.org/news/2025-11-isnt-life.html - New insights into planetary habitability factors.
+2. Asteroid loaded with amino acids offers new clues about the origin of life on Earth - https://phys.org/news/2025-11-asteroid-amino-acids-clues-life.html - Study on asteroids contributing to life's building blocks.
+3. What seven decades of hunting for aliens tells us - https://phys.org/news/2025-11-decades-aliens.html - Review of the search for extraterrestrial life and its implications.
+4. Scientists may have found dark matter after 100 years of searching - https://www.sciencedaily.com/releases/2025/11/251129053349.htm - Potential breakthrough in dark matter detection.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/beyond-the-habitable-zone-exoplanet-atmospheres-are-the-next-clue-to-finding-life-on-planets-orbiting-distant-stars' target='_blank'>Beyond the habitable zone: Exoplanet atmospheres are the next clue to finding life on planets orbiting distant stars</a></strong> — <em>2025-11-28 23:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2025-11-isnt-life.html' target='_blank'>Why being in the 'right place' isn't enough for life</a></strong> — <em>2025-11-29 18:00:01</em></summary>
 
-But being in this sweet spot doesn't automatically mean a planet is hospitable to life.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/nasa-probe-captures-stunning-photos-of-earth-and-moon-on-the-way-to-infamous-asteroid-apophis' target='_blank'>NASA probe captures stunning photos of Earth and moon on the way to infamous asteroid Apophis</a></strong> — <em>2025-11-28 22:00:00</em></summary>
-
-NASA's OSIRIS-APEX spacecraft captured stunning new images as it whipped past Earth during a high-speed slingshot maneuver, sending the probe on a fast track toward the asteroid Apophis.
+A planet's habitability is determined by a confluence of many factors. So far, our explorations of potentially habitable worlds beyond our solar system have focused exclusively on their position in the "Goldilocks Zone" of their solar system, where their temperature determines whether or not liquid water can exist on their surface, and, more recently, what their atmospheres are composed of. That's in part due to the technical limitations of the instruments available to us—even the powerful James Webb Space Telescope is capable only of seeing the atmospheres of very large planets nearby.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_mission_launched_to_scout_for_water' target='_blank'>ESA’s HydroGNSS mission launched to ‘scout’ for water</a></strong> — <em>2025-11-28 21:50:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/buzz-lightyear-at-30-how-sci-fis-most-famous-flying-toy-took-us-to-infinity-and-beyond' target='_blank'>Buzz Lightyear at 30: How sci-fi's most famous flying toy took us to infinity… and beyond</a></strong> — <em>2025-11-29 18:00:00</em></summary>
 
-
-The European Space Agency’s first Scout mission, HydroGNSS, was launched today, 28 November, marking a significant step in advancing global understanding of water availability and the effects of climate change on Earth’s water cycle.The two twin HydroGNSS satellites were carried into orbit at 19:44 CET aboard a SpaceX Falcon 9 rocket, as part of the Transporter-15 rideshare flight from the Vandenberg Space Force Base in California.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/11/HydroGNSS_launch_highlights' target='_blank'>HydroGNSS launch highlights</a></strong> — <em>2025-11-28 21:00:00</em></summary>
-
-
-	Video: 
-			00:02:51
-				ESA’s first Scout mission, HydroGNSS, was launched on 28 November 2025, marking a significant step in advancing global understanding of water availability and the effects of climate change on Earth’s water cycle.The two twin HydroGNSS satellites were carried into orbit aboard a SpaceX Falcon 9 rocket from the Vandenberg Space Force Base in California, US.Embracing the New Space concept, HydroGNSS is one of ESA’s new Scout missions being developed within the Earth Observation FutureEO programme.
+In 1995, "Toy Story" introduced one of sci-fi's greatest heroes. Thirty years on, Buzz Lightyear is still the pride of Star Command
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/astronauts-welcome-arrival-of-new-crewmates-on-the-iss-this-week-nov-24-28-2025' target='_blank'>Astronauts welcome arrival of new crewmates | On the ISS this week Nov. 24-28, 2025</a></strong> — <em>2025-11-28 20:04:07</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/watch-live-as-near-earth-asteroid-eros-buzzes-the-andromeda-galaxy-on-nov-30-video' target='_blank'>Watch live as near-Earth asteroid Eros buzzes the Andromeda Galaxy on Nov. 30 (video)</a></strong> — <em>2025-11-29 17:00:00</em></summary>
 
-Expedition 73 gained three crewmates, expanding the International Space Station's complement to 10. Activities continued as the outpost extended beyond 25 years of a continuous human presence.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/disney-plus-hulu-bundle-stream-predator-and-more-over-60-percent-off-black-friday' target='_blank'>I've scoured the internet and found this great streaming deal — save over 60% on two major streaming services and watch the Predator movies and more, for less</a></strong> — <em>2025-11-28 19:58:42</em></summary>
-
-If you're a fan of Predator or sci-fi in general, you must consider this massive Black Friday Disney Plus deal, which includes Hulu, for just $4.99 a month.
+Watch live as near-Earth asteroid Eros buzzes the Andromeda Galaxy on Nov. 30 (video)
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/first-private-space-telescope-launches-successfully/' target='_blank'>First Private Space Telescope Launches Successfully</a></strong> — <em>2025-11-28 19:04:25</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-24-2025-the-strange-star-kepler-56-is-classified-as-this-type-of-star' target='_blank'>Space.com headlines crossword quiz for week of Nov. 24, 2025: The strange star Kepler-56 is classified as this type of star</a></strong> — <em>2025-11-29 16:00:00</em></summary>
 
-A small space telescope may signal a big new trend for modern astronomy.
-The post First Private Space Telescope Launches Successfully appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/forget-stranger-things-if-you-want-retro-80s-vibey-sci-fi-these-are-the-top-black-friday-streaming-deals-you-need' target='_blank'>Forget Stranger Things, if you want retro 80s vibey sci-fi, these are the top Black Friday streaming deals you need</a></strong> — <em>2025-11-28 19:00:00</em></summary>
-
-Sure, there's a lot of hype around Stranger Things season five, but if you love sci-fi and you want value, these are the Black Friday streaming deals you need.
+Test your space smarts with our weekly crossword challenge, crafted from Space.com's biggest headlines.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-local-space-weather-impacts-technology.html' target='_blank'>Local space weather impacts on technology and safety vary more than expected</a></strong> — <em>2025-11-28 18:15:23</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-decades-aliens.html' target='_blank'>What seven decades of hunting for aliens tells us</a></strong> — <em>2025-11-29 15:30:01</em></summary>
 
-A strong geomagnetic storm in spring 2024 brought the northern lights unusually far south, as the auroral oval expanded well beyond its typical position. "I am surprised at how sparse the measurement network is, even though we know that the impacts of space weather can vary greatly from one area to another," says Doctoral Researcher Otto Kärhä from the University of Oulu, Finland.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-dark-energy-interaction-cosmic-halo.html' target='_blank'>Dark matter-dark energy interaction shapes cosmic halo spin and alignment, simulations show</a></strong> — <em>2025-11-28 18:11:29</em></summary>
-
-A cosmological simulation study by researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences has systematically revealed, for the first time, how the interaction between dark matter and dark energy significantly influences the rotation and shape alignment of dark matter halos in the universe.
+Since the 1950s, humanity has been searching for extraterrestrial life with increasingly sophisticated tools. But after decades of space probes, meteorite analysis, radio telescopes, and UFO investigations, what have we actually found? A new piece of analysis by a team led by Seyed Sina Seyedpour Layalestani from the Islamic Azad University in Iran has looked at the most compelling evidence to date; from ancient space rocks that fell to Earth carrying the building blocks of life itself. The paper is published in the International Journal of Astrobiology.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/' target='_blank'>Newly Found Organics in Enceladus’ Plumes</a></strong> — <em>2025-11-28 18:11:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/no-other-dslr-comes-close-to-the-nikon-d850-save-a-massive-600-dollars-on-our-best-dslr-for-astrophotography-for-black-friday-weekend' target='_blank'>No other DSLR comes close to the Nikon D850 — save a massive $600 on our best DSLR for astrophotography for Black Friday weekend</a></strong> — <em>2025-11-29 15:30:00</em></summary>
 
-Dramatic plumes, both large and small, spray water ice out from many locations along the famed tiger stripes near the south pole of Saturn’s moon Enceladus in this image released on Feb. 23, 2010. A study published in October 2025 analyzed data from NASA’s Cassini mission and found evidence of previously undetected organic compounds in […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/beat-the-paramount-price-hike-with-this-half-price-black-friday-walmart-deal' target='_blank'>Beat the Paramount+ price hike with this half-price Black Friday Walmart+ deal</a></strong> — <em>2025-11-28 18:00:00</em></summary>
-
-Annoyed that you'll have to pay even more to watch Starfleet Academy? Thanks to this Walmart+ deal, you can get a full year of Paramount+ for just $50, beating the January Paramount+ price rise.
+I think this is the best DSLR ever made. The Nikon D850 is now $600 off on BH Photo and Video this Black Friday weekend. Watch out though, it could end in the next few days.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/russias-only-launch-pad-for-cosmonauts-damaged-by-soyuz-crew-launch-to-international-space-station' target='_blank'>Russia's only active launch pad for cosmonauts damaged by Soyuz crew launch to International Space Station</a></strong> — <em>2025-11-28 17:38:47</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/best-disney-sci-fi-movies-that-arent-big-franchises' target='_blank'>Best Disney sci-fi movies (that aren't Star Wars, Marvel, or Pixar)</a></strong> — <em>2025-11-29 15:00:00</em></summary>
 
-The liftoff of two cosmonauts a NASA astronaut to the International Space Station caused damage to Russia's launch pad at the Baikonur Cosmodrome in Kazakhstan.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-quasi-periodic-oscillations-unusual-multi.html' target='_blank'>Quasi-periodic oscillations detected in unusual multi-trigger gamma-ray burst</a></strong> — <em>2025-11-28 17:37:30</em></summary>
-
-A new study led by the Yunnan Observatories of the Chinese Academy of Sciences has detected quasi-periodic oscillation (QPO) signals in an unusual gamma-ray burst (GRB) event. The findings are published in The Astrophysical Journal.
+Disney's long history contains a bunch of sci-fi movies worth watching that don't belong to Pixar, Marvel, Star Wars, or other large franchises.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-rare-high-resolution-flare-prolific.html' target='_blank'>Rare high-resolution observations of a flare-prolific solar active region</a></strong> — <em>2025-11-28 17:31:26</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/we-reviewed-this-iconic-lego-star-wars-starship-and-felt-it-was-expensive-but-with-50-percent-off-this-black-friday-weekend-we-wouldnt-hesitate-to-buy-it' target='_blank'>We reviewed this iconic Lego Star Wars starship and felt it was expensive — but with 50% off this Black Friday weekend, we wouldn't hesitate to buy it</a></strong> — <em>2025-11-29 15:00:00</em></summary>
 
-Scientists have captured an exceptionally rare, high-resolution view of an active region that produced two powerful X-class solar flares—an achievement rarely possible from Earth. Using the GREGOR solar telescope in Tenerife, researchers recorded the explosive activity of the sun's most energetic sunspot group of 2025, revealing twisted magnetic structures and the early stages of flare ignition with unprecedented detail. The flares triggered fast coronal mass ejections that lit up Earth's skies with vivid auroras in the nights that followed.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-20-percent-off-our-best-lightsaber-for-kids-star-wars-yoda-lightsaber-now-only-40-dollars-at-the-disney-store' target='_blank'>Feel the force with 20% off our best lightsaber for kids — Star Wars Yoda lightsaber now only $40 at the Disney store</a></strong> — <em>2025-11-28 16:30:00</em></summary>
-
-Buy or do not. There is no try. Train in the ways of the Jedi with this light and sound effects Star Wars Yoda lightsaber, now $40 at the Disney Store.
+Save $40 on this impressive reproduction of the Tantive IV at Amazon this Black Friday weekend — now the lowest price we've ever seen it.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-11-astronomers-unveil-sibling-star-clusters.html' target='_blank'>Astronomers unveil 400 sibling star clusters in the Milky Way</a></strong> — <em>2025-11-28 16:28:25</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-11-asteroid-amino-acids-clues-life.html' target='_blank'>Asteroid loaded with amino acids offers new clues about the origin of life on Earth</a></strong> — <em>2025-11-29 14:30:01</em></summary>
 
-Stars usually form in clusters, which can also form in pairs or groups. Binary clusters (BCs) are defined as pairs of open clusters closely associated both in position and kinematics. They provide insight into how stars form within giant molecular clouds, making them important indicators of star formation and cluster evolution.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/native-artists-in-texas-and-mexico-shared-their-vision-of-the-universe-for-4-000-years-ancient-murals-suggest' target='_blank'>Native artists in Texas and Mexico shared their vision of the universe for 4,000 years, ancient murals suggest</a></strong> — <em>2025-11-28 16:00:00</em></summary>
-
-The term cosmovision refers to a conception of the universe in totality.
+One of the most elegant theories about the origins of life on our planet is that it was kick-started by a delivery from outer space. This idea suggests that prebiotic molecules—the building blocks of life—were transported here by asteroids or other celestial bodies. While these molecules have been found in meteorite samples that have crash-landed on Earth, the findings have been complicated by the possibility of contamination from our environment.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/from-malware-to-identity-theft-the-internet-is-more-dangerous-than-ever-surfshark-vpn-is-the-protection-you-need-with-usd110-off-this-black-friday' target='_blank'>From malware to identity theft, the internet is more dangerous than ever — Surfshark VPN is the protection you need, with $110 off this Black Friday</a></strong> — <em>2025-11-28 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/i-have-used-this-half-price-apple-tv-deal-for-two-days-and-im-already-addicted-to-pluribus' target='_blank'>I have used this half-price Apple TV deal for two days and I'm already addicted to Pluribus</a></strong> — <em>2025-11-29 14:30:00</em></summary>
 
-From blocking ads to hiding your location online, Surfshark is an essential internet safety tool. This Black Friday it's up to 80% off, starting at just $1.99 a month for two years, with three extra months free.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-stars-defy-black-hole-stable.html' target='_blank'>Stars defy black hole by showing stable orbits around Sagittarius A*</a></strong> — <em>2025-11-28 15:40:06</em></summary>
-
-An international research team led by PD Dr. Florian Peissker at the University of Cologne has used the new observation instrument ERIS (Enhanced Resolution Imager and Spectrograph) at the Very Large Telescope (VLT) facility in Chile to show that several so-called "dusty objects" follow stable orbits around the supermassive black hole Sagittarius A* at the center of our galaxy.
+This half-price Black Friday Apple TV deal is worth it just for the amazing, mind-bending Pluribus. And when you're done watching Rhea Seehorn save the world, you'll still be spoilt for choice.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/with-55-percent-off-for-black-friday-this-lego-marvel-the-avengers-vs-the-leviathan-set-makes-me-want-a-big-screen-lego-avengers-movie' target='_blank'>With 55% off for Black Friday, this Lego Marvel The Avengers vs. The Leviathan set makes me want a big-screen Lego Avengers movie</a></strong> — <em>2025-11-28 15:30:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251129053349.htm' target='_blank'>Scientists may have found dark matter after 100 years of searching</a></strong> — <em>2025-11-29 14:21:07</em></summary>
 
-Love Marvel? While you wait for Avengers: Doomsday, relive the original's finest monster-punching moment with this Lego Marvel The Avengers vs. The Leviathan, better than half price for Black Friday.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/james-webb-space-telescope-watches-our-milky-way-galaxys-monster-black-hole-fire-out-a-flare' target='_blank'>James Webb Space Telescope watches our Milky Way galaxy's monster black hole fire out a flare</a></strong> — <em>2025-11-28 15:00:00</em></summary>
-
-Observations of the supermassive black hole at the heart of the Milky Way, Sagittarius A*, collected by the James Webb Space Telescope, have allowed scientists to better understand how this cosmic titan fires off flares.
+Nearly a century after astronomers first proposed dark matter to explain the strange motions of galaxies, scientists may finally be catching a glimpse of it. A University of Tokyo researcher analyzing new data from NASA’s Fermi Gamma-ray Space Telescope has detected a halo of high-energy gamma rays that closely matches what theories predict should be released when dark matter particles collide and annihilate. The energy levels, intensity patterns, and shape of this glow align strikingly well with long-standing models of weakly interacting massive particles, making it one of the most compelling leads yet in the hunt for the universe’s invisible mass.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/astronomer-gemma-lavender-thinks-the-vespera-pro-is-perfect-for-beginners-and-its-now-500-dollars-off-for-black-friday-on-amazon' target='_blank'>Astronomer Gemma Lavender thinks the Vespera Pro is perfect for beginners and it's now $500 off for Black Friday on Amazon</a></strong> — <em>2025-11-28 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/saturn-shines-with-the-waxing-moon-sunset-nov-29-2025' target='_blank'>Saturn shines with the waxing moon at sunset on Nov. 29</a></strong> — <em>2025-11-29 14:00:00</em></summary>
 
-The best smart telescope for resolution, the Vaonis Vespera Pro, is now at its second lowest price for Black Friday — only $2490 on Amazon.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-radio-linked-onset-intense-auroral.html' target='_blank'>Radio wave bursts linked to onset of intense auroral storms</a></strong> — <em>2025-11-28 14:44:27</em></summary>
-
-A University of Southampton study has revealed an intriguing new clue in the mystery of what triggers periods of very intense, brightly colored activity during displays of both the southern and northern lights.
+The waxing gibbous moon will appear close to Saturn in the southeastern sky at sunset on Nov. 29 as Neptune lurks unseen nearby.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/a-hugely-enjoyable-product-that-punches-way-above-its-price-point-the-zwo-seestar-s50-smart-telescope-is-26-dollars-off-this-black-friday' target='_blank'>A "hugely enjoyable product that punches way above its price point", the ZWO Seestar S50 smart telescope is $26 off this Black Friday</a></strong> — <em>2025-11-28 14:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/we-gave-this-star-projector-5-stars-and-now-its-at-its-lowest-ever-price-this-black-friday-weekend' target='_blank'>We gave this star projector 5 stars and now it's at its lowest-ever price this Black Friday weekend</a></strong> — <em>2025-11-29 14:00:00</em></summary>
 
-Want a beginner-friendly telescope that makes deep sky astrophotography a breeze? Our expert reviewer raved about this ZWO Seestar S50 scope, awarding it four and a half stars, and it's even cheaper in Amazon's Black Friday sale.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_November_2025' target='_blank'>Week in images: 24-28 November 2025</a></strong> — <em>2025-11-28 14:15:00</em></summary>
-
-
-Week in images: 24-28 November 2025
-Discover our week through the lens
+The Hommkiety Galaxy Projector blew us away, with us ranking it as the best star projector for education, and now it can be yours for $31.99 this Black Friday weekend.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/nasa-astronauts-take-new-moonsuit-for-a-swim-space-photo-of-the-day-for-nov-28-2025' target='_blank'>NASA astronauts take new moonsuit for a swim | Space photo of the day for Nov. 28, 2025</a></strong> — <em>2025-11-28 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/watch-avatar-movies-before-fire-and-ash-with-this-disney-plus-black-friday-deal-4-dollars-99-a-month' target='_blank'>Watch the Avatar movies ahead of Fire and Ash next month with this Disney Plus and Hulu Black Friday deal, now just $4.99 a month</a></strong> — <em>2025-11-29 13:30:00</em></summary>
 
-As NASA prepares for crewed Artemis missions, its astronauts are learning to use a new generation of spacesuits: the Axiom Extravehicular Mobility Unit, designed by Axiom Space.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/grab-the-telescope-that-helped-me-stargaze-in-a-light-polluted-city-the-unistellar-odyssey-pro-is-now-usd1149-cheaper-for-black-friday' target='_blank'>Grab the telescope that helped me stargaze in a light-polluted city — the Unistellar Odyssey Pro is now $1149 cheaper for Black Friday</a></strong> — <em>2025-11-28 14:00:00</em></summary>
-
-Our best smart telescope for versatility, the Unistellar Odyssey Pro, is now only $3350 on Amazon for Black Friday, even cheaper than Unistellar's own site.
+This top-tier Black Friday deal means you get Disney Plus and Hulu for just $4.99 a month and you can stream the Avatar movies ahead of Fire and Ash.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/this-small-but-mighty-smart-telescope-impressed-our-astronomy-expert-and-now-its-usd50-cheaper-for-black-friday' target='_blank'>This small but mighty smart telescope impressed our astronomy expert and now it's $50 cheaper for Black Friday</a></strong> — <em>2025-11-28 13:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/these-are-the-best-affordable-binoculars-i-use-for-stargazing-and-now-theyre-only-212-dollars-this-black-friday' target='_blank'>These are the best affordable binoculars I use for stargazing and now they're only $212 this Black Friday</a></strong> — <em>2025-11-29 13:30:00</em></summary>
 
-Our astronomy expert, Gemma Lavender, reviewed the ZWO Seestar S30 and was impressed with the easy setup and stunning images. Get it for $349 in this Black Friday deal from Amazon!
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-devastating-stellar-storm-red-dwarf.html' target='_blank'>Devastating stellar storm seen on red dwarf star</a></strong> — <em>2025-11-28 13:02:27</em></summary>
-
-A first ever detection of a coronal mass ejection from a small red dwarf could have big consequences for life on any nearby planets.
+Our best binoculars for affordable stargazing, the Celestron Nature DX 12x56, are $78 cheaper in this Black Friday deal from Amazon.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/looking-for-a-cheap-black-friday-laptop-deal-these-7-offers-have-caught-my-eye' target='_blank'>Looking for a cheap Black Friday laptop deal? These 7 offers have caught my eye</a></strong> — <em>2025-11-28 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/crush-the-rebel-scum-with-33-dollars-off-this-full-sized-star-wars-scout-trooper-helmet-but-youll-have-to-hurry' target='_blank'>Crush the Rebel scum with $33 off this full-sized Star Wars Scout Trooper Helmet, but you'll have to hurry</a></strong> — <em>2025-11-29 13:00:00</em></summary>
 
-I test laptops for a living and I've found several worthwhile laptop deals this Black Friday, with huge discounts on MacBooks and other high-end models.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/heres-my-round-up-of-the-10-best-christmas-gifts-for-space-fans-this-black-friday' target='_blank'>Here's my round-up of the 10 best Christmas gifts for space fans, this Black Friday</a></strong> — <em>2025-11-28 12:30:00</em></summary>
-
-I've rounded up some of the best Black Friday deals from telescopes to Lego to help you find the ideal gift for your space-obsessed loved one.
+Want to save 30% on this cosplay-friendly Star Wars Black Series Scout Trooper Helmet? Hurry and get on your Speeder Bike, it's already half-gone in Amazon's Black Friday sale.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/tech/must-have-nord-vpn-black-friday-deal-save-up-to-77-percent' target='_blank'>I think this is the best VPN deal around — NordVPN has 77% off this Black Friday</a></strong> — <em>2025-11-28 11:55:29</em></summary>
+<details><summary><strong><a href='https://www.space.com/science/particle-physics/physicists-and-philosophers-have-long-struggled-to-understand-the-nature-of-time-heres-why' target='_blank'>Physicists and philosophers have long struggled to understand the nature of time: Here's why</a></strong> — <em>2025-11-29 13:00:00</em></summary>
 
-If you're looking for a bargain when it comes to VPNs, you can save up to 77% on NordVPN's Black Friday deal — arguably a must-have for online security and streaming
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/4-key-things-nasa-just-revealed-about-the-interstellar-comet-3i-atlas' target='_blank'>4 key things NASA just revealed about the interstellar comet 3I/ATLAS</a></strong> — <em>2025-11-28 11:00:00</em></summary>
-
-"This is a snapshot of where we are very early in the scientific process."
+Intuitively, we know what time is, but try to explain it, and we end up tying our minds in knots.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/what-you-need-to-buy-to-get-ready-for-the-2026-total-solar-eclipse' target='_blank'>What you need to buy to get ready for the 2026 total solar eclipse</a></strong> — <em>2025-11-28 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/our-lego-expert-ranks-this-as-the-best-version-of-jango-fetts-ship-and-its-cheaper-than-ever-this-black-friday' target='_blank'>Our Lego expert ranks this as the best version of Jango Fett's ship and it's cheaper than ever this Black Friday</a></strong> — <em>2025-11-29 12:30:00</em></summary>
 
-These are my top recommendations to get you ready for the total solar eclipse next year.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/unlock-the-marvel-multiverse-this-black-friday-with-this-disney-and-hulu-bundle-deal-just-usd4-99-a-month' target='_blank'>Unlock the Marvel Multiverse this Black Friday with this Disney+ and Hulu bundle deal, just $4.99 a month</a></strong> — <em>2025-11-28 10:00:00</em></summary>
-
-Whether you've missed out on the Marvel Cinematic Universe or are eagerly awaiting 2026's smash superhero shows and movies, this Black Friday deal on Hulu and Disney Plus is more precious than the Infinity Stones.
+There have been several Lego versions of Jango and Boba Fett's famous Firespray starship, but this UCS model is the best — now it's $30 off in this Amazon-beating Black Friday deal.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-november-28-december-7/' target='_blank'>This Week's Sky at a Glance, November 28 – December 7</a></strong> — <em>2025-11-28 09:51:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/this-sony-camera-dominates-our-buying-guides-and-this-black-friday-its-900-dollars-off' target='_blank'>This Sony camera dominates our buying guides and this Black Friday it's $900 off</a></strong> — <em>2025-11-29 12:00:00</em></summary>
 
-Saturn remains super-thin-ringed high after dark. The interstellar comet, 11th magnitude, is now nice and high in the dark before dawn. Don't wait; moonlight approaches.
-The post This Week's Sky at a Glance, November 28 – December 7 appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-11-russian-cosmodrome-joint.html' target='_blank'>Russian cosmodrome damaged after joint launch with US</a></strong> — <em>2025-11-28 09:12:43</em></summary>
-
-Russia's space launch site in Kazakhstan was damaged on Thursday after a Soyuz mission took off with Russian cosmonauts and US astronauts onboard, Moscow's space agency Roscosmos said.
+A powerhouse of a full-frame mirrorless camera, our expert thinks the Sony A7R V is a fantastic all-round camera and it's $900 off in Walmart's Black Friday sale.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Eye_of_the_Sahara' target='_blank'>Earth from Space: Eye of the Sahara</a></strong> — <em>2025-11-28 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/i-take-these-compact-nikon-stabilized-12x25-binoculars-with-me-everywhere-and-they-just-dropped-in-price-again' target='_blank'>I take these compact Nikon Stabilized 12x25 binoculars with me everywhere and they just dropped in price, again.</a></strong> — <em>2025-11-29 11:30:00</em></summary>
+
+Our best compact image-stabilized binoculars, the Nikon Stabilized 12x25 binoculars, just dropped in price again on Newegg for Black Friday. Now available for $635.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/satellites-capture-aftermath-of-ethiopian-volcanos-1st-eruption-in-recorded-history-images' target='_blank'>Satellites capture aftermath of Ethiopian volcano's 1st eruption in recorded history (images)</a></strong> — <em>2025-11-29 11:00:00</em></summary>
+
+What do volcanic plumes look like from space?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/save-over-60-percent-on-disney-plus-and-hulu-this-black-friday-for-the-best-vintage-disney-space-films' target='_blank'>Save over 60% on Disney Plus (and Hulu!) this Black Friday for the best vintage Disney space films</a></strong> — <em>2025-11-29 11:00:00</em></summary>
+
+Disney Plus and Hulu are bundled for over 60% off in this Black Friday streaming deal, so you can stream all the vintage Disney and National Geographic space documentaries you want.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/10-of-the-best-things-to-see-with-your-smart-telescope-in-the-winter-night-sky' target='_blank'>10 of the best things to see with your smart telescope in the winter night sky</a></strong> — <em>2025-11-29 10:00:00</em></summary>
+
+You'll need more than a sense of adventure if you’re chasing aurora in freezing conditions.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Italian_mission_adds_to_growing_IRIDE_space_fleet' target='_blank'>Italian mission adds to growing IRIDE space fleet</a></strong> — <em>2025-11-29 08:00:00</em></summary>
 
 
-	Image:
-			The Copernicus Sentinel-2 mission captures a spectacular geological wonder in the Sahara Desert of Mauritania: the Richat Structure.
+The Italian programme IRIDE, which provides public sector services based on data from its fleet of Earth observation constellations, has added eight satellites to its second constellation, Eaglet II.
 
 </details>
 
