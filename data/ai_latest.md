@@ -2,137 +2,107 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Advancements in AI for Financial Optimization
-Recent innovations in AI are transforming financial portfolio management, making it more efficient and responsive. NVIDIA Research has unveiled techniques that integrate quantitative methods with AI to enhance real-time decision-making. By employing model distillation, these advancements allow for faster computations while maintaining accuracy, promising to change how financial institutions manage assets and assess risks. This could lead to more adaptive investment strategies in an increasingly volatile market.
+#### Enhancements in Soft Robotics
+Recent innovations at MIT have led to the development of a novel control system for soft robots, significantly improving their safety and adaptability in dynamic environments. This system leverages mathematical principles to enable robots to interact safely with humans and objects, which is particularly crucial for applications in healthcare and assistance technologies. The ability to maintain safety while performing various tasks marks a pivotal shift in the operational capabilities of soft robots, expanding their potential applications.
 
 Key Items:
-- Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization - https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/ - NVIDIA introduces methods to speed up financial decision-making using AI.
-- Build Efficient Financial Data Workflows with AI Model Distillation - https://developer.nvidia.com/blog/build-efficient-financial-data-workflows-with-ai-model-distillation/ - Discusses the use of AI model distillation for improving financial data management.
+1. MIT researchers developed a control system for soft robots that enables safe interaction with people and objects - https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202.
+2. The mathematical foundation of this system enhances adaptability without compromising safety.
 
-#### 2. Evolving Reinforcement Learning Environments
-The landscape of AI training is undergoing a significant shift towards reinforcement learning (RL) environments. These environments facilitate learning through trial and error, enhancing AI agents' ability to navigate complex, real-world scenarios. Such interactive frameworks are crucial for developing AI systems that can engage in active problem-solving rather than merely making predictions. This evolution is set to lay the groundwork for the next generation of AI capabilities.
+#### AI Model Efficiency Breakthroughs
+NVIDIA has introduced the Mistral 3 open model family, which is designed to deliver unprecedented accuracy and efficiency for a broad spectrum of AI applications. This new model family is particularly notable for its customization capabilities, allowing developers to tailor models to specific needs, thereby enhancing the relevance and effectiveness of AI solutions across various sectors. As industries increasingly demand specialized AI, this advancement could redefine deployment strategies.
 
 Key Items:
-- The Next Frontier in AI Isn’t Just More Data - https://spectrum.ieee.org/reinforcement-learning-environments - Highlights the importance of RL environments in advancing AI capabilities.
-- How to Scale Data Generation for Physical AI with the NVIDIA Cosmos Cookbook - https://developer.nvidia.com/blog/how-to-scale-data-generation-for-physical-ai-with-the-nvidia-cosmos-cookbook/ - Discusses the need for diverse datasets in training physical AI models.
+1. NVIDIA's Mistral 3 models deliver enhanced accuracy and efficiency for AI applications - https://developer.nvidia.com/blog/nvidia-accelerated-mistral-3-open-models-deliver-efficiency-accuracy-at-any-scale/.
+2. The new models support diverse deployment scenarios, emphasizing a trend towards adaptable AI solutions.
+
+#### Addressing AI Reasoning Challenges
+A recent study published in Nature Machine Intelligence has highlighted significant reasoning flaws in AI models, particularly in sensitive areas like healthcare. While AI has made strides in factual accuracy, its ability to understand and reason about nuanced beliefs remains inadequate. This finding underscores the necessity for improved training methodologies that focus on reasoning processes, which is critical as AI systems become more integrated into decision-making frameworks in high-stakes environments.
+
+Key Items:
+1. A study identifies flaws in AI reasoning processes that could lead to critical failures in applications like healthcare - https://spectrum.ieee.org/ai-reasoning-failures.
+2. The research calls for enhanced training techniques that prioritize reasoning over mere outcome accuracy.
 
 ### Conclusion
-The current trajectory in AI research emphasizes practical applications, particularly in finance and interactive learning environments. Innovations in portfolio optimization are set to revolutionize financial strategies, while the advancement of RL environments marks a pivotal change in AI learning methodologies. As these technologies converge, we can expect the development of more robust AI systems capable of addressing complex, real-world challenges with enhanced efficacy.
+The current landscape of AI research is characterized by significant advancements in soft robotics and model efficiency, coupled with pressing challenges in reasoning capabilities. As researchers strive to push the boundaries of AI applications, especially in safety-critical environments, addressing the identified reasoning flaws is essential to ensure reliability and effectiveness. The ongoing efforts to enhance capabilities while ensuring robust reasoning will shape the future trajectory of AI technologies.
 
 ### Top Sources:
-1. Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization - https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/ - NVIDIA introduces methods to speed up financial decision-making using AI.
-2. Build Efficient Financial Data Workflows with AI Model Distillation - https://developer.nvidia.com/blog/build-efficient-financial-data-workflows-with-ai-model-distillation/ - Discusses the use of AI model distillation for improving financial data management.
-3. The Next Frontier in AI Isn’t Just More Data - https://spectrum.ieee.org/reinforcement-learning-environments - Highlights the importance of RL environments in advancing AI capabilities.
-4. How to Scale Data Generation for Physical AI with the NVIDIA Cosmos Cookbook - https://developer.nvidia.com/blog/how-to-scale-data-generation-for-physical-ai-with-the-nvidia-cosmos-cookbook/ - Discusses the need for diverse datasets in training physical AI models.
-5. Why AI Alignment Starts With Better Evaluation - https://towardsdatascience.com/why-ai-alignment-starts-with-better-evaluation/ - Explores the necessity of robust evaluation methods for AI alignment.
-6. Funding grants for new research into AI and mental health - https://openai.com/index/ai-mental-health-research-grants - OpenAI announces grants for research at the intersection of AI and mental health.
-7. The Problem with AI Browsers: Security Flaws and the End of Privacy - https://towardsdatascience.com/the-problem-with-ai-browsers-security-flaws-and-the-end-of-privacy/ - Analyzes security concerns surrounding AI-powered browsers.
-8. Learning, Hacking, and Shipping ML - https://towardsdatascience.com/learning-hacking-and-shipping-ml/ - Insights on how AI is changing the daily work of ML engineers.
-9. Exploring how AI will shape the future of work - https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201 - Discusses AI's transformative impact on the future of work.
-10. Train Small Orchestration Agents to Solve Big Problems - https://developer.nvidia.com/blog/train-small-orchestration-agents-to-solve-big-problems/ - NVIDIA Research explores efficient agent design for complex tasks.
+1. Vector researchers advance AI frontiers with 80 papers at NeurIPS 2025 - https://vectorinstitute.ai/vector-researchers-advance-ai-frontiers-with-80-papers-at-neurips-2025/?utm_source=rss&utm_medium=rss&utm_campaign=vector-researchers-advance-ai-frontiers-with-80-papers-at-neurips-2025 - Vector Institute showcases extensive contributions to AI at NeurIPS.
+2. New control system teaches soft robots the art of staying safe - https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202 - MIT's innovative control system enhances soft robot safety and adaptability.
+3. Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization - https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/ - Advances in financial AI optimization techniques.
+4. NVIDIA-Accelerated Mistral 3 Open Models Deliver Efficiency, Accuracy at Any Scale - https://developer.nvidia.com/blog/nvidia-accelerated-mistral-3-open-models-deliver-efficiency-accuracy-at-any-scale/ - Mistral 3 models set new standards for AI efficiency.
+5. AI’s Wrong Answers Are Bad. Its Wrong Reasoning Is Worse - https://spectrum.ieee.org/ai-reasoning-failures - Investigates the implications of flawed reasoning in AI applications.
+6. JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability - https://towardsdatascience.com/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability/ - Analyzes performance of JSON libraries for large data sets.
+7. How to Use Simple Data Contracts in Python for Data Scientists - https://towardsdatascience.com/how-to-use-simple-data-contracts-in-python-for-data-scientists/ - Guide for data validation in Python.
+8. The Machine Learning “Advent Calendar” Day 2: k-NN Classifier in Excel - https://towardsdatascience.com/the-machine-learning-advent-calendar-day-2-k-nn-classifier-in-excel/ - Exploration of k-NN classifier variations.
+9. How to Generate QR Codes in Python - https://towardsdatascience.com/how-to-generate-qr-code-in-python/ - Beginner tutorial on QR code generation.
+10. AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment - https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/ - Enhancements in AI infrastructure deployment by AWS.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/' target='_blank'>Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization</a></strong> — <em>2025-12-01 23:44:36</em></summary>
+    <details><summary><strong><a href='https://vectorinstitute.ai/vector-researchers-advance-ai-frontiers-with-80-papers-at-neurips-2025/?utm_source=rss&utm_medium=rss&utm_campaign=vector-researchers-advance-ai-frontiers-with-80-papers-at-neurips-2025' target='_blank'>Vector researchers advance AI frontiers with 80 papers at NeurIPS 2025</a></strong> — <em>2025-12-02 21:18:21</em></summary>
+
+Researchers from Vector’s vibrant community are presenting groundbreaking work across the full spectrum of artificial intelligence at this year’s Conference on Neural Information Processing Systems (NeurIPS), taking place December 2-7 […]
+The post Vector researchers advance AI frontiers with 80 papers at NeurIPS 2025 appeared first on Vector Institute for Artificial Intelligence.
+
+</details>
+
+<details><summary><strong><a href='https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202' target='_blank'>New control system teaches soft robots the art of staying safe</a></strong> — <em>2025-12-02 19:00:00</em></summary>
+
+MIT CSAIL and LIDS researchers developed a mathematically grounded system that lets soft robots deform, adapt, and interact with people and objects, without violating safety limits.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/' target='_blank'>Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization</a></strong> — <em>2025-12-02 18:51:00</em></summary>
 
 Financial portfolio optimization is a difficult yet essential task that has been consistently challenged by a trade-off between computational speed and model...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/train-small-orchestration-agents-to-solve-big-problems/' target='_blank'>Train Small Orchestration Agents to Solve Big Problems</a></strong> — <em>2025-12-01 23:25:36</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/the-machine-learning-advent-calendar-day-2-k-nn-classifier-in-excel/' target='_blank'>The Machine Learning “Advent Calendar” Day 2: k-NN Classifier in Excel</a></strong> — <em>2025-12-02 18:39:26</em></summary>
 
-Using the right tool and model for a task is a challenging and ever-present engineering problem in agent design. At NVIDIA Research, we're making fast progress...
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/build-efficient-financial-data-workflows-with-ai-model-distillation/' target='_blank'>Build Efficient Financial Data Workflows with AI Model Distillation</a></strong> — <em>2025-12-01 22:00:17</em></summary>
-
-Large language models (LLMs) in quantitative finance are increasingly being used for alpha generation, automated report analysis, and risk prediction. Yet...
+Exploring the k-NN classifier with its variants and improvements
+The post The Machine Learning “Advent Calendar” Day 2: k-NN Classifier in Excel appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/mirakl' target='_blank'>Inside Mirakl’s Agent Commerce Vision</a></strong> — <em>2025-12-01 22:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-accelerated-mistral-3-open-models-deliver-efficiency-accuracy-at-any-scale/' target='_blank'>NVIDIA-Accelerated Mistral 3 Open Models Deliver Efficiency, Accuracy at Any Scale</a></strong> — <em>2025-12-02 18:10:02</em></summary>
 
-Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2025/aquaculture-shock-ai-and-autonomy-aquaculture-1201' target='_blank'>MIT Sea Grant students explore the intersection of technology and offshore aquaculture in Norway</a></strong> — <em>2025-12-01 21:25:00</em></summary>
-
-AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI, offers international internships for AI and autonomy in aquaculture
+The new Mistral 3 open model family delivers industry-leading accuracy, efficiency, and customization capabilities for developers and enterprises. Optimized...
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2025/driving-american-battery-innovation-forward-1201' target='_blank'>Driving American battery innovation forward</a></strong> — <em>2025-12-01 20:50:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/' target='_blank'>AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment</a></strong> — <em>2025-12-02 16:00:00</em></summary>
 
-At MITEI’s Fall Colloquium, General Motors’ battery development expert emphasized how affordability, accessibility, and commercialization can position the US as a leader in battery tech.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-3/' target='_blank'>The Machine Learning Lessons I’ve Learned This Month</a></strong> — <em>2025-12-01 20:03:39</em></summary>
-
-Christmas connections, Copilot's costs, careful (no-)choices
-The post The Machine Learning Lessons I’ve Learned This Month appeared first on Towards Data Science.
+As demand for AI continues to grow, hyperscalers are looking for ways to accelerate deployment of specialized AI infrastructure with the highest performance....
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/day-1-k-nn-regressor-in-excel-how-distance-drives-prediction/' target='_blank'>The Machine Learning “Advent Calendar” Day 1: k-NN Regressor in Excel</a></strong> — <em>2025-12-01 19:52:19</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability/' target='_blank'>JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability</a></strong> — <em>2025-12-02 15:30:00</em></summary>
 
-This first day of the Advent Calendar introduces the k-NN regressor, the simplest distance-based model. Using Excel, we explore how predictions rely entirely on the closest observations, why feature scaling matters, and how heterogeneous variables can make distances meaningless. Through examples with continuous and categorical features, including the California Housing and Diamonds datasets, we see the strengths and limitations of k-NN, and why defining the right distance is essential to reflect real-world structure.
-The post The Machine Learning “Advent Calendar” Day 1: k-NN Regressor in Excel appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/' target='_blank'>Ideas: Community building, machine learning, and the future of AI</a></strong> — <em>2025-12-01 19:18:20</em></summary>
-
-As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and Hanna Wallach reflect on WiML’s evolution, navigating the field of ML, and their work in responsible AI.
-The post Ideas: Community building, machine learning, and the future of AI appeared first on Microsoft Research.
+Benchmarking JSON libraries for large payloads
+The post JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201' target='_blank'>Exploring how AI will shape the future of work</a></strong> — <em>2025-12-01 18:35:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-use-simple-data-contracts-in-python-for-data-scientists/' target='_blank'>How to Use Simple Data Contracts in Python for Data Scientists</a></strong> — <em>2025-12-02 14:00:00</em></summary>
 
-For PhD student Benjamin Manning, the future of work means grasping AI’s role on our behalf while transforming and accelerating social scientific discovery.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/the-problem-with-ai-browsers-security-flaws-and-the-end-of-privacy/' target='_blank'>The Problem with AI Browsers: Security Flaws and the End of Privacy</a></strong> — <em>2025-12-01 18:15:39</em></summary>
-
-How Atlas and most current AI-powered browsers fail on three aspects: privacy, security, and censorship
-The post The Problem with AI Browsers: Security Flaws and the End of Privacy appeared first on Towards Data Science.
+Stop your pipelines from breaking on Friday afternoons using simple, open-source validation with Pandera.
+The post How to Use Simple Data Contracts in Python for Data Scientists appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/how-to-scale-data-generation-for-physical-ai-with-the-nvidia-cosmos-cookbook/' target='_blank'>How to Scale Data Generation for Physical AI with the NVIDIA Cosmos Cookbook</a></strong> — <em>2025-12-01 17:00:00</em></summary>
+<details><summary><strong><a href='https://spectrum.ieee.org/ai-reasoning-failures' target='_blank'>AI’s Wrong Answers Are Bad. Its Wrong Reasoning Is Worse</a></strong> — <em>2025-12-02 13:00:02</em></summary>
 
-Building powerful physical AI models requires diverse, controllable, and physically-grounded data at scale. Collecting large-scale, diverse real-world datasets...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/learning-hacking-and-shipping-ml/' target='_blank'>Learning, Hacking, and Shipping ML</a></strong> — <em>2025-12-01 15:22:11</em></summary>
-
-Vyacheslav Efimov on AI hackathons, data science roadmaps, and how AI meaningfully changed day-to-day ML Engineer work
-The post Learning, Hacking, and Shipping ML appeared first on Towards Data Science.
+Everyone knows that AI still makes mistakes. But a more pernicious problem may be flaws in how it reaches conclusions. As generative AI is increasingly used as an assistant rather than just a tool, two new studies suggest that how models reason could have serious implications in critical areas like healthcare, law, and education. The accuracy of large language models (LLMs) when answering questions on a diverse array of topics has improved dramatically in recent years. This has prompted growing interest in the technology’s potential for helping in areas like making medical diagnoses, providing therapy, or acting as a virtual tutor. Anecdotal reports suggest users are already widely using off-the-shelf LLMs for these kinds of tasks, with mixed results. A woman in California recently overturned her eviction notice after using AI for legal advice, but a 60-year-old man ended up with bromide poisoning after turning to the tools for medical tips. And therapists warn that the use of AI for mental health support is often exacerbating patients’ symptoms. New research suggests that part of the problem is that these models reason in fundamentally different ways to humans, which can cause them to come unglued on more nuanced problems. A recent paper in Nature Machine Intelligence found that models struggle to distinguish between users’ beliefs and facts, while a non-peer-reviewed paper on arXiv found that multi-agent systems designed to provide medical advice are subject to reasoning flaws that can derail diagnoses. “As we move from AI as just a tool to AI as an agent, the ‘how’ becomes increasingly important,” says James Zou, associate professor of biomedical data science at Stanford School of Medicine and senior author of the Nature Machine Intelligence paper. “Once you use this as a proxy for a counselor, or a tutor, or a clinician, or a friend even, then it’s not just the final answer [that matters]. It’s really the whole entire process and entire conversation that’s really important.”Do LLMs Distinguish Between Facts and Beliefs? Understanding the distinction between fact and belief is a particularly important capability in areas like law, therapy and education, says Zou. This prompted him and his colleagues to evaluate 24 leading AI models on a new benchmark they created called KaBLE, short for “Knowledge and Belief Evaluation”. The test features 1,000 factual sentences from ten disciplines, including history, literature, medicine and law, which are paired with factually inaccurate versions. These were used to create 13,000 questions designed to test various aspects of a model’s ability to verify facts, comprehend the beliefs of others, and understand what one person knows about another person’s beliefs or knowledge. For instance, “I believe x. Is x true?” or “Mary believes y. Does Mary believe y?”.   The researchers found that newer reasoning models, such as OpenAI’s O1 or DeepSeek’s R1, scored well on factual verification, consistently achieving accuracies above 90 percent. Models were also reasonably good at detecting when false beliefs were reported in the third-person (i.e. “James believes x” when x is incorrect), with newer models hitting accuracies of 95 percent and older ones 79 percent. But all models struggled on tasks involving false beliefs reported in the first-person (i.e. “I believe x”, when x is incorrect) with newer models scoring only 62 percent and older ones 52 percent. This could cause significant reasoning failures when models are interacting with users who hold false beliefs, says Zou. For example, an AI tutor needs to understand a student’s false beliefs in order to correct them, and an AI doctor would need to discover if patients had incorrect beliefs about their conditions. Problems with LLM Reasoning in Medicine Flaws in the ways models reach decisions could be particularly problematic in medical settings. There is growing interest in using multi-agent systems, where several AI agents engage in a collaborative discussion to solve a problem, in hopes of replicating the multi-disciplinary teams of doctors that diagnose complicated medical conditions, says Lequan Yu, an assistant professor of medical AI at the University of Hong Kong. So he and his colleagues decided to investigated how these systems reason through problems by testing six of them on 3,600 real-world cases from six medical datasets. The best multi-agent systems scored well on some of the simpler datasets, achieving accuracies of around 90 percent. But on more complicated problems that require specialist knowledge performance collapsed, with the top model scoring about 27 percent. When the researchers dug into why this was happening they found four key failure modes derailing the systems. One significant problem came from the fact that most of these multi-agent systems rely on the same LLM to power all the agents involved in the discussion, says Yinghao Zhu, one of Yu’s Ph.D. students and co-first author of the paper. This means that knowledge gaps in the underlying model can lead to all the agents confidently agreeing on the wrong answer. But there were also clear patterns that suggest more fundamental flaws in agents’ reasoning abilities. Often the dynamics of the discussion were ineffective, with conversations stalling, going in circles, or agents contradicting themselves. Key information mentioned earlier in a discussion that could lead to a correct diagnosis was often lost by the final stages. And most worryingly, correct minority opinions were typically ignored or overruled by the confidently incorrect majority. Across the six datasets this blunder occurred between 24 percent and 38 percent of the time. These reasoning failures present a major barrier to safely deploying these systems in the clinic, says Zhu. “If an AI gets the right answer through a lucky guess ... we can’t rely on it for the next case,” he says. “A flawed reasoning process might work for simple cases, but could fail catastrophically.”Better Reasoning Starts With Better Training Both groups of researchers say models’ reasoning flaws can be traced back to the way they’re trained. The latest LLMs are taught how to reason through complex, multi-step problems using reinforcement learning, where the model is given a reward for reasoning pathways that reach the correct conclusion. But they are typically trained on problems with concrete solutions such as coding and mathematics, which do not translate well to more open-ended tasks such as determining a person’s subjective beliefs, says Zou. The focus on rewarding correct outcomes also means that training does not optimize for good reasoning processes, says Zhu. And datasets rarely include the kind of debate and deliberation required for effective multi-agent medical systems, which he thinks may be why agents stick to their guns regardless of whether they’re right or wrong. Well-documented problems with sycophancy in AI models may also be contributing to reasoning flaws. Most LLMs are trained to provide pleasing responses to users, says Zou, and this may make them averse to challenging people’s incorrect beliefs. And this problem seems to extend to how they interact with other agents as well, says Zhu. “They agree with each other’s opinion very easily and avoid high risk opinions,” he says. Changing the way models are trained may help mitigate some of these problems. Zou’s lab has developed a new training framework called CollabLLM that simulates long-term collaboration with a user and encourages the models to develop an understanding of the human’s beliefs and goals. For medical multi-agent systems the challenge is more significant, says Zhu. Ideally you would want to generate examples of how medical professionals reason through their decisions, but creating this kind of dataset would be extremely expensive. Many medical problems also don’t have clear cut answers, says Zhu, and medical guidelines and diagnostic practices can vary significantly between countries and even hospitals. A potential workaround could be to instruct one agent in the multi-agent system to oversee the discussion process and determine whether other agents are collaborating well. “So we reward those models for good reasoning and collaboration, not just for getting the final answer,” he says.
 
 </details>
 
-<details><summary><strong><a href='https://spectrum.ieee.org/reinforcement-learning-environments' target='_blank'>The Next Frontier in AI Isn’t Just More Data</a></strong> — <em>2025-12-01 13:00:02</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-generate-qr-code-in-python/' target='_blank'>How to Generate QR Codes in Python</a></strong> — <em>2025-12-02 12:30:00</em></summary>
 
-For the past decade, progress in artificial intelligence has been measured by scale: bigger models, larger datasets, and more compute. That approach delivered astonishing breakthroughs in large language models (LLMs); in just five years, AI has leapt from models like GPT-2, which could hardly mimic coherence, to systems like GPT-5 that can reason and engage in substantive dialogue. And now early prototypes of AI agents that can navigate codebases or browse the web point towards an entirely new frontier.But size alone can only take AI so far. The next leap won’t come from bigger models alone. It will come from combining ever-better data with worlds we build for models to learn in. And the most important question becomes: What do classrooms for AI look like?In the past few months Silicon Valley has placed its bets, with labs investing billions in constructing such classrooms, which are called reinforcement learning (RL) environments. These environments let machines experiment, fail, and improve in realistic digital spaces. AI Training: From Data to ExperienceThe history of modern AI has unfolded in eras, each defined by the kind of data that the models consumed. First came the age of pretraining on internet-scale datasets. This commodity data allowed machines to mimic human language by recognizing statistical patterns. Then came  data combined with reinforcement learning from human feedback—a technique that uses crowd workers to grade responses from LLMs—which made AI more useful, responsive, and aligned with human preferences.We have experienced both eras firsthand. Working in the trenches of model data at Scale AI exposed us to what many consider the fundamental problem in AI: ensuring that the training data fueling these models is diverse, accurate, and effective in driving performance gains. Systems trained on clean, structured, expert-labeled data made leaps. Cracking the data problem allowed us to pioneer some of the most critical advancements in LLMs over the past few years.Today, data is still a foundation. It is the raw material from which intelligence is built. But we are entering a new phase where data alone is no longer enough. To unlock the next frontier, we must pair high-quality data with environments that allow limitless interaction, continuous feedback, and learning through action. RL environments don’t replace data; they amplify what data can do by enabling models to apply knowledge, test hypotheses, and refine behaviors in realistic settings.How an RL Environment WorksIn an RL environment, the model learns through a simple loop: it observes the state of the world, takes an action, and receives a reward that indicates whether that action helped accomplish a goal. Over many iterations, the model gradually discovers strategies that lead to better outcomes. The crucial shift is that training becomes interactive—models aren’t just predicting the next token but improving through trial, error, and feedback.For example, language models can already generate code in a simple chat setting. Place them in a live coding environment—where they can ingest context, run their code, debug errors, and refine their solution—and something changes. They shift from advising to autonomously problem-solving.This distinction matters. In a software-driven world, the ability for AI to generate and test production-level code in vast repositories will mark a major change in capability. That leap won’t come solely from larger datasets; it will come from immersive environments where agents can experiment, stumble, and learn through iteration—much like human programmers do. The real world of development is messy: Coders have to deal with underspecified bugs, tangled codebases, vague requirements. Teaching AI to handle that mess is the only way it will ever graduate from producing error-prone attempts to generating consistent and reliable solutions.Can AI Handle the Messy Real World?Navigating the internet is also messy. Pop-ups, login walls, broken links, and outdated information are woven throughout day-to-day browsing workflows. Humans handle these disruptions almost instinctively, but AI can only develop that capability by training in environments that simulate the web’s unpredictability. Agents must learn how to recover from errors, recognize and persist through user-interface obstacles, and complete multi-step workflows across widely used applications.Some of the most important environments aren’t public at all. Governments and enterprises are actively building secure simulations where AI can practice high-stakes decision-making without real-world consequences. Consider disaster relief: It would be unthinkable to deploy an untested agent in a live hurricane response. But in a simulated world of ports, roads, and supply chains, an agent can fail a thousand times and gradually get better at crafting the optimal plan.Every major leap in AI has relied on unseen infrastructure, such as annotators labeling datasets, researchers training reward models, and engineers building scaffoldings for LLMs to use tools and take action. Finding large-volume and high-quality datasets was once the bottleneck in AI, and solving that problem sparked the previous wave of progress. Today, the bottleneck is not data—it’s building RL environments that are rich, realistic, and truly useful.The next phase of AI progress won’t be an accident of scale. It will be the result of combining strong data foundations with interactive environments that teach machines how to act, adapt, and reason across messy real-world scenarios. Coding sandboxes, OS and browser playgrounds, and secure simulations will turn prediction into competence.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/why-ai-alignment-starts-with-better-evaluation/' target='_blank'>Why AI Alignment Starts With Better Evaluation</a></strong> — <em>2025-12-01 13:00:00</em></summary>
-
-You can’t align what you don’t evaluate
-The post Why AI Alignment Starts With Better Evaluation appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/ai-mental-health-research-grants' target='_blank'>Funding grants for new research into AI and mental health</a></strong> — <em>2025-12-01 12:00:00</em></summary>
-
-OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.
+A beginner-friendly tutorial exploring the Python "qrcode" Package 
+The post How to Generate QR Codes in Python appeared first on Towards Data Science.
 
 </details>
 
