@@ -1,366 +1,287 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics and Space Exploration
+    ### Summary of Recent Developments in Astrophysics
 
-#### Advancements in Satellite Technology
-Recent developments in satellite technology are reshaping global communication and enhancing scientific observation capabilities. The successful launch of 29 Starlink satellites by SpaceX marks a significant step in expanding broadband access worldwide. Concurrently, the International Space Station (ISS) achieved a historic milestone with eight spacecraft docked simultaneously, illustrating the increasing complexity of operations in low Earth orbit and the potential for collaborative scientific endeavors.
-
-Key Items:
-1. SpaceX Falcon 9 Launch - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog - This launch enhances global satellite internet capabilities.
-2. Eight Spacecraft Docked at ISS - https://www.space.com/space-exploration/international-space-station/for-the-1st-time-ever-8-spacecraft-are-docked-to-the-international-space-station - A historic moment for international collaboration in space.
-
-#### Insights from Asteroid Research
-NASA's OSIRIS-REx mission has yielded groundbreaking findings from asteroid Bennu, revealing complex organic compounds, including sugars and a gum-like substance. These discoveries provide fresh insights into the chemical precursors that may have contributed to the emergence of life on Earth, highlighting the significance of asteroids in our understanding of planetary formation.
+#### Cosmic Structures and Their Dynamics
+Recent advancements have deepened our understanding of the universe's large-scale structures, particularly in galaxy formation and behavior. A significant discovery by an international team from the University of Oxford identified a massive rotating filament of galaxies located 140 million light-years away, one of the largest structures documented. This finding contributes to the ongoing exploration of the cosmic web and the evolution of galaxy clusters. Additionally, observations of merging dwarf galaxies have provided crucial insights into star formation processes, enhancing our knowledge of how galaxies like the Milky Way evolve over time.
 
 Key Items:
-1. Sugars and Stardust from Bennu - https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/ - Organic materials found may reshape theories about the origins of life.
-2. Cosmic Dust Insights - https://phys.org/news/2025-12-sugars-gum-stardust-nasa-asteroid.html - Discoveries indicate a high abundance of supernova dust, linking cosmic events to planetary formation.
+1. Vast Spinning Filament of Galaxies - https://phys.org/news/2025-12-astronomers-vast-filament-galaxies-million.html - Discovery of a large rotating structure of galaxies, deepening our understanding of cosmic formation.
+2. Galaxies Tying the Knot - https://phys.org/news/2025-12-galaxies-stars.html - Study of merging dwarf galaxies reveals insights into star formation processes.
 
-#### Understanding Cosmic Phenomena
-Recent research has unveiled intriguing cosmic phenomena, including the detection of lightning on Mars, suggesting active weather patterns and potential implications for future exploration. Additionally, studies confirm that galaxy mergers significantly influence the formation of active galactic nuclei, enhancing our understanding of black hole dynamics and galaxy evolution.
+#### Gravitational Waves and Black Hole Activity
+Recent findings have revealed that the gravitational-wave background, produced by supermassive black holes, is stronger than previously estimated. This prompts a reevaluation of the role of black hole mergers in cosmic events. New simulations have also illustrated how black holes emit intense light from infalling matter, shedding light on the mechanisms behind some of the universe's brightest phenomena, which could have implications for our understanding of high-energy astrophysical processes.
 
 Key Items:
-1. Lightning on Mars - https://skyandtelescope.org/astronomy-news/tiny-sparks-of-lightning-detected-on-mars-for-the-first-time/ - This finding could inform future Mars exploration missions.
-2. Galaxy Mergers and Black Holes - https://phys.org/news/2025-12-euclid-dataset-million-galaxies-galaxy.html - Evidence suggests that galaxy mergers trigger active galactic nuclei.
+1. Boosting the Gravitational Wave Background - https://skyandtelescope.org/astronomy-news/boosting-the-gravitational-wave-background/ - Insights into the unexpected strength of gravitational waves from supermassive black holes.
+2. Simulations of Black Hole Emission - https://phys.org/news/2025-12-simulations-reveal-black-holes-generate.html - Comprehensive simulations clarify how black holes produce intense emissions.
 
-### Conclusion
-The current landscape of astrophysics and space exploration is characterized by significant advancements in satellite technology, groundbreaking research on asteroids, and a deeper understanding of cosmic phenomena. These developments not only enhance our comprehension of the universe but also lay the groundwork for future explorations and the ongoing quest to understand life's origins and the dynamics of cosmic structures.
+#### Advancements in Exoplanet Studies
+The James Webb Space Telescope (JWST) is making significant contributions to exoplanet research. Notably, it observed a distant exoplanet losing its atmosphere, forming a helium cloud that interacts with its star, providing real-time data on atmospheric dynamics and potential habitability. Additionally, JWST's identification of a mature spiral galaxy, Alaknanda, formed just 1.5 billion years after the Big Bang, challenges existing theories about galaxy formation and evolution.
+
+Key Items:
+1. JWST Observes Atmosphere Loss - https://www.space.com/astronomy/james-webb-space-telescope/giant-helium-cloud-caught-escaping-from-puffy-exoplanet-by-jwst - Real-time observation of an exoplanet losing its atmosphere.
+2. Discovery of Milky Way Twin - https://www.sciencedaily.com/releases/2025/12/251203004729.htm - Identification of an early-forming spiral galaxy, reshaping our understanding of galaxy evolution.
+
+### Overall Direction
+The current landscape of astrophysics is characterized by significant breakthroughs in understanding cosmic structures, gravitational phenomena, and exoplanetary atmospheres. These discoveries not only refine existing theories but also open new avenues for research and exploration, indicating a vibrant and rapidly evolving field that continues to challenge our understanding of the universe.
 
 ### Top Sources:
-1. SpaceX Falcon 9 Launch - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog - SpaceX successfully launches 29 Starlink satellites.
-2. Eight Spacecraft Docked at ISS - https://www.space.com/space-exploration/international-space-station/for-the-1st-time-ever-8-spacecraft-are-docked-to-the-international-space-station - Milestone for crewed spaceflight with eight docked spacecraft.
-3. Sugars and Stardust from Bennu - https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/ - Organic materials found in asteroid samples could inform theories of life's origins.
-4. Cosmic Dust Insights - https://phys.org/news/2025-12-sugars-gum-stardust-nasa-asteroid.html - High abundance of supernova dust discovered in Bennu samples.
-5. Lightning on Mars - https://skyandtelescope.org/astronomy-news/tiny-sparks-of-lightning-detected-on-mars-for-the-first-time/ - First detection of lightning on Mars.
-6. Galaxy Mergers and Black Holes - https://phys.org/news/2025-12-euclid-dataset-million-galaxies-galaxy.html - Evidence that galaxy mergers trigger active galactic nuclei.
-7. NASA's Lunar Freezer Contract - https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/ - New systems for returning lunar samples to Earth.
-8. SOHO's 30 Years of Solar Observation - https://www.space.com/astronomy/sun/30-years-of-soho-staring-at-the-sun-space-photo-of-the-day-for-dec-2-2025 - Celebrating three decades of solar research.
-9. New Quantum State for Space Tech - https://www.sciencedaily.com/releases/2025/11/251130205501.htm - Discovery of a new quantum phase could revolutionize future space technologies.
-10. Dead Stars and Type Ia Supernovae - https://www.sciencedaily.com/releases/2025/12/251202052228.htm - New insights into the behavior of white dwarfs and implications for supernova origins.
+1. Astronomers find vast spinning filament of galaxies 140 million light-years away - https://phys.org/news/2025-12-astronomers-vast-filament-galaxies-million.html - Discovery of a massive rotating structure of galaxies.
+2. Boosting the Gravitational Wave Background - https://skyandtelescope.org/astronomy-news/boosting-the-gravitational-wave-background/ - Insights into the unexpectedly strong gravitational wave background.
+3. JWST finds a Milky Way twin born shockingly early in the Universe - https://www.sciencedaily.com/releases/2025/12/251203004729.htm - Discovery of a mature galaxy formed just 1.5 billion years post-Big Bang.
+4. Galaxies tying the knot and producing stars - https://phys.org/news/2025-12-galaxies-stars.html - Observations of merging dwarf galaxies and their star formation.
+5. Simulations reveal how black holes generate intense light from infalling matter - https://phys.org/news/2025-12-simulations-reveal-black-holes-generate.html - New simulations clarify black hole emissions.
+6. A 'super-puff' exoplanet is losing its atmosphere, and the James Webb Space Telescope had a look - https://www.space.com/astronomy/james-webb-space-telescope/giant-helium-cloud-caught-escaping-from-puffy-exoplanet-by-jwst - JWST captures an exoplanet shedding its atmosphere.
+7. The solar mission that survived disaster and found 5,000 comets - https://www.sciencedaily.com/releases/2025/12/251203084928.htm - SOHO's long-term observations reveal significant solar dynamics.
+8. Struck by a cosmic ray: Galactic particles may have forced a passenger jet to make an emergency landing - https://www.space.com/technology/aerospace/cosmic-ray-forces-airliner-emergency-landing - Cosmic rays impacting terrestrial aviation.
+9. NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms - https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/ - Perseverance rover confirms electrical phenomena on Mars.
+10. Space is filling with junk and scientists have a fix - https://www.sciencedaily.com/releases/2025/12/251203010211.htm - Proposals for sustainable space operations amidst increasing debris.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog' target='_blank'>SpaceX Falcon 9 rocket launches 29 Starlink satellites from Florida (video)</a></strong> — <em>2025-12-03 02:57:05</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2025-12-astronomers-vast-filament-galaxies-million.html' target='_blank'>Astronomers find vast spinning filament of galaxies 140 million light-years away</a></strong> — <em>2025-12-04 00:10:04</em></summary>
 
-A SpaceX Falcon 9 rocket carrying 29 Starlink broadband internet satellites launched from the Cape Canaveral Space Force Station in Florida on Tuesday, Dec. 2, 2025.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/last-minute-camera-deals-grab-these-final-few-cyber-monday-camera-deals-before-theyre-gone' target='_blank'>Last-minute camera deals: Grab these final few Cyber Monday camera deals before they're gone</a></strong> — <em>2025-12-02 23:02:00</em></summary>
-
-Looking to level up your photography gear? Black Friday and Cyber Monday are behind us, but if you're fast, you can still save big on these final few camera deals, from Canon, Sony and Nikon.
+An international team led by the University of Oxford has identified one of the largest rotating structures ever reported: a "razor-thin" string of galaxies embedded in a giant spinning cosmic filament, 140 million light-years away.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/cosmonaut-removed-from-spacexs-crew-12-mission-for-violating-national-security-rules-report' target='_blank'>Cosmonaut removed from SpaceX's Crew 12 mission for violating national security rules: report</a></strong> — <em>2025-12-02 23:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/the-us-must-beat-china-to-moon-trump-pick-for-nasa-chief-jared-isaacman-tells-senate-if-we-make-a-mistake-we-may-never-catch-up' target='_blank'>The US must beat China to moon, Trump pick for NASA chief Jared Isaacman tells Senate: 'If we make a mistake, we may never catch up'</a></strong> — <em>2025-12-03 22:30:00</em></summary>
 
-Veteran cosmonaut Oleg Artemyev was taken off SpaceX's Crew 12 mission to the International Space Station after violating ITAR regulations, according to the Russian publication The Insider.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/time-travels-faster-on-mars-than-on-earth-and-heres-why' target='_blank'>Time travels faster on Mars than on Earth, and here's why</a></strong> — <em>2025-12-02 22:00:00</em></summary>
-
-Measuring the time discrepancy between Earth and Mars will help make future navigation and communication systems on the Red Planet more accurate.
+Billionaire private astronaut Jared Isaacman didn't mince words Wednesday (Dec. 3) during his second hearing before the Senate committee considering his nomination for NASA administrator.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/' target='_blank'>NASA Awards Lunar Freezer System Contract</a></strong> — <em>2025-12-02 21:12:39</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/a-cold-supermoon-rises-this-week-watch-it-take-flight-online-with-these-free-livestreams-video' target='_blank'>A "Cold Supermoon" rises this week: Watch it take flight online with these free livestreams (video)</a></strong> — <em>2025-12-03 22:00:00</em></summary>
 
-NASA has selected the University of Alabama at Birmingham to provide the necessary systems required to return temperature sensitive science payloads to Earth from the Moon. The Lunar Freezer System contract is an indefinite-delivery/indefinite-quantity award with cost-plus-fixed-fee delivery orders. The contract begins Thursday, Dec. 4, with a 66-month base period along with two optional periods […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/' target='_blank'>NASA Awards Lunar Freezer System Contract</a></strong> — <em>2025-12-02 21:12:39</em></summary>
-
-NASA has selected the University of Alabama at Birmingham to provide the necessary systems required to return temperature sensitive science payloads to Earth from the Moon. The Lunar Freezer System contract is an indefinite-delivery/indefinite-quantity award with cost-plus-fixed-fee delivery orders. The contract begins Thursday, Dec. 4, with a 66-month base period along with two optional periods […]
+The final full moon of 2025 rises on Dec. 5.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/for-the-1st-time-ever-8-spacecraft-are-docked-to-the-international-space-station' target='_blank'>For the 1st time ever, 8 spacecraft are docked to the International Space Station</a></strong> — <em>2025-12-02 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-37-tourism-launch-first-wheelchair-user-in-space' target='_blank'>Next Blue Origin tourist launch will fly wheelchair user to space for 1st time</a></strong> — <em>2025-12-03 21:00:00</em></summary>
 
-All eight of the International Space Station's docking ports are currently occupied by visiting spacecraft, marking a milestone for crewed spaceflight.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/drones/hurry-the-best-done-on-the-market-is-still-on-sale-for-cyber-monday-but-theres-only-a-few-left-in-stock' target='_blank'>Hurry! The best done on the market is still on sale for Cyber Monday, but there are only a few left in stock</a></strong> — <em>2025-12-02 19:58:39</em></summary>
-
-It's not too late to get a great Cyber Monday drone deal, as the DJI Mavic 4 Pro is still $500, but there aren't many left, so you'll have to be quick.
+Blue Origin's next space tourist launch will make history, sending a wheelchair user to the final frontier for the first time.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/' target='_blank'>NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure</a></strong> — <em>2025-12-02 19:36:43</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/move-over-chalamet-the-dune-tv-miniseries-turns-25-today-so-we-talked-to-the-director-of-the-star-studded-show-that-reached-for-the-stars-on-a-shoestring-budget-exclusive' target='_blank'>Move over Chalamet — The Dune TV miniseries turns 25 today, so we talked to the director of the star-studded show that reached for the stars on a shoestring budget (exclusive)</a></strong> — <em>2025-12-03 20:00:00</em></summary>
 
-NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late 2027. This mission aims to revolutionize in-space operations, a critical capability for sustainably living and working on other planets. By enabling this technology demonstration, NASA is fostering the […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/' target='_blank'>NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure</a></strong> — <em>2025-12-02 19:36:43</em></summary>
-
-NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late 2027. This mission aims to revolutionize in-space operations, a critical capability for sustainably living and working on other planets. By enabling this technology demonstration, NASA is fostering the […]
+‘I wanted to elevate it. I didn’t want to do it like the original 'Battlestar Galactica' or 'Babylon 5.''
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/europe-passes-record-breaking-space-budget-while-nasa-hit-with-deep-cuts' target='_blank'>Europe passes record-breaking space budget while NASA hit with deep cuts</a></strong> — <em>2025-12-02 19:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/boosting-the-gravitational-wave-background/' target='_blank'>Boosting the Gravitational Wave Background</a></strong> — <em>2025-12-03 18:24:32</em></summary>
 
-The European Space Agency member states have approved a record-breaking budget for the next three years, including increased funding for science exploration.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/china-to-bring-damaged-spacecraft-back-to-earth-after-sending-up-replacement-for-stuck-astronauts' target='_blank'>China to bring damaged spacecraft back to Earth after sending up replacement for stuck astronauts</a></strong> — <em>2025-12-02 18:19:11</em></summary>
-
-China's space agency has announced it will return a damaged spacecraft back to Earth without crew after a suspected debris strike left it unfit for flight.
+Why is the gravitational-wave background — the hum made by  supermassive black holes colliding across the universe — stronger than expected?
+The post Boosting the Gravitational Wave Background appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/these-five-last-chance-cyber-monday-telescope-deals-are-still-live-but-youll-have-to-hurry' target='_blank'>These five last-chance Cyber Monday telescope deals are still live, but you'll have to hurry</a></strong> — <em>2025-12-02 18:01:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-comet-hasnt.html' target='_blank'>How to catch a comet that hasn't been discovered yet</a></strong> — <em>2025-12-03 18:23:31</em></summary>
 
-Cyber Monday may be behind us, but there are still a few deals to be had. We've rounded up the remaining bargains, so snap these up before they're gone!
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-sugars-gum-stardust-nasa-asteroid.html' target='_blank'>Sugars, 'gum,' stardust found in NASA's asteroid Bennu samples</a></strong> — <em>2025-12-02 17:45:34</em></summary>
-
-The asteroid Bennu continues to provide new clues to scientists' biggest questions about the formation of the early solar system and the origins of life. As part of the ongoing study of pristine samples delivered to Earth by NASA's OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security-Regolith Explorer) spacecraft, three new papers published Tuesday by the journals Nature Geosciences and Nature Astronomy present remarkable discoveries: sugars essential for biology, a gum-like substance not seen before in astromaterials, and an unexpectedly high abundance of dust produced by supernova explosions.
+There's been a lot of speculation recently about interstellar visitor 3I/ATLAS—much of which is probably caused by low-quality data given that we have to observe it from either Earth, or in some cases, Mars. In either case, it's much further away than what would be the ideal. But that might not be the case for a future interstellar object.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-mars-cosmic-rays.html' target='_blank'>Before trips to Mars, we need better protection from cosmic rays</a></strong> — <em>2025-12-02 17:32:05</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/aerospace/cosmic-ray-forces-airliner-emergency-landing' target='_blank'>Struck by a cosmic ray: Galactic particles may have forced a passenger jet to make an emergency landing</a></strong> — <em>2025-12-03 18:06:48</em></summary>
 
-The first step on the moon was one of humanity's most exciting accomplishments. Now scientists are planning return trips—and dreaming of Mars beyond.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/waxing-gibbous-moon-5/' target='_blank'>Waxing Gibbous Moon</a></strong> — <em>2025-12-02 17:30:01</em></summary>
-
-The waxing gibbous moon rises above Earth’s blue atmosphere in this photograph taken from the International Space Station on Oct. 3, 2025, as it orbited 263 miles above a cloudy Atlantic Ocean off the coast of Quebec, Canada. In our entire solar system, the only object that shines with its own light is the Sun. […]
+A cosmic ray from a faraway supernova explosion may have sent a packed passenger jet into free fall in late October, forcing an emergency landing.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/waxing-gibbous-moon-5/' target='_blank'>Waxing Gibbous Moon</a></strong> — <em>2025-12-02 17:30:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-hubble-clusters-lost-galaxy.html' target='_blank'>Hubble seeks clusters in 'Lost Galaxy'</a></strong> — <em>2025-12-03 18:00:40</em></summary>
 
-The waxing gibbous moon rises above Earth’s blue atmosphere in this photograph taken from the International Space Station on Oct. 3, 2025, as it orbited 263 miles above a cloudy Atlantic Ocean off the coast of Quebec, Canada. In our entire solar system, the only object that shines with its own light is the Sun. […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-historical-geography-year-eclipse-mystery.html' target='_blank'>Historical geography helps researchers solve 2,700-year old eclipse mystery</a></strong> — <em>2025-12-02 17:26:28</em></summary>
-
-An international team of researchers has used knowledge of historical geography to reexamine the earliest datable total solar eclipse record known to the scientific community, enabling accurate measurements of Earth's variable rotation speed from 709 BCE.
+This NASA/ESA Hubble Space Telescope image features the spiral galaxy NGC 4535, which is situated about 50 million light-years away in the constellation Virgo (the Maiden). Through a small telescope, this galaxy appears extremely faint, giving it the nickname "Lost Galaxy."
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/solar-system/planets/mars/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/' target='_blank'>NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies</a></strong> — <em>2025-12-02 17:00:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-astronomers-satellite-growth-contaminate-space.html' target='_blank'>Astronomers warn satellite growth may contaminate nearly all space telescope data</a></strong> — <em>2025-12-03 17:58:19</em></summary>
 
-Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year. When NASA engineers want to test a concept for exploring the Red Planet, they have to find ways to create Mars-like conditions here on Earth. Then they test, tinker, and repeat.  That’s […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/solar-system/planets/mars/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/' target='_blank'>NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies</a></strong> — <em>2025-12-02 17:00:10</em></summary>
-
-Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year. When NASA engineers want to test a concept for exploring the Red Planet, they have to find ways to create Mars-like conditions here on Earth. Then they test, tinker, and repeat.  That’s […]
+Light from the half a million satellites that humanity is planning to launch into Earth's orbit in the coming years could contaminate almost all the images taken by space telescopes, NASA astronomers warned Wednesday.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/round-2-watch-senate-hearing-for-jared-isaacmans-re-nomination-as-nasa-chief-on-dec-3' target='_blank'>Round 2: Watch Senate hearing for Jared Isaacman's re-nomination as NASA chief on Dec. 3</a></strong> — <em>2025-12-02 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-galaxies-stars.html' target='_blank'>These two galaxies are tying the knot and producing stars</a></strong> — <em>2025-12-03 17:50:43</em></summary>
 
-The U.S. Senate will hold its second hearing to consider billionaire tech entrepreneur Jared Isaacman's nomination for NASA chief on Wednesday (Dec. 3), and you can watch the action live.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-spaceflight-menstrual-cup-choice-missions.html' target='_blank'>Spaceflight-tested menstrual cup offers choice on long missions</a></strong> — <em>2025-12-02 16:56:32</em></summary>
-
-Eating from pouches, sleeping in a bag tied to the wall, using a vacuum-powered toilet: Basic processes of human life require scientifically tested solutions in space. It's the same for menstruation, a process female astronauts must plan for before flying to space, especially for longer missions in the future.
+Galaxies like our Milky Way grew through cascading mergers of smaller galaxies that began billions of years ago. The ancient progenitors of galaxies like ours were small galaxies similar to modern-day dwarf galaxies like the Large and Small Magellanic Clouds. Research shows that both dwarf galaxies and ancient galaxies are less massive, have lower metallicity, and have lots of star-forming gas but relatively few stars. Astronomers try to understand ancient galaxies and how they grew to become so massive by studying dwarf galaxies that are interacting with each other and beginning to merge.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/could-future-astronauts-build-houses-on-mars-with-bacteria' target='_blank'>Could future astronauts build houses on Mars with bacteria?</a></strong> — <em>2025-12-02 16:02:15</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-simulations-reveal-black-holes-generate.html' target='_blank'>Simulations reveal how black holes generate intense light from infalling matter</a></strong> — <em>2025-12-03 16:59:42</em></summary>
 
-Would you like to live in a house on Mars made with Earth bacteria and Martian rocks?
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-image-sagittarius-b2-molecular-cloud.html' target='_blank'>Image: Sagittarius B2 molecular cloud</a></strong> — <em>2025-12-02 15:36:53</em></summary>
-
-The Mid-Infrared Instrument (MIRI) on NASA's James Webb Space Telescope captured glowing cosmic dust heated by very young massive stars in unprecedented detail in this image of the Sagittarius B2 (Sgr B2) molecular cloud released on Sept. 24, 2025.
+Surprisingly, some of the universe's brightest objects are black holes. As scorching gas and dust flow around and into a black hole, they glow with fierce intensity across the light spectrum. Now, a team of computational astrophysicists has developed the most comprehensive simulations ever made of how black holes create these dazzling light shows.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/tiny-sparks-of-lightning-detected-on-mars-for-the-first-time/' target='_blank'>Tiny Sparks of Lightning Detected on Mars for the First Time</a></strong> — <em>2025-12-02 15:29:13</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/' target='_blank'>Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space</a></strong> — <em>2025-12-03 16:58:13</em></summary>
 
-The microphone on NASA's Perseverance rover unexpectedly heard tiny claps of thunder from sparks caused by colliding dust grains.
-The post Tiny Sparks of Lightning Detected on Mars for the First Time appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/looking-to-level-up-your-photography-you-can-still-save-usd1100-on-this-pro-level-sony-mirrorless-camera' target='_blank'>Looking to level up your photography? You can still save $1100 on this pro-level Sony mirrorless camera</a></strong> — <em>2025-12-02 15:26:50</em></summary>
-
-Cyber Monday may be over, but there are still bargains to be had. Save over $1000 on the Sony A7R V: "a fantastic all-round camera that can handle most things you throw at it."
+Select walls at NASA’s Johnson Space Center have been transformed into works of art. Each piece reflects creativity, collaboration, and the spirit of discovery. Painted by Texas students, the murals honor the legacy of the International Space Station and 25 years of continuous human presence in space.  The International Space Station Program Mural Project began […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-spacex-starship-pads-canaveral-site.html' target='_blank'>SpaceX gets OK to build up Starship pads at Canaveral site</a></strong> — <em>2025-12-02 15:10:01</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/' target='_blank'>Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space</a></strong> — <em>2025-12-03 16:58:13</em></summary>
 
-The Department of the Air Force announced it had given the OK for SpaceX to move forward with its Starship and Super Heavy launch pad plans at Cape Canaveral Space Force Station's Space Launch Complex 37.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/30-years-of-soho-staring-at-the-sun-space-photo-of-the-day-for-dec-2-2025' target='_blank'>30 years of SOHO staring at the sun | Space photo of the day for Dec. 2, 2025</a></strong> — <em>2025-12-02 15:09:56</em></summary>
-
-This year marks 30 years of SOHO observing our sun, an extraordinary milestone for a mission originally expected to last only about three years.
+Select walls at NASA’s Johnson Space Center have been transformed into works of art. Each piece reflects creativity, collaboration, and the spirit of discovery. Painted by Texas students, the murals honor the legacy of the International Space Station and 25 years of continuous human presence in space.  The International Space Station Program Mural Project began […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-euclid-dataset-million-galaxies-galaxy.html' target='_blank'>Euclid dataset of a million galaxies proves connection between galaxy mergers and AGN</a></strong> — <em>2025-12-02 15:07:27</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/' target='_blank'>NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms</a></strong> — <em>2025-12-03 16:31:37</em></summary>
 
-Astronomers have long debated the role of galaxy mergers in powering active supermassive black holes. Now an unprecedented dataset of a million galaxies from the Euclid telescope provides evidence that mergers play a dominant role and are even the primary trigger for the most luminous black holes.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/one-of-the-best-lego-star-wars-ucs-sets-is-still-160-pounds-off-in-the-uk-with-this-cyber-monday-deal' target='_blank'>One of the best Lego Star Wars UCS sets is still £160 off in the UK with this Cyber Monday deal, but you'll have to be fast</a></strong> — <em>2025-12-02 15:01:00</em></summary>
-
-Move over, Millennium Falcon, the Lego Star Wars UCS Venator starship is amazing value and it's £160 off right now! Hurry before it disappears into hyperspace.
+Perseverance confirmed a long-suspected phenomenon in which electrical discharges and their associated shock waves can be born within Red Planet mini-twisters. NASA’s Perseverance Mars rover has recorded the sounds of electrical discharges —sparks — and mini-sonic booms in dust devils on Mars. Long theorized, the phenomenon has now been confirmed through audio and electromagnetic recordings […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-sun-watcher-soho-celebrates-years.html' target='_blank'>Sun-watcher SOHO celebrates 30 years</a></strong> — <em>2025-12-02 15:00:37</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/hubble-seeks-clusters-in-lost-galaxy/' target='_blank'>Hubble Seeks Clusters in ‘Lost Galaxy’</a></strong> — <em>2025-12-03 16:17:36</em></summary>
 
-On 2 December 1995, the ESA/NASA Solar and Heliospheric Observatory (SOHO) blasted into space—on what was supposed to be a two-year mission.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-newly-star-laboratory-cosmic-mystery.html' target='_blank'>Newly discovered star opens 'laboratory' for solving cosmic dust mystery</a></strong> — <em>2025-12-02 14:58:24</em></summary>
-
-Seventy light-years from Earth, a star called Kappa Tucanae A harbors one of astronomy's most perplexing mysteries: dust so hot it glows at more than 1,000 degrees Fahrenheit, existing impossibly close to its host star, where it should have been vaporized or swiftly blown away.
+This NASA/ESA Hubble Space Telescope image features the spiral galaxy NGC 4535, which is situated about 50 million light-years away in the constellation Virgo (the Maiden). Through a small telescope, this galaxy appears extremely faint, giving it the nickname ‘Lost Galaxy’. With a mirror spanning nearly eight feet (2.4 meters) across and its location above Earth’s light-obscuring […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/nasas-moon-rocket-celebrates-250-years-of-american-innovation/' target='_blank'>NASA’s Moon Rocket Celebrates 250 Years of American Innovation</a></strong> — <em>2025-12-02 14:55:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-solar-storms-mystery-uranus-belts.html' target='_blank'>Solar wind storms may explain mystery surrounding Uranus' radiation belts</a></strong> — <em>2025-12-03 16:10:01</em></summary>
 
-NASA is marking America’s 250th year with a bold new symbol of the nation’s relentless drive to explore. The America 250 emblem is now on the twin solid rocket boosters of the SLS (Space Launch System) rocket for Artemis II — the powerhouse that will launch a crew of four around the Moon next year. […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/nasas-moon-rocket-celebrates-250-years-of-american-innovation/' target='_blank'>NASA’s Moon Rocket Celebrates 250 Years of American Innovation</a></strong> — <em>2025-12-02 14:55:04</em></summary>
-
-NASA is marking America’s 250th year with a bold new symbol of the nation’s relentless drive to explore. The America 250 emblem is now on the twin solid rocket boosters of the SLS (Space Launch System) rocket for Artemis II — the powerhouse that will launch a crew of four around the Moon next year. […]
+Southwest Research Institute (SwRI) scientists believe they may have resolved a 39-year-old mystery about the radiation belts around Uranus.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-alaknanda-jwst-massive-grand-spiral.html' target='_blank'>Alaknanda: JWST discovers massive grand-design spiral galaxy from the universe's infancy</a></strong> — <em>2025-12-02 14:32:26</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/europe-picks-companies-to-help-build-argonaut-moon-lander' target='_blank'>Europe picks companies to help build Argonaut moon lander</a></strong> — <em>2025-12-03 16:00:00</em></summary>
 
-A spiral galaxy, shaped much like our Milky Way, has been found in an era when astronomers believed such well-formed galaxies could not yet exist. Two astronomers from India have identified a remarkably mature galaxy just 1.5 billion years after the Big Bang—a discovery that challenges our understanding of how galaxies form and evolve.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/apollo/thats-one-small-step-for-trivia-an-apollo-space-quiz' target='_blank'>That's one small step for trivia: An Apollo space quiz</a></strong> — <em>2025-12-02 14:30:00</em></summary>
-
-Test your cosmic knowledge with this thrilling Apollo-themed space quiz—where lunar legends and NASA milestones collide!
+Europe's plans to develop its "Argonaut" robotic moon lander are moving ahead with the announcement of an Italy-led consortium that will build a key element of the spacecraft.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-astronomers-luminosity-galactic-nucleus-nearby.html' target='_blank'>Astronomers confirm low-luminosity active galactic nucleus in nearby galaxy NGC 3221</a></strong> — <em>2025-12-02 14:22:51</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-drones-death-valley-preps.html' target='_blank'>NASA tests drones in Death Valley, preps for Martian sands and skies</a></strong> — <em>2025-12-03 15:30:01</em></summary>
 
-Using ESA's XMM-Newton satellite, astronomers from Stanford University and elsewhere have conducted deep X-ray observations of a nearby galaxy known as NGC 3221. The new observational campaign detected a faint active galactic nucleus (AGN) in this galaxy and provided more insights into the properties of this system. The findings were presented November 23 on the pre-print server arXiv.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/a-dying-satellite-could-use-its-final-moments-to-photograph-the-infamous-asteroid-apophis-in-2029' target='_blank'>A dying satellite could use its final moments to photograph the infamous asteroid Apophis in 2029</a></strong> — <em>2025-12-02 14:00:00</em></summary>
-
-The Australian company HEO Robotics wants to join efforts to study a rare space event, conducting its own flyby of the asteroid Apophis when it makes its close approach to Earth in 2029.
+When NASA engineers want to test a concept for exploring the Red Planet, they have to find ways to create Mars-like conditions here on Earth. Then they test, tinker, and repeat.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/' target='_blank'>Sugars, ‘Gum,’ Stardust Found in NASA’s Asteroid Bennu Samples</a></strong> — <em>2025-12-02 13:29:20</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/chinas-1st-reusable-rocket-explodes-in-dramatic-fireball-during-landing-after-reaching-orbit-on-debut-flight' target='_blank'>China's 1st reusable rocket explodes in dramatic fireball during landing after reaching orbit on debut flight</a></strong> — <em>2025-12-03 15:16:37</em></summary>
 
-The asteroid Bennu continues to provide new clues to scientists’ biggest questions about the formation of the early solar system and the origins of life. As part of the ongoing study of pristine samples delivered to Earth by NASA’s OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security-Regolith Explorer) spacecraft, three new papers published Tuesday by […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-spacex-busy-december-space-coast.html' target='_blank'>SpaceX launch kicks off busy December on Space Coast</a></strong> — <em>2025-12-02 13:02:54</em></summary>
-
-The Space Coast's record rocket train of 2025 kept rolling with the first launch of December on Dec. 1.
+The first test flight of Landspace's Zhuque-3 rocket ended in a fiery explosion after successfully reaching orbit.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/these-last-chance-cyber-monday-streaming-deals-are-still-live-but-not-for-much-longer' target='_blank'>These last-chance Cyber Monday streaming deals are still live, but not for much longer</a></strong> — <em>2025-12-02 13:02:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-bacteria-wont-nasa-playing-dead.html' target='_blank'>The bacteria that won't wake up: NASA discovers new bacteria 'playing dead'</a></strong> — <em>2025-12-03 15:05:39</em></summary>
 
-You can still get some amazing sci-fi streaming content if you're quick, as Paramount Plus and Apple TV's Cyber Monday deals are still available.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/scientists-cant-get-enough-of-ancient-comet-3i-atlas-in-real-time' target='_blank'>I watched scientists track interstellar comet 3I/ATLAS leaving the solar system in real-time: 'This is some prime-time science'</a></strong> — <em>2025-12-02 13:00:00</em></summary>
-
-"These images are not just pretty."
+New research conducted on a NASA-discovered bacterium shows the microbe is capable of entering an extreme dormant state, essentially "playing dead" to survive in some of the cleanest environments on Earth.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/with-cyber-monday-over-you-can-still-save-50-dollars-on-smart-telescope-zwo-seestar' target='_blank'>With Cyber Monday over, you can still save $50 on this smart telescope, our expert called 'small but mighty'</a></strong> — <em>2025-12-02 12:35:59</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-fly-foundational-robots-demo.html' target='_blank'>NASA's Fly Foundational robots demo to bolster in-space infrastructure</a></strong> — <em>2025-12-03 15:04:36</em></summary>
 
-Our astronomy expert, Gemma Lavender, was seriously impressed with the ZWO Seestar S30. It's still $50 off in a Cyber Monday sale, but you'll have to hurry.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251202052228.htm' target='_blank'>Dead stars aren’t so dead after all: The hidden force inflating white dwarfs</a></strong> — <em>2025-12-02 11:24:01</em></summary>
-
-Some white dwarfs in rapid binary orbits are far hotter and larger than theory predicts. Researchers found that powerful tidal forces between them generate enough heat to inflate their sizes and change their orbital behavior. This leads the stars to interact much sooner than expected, potentially triggering dramatic cosmic events. The new model may offer clues about the origins of type Ia supernovae.
+NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late 2027. This mission aims to revolutionize in-space operations, a critical capability for sustainably living and working on other planets. By enabling this technology demonstration, NASA is fostering the in-space robotics industry to unlock valuable tools for future scientific discovery and exploration missions.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/the-international-space-station-marks-25-years-of-continuous-human-presence/' target='_blank'>The International Space Station Marks 25 Years of Continuous Human Presence</a></strong> — <em>2025-12-02 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-can-launch-its-starship-megarocket-from-florida-pad-air-force-says' target='_blank'>SpaceX can launch its Starship megarocket from Florida pad, Air Force says</a></strong> — <em>2025-12-03 15:00:00</em></summary>
 
-On Nov. 2, 2025, NASA honored 25 years of continuous human presence aboard the International Space Station. What began as a fragile framework of modules has evolved into a springboard for international cooperation, advanced scientific research and technology demonstrations, the development of a low Earth orbit economy, and NASA’s next great leaps in exploration, including […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/the-international-space-station-marks-25-years-of-continuous-human-presence/' target='_blank'>The International Space Station Marks 25 Years of Continuous Human Presence</a></strong> — <em>2025-12-02 11:00:00</em></summary>
-
-On Nov. 2, 2025, NASA honored 25 years of continuous human presence aboard the International Space Station. What began as a fragile framework of modules has evolved into a springboard for international cooperation, advanced scientific research and technology demonstrations, the development of a low Earth orbit economy, and NASA’s next great leaps in exploration, including […]
+The U.S. Air Force has given SpaceX permission to develop SLC-37 at Florida's Cape Canaveral Space Force Station as a launch site for its Starship megarocket.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/trump-pick-for-nasa-chief-jared-isaacman-pledges-to-move-space-shuttle-discovery-to-houston-lawmaker-says' target='_blank'>Trump pick for NASA chief Jared Isaacman pledges to move space shuttle Discovery to Houston, lawmaker says</a></strong> — <em>2025-12-02 11:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-interstellar-icy-volcanoes-rewrite-comets.html' target='_blank'>Interstellar object covered in 'icy volcanoes' could rewrite our understanding of how comets formed</a></strong> — <em>2025-12-03 14:50:01</em></summary>
 
-Jared Isaacman, President Trump's pick to lead NASA, is on board with moving the space shuttle Discovery to Houston, according to one of the senators behind the controversial plan.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/SOHO/Sun-watcher_SOHO_celebrates_thirty_years' target='_blank'>Sun-watcher SOHO celebrates thirty years</a></strong> — <em>2025-12-02 10:01:00</em></summary>
-
-
-On 2 December 1995 the ESA/NASA Solar and Heliospheric Observatory (SOHO) blasted into space – on what was supposed to be a two-year mission. From its outpost 1.5 million km away from Earth in the direction of the Sun, SOHO enjoys uninterrupted views of our star. It has provided a nearly continuous record of our Sun’s activity for close to three 11-year-long solar cycles. 
+Analysis of the second confirmed interstellar comet to visit our solar system suggests that the alien body could be covered in erupting icy, volcano-like structures called cryovolcanoes. Researchers also discovered that the comet has a metal-rich interior, which could challenge our understanding of how comets formed in our own planetary system.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/SOHO/Sun-watcher_SOHO_celebrates_thirty_years' target='_blank'>Sun-watcher SOHO celebrates thirty years</a></strong> — <em>2025-12-02 10:01:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251203004729.htm' target='_blank'>JWST finds a Milky Way twin born shockingly early in the Universe</a></strong> — <em>2025-12-03 14:35:21</em></summary>
 
-
-On 2 December 1995 the ESA/NASA Solar and Heliospheric Observatory (SOHO) blasted into space – on what was supposed to be a two-year mission. From its outpost 1.5 million km away from Earth in the direction of the Sun, SOHO enjoys uninterrupted views of our star. It has provided a nearly continuous record of our Sun’s activity for close to three 11-year-long solar cycles. 
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/11/251130205501.htm' target='_blank'>New state of quantum matter could power future space tech</a></strong> — <em>2025-12-02 09:34:32</em></summary>
-
-A UC Irvine team uncovered a never-before-seen quantum phase formed when electrons and holes pair up and spin in unison, creating a glowing, liquid-like state of matter. By blasting a custom-made material with enormous magnetic fields, the researchers triggered this exotic transformation—one that could enable radiation-proof, self-charging computers ideal for deep-space travel.
+A surprisingly mature spiral galaxy named Alaknanda has been spotted just 1.5 billion years after the Big Bang—far earlier than astronomers believed such well-structured galaxies could form. With sweeping spiral arms, rapid star formation, and an orderly disk resembling our Milky Way, it defies long-held theories about how slowly galaxies should assemble. Thanks to JWST and gravitational lensing, researchers could examine the galaxy in remarkable detail, revealing that the early Universe was far more capable and dynamic than expected.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-creams-drugs-space-behavior-soft.html' target='_blank'>What happens to creams and drugs in space? Behavior of soft matter in weightlessness studied</a></strong> — <em>2025-12-02 09:28:30</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251203084928.htm' target='_blank'>The solar mission that survived disaster and found 5,000 comets</a></strong> — <em>2025-12-03 14:03:57</em></summary>
 
-The shelf life of a sunscreen, the stability of mayonnaise, the effectiveness of a drug; these all depend on what is happening within the materials that make up gels or glasses, disordered structures that change slowly over time.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/12/Webb_observes_a_dance_of_dwarf_galaxies' target='_blank'>Webb observes a dance of dwarf galaxies</a></strong> — <em>2025-12-02 09:00:00</em></summary>
-
-
-	Image:
-			Webb observes a dance of dwarf galaxies
+For thirty years, SOHO has watched the Sun from a stable perch in space, revealing the inner workings of our star and surviving crises that nearly ended the mission. Its long-term observations uncovered a single global plasma conveyor belt inside the Sun, detailed how solar brightness subtly shifts over the solar cycle, and turned SOHO into an unexpected comet-hunting champion with more than 5,000 discoveries.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-60th-mission-of-the-year-from-california' target='_blank'>SpaceX launches 60th mission of the year from California (video)</a></strong> — <em>2025-12-02 08:05:23</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/large-magellanic-cloud-bursts-with-baby-stars-space-photo-of-the-day-for-dec-3-2025' target='_blank'>Large Magellanic Cloud bursts with baby stars | Space photo of the day for Dec. 3, 2025</a></strong> — <em>2025-12-03 14:00:00</em></summary>
 
-A SpaceX Falcon 9 rocket launched 27 Starlink internet satellites early Tuesday morning (Dec. 2). It was the company's 60th liftoff of 2025 from the Golden State.
+The vantage point at Cerro Pachón, with its dark skies and high-altitude clarity, enhances the richness of the image.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/hhp/hazardous-material-summary-tables-hmsts/' target='_blank'>Hazardous Material Summary Tables (HMSTs)</a></strong> — <em>2025-12-03 13:39:56</em></summary>
+
+Hazardous Materials Summary Tables (HMSTs) are a compilation of the chemical, biological, and flammability hazards of materials on a given flight or mission. HMSTs are required by Safety for all Programs, including but not limited to ISS, Commercial Crew Program (CCP), Multi Purpose Crew Vehicle (MPCV), and Gateway. Johnson Space Center (JSC) toxicologists evaluate the […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/hhp/toxicology-analysis-of-spacecraft-air/' target='_blank'>Toxicology Analysis of Spacecraft Air</a></strong> — <em>2025-12-03 13:31:01</em></summary>
+
+Toxicology and Environmental Chemistry (TEC) monitors airborne contaminants in both spacecraft air and water. In-flight monitors are employed to provide real-time insight into the environmental conditions on ISS. Archival samples are collected and returned to Earth for full characterization of ISS air and water. Real-time in-flight air analytical instruments include the Air Quality Monitors (AQM), […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-kic-faint-eclipsing-binary-delta.html' target='_blank'>KIC 5623923 is a faint eclipsing binary exhibiting Delta Scuti-type pulsations, observations find</a></strong> — <em>2025-12-03 13:00:01</em></summary>
+
+Using NASA's Kepler space telescope, Chinese astronomers have observed a binary star system known as KIC 5623923. As a result, they found that the investigated system is a faint eclipsing binary experiencing Delta Scuti-type pulsations. The new findings were published Nov. 24 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/giant-helium-cloud-caught-escaping-from-puffy-exoplanet-by-jwst' target='_blank'>A 'super-puff' exoplanet is losing its atmosphere, and the James Webb Space Telescope had a look</a></strong> — <em>2025-12-03 13:00:00</em></summary>
+
+Astronomers have spotted a distant world "shedding" its atmosphere into space in real time, creating a giant cloud of helium gas that sweeps across its parent star well before the planet itself.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-states-dec-3-4-2025' target='_blank'>Northern lights may be visible in 15 states tonight</a></strong> — <em>2025-12-03 12:50:37</em></summary>
+
+Auroras may be visible from Alaska to New York as a speedy solar wind and incoming coronal mass ejection are expected to buffet Earth's magnetic field.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-spacex-sunset-starlink-cape-canaveral.html' target='_blank'>SpaceX knocks out sunset Starlink launch from Cape Canaveral</a></strong> — <em>2025-12-03 12:22:20</em></summary>
+
+SpaceX carved out a sunset launch over the Space Coast on Dec. 2 with its latest Starlink flight.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/nasa-discovers-space-gum-and-sugars-crucial-to-life-in-asteroid-bennu-samples-brought-to-earth-video' target='_blank'>NASA discovers 'space gum' and sugars 'crucial to life' in asteroid Bennu samples brought to Earth (video)</a></strong> — <em>2025-12-03 11:00:00</em></summary>
+
+Asteroid Bennu samples contain life-friendly sugars, a strange "space-gum," and ancient stardust
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_lifts_the_clouds_on_climate_models' target='_blank'>EarthCARE lifts the clouds on climate models</a></strong> — <em>2025-12-03 10:17:00</em></summary>
+
+
+True to its promise, the European Space Agency’s EarthCARE satellite is now being used to calculate directly how clouds and aerosols influence Earth’s energy balance – the all-important balance that regulates our climate. In doing so, EarthCARE is poised to sharpen the accuracy of climate models, the very tools that guide global climate policy and action.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_martian_butterfly_flaps_its_wings' target='_blank'>A martian butterfly flaps its wings</a></strong> — <em>2025-12-03 10:00:00</em></summary>
+
+
+Is it an insect? A strange fossil? An otherworldly eye, or even a walnut? No, it’s an intriguing kind of martian butterfly spotted by ESA’s Mars Express.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_martian_butterfly_flaps_its_wings' target='_blank'>A martian butterfly flaps its wings</a></strong> — <em>2025-12-03 10:00:00</em></summary>
+
+
+Is it an insect? A strange fossil? An otherworldly eye, or even a walnut? No, it’s an intriguing kind of martian butterfly spotted by ESA’s Mars Express.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-renowned-astronomers-chile-cherished-night.html' target='_blank'>Renowned astronomers push to protect Chile's cherished night sky from an industrial project</a></strong> — <em>2025-12-03 09:04:06</em></summary>
+
+Chile's Atacama Desert is one of the darkest spots on Earth, a crown jewel for astronomers who flock to study the origins of the universe in this inhospitable desert along the Pacific coast.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251203010211.htm' target='_blank'>Space is filling with junk and scientists have a fix</a></strong> — <em>2025-12-03 08:47:15</em></summary>
+
+Earth’s orbit is getting crowded with broken satellites and leftover rocket parts. Researchers say the solution is to build spacecraft that can be repaired, reused, or recycled instead of abandoned. They also want new tools to collect old debris and new data systems that help prevent collisions. The goal is to make space exploration cleaner and more sustainable.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-debris-disk-gallery-tale-asteroids.html' target='_blank'>Debris disk gallery shows tell-tale signs of asteroids and comets in distant solar systems</a></strong> — <em>2025-12-03 08:00:02</em></summary>
+
+Observations with the instrument SPHERE at ESO's Very Large Telescope have produced an unprecedented gallery of "debris disks" in exoplanetary systems.
 
 </details>
 
