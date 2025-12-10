@@ -1,236 +1,290 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysical Developments
+    ### Major Themes in Recent Astrophysics News
 
-#### 1. Human Spaceflight and Its Scientific Contributions
-Recent astronaut missions continue to emphasize the vital role of human presence in advancing space science. NASA astronaut Jonny Kim and two Russian cosmonauts returned from an eight-month International Space Station (ISS) mission, during which they conducted experiments aimed at improving life on Earth and preparing for future interplanetary exploration. This mission not only underscores the importance of human engagement in low Earth orbit but also highlights ongoing research that informs long-term space missions.
+#### 1. Breakthroughs in Cosmic Observations
+Recent advancements in observational technology have led to groundbreaking discoveries about the early universe and cosmic phenomena. The James Webb Space Telescope (JWST) has identified the oldest supernova, dating back over 13 billion years, offering vital clues about the conditions prevalent shortly after the Big Bang. Additionally, astronomers have recorded an unprecedented seven-hour gamma-ray burst, suggesting new dynamics in black hole activity. These findings underscore the powerful capabilities of modern telescopes in expanding our understanding of cosmic history.
 
-Key items:
-- Jonny Kim and cosmonauts Sergey Ryzhikov and Alexey Zubritsky returned on December 9, 2025, after 245 days in space.
-- The ISS remains a crucial platform for research that supports future deep-space missions.
+Key Items:
+- The JWST confirmed the source of a gamma-ray burst from a supernova when the universe was just 730 million years old. (Link: https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_identifies_earliest_supernova_to_date)
+- A seven-hour gamma-ray burst was documented, raising questions about its origins and the nature of black hole explosions. (Link: https://www.space.com/astronomy/black-holes/this-7-hour-cosmic-explosion-is-the-longest-gamma-ray-burst-ever-seen-could-it-be-from-an-elusive-class-of-black-hole)
 
-#### 2. Reevaluating Exoplanet Habitability
-Recent studies are reshaping our understanding of exoplanet habitability, particularly within the TRAPPIST-1 system. New simulations suggest that TRAPPIST-1e, once considered a strong candidate for life due to its potential methane atmosphere, may lack the necessary atmospheric conditions for habitability. This finding prompts a reevaluation of the criteria used to assess potential life-supporting environments on exoplanets.
+#### 2. Insights into Galactic Structures
+Innovative studies have enhanced our understanding of galaxy formation and the intricate dynamics of galaxy clusters. Researchers discovered galaxies rotating within massive cosmic filaments, resembling a "teacup ride," highlighting complex gravitational interactions. Furthermore, a newly designed compact telescope aims to improve observations of faint galactic structures, crucial for studying galaxy evolution in greater detail.
 
-Key items:
-- New models indicate that TRAPPIST-1e's atmosphere may be a false signal, complicating its potential for habitability.
-- Ongoing research into TRAPPIST-1's frequent stellar flares could provide insights into the conditions necessary for life.
+Key Items:
+- Astronomers found galaxies spinning around a massive cosmic filament, emphasizing the large-scale structure of the universe. (Link: https://skyandtelescope.org/astronomy-news/galaxies-spin-on-vast-structure-like-a-teacup-ride/)
+- A novel telescope system has been developed to observe low-surface-brightness structures, facilitating deeper insights into galaxy formation. (Link: https://phys.org/news/2025-12-drift-pathfinder-compact-telescope-faint.html)
 
-#### 3. Elemental Synthesis from Stellar Explosions
-Recent observations from the XRISM mission have revealed significant findings regarding the elemental composition of supernova remnants. Specifically, the detection of high levels of chlorine and potassium in the Cassiopeia A remnant indicates that supernovae play a crucial role in enriching the cosmos with elements essential for life. This discovery enhances our understanding of how massive stars contribute to the formation of planets and the building blocks of life.
+#### 3. Dynamics of Black Holes
+Recent observations have unveiled new aspects of supermassive black holes, particularly their interactions with surrounding matter. One study documented a black hole ejecting material at 20% the speed of light, driven by sudden magnetic events, a phenomenon previously unobserved. This emphasizes the dynamic nature of black holes and their significant influence on their environments.
 
-Key items:
-- XRISM's findings challenge existing models by revealing a higher-than-expected abundance of life-essential elements in supernova remnants.
-- These discoveries have implications for understanding the origins of planetary systems and the conditions conducive to life.
+Key Items:
+- A supermassive black hole in NGC 3783 was observed ejecting matter at extraordinary speeds, linked to rapid changes in its magnetic field. (Link: https://phys.org/news/2025-12-black-hole-ejects-sun-magnetic.html)
+- An extraordinary blast from a black hole produced ultra-fast winds, offering new insights into the mechanisms behind such phenomena. (Link: https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Flaring_black_hole_whips_up_ultra-fast_winds)
 
 ### Conclusion
-The current state of astrophysics reflects a dynamic interplay between human exploration, evolving assessments of exoplanet habitability, and new insights into the processes driving elemental synthesis in the universe. These advancements not only deepen our understanding of the cosmos but also guide future missions and the ongoing search for extraterrestrial life, indicating a field that is both rapidly advancing and deeply interconnected.
+The current landscape of astrophysics is characterized by significant advancements in observational capabilities and theoretical insights. With instruments like the JWST and innovative telescope designs, researchers are unraveling the complexities of cosmic phenomena, from the early universe to the behavior of black holes. These ongoing explorations not only deepen our understanding of the universe but also pose new questions that will shape future research directions.
 
 ### Top Sources:
-1. NASA Astronaut Jonny Kim, Crewmates Return from Space Station - https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-crewmates-return-from-space-station/ - Kim and cosmonauts return after eight months aboard the ISS.
-2. One of the most promising Earth-like worlds may not have an atmosphere after all - https://www.space.com/astronomy/exoplanets/one-of-the-most-promising-earth-like-worlds-may-not-have-an-atmosphere-after-all - TRAPPIST-1e's potential atmosphere questioned.
-3. XRISM Finds Chlorine, Potassium in Cas A - https://www.nasa.gov/image-article/xrism-finds-chlorine-potassium-in-cas-a/ - First X-ray detections of critical elements in a supernova remnant.
-4. NASA-JAXA XRISM finds elemental bounty in supernova remnant - https://phys.org/news/2025-12-nasa-jaxa-xrism-elemental-bounty.html - XRISM reveals significant findings about supernovae and elemental production.
-5. Cosmic gas flows, not collisions, explain Milky Way's double chemical signature - https://phys.org/news/2025-12-cosmic-gas-collisions-milky-chemical.html - New insights into galaxy formation and chemical evolution.
-6. Record-breaking cosmic explosion challenges astronomers' understanding of gamma-ray bursts - https://phys.org/news/2025-12-cosmic-explosion-astronomers-gamma-ray.html - Discovery of a long-lasting gamma-ray burst.
-7. Webb reveals double helium tails escaping from a 'hot Jupiter' - https://phys.org/news/2025-12-webb-reveals-helium-tails-hot.html - Continuous monitoring of exoplanet atmospheres reveals new dynamics.
-8. Peculiar supernova SN 2021ukt transitions from Type IIn to Type Ib - https://phys.org/news/2025-12-peculiar-supernova-sn-2021ukt-transitions.html - Study of a unique supernova's classification and evolution.
-9. Scientists discover cosmic 'scar' in interstellar clouds left by a close shave between our sun and 2 intruder stars - https://www.space.com/astronomy/stars/scientists-discover-cosmic-scar-in-interstellar-clouds-left-by-a-close-shave-between-our-sun-and-2-intruder-stars - New findings on stellar interactions and their effects on the interstellar medium.
-10. What supermoon am I? A lunar personality test - https://www.space.com/stargazing/what-supermoon-am-i-a-lunar-personality-test - Engaging public interest in lunar phenomena.
+1. The James Webb Space Telescope just found the oldest supernova ever seen - https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-found-the-oldest-supernova-ever-seen - Discovery of a supernova from over 13 billion years ago.
+2. Webb identifies earliest supernova to date - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_identifies_earliest_supernova_to_date - Confirmation of a supernova's host galaxy from the early universe.
+3. This 7-hour cosmic explosion is the longest gamma-ray burst ever seen. Could it be from an elusive class of black hole? - https://www.space.com/astronomy/black-holes/this-7-hour-cosmic-explosion-is-the-longest-gamma-ray-burst-ever-seen-could-it-be-from-an-elusive-class-of-black-hole - Record-breaking gamma-ray burst raises questions about black hole activity.
+4. Galaxies Spin on Vast Filament Like a Teacup Ride - https://skyandtelescope.org/astronomy-news/galaxies-spin-on-vast-structure-like-a-teacup-ride/ - Discovery of large-scale galactic structures and their dynamics.
+5. K-DRIFT pathfinder: A compact telescope for observing faint galactic structures - https://phys.org/news/2025-12-drift-pathfinder-compact-telescope-faint.html - Development of a new telescope system for deep imaging of low-surface-brightness structures.
+6. This supermassive black hole flung out matter at 134 million mph: 'On a scale almost too big to imagine' - https://www.space.com/astronomy/black-holes/this-supermassive-black-hole-flung-out-matter-at-134-million-mph-on-a-scale-almost-too-big-to-imagine - Observations of extreme matter ejection from a black hole.
+7. Black hole ejects matter at 20% light speed in sun-like magnetic event - https://phys.org/news/2025-12-black-hole-ejects-sun-magnetic.html - Documenting a magnetic event causing rapid matter ejection.
+8. Flaring black hole whips up ultra-fast winds - https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Flaring_black_hole_whips_up_ultra-fast_winds - Capture of a black hole's blast and its effects on surrounding material.
+9. Student researcher leads discovery of fastest gamma-ray burst ever recorded - https://phys.org/news/2025-12-student-discovery-fastest-gamma-ray.html - Fastest recorded gamma-ray burst led by a student researcher.
+10. Observations link solar flare pulsations to repeated magnetic reconnection - https://phys.org/news/2025-12-link-solar-flare-pulsations-magnetic.html - Insights into solar flare dynamics and their implications for space weather.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-crewmates-return-from-space-station/' target='_blank'>NASA Astronaut Jonny Kim, Crewmates Return from Space Station</a></strong> — <em>2025-12-09 06:36:21</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/china-breaks-record-with-3-long-march-rocket-launches-in-19-hour-stretch-video' target='_blank'>China breaks record with 3 Long March rocket launches in 19-hour stretch (video)</a></strong> — <em>2025-12-09 23:00:00</em></summary>
 
-NASA astronaut Jonny Kim returned to Earth on Tuesday alongside Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, wrapping up an eight-month science mission aboard the International Space Station to benefit life on Earth and future space exploration. They made a safe, parachute-assisted landing at 12:03 a.m. EST (10:03 a.m. local time), southeast of Dzhezkazgan, Kazakhstan, […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-crewmates-return-from-space-station/' target='_blank'>NASA Astronaut Jonny Kim, Crewmates Return from Space Station</a></strong> — <em>2025-12-09 06:36:21</em></summary>
-
-NASA astronaut Jonny Kim returned to Earth on Tuesday alongside Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, wrapping up an eight-month science mission aboard the International Space Station to benefit life on Earth and future space exploration. They made a safe, parachute-assisted landing at 12:03 a.m. EST (10:03 a.m. local time), southeast of Dzhezkazgan, Kazakhstan, […]
+China just launched three Long March rockets in less than 19 hours, setting a new national mark for liftoff cadence.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/astronaut-and-cosmonauts-land-on-russian-soyuz-after-8-months-aboard-international-space-station' target='_blank'>Astronaut and cosmonauts land aboard Russian Soyuz after 8-months on International Space Station</a></strong> — <em>2025-12-09 06:05:31</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-found-the-oldest-supernova-ever-seen' target='_blank'>The James Webb Space Telescope just found the oldest supernova ever seen</a></strong> — <em>2025-12-09 22:16:08</em></summary>
 
-NASA astronaut Jonny Kim and Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky landed on Russia's Soyuz MS-27 after 245 days on the International Space Station on Dec. 9, 2025.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-robot-rover-fly-storms.html' target='_blank'>NASA robot rover shows that sparks fly in dust storms on Mars</a></strong> — <em>2025-12-09 01:10:01</em></summary>
-
-Sometimes you get a small electric shock from touching your car door handle on a dry summer's day.
+The supernova exploded over 13 billion years ago in a galaxy far, far away.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/the-subaru-telescope-just-made-its-1st-discoveries-a-failed-star-and-an-exoplanet' target='_blank'>The Subaru Telescope just made its 1st discoveries: a 'failed star' and an exoplanet</a></strong> — <em>2025-12-08 23:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/' target='_blank'>NASA Demonstrates Safer Skies for Future Urban Air Travel</a></strong> — <em>2025-12-09 21:58:39</em></summary>
 
-Check out the first findings from the Subaru Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-92-b1067-ksc-jrti' target='_blank'>SpaceX launches Starlink satellites on record 32nd flight of Falcon 9 rocket (video)</a></strong> — <em>2025-12-08 22:37:56</em></summary>
-
-A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from NASA's Kennedy Space Center in Florida on Monday, Dec. 8, 2025. It was the record 32nd flight of the Falcon's first stage.
+NASA is helping shape the future of urban air travel with a new simulation that will manage how electric air taxis and drones can successfully operate within busy areas.   The demonstration, held at NASA’s Ames Research Center in California’s Silicon Valley earlier this year, focused on a system called the Strategic Deconfliction Simulation, which helps […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/one-of-the-most-promising-earth-like-worlds-may-not-have-an-atmosphere-after-all' target='_blank'>One of the most promising Earth-like worlds may not have an atmosphere after all</a></strong> — <em>2025-12-08 22:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/' target='_blank'>NASA Demonstrates Safer Skies for Future Urban Air Travel</a></strong> — <em>2025-12-09 21:58:39</em></summary>
 
-New simulations suggest TRAPPIST-1e's possible methane atmosphere may be a false signal from its star, raising fresh questions about the planet’s habitability.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/press-releases/get-ready-for-the-geminids-2/' target='_blank'>Get Ready for the Geminids</a></strong> — <em>2025-12-08 21:55:26</em></summary>
-
-It’s December and that means one of the best celestial events will grace the skies. The Geminid meteor shower should peak between Saturday night and Sunday morning, December 13–14. 
-The post Get Ready for the Geminids appeared first on Sky & Telescope.
+NASA is helping shape the future of urban air travel with a new simulation that will manage how electric air taxis and drones can successfully operate within busy areas.   The demonstration, held at NASA’s Ames Research Center in California’s Silicon Valley earlier this year, focused on a system called the Strategic Deconfliction Simulation, which helps […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/5-terminator-games-that-are-actually-good' target='_blank'>5 Terminator games that are actually good</a></strong> — <em>2025-12-08 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/general/what-a-blast-nasa-langley-begins-plume-surface-interaction-tests/' target='_blank'>NASA Begins Moon Mission Plume-Surface Interaction Tests</a></strong> — <em>2025-12-09 21:54:14</em></summary>
 
-Ahead of Terminator 2D: NO FATE, we're going back in time to find some Terminator games that don't suck. Don't worry, we'll be back!
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/scientists-discover-cosmic-scar-in-interstellar-clouds-left-by-a-close-shave-between-our-sun-and-2-intruder-stars' target='_blank'>Scientists discover cosmic 'scar' in interstellar clouds left by a close shave between our sun and 2 intruder stars</a></strong> — <em>2025-12-08 20:00:00</em></summary>
-
-"It’s kind of a jigsaw puzzle where all the different pieces are moving."
+In March, NASA researchers employed a new camera system to capture data imagery of the interaction between Firefly Aerospace Blue Ghost Mission-1 lander’s engine plumes and the lunar surface. Through NASA’s Artemis campaign, this data will help researchers understand the hazards that may occur when a lander’s engine plumes blast away at the lunar dust, […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/trappist-1-frequent-flares-may-reveal-clues-to-habitable-planets-beyond-earth' target='_blank'>Which exoplanet in the TRAPPIST-1 system could be habitable? Scientists are modeling the star to find out</a></strong> — <em>2025-12-08 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/general/painting-galaxy-clusters-by-numbers-and-physics/' target='_blank'>Painting Galaxy Clusters by Numbers (and Physics)</a></strong> — <em>2025-12-09 21:07:55</em></summary>
 
-Frequent flares from the nearby star TRAPPIST-1 could offer new clues in the search for habitable planets beyond Earth.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/xrism-finds-chlorine-potassium-in-cas-a/' target='_blank'>XRISM Finds Chlorine, Potassium in Cas A</a></strong> — <em>2025-12-08 18:07:04</em></summary>
-
-The Cassiopeia A supernova remnant glows in X-ray, visible, and infrared light in this Jan. 8, 2024, image that combines data from NASA’s Chandra X-ray Observatory and Hubble, Webb, and Spitzer space telescopes. A study by the XRISM (X-ray Imaging and Spectroscopy Mission) spacecraft has made the first-ever X-ray detections of chlorine and potassium from […]
+Galaxy clusters are the most massive objects in the universe held together by gravity, containing up to several thousand individual galaxies and huge reservoirs of superheated, X-ray-emitting gas. The mass of this hot gas is typically about five times higher than the total mass of all the galaxies in galaxy clusters. In addition to these […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/watch-live-us-senate-vote-to-appoint-jared-isaacman-as-head-of-nasa-today' target='_blank'>US Senate committee advances renomination of Jared Isaacman as head of NASA</a></strong> — <em>2025-12-08 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/this-7-hour-cosmic-explosion-is-the-longest-gamma-ray-burst-ever-seen-could-it-be-from-an-elusive-class-of-black-hole' target='_blank'>This 7-hour cosmic explosion is the longest gamma-ray burst ever seen. Could it be from an elusive class of black hole?</a></strong> — <em>2025-12-09 21:00:00</em></summary>
 
-A U.S. Senate committee advanced the renomination of billionaire tech entrepreneur Jared Isaacman as NASA administrator on Monday (Dec. 8).
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-jaxa-xrism-elemental-bounty.html' target='_blank'>NASA-JAXA XRISM finds elemental bounty in supernova remnant</a></strong> — <em>2025-12-08 17:50:01</em></summary>
-
-For the first time, scientists have made a clear X-ray detection of chlorine and potassium in the wreckage of a star using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) spacecraft.
+"This is certainly an outburst unlike any other we've seen in the past 50 years."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-cosmic-explosion-astronomers-gamma-ray.html' target='_blank'>Record-breaking cosmic explosion challenges astronomers' understanding of gamma-ray bursts</a></strong> — <em>2025-12-08 17:44:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-drift-pathfinder-compact-telescope-faint.html' target='_blank'>K-DRIFT pathfinder: A compact telescope for observing faint galactic structures</a></strong> — <em>2025-12-09 20:50:02</em></summary>
 
-Astronomers at the University of North Carolina at Chapel Hill have helped uncover new clues about the longest-lasting cosmic explosion ever observed, a gamma-ray burst that lasted nearly seven hours. The event, known as GRB 250702B, challenges decades of understanding about how and why these bursts occur.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/what-supermoon-am-i-a-lunar-personality-test' target='_blank'>What supermoon am I? A lunar personality test</a></strong> — <em>2025-12-08 17:00:00</em></summary>
-
-The supermoon shines brighter and bolder than usual—discover which dazzling lunar personality matches you.
+Conventional telescopes are limited in detecting low-surface-brightness (LSB) structures, which are essential for studying galaxy evolution. Now, researchers have developed a new telescope system featuring a confocal off-axis design with three freeform mirrors, optimized for deep LSB imaging. This system enables astronomers to observe faint galactic features more clearly, revealing how galaxies evolve over time.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-china-outlines-future-video-earth.html' target='_blank'>China outlines future plans in new video, including finding Earth 2.0</a></strong> — <em>2025-12-08 16:35:28</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-sensor-critical-minerals.html' target='_blank'>New NASA sensor goes hunting for critical minerals</a></strong> — <em>2025-12-09 20:41:15</em></summary>
 
-In a recent Hot Take segment, the China Global Television Network recently released an interesting video detailing China's future plans for space. Titled "Earth 2.0? China's plan to find new Earth," the video actually details four missions that the China National Space Agency (CNSA) has planned as part of the country's 15th Five-Year Plan (2026–2030). These missions cover a broad range of next-generation science objectives that space agencies worldwide want to achieve in the coming decades.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-instruments-artemis-iv-lunar.html' target='_blank'>NASA selects two instruments for Artemis IV lunar surface science</a></strong> — <em>2025-12-08 16:30:34</em></summary>
-
-NASA has selected two science instruments designed for astronauts to deploy on the surface of the moon during the Artemis IV mission to the lunar south polar region. The instruments will improve our knowledge of the lunar environment to support NASA's further exploration of the moon and beyond to Mars.
+Cradled in the nose of a high-altitude research airplane, a new NASA sensor has taken to the skies to help geoscientists map rocks hosting lithium and other critical minerals on Earth's surface some 60,000 feet below. In collaboration with the U.S. Geological Survey (USGS), the flights are part of the largest airborne campaign of its kind in the country's history.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-webb-reveals-helium-tails-hot.html' target='_blank'>Webb reveals double helium tails escaping from a 'hot Jupiter'</a></strong> — <em>2025-12-08 16:13:54</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-student-discovery-fastest-gamma-ray.html' target='_blank'>Student researcher leads discovery of fastest gamma-ray burst ever recorded</a></strong> — <em>2025-12-09 19:15:32</em></summary>
 
-For the first time, scientists have continuously monitored a planet's escaping atmosphere over a complete orbit, revealing that the gas giant WASP-121 b is surrounded by not one but two massive helium tails stretching more than halfway around its star.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-17-states-and-maybe-more-dec-8-9-2025' target='_blank'>Northern lights may be visible in 17 states (and maybe more) tonight</a></strong> — <em>2025-12-08 16:05:53</em></summary>
-
-Auroras may be visible from Alaska to Illinois as an incoming coronal mass ejection is expected to slam into Earth.
+Sarah Dalessi, a fifth-year student in the College of Science at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, is the lead author of a paper published in The Astrophysical Journal detailing the discovery of the fastest gamma-ray burst (GRB) ever recorded.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/uranus/uranuss-small-moons-are-dark-red-and-water-poor' target='_blank'>Uranus's small moons are dark, red, and water-poor</a></strong> — <em>2025-12-08 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-inspect-damaged-shenzhou-20-spacecraft-during-8-hour-spacewalk-video' target='_blank'>Chinese astronauts inspect damaged Shenzhou 20 spacecraft during 8-hour spacewalk (video)</a></strong> — <em>2025-12-09 19:00:00</em></summary>
 
-…Except for Mab, which is even weirder than expected.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-peculiar-supernova-sn-2021ukt-transitions.html' target='_blank'>Peculiar supernova SN 2021ukt transitions from Type IIn to Type Ib</a></strong> — <em>2025-12-08 15:02:48</em></summary>
-
-Astronomers from the University of California (UC), Berkeley and elsewhere have performed spectroscopic and photometric study of a peculiar supernova designated SN 2021ukt, which underwent a transition from Type IIn to Type Ib. Results of the new study, presented Nov. 28 on the arXiv pre-print server, shed more light on the nature of this supernova.
+Two Chinese astronauts installed more debris shielding on the Tiangong space station and assessed the damage to the attached Shenzhou 20 spacecraft during a spacewalk on Tuesday (Dec. 9).
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/5-key-takeaways-from-jared-isaacmans-2nd-nasa-chief-nomination-hearing' target='_blank'>5 key takeaways from Jared Isaacman's 2nd NASA chief nomination hearing</a></strong> — <em>2025-12-08 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-outlines-science-priorities-human-mars.html' target='_blank'>New report outlines science priorities for human Mars exploration</a></strong> — <em>2025-12-09 18:48:23</em></summary>
 
-Private billionaire SpaceX astronaut Jared Isaacman appeared before a Senate committee Dec. 3 for consideration as NASA administrator. Here are 5 big takeaways from the hearing.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/a-green-flash-at-sunset-space-photo-of-the-day-for-dec-8-2025' target='_blank'>A green flash at sunset | Space photo of the day for Dec. 8, 2025</a></strong> — <em>2025-12-08 14:00:00</em></summary>
-
-This rare phenomenon is also called the green rim and it actually happens at every sunset.
+As humanity prepares to take its first steps on Mars, a comprehensive report released by the National Academies of Sciences, Engineering, and Medicine and steered by scientists at Penn State lays out a detailed science strategy to guide the initial human missions to the red planet.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-musk-denies-spacex-billion-valuation.html' target='_blank'>Musk denies reports of SpaceX seeking $800 billion valuation</a></strong> — <em>2025-12-08 13:40:48</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-year-meteor-showers-geminids.html' target='_blank'>How to watch one of the year's best meteor showers, the Geminids</a></strong> — <em>2025-12-09 18:30:42</em></summary>
 
-Elon Musk has denied news reports that his rocket and satellite maker SpaceX is seeking a $800 billion valuation through a share sale.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/nasa-spacecraft-were-vulnerable-to-hacking-for-3-years-and-nobody-knew-ai-found-and-fixed-the-flaw-in-4-days' target='_blank'>NASA spacecraft were vulnerable to hacking for 3 years and nobody knew. AI found and fixed the flaw in 4 days</a></strong> — <em>2025-12-08 13:00:00</em></summary>
-
-An AI start-up has found a vulnerability in security software protecting NASA's ground control communications with satellites in space.
+It's time for one of the strongest meteor showers of the year.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/sun-unleashes-intense-x-class-solar-flare-triggering-radio-blackouts-across-australia' target='_blank'>Sun unleashes intense X-class solar flare, triggering radio blackouts across Australia</a></strong> — <em>2025-12-08 12:52:29</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/' target='_blank'>Sprites Over Château de Beynac</a></strong> — <em>2025-12-09 18:24:11</em></summary>
 
-The powerful X1.1 solar flare from sunspot region 4298 sparked strong radio blackouts on the sunlit portion of Earth at the time of eruption.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-cosmic-gas-collisions-milky-chemical.html' target='_blank'>Cosmic gas flows, not collisions, explain Milky Way's double chemical signature</a></strong> — <em>2025-12-08 11:30:05</em></summary>
-
-Clues about how galaxies like our Milky Way form and evolve and why their stars show surprising chemical patterns have been revealed by a new study.
+A flash of lightning, and then—something else. High above a storm, a crimson figure blinks in and out of existence. If you see it, you are a lucky witness of a sprite, one of the least-understood electrical phenomena in Earth’s upper atmosphere. Sprites occur at some 50 miles (80 kilometers) altitude, high above thunderstorms. They […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/watch-3-astronauts-head-home-to-earth-from-the-international-space-station-tonight' target='_blank'>Watch 3 astronauts land on Earth aboard Russian spacecraft early Dec. 9</a></strong> — <em>2025-12-08 11:02:50</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-oxygen-earth-oceans.html' target='_blank'>How oxygen first reached Earth's oceans</a></strong> — <em>2025-12-09 18:18:27</em></summary>
 
-NASA's Jonny Kim and two cosmonauts are scheduled to come back to Earth early Tuesday (Dec. 9), and you can watch their homecoming live.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-vehicle-manager-branelle-rodriguez-gets-orion-ready-for-go/' target='_blank'>Artemis II Vehicle Manager Branelle Rodriguez Gets Orion Ready for “Go”</a></strong> — <em>2025-12-08 10:00:00</em></summary>
-
-By the time the Artemis II Orion spacecraft launches to the Moon next year, its many components will already have traveled thousands of miles and moved across multiple facilities before coming together at NASA’s Kennedy Space Center. Branelle Rodriguez, Artemis II vehicle manager for the Orion Program, has overseen many parts of that journey. Her […]
+For roughly 2 billion years of Earth's early history, the atmosphere contained no oxygen, the essential ingredient required for complex life. Oxygen began building up during the period known as the Great Oxidation Event (GOE), but when and how it first entered the oceans has remained uncertain.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-vehicle-manager-branelle-rodriguez-gets-orion-ready-for-go/' target='_blank'>Artemis II Vehicle Manager Branelle Rodriguez Gets Orion Ready for “Go”</a></strong> — <em>2025-12-08 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-space-missions-nasa-escapade-science.html' target='_blank'>Lower-cost space missions like NASA's ESCAPADE are starting to deliver exciting science, but at a risk</a></strong> — <em>2025-12-09 18:01:21</em></summary>
 
-By the time the Artemis II Orion spacecraft launches to the Moon next year, its many components will already have traveled thousands of miles and moved across multiple facilities before coming together at NASA’s Kennedy Space Center. Branelle Rodriguez, Artemis II vehicle manager for the Orion Program, has overseen many parts of that journey. Her […]
+After a yearslong series of setbacks, NASA's Escape and Plasma Acceleration and Dynamics Explorers, or ESCAPADE, mission has finally begun its roundabout journey to Mars.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251208014620.htm' target='_blank'>A violent star explosion just revealed a hidden recipe for life</a></strong> — <em>2025-12-08 07:40:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/january-full-moon-2026-when-where-and-how-to-see-the-wolf-moon' target='_blank'>January full moon 2026: When, where and how to see the Wolf Moon</a></strong> — <em>2025-12-09 17:56:58</em></summary>
 
-XRISM’s high-precision X-ray data revealed unusually strong signatures of chlorine and potassium inside the Cassiopeia A supernova remnant. These levels are far higher than theoretical models predicted, showing that supernovae can be major sources of these life-critical elements. Researchers believe powerful mixing deep inside massive stars is responsible for the unexpected boost. The findings reshape our understanding of how the building blocks of planets and life were created.
+Your guide to January’s full Wolf Moon, from peak times to skywatching highlights.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-link-solar-flare-pulsations-magnetic.html' target='_blank'>Observations link solar flare pulsations to repeated magnetic reconnection</a></strong> — <em>2025-12-09 17:28:30</em></summary>
+
+A new study led by Southwest Research Institute (SwRI) links quasi-periodic pulsations (QPPs) in solar flares to dynamic oscillations in magnetic reconnection, a phenomenon that can drive space weather and affect technology on Earth. This research could help refine traditional solar flare models and provide new insights into the mechanisms driving them.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/science-research/earth-science/new-nasa-sensor-goes-hunting-for-critical-minerals/' target='_blank'>New NASA Sensor Goes Hunting for Critical Minerals</a></strong> — <em>2025-12-09 17:08:15</em></summary>
+
+Called AVIRIS-5, it’s the latest in a long line of sensors pioneered by NASA JPL to survey Earth, the Moon, and other worlds. Cradled in the nose of a high-altitude research airplane, a new NASA sensor has taken to the skies to help geoscientists map rocks hosting lithium and other critical minerals on Earth’s surface […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/science-research/earth-science/new-nasa-sensor-goes-hunting-for-critical-minerals/' target='_blank'>New NASA Sensor Goes Hunting for Critical Minerals</a></strong> — <em>2025-12-09 17:08:15</em></summary>
+
+Called AVIRIS-5, it’s the latest in a long line of sensors pioneered by NASA JPL to survey Earth, the Moon, and other worlds. Cradled in the nose of a high-altitude research airplane, a new NASA sensor has taken to the skies to help geoscientists map rocks hosting lithium and other critical minerals on Earth’s surface […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-monster-stars-cosmic-dawn-astronomers.html' target='_blank'>'Monster Stars' from the cosmic dawn: Astronomers find first direct evidence</a></strong> — <em>2025-12-09 17:07:27</em></summary>
+
+Using the James Webb Space Telescope, a team of international researchers have discovered chemical fingerprints of gigantic primordial stars that were among the first to form after the Big Bang.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-astrophysicist-decode-universe-strangest-explosions.html' target='_blank'>Astrophysicist helps decode one of the universe's strangest explosions</a></strong> — <em>2025-12-09 16:03:44</em></summary>
+
+A Rutgers astrophysicist is helping to solve a cosmic puzzle that has astronomers scratching their heads. The mystery centers on a powerful explosion in space that lasted far longer than anything they have seen before.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/1st-human-missions-to-mars-should-hunt-for-signs-of-life-report-says' target='_blank'>1st human missions to Mars should hunt for signs of life, report says</a></strong> — <em>2025-12-09 16:01:00</em></summary>
+
+Humanity's exploration of Mars should be organized around the search for signs of past or present Red Planet life, according to a new report from the U.S. National Academies.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_identifies_earliest_supernova_to_date' target='_blank'>Webb identifies earliest supernova to date</a></strong> — <em>2025-12-09 16:00:00</em></summary>
+
+
+The NASA/ESA/CSA James Webb Space Telescope has confirmed the source of a super-bright flash of light known as a gamma-ray burst, generated by an exploding massive star when the Universe was only 730 million years old. For the first time for such a remote event, the telescope provided a detection of the supernova’s host galaxy. Webb’s quick-turnaround observations verified data taken by telescopes around the world that had been following the gamma-ray burst since it onset, which occurred in mid-March.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/galaxies-spin-on-vast-structure-like-a-teacup-ride/' target='_blank'>Galaxies Spin on Vast Filament Like a Teacup Ride</a></strong> — <em>2025-12-09 15:37:00</em></summary>
+
+Astronomers have discovered one of the largest structures in the universe — and the galaxies within it — spinning like a fairground teacup ride.
+The post Galaxies Spin on Vast Filament Like a Teacup Ride appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/how-michelle-hoehn-turned-childhood-wonder-into-career/' target='_blank'>How Louisiana Native Turned Childhood Wonder into NASA Stennis Career</a></strong> — <em>2025-12-09 15:00:00</em></summary>
+
+Michelle Hoehn vividly remembers the day a seed was planted for her future at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. As a seventh grader, the Bogalusa, Louisiana, native joined her dad for Father/Daughter Day at NASA Stennis. Hoehn knew she wanted to be part of something bigger, something that sparked wonder and […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/from-bezos-to-beyond-blue-origin-quiz' target='_blank'>From Bezos to beyond: Blue Origin quiz</a></strong> — <em>2025-12-09 15:00:00</em></summary>
+
+Whether you're a casual fan or a spaceflight enthusiast, see how well you know one of the companies pushing the boundaries of commercial space travel.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251209043036.htm' target='_blank'>New cosmic lens measurements deepen the Hubble tension mystery</a></strong> — <em>2025-12-09 14:26:59</em></summary>
+
+Scientists are testing a novel way to measure cosmic expansion using time delays in gravitationally lensed quasars. Their results match “local” measurements but clash with early-universe estimates, strengthening the mysterious Hubble tension. This mismatch could point to new physics rather than observational error. Researchers now aim to boost precision to solve the puzzle.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-short-optical-flare-at2022zod-unusual.html' target='_blank'>Short-lived optical flare AT2022zod is an unusual tidal disruption event, astronomers find</a></strong> — <em>2025-12-09 14:20:02</em></summary>
+
+An international team of astronomers has investigated a short-lived optical flare designated AT2022zod. As a result, they found evidence indicating that this flare is an unusual tidal disruption event. The findings were presented in a research paper published Dec. 1 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251209043034.htm' target='_blank'>Astronomers capture sudden black hole blast firing ultra fast winds</a></strong> — <em>2025-12-09 14:02:44</em></summary>
+
+A sudden X-ray flare from a supermassive black hole in galaxy NGC 3783 triggered ultra-fast winds racing outward at a fifth the speed of light—an event never witnessed before. Using XMM-Newton and XRISM, astronomers caught the blast unfold in real time, revealing how tangled magnetic fields can rapidly “untwist” and hurl matter into space much like an enormous, cosmic-scale version of the Sun’s coronal mass ejections.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-jwst-intermediate-mass-black-hole.html' target='_blank'>It's the JWST's turn to look for an intermediate mass black hole</a></strong> — <em>2025-12-09 14:00:35</em></summary>
+
+Intermediate mass black holes (IMBH), if they exist, have between about 100 and 1,000 solar masses, placing them in between stellar black holes and supermassive black holes. But while there's plenty of evidence for both stellar mass black holes and supermassive black holes, the evidence for IMBHs isn't as convincing. There are many candidates, but there's no wide agreement on any of them. Yet our theories of black holes show there should be something in between stellar black holes and supermassive black holes, and IMBHs could be the missing link.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/iss-astronauts-watch-earths-atmosphere-glow-green-space-photo-of-the-day-for-dec-8-2025' target='_blank'>ISS astronauts watch Earth's atmosphere glow green | Space photo of the day for Dec. 8, 2025</a></strong> — <em>2025-12-09 14:00:00</em></summary>
+
+The image shows a good example of the phenomenon called airglow.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251209082301.htm' target='_blank'>This surprising discovery rewrites the Milky Way’s origin story</a></strong> — <em>2025-12-09 13:29:57</em></summary>
+
+New simulations of Milky Way-like galaxies reveal that the strange split between two chemically distinct groups of stars may arise from several very different evolutionary events. Bursts of star formation, shifts in flowing gas, and even streams of metal-poor material from a galaxy’s outskirts can all create this double pattern. The findings challenge the long-held assumption that a major ancient collision caused the split.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/this-supermassive-black-hole-flung-out-matter-at-134-million-mph-on-a-scale-almost-too-big-to-imagine' target='_blank'>This supermassive black hole flung out matter at 134 million mph: 'On a scale almost too big to imagine'</a></strong> — <em>2025-12-09 13:00:00</em></summary>
+
+In other words, the matter traveled at 20% the speed of light.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/startup-announces-galactic-brain-project-to-put-ai-data-centers-in-orbit' target='_blank'>Startup announces 'Galactic Brain' project to put AI data centers in orbit</a></strong> — <em>2025-12-09 12:01:00</em></summary>
+
+Aetherflux has focused its efforts on space-based solar power, with the goal of "building an American power grid in space."
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_pre-launch_media_briefing' target='_blank'>Galileo pre-launch media briefing</a></strong> — <em>2025-12-09 11:00:00</em></summary>
+
+
+	Video: 
+			00:42:04
+				Watch the replay of the media briefing held ahead of the 14th operational launch of the Galileo programme. The briefing covers the mission details for the launch of two Galileo satellites, which are set to lift off on 17 December aboard Ariane 6 from Europe’s Spaceport in French Guiana.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-spy-satellite-mission-nrol-77-nro' target='_blank'>SpaceX launches mysterious NROL-77 mission for the US military (video)</a></strong> — <em>2025-12-09 11:00:00</em></summary>
+
+SpaceX launched the NROL-77 mission for the U.S. National Reconnaissance Office today (Dec. 9), sending a classified satellite skyward from Florida's Space Coast.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-black-hole-ejects-sun-magnetic.html' target='_blank'>Black hole ejects matter at 20% light speed in sun-like magnetic event</a></strong> — <em>2025-12-09 08:00:01</em></summary>
+
+An international team of astronomers, led by SRON, has observed a sudden outburst of matter near the supermassive black hole NGC 3783 at speeds reaching up to 20% of the speed of light. During a 10-day observation, mainly with the XRISM space telescope, the researchers witnessed its formation and acceleration. Scientists often find that these outbursts are powered by strong radiation, but this time the most likely cause is a sudden change in the magnetic field, similar to bursts on the sun that cause solar flares.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Flaring_black_hole_whips_up_ultra-fast_winds' target='_blank'>Flaring black hole whips up ultra-fast winds</a></strong> — <em>2025-12-09 08:00:00</em></summary>
+
+
+Leading X-ray space telescopes XMM-Newton and XRISM have spotted an extraordinary blast from a supermassive black hole. In a matter of hours, the gravitational monster whipped up powerful winds, flinging material out into space at eye-watering speeds of 60 000 km per second.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Flaring_black_hole_whips_up_ultra-fast_winds' target='_blank'>Flaring black hole whips up ultra-fast winds</a></strong> — <em>2025-12-09 08:00:00</em></summary>
+
+
+Leading X-ray space telescopes XMM-Newton and XRISM have spotted an extraordinary blast from a supermassive black hole. In a matter of hours, the gravitational monster whipped up powerful winds, flinging material out into space at eye-watering speeds of 60 000 km per second.
 
 </details>
 
