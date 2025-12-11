@@ -2,119 +2,149 @@
 
     ### Major Themes in Recent AI Developments
 
-#### Enhanced AI Reasoning and Customer Interaction
-Recent advancements in AI reasoning are exemplified by Amazon's Nova Lite 2.0, which demonstrates enhanced capabilities in managing complex customer support scenarios. This model outperforms its predecessors in terms of reasoning quality, indicating a significant leap in how AI can effectively resolve real-world issues. Such improvements are critical for businesses seeking to implement AI solutions that are both efficient and reliable.
+#### 1. Energy Efficiency in AI Hardware
+Recent innovations in AI hardware are focusing on energy efficiency, particularly through novel materials and architectures. Researchers at MIT have introduced a new technique that layers multiple active components on microchips, significantly reducing energy waste during computation. This advancement is crucial as the demand for energy-efficient computing grows in tandem with the increasing complexity of AI models, aligning with global sustainability initiatives.
 
 Key items:
-1. **Amazon Nova Lite 2.0** - https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/ - Nova Lite 2.0 showcases advancements in reasoning for customer support applications.
-2. **Scout24's GPT-5 Assistant** - https://openai.com/index/scout24 - A conversational assistant that enhances real estate searches through adaptive interactions.
+- **New materials could boost the energy efficiency of microelectronics** - https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211 - MIT’s new approach reduces energy waste in computing by stacking components on chips.
+- **Optimizing PyTorch Model Inference on AWS Graviton** - https://towardsdatascience.com/optimizing-pytorch-model-inference-on-aws-graviton/ - Strategies for enhancing AI/ML performance on energy-efficient AWS infrastructure.
 
-#### Optimization Strategies for AI Models
-As AI models grow in complexity, optimization techniques are becoming increasingly important for ensuring efficient performance. NVIDIA has released a guide detailing five strategies aimed at enhancing inference speed and accuracy, which will be crucial for real-time AI applications. These techniques are particularly relevant as industries demand faster processing capabilities from AI systems.
-
-Key items:
-1. **NVIDIA's Optimization Techniques** - https://developer.nvidia.com/blog/top-5-ai-model-optimization-techniques-for-faster-smarter-inference/ - Insightful strategies for improving AI model efficiency.
-2. **GraphRAG for Retrieval Systems** - https://towardsdatascience.com/graphrag-in-practice-how-to-build-cost-efficient-high-recall-retrieval-systems/ - A practical guide for developing high-recall retrieval systems efficiently.
-
-#### Innovative AI Applications in Healthcare
-AI's transformative potential in healthcare is being underscored by Microsoft's GigaTIME project, which utilizes multimodal AI to model tumor microenvironments. This innovative approach could lead to significant breakthroughs in cancer treatment by uncovering cellular patterns through AI-generated virtual populations. Such developments illustrate AI's capacity to revolutionize medical research and patient care methodologies.
+#### 2. Advances in AI Model Evaluation
+The evaluation of AI models is becoming more sophisticated, with large language models (LLMs) playing a pivotal role. Pinterest has developed a framework leveraging fine-tuned LLMs to enhance the relevance assessment of search results. This not only streamlines the evaluation process but also allows for larger sample sizes in A/B testing, leading to more reliable performance metrics.
 
 Key items:
-1. **GigaTIME by Microsoft** - https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/ - A study revealing new insights into cancer treatment through AI modeling.
+- **LLM-Powered Relevance Assessment for Pinterest Search** - https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb - Pinterest’s new methodology employs LLMs to optimize search relevance evaluation, improving metric sensitivity.
+
+#### 3. Ethical AI Frameworks and Safety
+With the rapid proliferation of AI technologies, ethical considerations are increasingly at the forefront. The IEEE has launched new certifications designed to ensure that AI systems adhere to ethical standards, focusing on accountability, privacy, and bias mitigation. These certifications provide a structured approach for organizations aiming to develop responsible AI applications.
+
+Key items:
+- **Two New AI Ethics Certifications Available from IEEE** - https://spectrum.ieee.org/two-new-ai-ethics-certifications - IEEE introduces certifications to promote ethical AI development and usage.
+
+#### 4. Automation in AI Testing Processes
+Automation in testing AI systems is gaining traction, exemplified by Amazon's introduction of automated smoke testing through its Nova Act platform. This innovation streamlines the validation of user workflows in continuous integration/continuous deployment (CI/CD) pipelines, enhancing the scalability and efficiency of testing processes as AI applications grow in complexity.
+
+Key items:
+- **Implement automated smoke testing using Amazon Nova Act headless mode** - https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/ - Amazon demonstrates how to implement automated testing for AI applications, improving CI/CD efficiency.
 
 ### Conclusion
-The current AI research landscape is characterized by notable advancements in reasoning capabilities, optimization strategies, and healthcare applications. The integration of sophisticated reasoning in customer service and the development of efficient AI models signal a trend towards more effective and responsive AI systems. As researchers continue to explore innovative applications, particularly in critical sectors like healthcare, the potential for AI to create meaningful impact is becoming increasingly clear.
+The current landscape of AI research is characterized by a concerted effort to enhance energy efficiency, refine evaluation methodologies, and establish robust ethical frameworks. As the integration of AI into various sectors deepens, the focus on automation and safety becomes paramount for sustainable and responsible development. These interconnected themes illustrate a maturing field that is not only innovating but also proactively addressing the ethical implications of its advancements.
 
 ### Top Sources:
-1. Real-world reasoning: How Amazon Nova Lite 2.0 handles complex customer support scenarios - https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/ - Amazon's Nova Lite 2.0 shows improved reasoning in customer support.
-2. Top 5 AI Model Optimization Techniques for Faster, Smarter Inference - https://developer.nvidia.com/blog/top-5-ai-model-optimization-techniques-for-faster-smarter-inference/ - Key strategies for enhancing AI model performance.
-3. How Scout24 is building the next generation of real-estate search with AI - https://openai.com/index/scout24 - GPT-5 powered assistant improves real-estate search.
-4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI - https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/ - AI reveals new insights into cancer treatment.
-5. Create AI-powered chat assistants for your enterprise with Amazon Quick Suite - https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/ - Building intelligent chat agents for enterprises.
-6. Improve AI-Native 6G Design with the NVIDIA Aerial Omniverse Digital Twin - https://developer.nvidia.com/blog/improve-ai-native-6g-design-with-the-nvidia-aerial-omniverse-digital-twin/ - Enhancing 6G networks using AI technologies.
-7. Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot - https://towardsdatascience.com/personal-agentic-assistants-a-practical-blueprint-for-a-secure-multi-user-self-hosted-chatbot/ - Creating secure, self-hosted chatbots for users.
-8. How to Develop AI-Powered Solutions, Accelerated by AI - https://towardsdatascience.com/how-to-develop-ai-powered-solutions-accelerated-by-ai/ - Guidelines for developing impactful AI solutions.
-9. GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems - https://towardsdatascience.com/graphrag-in-practice-how-to-build-cost-efficient-high-recall-retrieval-systems/ - Strategies for effective retrieval systems.
-10. OpenAI co-founds Agentic AI Foundation, donates AGENTS.md - https://openai.com/index/agentic-ai-foundation - Supporting standards for safe agentic AI.
+1. New materials could boost the energy efficiency of microelectronics - https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211 - MIT’s new approach reduces energy waste in computing by stacking components on chips.
+2. LLM-Powered Relevance Assessment for Pinterest Search - https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb - Pinterest’s new methodology employs LLMs to optimize search relevance evaluation, improving metric sensitivity.
+3. Two New AI Ethics Certifications Available from IEEE - https://spectrum.ieee.org/two-new-ai-ethics-certifications - IEEE introduces certifications to promote ethical AI development and usage.
+4. Implement automated smoke testing using Amazon Nova Act headless mode - https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/ - Amazon demonstrates how to implement automated testing for AI applications, improving CI/CD efficiency.
+5. Optimizing PyTorch Model Inference on AWS Graviton - https://towardsdatascience.com/optimizing-pytorch-model-inference-on-aws-graviton/ - Strategies for improving AI/ML performance on AWS infrastructure.
+6. Why Vision AI Models Fail - https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/ - Insights into common pitfalls in AI model deployment and strategies to mitigate them.
+7. Enhancing Communication Observability of AI Workloads with NCCL Inspector - https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/ - NVIDIA’s tools improve visibility in AI workloads, crucial for optimizing performance.
+8. Better Bug Detection: How Compile-Time Instrumentation for Compute Sanitizer Enhances Memory Safety - https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/ - New techniques for improving memory safety in AI applications.
+9. Strengthening cyber resilience as AI capabilities advance - https://openai.com/index/strengthening-cyber-resilience - OpenAI's initiatives to bolster cybersecurity in the face of advancing AI technologies.
+10. Promptions helps make AI prompting more precise with dynamic UI controls - https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/ - Microsoft’s tool enhances user interaction with generative AI through dynamic controls.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/' target='_blank'>Real-world reasoning: How Amazon Nova Lite 2.0 handles complex customer support scenarios</a></strong> — <em>2025-12-09 20:50:42</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211' target='_blank'>New materials could boost the energy efficiency of microelectronics</a></strong> — <em>2025-12-11 05:00:00</em></summary>
 
-This post evaluates the reasoning capabilities of our latest offering in the Nova family, Amazon Nova Lite 2.0, using practical scenarios that test these critical dimensions. We compare its performance against other models in the Nova family—Lite 1.0, Micro, Pro 1.0, and Premier—to elucidate how the latest version advances reasoning quality and consistency.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/top-5-ai-model-optimization-techniques-for-faster-smarter-inference/' target='_blank'>Top 5 AI Model Optimization Techniques for Faster, Smarter Inference</a></strong> — <em>2025-12-09 18:00:00</em></summary>
-
-As AI models get larger and architectures more complex, researchers and engineers are continuously finding new techniques to optimize the performance and...
+By stacking multiple active components based on new materials on the back end of a computer chip, this new approach reduces the amount of energy wasted during computation.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/the-machine-learning-advent-calendar-day-9-lof-in-excel/' target='_blank'>The Machine Learning “Advent Calendar” Day 9: LOF in Excel</a></strong> — <em>2025-12-09 17:45:00</em></summary>
+<details><summary><strong><a href='https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/' target='_blank'>Deepening our partnership with the UK AI Security Institute</a></strong> — <em>2025-12-11 00:06:40</em></summary>
 
-In this article, we explore LOF through three simple steps: distances and neighbors, reachability distances, and the final LOF score. Using tiny datasets, we see how two anomalies can look obvious to us but completely different to different algorithms. This reveals the key idea of unsupervised learning: there is no single “true” outlier, only definitions. Understanding these definitions is the real skill.
-The post The Machine Learning “Advent Calendar” Day 9: LOF in Excel appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/' target='_blank'>Create AI-powered chat assistants for your enterprise with Amazon Quick Suite</a></strong> — <em>2025-12-09 17:07:22</em></summary>
-
-In this post, we show how to build chat agents in Amazon Quick Suite. We walk through a three-layer framework—identity, instructions, and knowledge—that transforms Quick Suite chat agents into intelligent enterprise AI assistants. In our example, we demonstrate how our chat agent guides feature discovery, use enterprise data to inform recommendations, and tailors solutions based on potential to impact and your team’s adoption readiness.
+Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/improve-ai-native-6g-design-with-the-nvidia-aerial-omniverse-digital-twin/' target='_blank'>Improve AI-Native 6G Design with the NVIDIA Aerial Omniverse Digital Twin</a></strong> — <em>2025-12-09 17:00:00</em></summary>
+<details><summary><strong><a href='https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/' target='_blank'>A differentially private framework for gaining insights into AI chatbot use</a></strong> — <em>2025-12-10 21:59:41</em></summary>
 
-AI-native 6G networks will serve billions of intelligent devices, agents, and machines. As the industry moves into new spectrums like FR3 (7–24 GHz), radio...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/personal-agentic-assistants-a-practical-blueprint-for-a-secure-multi-user-self-hosted-chatbot/' target='_blank'>Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot</a></strong> — <em>2025-12-09 16:30:00</em></summary>
-
-Build a self-hosted, end-to-end platform that gives each user a personal, agentic chatbot that can autonomously vector-search through files that the user explicitly allows it to access. 
-The post Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot appeared first on Towards Data Science.
+Generative AI
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/scout24' target='_blank'>How Scout24 is building the next generation of real-estate search with AI</a></strong> — <em>2025-12-09 16:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/' target='_blank'>Enhancing Communication Observability of AI Workloads with NCCL Inspector</a></strong> — <em>2025-12-10 21:45:34</em></summary>
 
-Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/' target='_blank'>GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI</a></strong> — <em>2025-12-09 16:00:00</em></summary>
-
-Using AI-generated virtual populations, Microsoft researchers uncovered hidden cellular patterns that could reshape how we understand and treat cancer. 
-The post GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI appeared first on Microsoft Research.
+When using the NVIDIA Collective Communication Library (NCCL) to run a deep learning training or inference workload that uses collective operations (such as...
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-develop-ai-powered-solutions-accelerated-by-ai/' target='_blank'>How to Develop AI-Powered Solutions, Accelerated by AI</a></strong> — <em>2025-12-09 15:00:00</em></summary>
+<details><summary><strong><a href='https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/' target='_blank'>Why Vision AI Models Fail</a></strong> — <em>2025-12-10 20:33:57</em></summary>
 
-From idea to impact :  using AI as your accelerating copilot
-The post How to Develop AI-Powered Solutions, Accelerated by AI appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/graphrag-in-practice-how-to-build-cost-efficient-high-recall-retrieval-systems/' target='_blank'>GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems</a></strong> — <em>2025-12-09 13:30:00</em></summary>
-
-Smarter retrieval strategies that outperform dense graphs — with hybrid pipelines and lower cost
-The post GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems appeared first on Towards Data Science.
+Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.The four most common model failure modes that jeopardize production vision systemsReal-world case studies from Tesla, Walmart, and TSMC showing how failures translate to business lossesData-centric failure modes including insufficient data, class imbalance, labeling errors, and biasEvaluation frameworks and quantitative methods for future-proofing your deploymentsKey strategies for detecting, analyzing, and preventing model failures including avoiding data leakageProduction monitoring approaches to track data drift and model confidence over timeDownload this free whitepaper now!
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/a-realistic-roadmap-to-start-an-ai-career-in-2026/' target='_blank'>A Realistic Roadmap to Start an AI Career in 2026</a></strong> — <em>2025-12-09 12:00:00</em></summary>
+<details><summary><strong><a href='https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb------2' target='_blank'>LLM-Powered Relevance Assessment for Pinterest Search</a></strong> — <em>2025-12-10 20:02:11</em></summary>
 
-How to learn AI in 2026 through real, usable projects
-The post A Realistic Roadmap to Start an AI Career in 2026 appeared first on Towards Data Science.
+Han Wang | Machine Learning Engineer; Alex Whitworth | Staff Data Scientist; Pak Ming Cheung | Sr. Staff Machine Learning Engineer; Zhenjie Zhang | Sr. Staff Machine Learning EngineerIntroductionSearch relevance measures how well search results align with a user’s search query. For personalized search systems, it’s important to ensure that displayed content is pertinent to the user’s information needs, rather than over-relying on the user’s past engagement. At Pinterest Search, we track whole-page relevance in online A/B experiments to evaluate new ranking models and ensure a high-quality user experience.Relevance measurement typically relies on human annotations, but is limited by the low availability of human labels and the high marginal cost of generating them. This led to measurement designs and sample sizes that could only detect significant topline metric movements, but were insufficient to measure heterogeneous treatment effects or small topline effects.In this blog, we present our methodology at Pinterest Search to scale the labeling capabilities with LLMs and address these bottlenecks. We fine-tune open-source LLMs on relevance prediction tasks using human-annotated labels, then utilize the fine-tuned LLMs to evaluate the ranking results across experimental groups in online A/B experiments. This approach not only significantly reduces labeling costs and improves evaluation efficiency, but also unlocks opportunities to further improve metric quality by scaling up the query sets and refining the sampling design.MethodologyAt Pinterest, we measure the semantic relevance between queries and Pins using a 5-level guideline: Highly Relevant (L5), Relevant (L4), Marginally Relevant (L3), Irrelevant (L2), and Highly Irrelevant (L1). We use this guideline to measure the whole-page relevance for our search system.Fine-tuned LLMs as Relevance ModelWe use a cross-encoder model architecture to predict a Pin’s relevance to a given query, as illustrated in Figure 1. We fine-tune open-source LLMs on human-annotated data to optimize their performance on relevance prediction task. To support search queries and Pins across multiple languages, we leveraged multilingual LLMs to take advantage of their cross-lingual transfer capabilities. We formalize the relevance prediction as a multiclass classification problem based on the 5-scale relevance guideline, minimizing the point-wise cross-entropy loss during training.Figure 1: The cross-encoder architecture for LLM-based search relevance model. Take the encoder language models (e.g., BERT-based models) for illustration.To effectively represent each Pin for relevance prediction, we leverage a comprehensive set of textual features, including Pin titles and descriptions, BLIP image captions, linked page titles and descriptions, user-curated board titles where the Pin has been saved, and highly-engaged query tokens associated with the Pin. These features together form a robust text representation crucial for accurate relevance assessment.We experiment with various language models, including multilingual BERT-base, T5-base, mDeBERTa-V3-base, XLM-RoBERTa-large, and Llama-3–8B. The comparative performance of various LLMs and ablation studies on Pin text features can be found in a previous blog. We then use this fine-tuned search relevance model to generate 5-dimensional relevance scores and use the label corresponding to the highest score (argmax) for relevance assessment.Stratified Sampling DesignLLM labeling significantly reduces relevance labeling costs as well as labeling time, which enables much larger sampling designs. Therefore, we propose a stratified query sampling design that enables measurement of heterogeneous treatment effects and reduces minimum detectable effects (MDEs) by an order of magnitude.Stratification plays an important role in sampling-based measurement. First, stratification ensures the sample population is representative of the whole population. In addition, if the strata are chosen such that each stratum is relatively homogeneous, variance reduction can be achieved. We adopted the in-house query-to-interest model based on DistilBERT combined with the popularity segment, a measure of how many users issue each specific query, to determine the strata. Prior to LLM labeling, stratified query sampling with human annotations was impractical, as it required a large number of queries to adequately represent each fine-grained stratum.We evaluate the impact of these changes on experiment sensitivity by evaluating the MDE for our experimentation system. The MDE is the smallest change in a metric that an experiment can reliably detect given the sample size, statistical power (β= 0.8), and significance level (α=0.05) chosen for the test. It can be derived as belowSince the typical experiment for most online platforms has a small effect, achieving small MDEs is a critical factor in team velocity and shipping new features to our users. Before the introduction of LLM labeling, relevance measurement had large MDEs (e.g. 1.3%-1.5%). These large MDEs were primarily the result of the constraints on our sampling designs imposed by the high cost and time consumption of human labeling. The introduction of LLM labeling enabled us to redesign our sampling approach. We increased our sample sizes, moved from simple random sampling (SRS) to stratified sampling, and now use a stratified sampling estimator. Optimal allocation is used to allocate sample units to strata. These changes enabled us to reduce our MDEs to ≤ 0.25%.The MDE reduction can be expressed in terms of reduction in variance and increased sample size. We present these results in Table 1. The vast majority of reduction comes from the variance reduction due to stratification. This is consistent with prior findings at Pinterest that most variance in relevance occurs across queries. Previous work has found substantial variation in relevance due to query interest and query popularity.Table 1: Improvement in metric sensitivity (MDE).Relevance Measurement with LLMsTo measure the relevance impact of an A/B experiment on search ranking, we take a stratified sample of paired search queries from control and treatment experiment groups, ensuring that the sample is representative of overall user usage. The use of paired samples blocks between-query differences, which is an important source of variation in experiment measurement.For each query in our paired sample, we retain the top K search results and generate LLM-based relevance labels. We then compute sDCG@K for each query and aggregate query-level metrics to derive topline experiment metrics. The sDCG@K metric is a variant of the standard nDCG@K, where we assume an infinite supply of highly relevant (L5) documents for sDCG@K computation (see Equation 2). We use K=25 throughout our evaluation.Lastly, we calculate heterogeneous effects by query popularity and query interest (e.g. beauty, women’s fashion, art, etc), utilizing a Benjamini-Hochberg procedure to control the false discovery rate. The LLM-based relevance measurement procedure at Pinterest Search is illustrated in Figure 2.Figure 2: Components of LLM-based relevance measurement at Pinterest Search.ResultsWe use XLM-RoBERTa-large as the LLM backbone for our relevance model. The model is lightweight yet delivers high-quality predictions. Inference runs on a single A10G GPU, allowing us to label 150,000 rows within 30 minutes. While the Llama-3–8B model offers slight improvement in accuracy, its inference time and cost increase 6 times. Therefore, we select XLM-RoBERTa-large as it offers a good balance between prediction quality and inference efficiency. The validation results are presented below.Alignment with Human LabelsWe conducted a rigorous validation of the metrics derived from LLM labeling. On Pin-level evaluation, LLM-generated labels and human labels yield an exact match rate of 73.7%, with 91.7% of ratings deviating at most by 1 point. These results underscore the high alignment between the relevance labels produced by LLMs and those from human annotators. To measure alignment between LLMs and human labels, we also compute and report the rank-based correlation Kendall’s τ and Spearman’s ρ to assess the correlation between the two rankings at query-level sDCG@K metric. To understand the performance on queries with different popularity, we also categorize the queries into 4 popularity segments based on search volume: head, torso, tail, and single. The results are summarized in Table 2. We achieve Kendall’s τ>0.5 and Spearman’s ρ>0.65 for all query popularity segments, indicating a strong alignment across all segments.In addition to Kendall’s τ and Spearman’s ρ, we also validate the query-level sDCG@K error distribution. Here, the error refers to the difference between the sDCG@K metric derived from LLM labels and human labels. According to Table 2, the overall error is below 0.01, with the 10-th and 90-th percentiles falling within the range of [-0.1, 0.1]. We also visualize the error distribution in Figure 3. The error is tightly centered around 0, indicating its negligible magnitude and that the average bias will approach 0 as the size of the query set grows.For experimental evaluation, we need to calculate the metric difference between the control and treatment groups. Therefore, we also validate how well these metric differences align in paired comparison. As shown on the right-hand side of Figure 3, the errors in paired differences are even more centered around 0 with lighter tails, indicating that LLM-based labeling provides highly reliable estimates of paired differences for A/B experiment assessment.Table 2: Query-level LLM vs human labels alignment for different query segments in US market relevance evaluation.Figure 3: Query-level bias distribution for single group (left) and paired differences (right) in US market relevance evaluation.Performance on Non-English QueriesWe fine-tuned multilingual LLMs on human-annotated data, with the majority of query-Pin pairs in English. As a result, careful validation is required for non-English queries to extend LLM-based relevance assessment to those queries. For this analysis, we focus on France (FR) and Germany (DE) markets.The query-level metric alignment is summarized in Table 3. The overall Kendall’s τ and Spearman’s ρ are approximately 0.47 and 0.61, respectively. While these rank-based correlations are lower than those observed for English queries, they are still considered strong according to existing literature. The distribution of query-level metric errors is shown in Figure 4. Similar to the results of the US market, the errors are tightly concentrated around 0 for both countries, indicating a low average bias, with an even smaller bias for paired differences. These results provide confidence that the LLM-based relevance assessment is also suitable for non-English queries. Expanding relevance evaluation to countries beyond the US leads to further reductions in labeling costs and improvements in evaluation efficiency.Table 3: Query-level LLM vs human labels alignment for different query segments in France (FR) and Germany (DE) markets relevance evaluation.Figure 4: Query-level bias distribution for single group (left) and paired differences (right) in France (top) and Germany (bottom) markets relevance evaluation.SummaryIn this work, we explore the use of LLM-based relevance labeling to generate query-level relevance metrics for online A/B experiments evaluation. We demonstrate that fine-tuned LLMs achieve low bias on query-level 𝑠𝐷𝐶𝐺@𝐾 metrics and paired differences. Transition to LLM-based relevance assessment enables us to scale up the evaluation query set and redesign the sampling strategy to improve the quality of relevance metrics for online experiment evaluation. We have successfully deployed the LLM-based relevance assessment at Pinterest Search, significantly reducing the manual annotation costs and turnaround time, while achieving an order of magnitude reduction in MDEs for improved detection of relevance shifts. For more details, please refer to our full paper.Future WorkWe will explore using Visual Language Models (VLMs) to better leverage raw images for relevance prediction. Additionally, the observed performance gap with non-English queries highlights opportunities to further improve the multilingual capabilities of our LLM-based relevance model. We leave it for future work.AcknowledgementSearch: Maggie Yang, Mukuntha Narayanan, Jinfeng Rao, Krishna Kamath, Kurchi Subhra HazraRelevance Measurements Tooling: Maria Alejandra Morales Gutierrez (former), Miguel Madera, Pedro Sanchez, Jorge Amigon, Francisco NavarreteLLM-Powered Relevance Assessment for Pinterest Search was originally published in Pinterest Engineering Blog on Medium, where people are continuing the conversation by highlighting and responding to this story.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/agentic-ai-foundation' target='_blank'>OpenAI co-founds Agentic AI Foundation, donates AGENTS.md</a></strong> — <em>2025-12-09 09:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/' target='_blank'>Implement automated smoke testing using Amazon Nova Act headless mode</a></strong> — <em>2025-12-10 19:04:24</em></summary>
 
-OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.
+This post shows how to implement automated smoke testing using Amazon Nova Act headless mode in CI/CD pipelines. We use SauceDemo, a sample ecommerce application, as our target for demonstration. We demonstrate setting up Amazon Nova Act for headless browser automation in CI/CD environments and creating smoke tests that validate key user workflows. We then show how to implement parallel execution to maximize testing efficiency, configure GitLab CI/CD for automatic test execution on every deployment, and apply best practices for maintainable and scalable test automation.
+
+</details>
+
+<details><summary><strong><a href='https://spectrum.ieee.org/two-new-ai-ethics-certifications' target='_blank'>Two New AI Ethics Certifications Available from IEEE</a></strong> — <em>2025-12-10 19:00:02</em></summary>
+
+It appears that nearly every organization is planning to use artificial intelligence to improve operations. Although autonomous intelligent systems (AIS) can offer significant benefits, they also can be used unethically. The technology can create deepfakes, realistic-looking altered images and videos that help spread misinformation and disinformation. Meanwhile, AI systems trained on biased data can perpetuate discrimination in hiring, lending, and other practices. And surveillance systems that incorporate AI can lead to misidentification.Those issues have led to concerns about AIS trustworthiness, and it has become more crucial for AI developers and companies to ensure the systems they use and sell are ethically sound. To help them, the IEEE Standards Association (IEEE SA) launched its IEEE CertifAIEd ethics program, which offers two certifications: one for individuals and one for products.IEEE CertifAIEd was developed by an interdisciplinary group of AI ethics experts. The program is based on IEEE’s AI ethics framework and methodology, centered around the pillars of accountability, privacy, transparency, and avoiding bias. The program incorporates criteria outlined in the AI ontological specifications released under Creative Commons licenses.IEEE is the only international organization that offers the programs, says Jon Labrador, director for conformity assessment of IEEE SA programs.Assessment program detailsThe professional certification provides individuals with the skills to assess an AIS for adherence to IEEE’s methodology and ethics framework.Those with at least one year of experience in the use of AI tools or systems in their organization’s business processes or work functions are eligible to apply for the certification.You don’t have to be a developer or engineer to benefit from the training, Labrador says. Insurance underwriters, policymakers, human resources personnel, and others could benefit from it, he says.“Professionals from just about any industry or any company that’s using an AI tool to process business transactions are eligible for this program,” he says.The training program covers how to ensure that AI systems are open and understandable; identify and mitigate biases in algorithms; and protect personal data. The curriculum includes use cases. Courses are available in virtual, in-person, or self-study formats.Learners must take a final exam. Once they’ve successfully passed the test, they’ll receive their three-year IEEE professional certification, which is globally recognized, accepted, and respected, Labrador says.“With the certification, you’ll become a trusted source for reviewing AI tools used in your business processes, and you’ll be qualified to run an assessment,” he says. “It would be incumbent on a company to have a few IEEE CertifAIEd professionals to review its tools regularly to make sure they conform with the values identified in our program.”The self-study exam preparatory course is available to IEEE members at US $599; it costs $699 for nonmembers.Product assessmentsThe product certification program assesses whether an organization’s AI tool or AIS conforms to the IEEE framework and continuously aligns with legal and regulatory principles such as the European Union AI Act.An IEEE CertifiAIEd assessor evaluates the product to ensure it meets all criteria. There are more than 300 authorized assessors.Upon completion of the assessment, the company submits it to IEEE Conformity Assessment, which certifies the product and issues the certification mark.“That mark lets customers know that the company has gone through the rigors and is 100 percent in conformance with the latest IEEE AI ethics specifications,” Labrador says.“The IEEE CertifiAIEd program can also be viewed as a risk mitigation tool for companies,” he says, “reducing the risk of system or process failures with the introduction of a new AI tool or system in established business processes.”You can complete an application to begin the process of getting your product certified.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/' target='_blank'>Promptions helps make AI prompting more precise with dynamic UI controls</a></strong> — <em>2025-12-10 17:00:00</em></summary>
+
+Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape outputs quickly without writing long instructions.
+The post Promptions helps make AI prompting more precise with dynamic UI controls appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/' target='_blank'>Better Bug Detection: How Compile-Time Instrumentation for Compute Sanitizer Enhances Memory Safety</a></strong> — <em>2025-12-10 17:00:00</em></summary>
+
+CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while allowing...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/the-machine-learning-advent-calendar-day-10-dbscan-in-excel/' target='_blank'>The Machine Learning “Advent Calendar” Day 10: DBSCAN in Excel</a></strong> — <em>2025-12-10 16:30:00</em></summary>
+
+DBSCAN shows how far we can go with a very simple idea: count how many neighbors live close to each point.
+It finds clusters and marks anomalies without any probabilistic model, and it works beautifully in Excel.
+But because it relies on one fixed radius, HDBSCAN is needed to make the method robust on real data.
+The post The Machine Learning “Advent Calendar” Day 10: DBSCAN in Excel appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-maximize-agentic-memory-for-continual-learning/' target='_blank'>How to Maximize Agentic Memory for Continual Learning</a></strong> — <em>2025-12-10 15:00:00</em></summary>
+
+Learn how to become an effective engineer with continual learning LLMs
+The post How to Maximize Agentic Memory for Continual Learning appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/' target='_blank'>Strengthening our partnership with the UK government to support prosperity and security in the AI era</a></strong> — <em>2025-12-10 14:59:21</em></summary>
+
+Deepening our partnership with the UK government to support prosperity and security in the AI era
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/dont-build-an-ml-portfolio-without-these-projects/' target='_blank'>Don’t Build an ML Portfolio Without These Projects</a></strong> — <em>2025-12-10 13:30:00</em></summary>
+
+What recruiters are looking for in machine learning portfolios
+The post Don’t Build an ML Portfolio Without These Projects appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/strengthening-cyber-resilience' target='_blank'>Strengthening cyber resilience as AI capabilities advance</a></strong> — <em>2025-12-10 12:00:00</em></summary>
+
+OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/optimizing-pytorch-model-inference-on-aws-graviton/' target='_blank'>Optimizing PyTorch Model Inference on AWS Graviton</a></strong> — <em>2025-12-10 12:00:00</em></summary>
+
+Tips for accelerating AI/ML on CPU — Part 2
+The post Optimizing PyTorch Model Inference on AWS Graviton appeared first on Towards Data Science.
 
 </details>
 
