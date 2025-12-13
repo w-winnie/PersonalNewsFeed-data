@@ -2,133 +2,124 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Accelerated Training Architectures
-Recent advancements in AI training architectures are enhancing both speed and cost-effectiveness, which is crucial for scaling AI applications. NVIDIA's latest Blackwell architecture is a standout, achieving three times faster training speeds and nearly double the performance per dollar compared to its predecessor. This leap in efficiency allows researchers to work with larger datasets and more complex models without incurring prohibitive costs. Additionally, the integration of MLflow with Amazon SageMaker introduces serverless capabilities, further streamlining the management of AI workloads.
+#### 1. Advancements in Retrieval-Augmented Generation (RAG)
+Recent advancements in retrieval-augmented generation (RAG) systems are enhancing the efficiency and accuracy of AI-driven responses. NVIDIA's exploration of horizontal autoscaling for RAG components deployed on Kubernetes is a significant step, as it allows for better resource management and scalability in real-time information retrieval applications. This is particularly relevant for enterprises that depend on AI for customer support and data analytics, as improved scalability can lead to enhanced performance and reduced latency.
 
 Key Items:
-- NVIDIA Blackwell enables 3x faster training and nearly 2x performance per dollar - https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/
-- Scaling MLflow for enterprise AI with Amazon SageMaker - https://aws.amazon.com/blogs/machine-learning/scaling-mlflow-for-enterprise-ai-whats-new-in-sagemaker-ai-with-mlflow/
+- NVIDIA's article on horizontal autoscaling of RAG components emphasizes the critical role of scalability in AI applications. (https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/)
+- The integration of RAG with other AI components is poised to transform enterprise operations significantly.
 
-#### 2. Advancements in AI Agent Technologies
-The field of AI agents is witnessing significant innovations, particularly with tools like Agent Lightning, which allows for the integration of reinforcement learning without extensive coding. This flexibility can significantly enhance the performance of AI agents in various applications. Furthermore, Swisscom's deployment of Amazon Bedrock AgentCore for customer support illustrates the practical utility of these technologies in business contexts, demonstrating their potential to improve customer interactions.
+#### 2. Collaborative Problem Solving with Small Language Models
+MIT has unveiled the "self-steering" DisCIPL system, which enables small language models to collaborate on complex reasoning tasks such as itinerary planning and budgeting. This innovation optimizes the capabilities of smaller models, making them effective for intricate tasks without the extensive computational resources typically required by larger models. Such advancements democratize access to AI, allowing smaller organizations to utilize sophisticated AI tools for decision-making.
 
 Key Items:
-- Agent Lightning allows reinforcement learning integration without code rewrites - https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
-- Swisscom builds enterprise AI for customer support using Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/
+- MIT's DisCIPL system illustrates how small models can collaborate effectively to enhance problem-solving. (https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212)
 
-#### 3. Robust Statistical Methodologies for AI
-A new statistical methodology developed at MIT aims to enhance the reliability of experimental results across various domains, including AI. This approach focuses on improving the trustworthiness of statistical estimations, which is crucial for validating model predictions that impact decision-making. By establishing a framework for assessing statistical reliability, this innovation could lead to more robust AI applications and improved research outcomes.
+#### 3. Voice-Driven AI Innovations
+Amazon's development of a voice-driven assistant using Nova Sonic represents a significant leap in natural language processing applications within cloud operations. This technology aims to streamline user interactions with AWS services, making them more intuitive and accessible. The growing prevalence of voice interfaces signals a broader trend towards more natural human-computer interactions, potentially enhancing user experiences in cloud computing environments.
 
-Key Item:
-- New method improves the reliability of statistical estimations - https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212
+Key Items:
+- Amazon's blog post highlights the creation of a sophisticated voice-powered assistant, emphasizing its transformative potential for cloud operations. (https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/)
 
 ### Conclusion
-The current landscape in AI research is marked by significant advancements in training efficiency, innovative applications of AI agents, and enhanced statistical methodologies that bolster the reliability of results. These developments not only optimize existing systems but also contribute to the creation of more trustworthy AI applications across diverse sectors. As these technologies continue to evolve, we can anticipate their deeper integration into practical applications, setting the stage for the next wave of AI innovation.
+The current landscape of AI research and development is characterized by significant progress in enhancing retrieval-augmented generation systems and small language models, alongside innovative applications in voice-driven technologies. These advancements reflect a broader trend toward making AI more accessible and efficient, potentially transforming organizational operations. As these technologies continue to mature, they promise to reshape interactions across various sectors, driving innovation and practical applications in real-world scenarios.
 
-### Top Sources
-1. New method improves the reliability of statistical estimations - https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212 - MIT introduces a technique to enhance the trustworthiness of statistical results.
-2. NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture - https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/ - NVIDIA's new architecture significantly boosts AI training efficiency.
-3. Scaling MLflow for enterprise AI: What’s New in SageMaker AI with MLflow - https://aws.amazon.com/blogs/machine-learning/scaling-mlflow-for-enterprise-ai-whats-new-in-sagemaker-ai-with-mlflow/ - Amazon announces new capabilities for AI workload management.
-4. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites - https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/ - A new method for enhancing AI agents with minimal coding.
-5. How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/ - Swisscom leverages Amazon's AI solutions for customer service.
-6. Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet - https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet/ - NVIDIA discusses evolving network demands in AI data centers.
-7. How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro - https://aws.amazon.com/blogs/machine-learning/how-harmonic-security-improved-their-data-leakage-detection-system-with-low-latency-fine-tuned-models-using-amazon-sagemaker-amazon-bedrock-and-amazon-nova-pro/ - Amazon's tools enhance data leakage detection capabilities.
-8. Amazon Bedrock AgentCore Observability with Langfuse - https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-observability-with-langfuse/ - Integration of observability tools for AI agents to improve performance.
-9. Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics - https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/ - Exploring AI applications on edge devices.
-10. Advancing science and math with GPT-5.2 - https://openai.com/index/gpt-5-2-for-science-and-math - OpenAI's latest model achieves breakthroughs in scientific and mathematical tasks.
+### Top Sources:
+1. Enabling Horizontal Autoscaling of Enterprise RAG Components on Kubernetes - https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/ - NVIDIA discusses scaling RAG systems for better performance.
+2. Enabling small language models to solve complex reasoning tasks - https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212 - MIT's DisCIPL system enhances small model collaboration.
+3. Building a voice-driven AWS assistant with Amazon Nova Sonic - https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/ - Amazon explores voice interactions for cloud operations.
+4. R²D²: Improving Robot Manipulation with Simulation and Language Models - https://developer.nvidia.com/blog/r2d2-improving-robot-manipulation-with-simulation-and-language-models/ - NVIDIA addresses challenges in robot manipulation using simulation.
+5. How to Build Privacy-Preserving Evaluation Benchmarks with Synthetic Data - https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data/ - Insights on creating secure AI evaluation benchmarks.
+6. How to Scale Fast Fourier Transforms to Exascale on Modern NVIDIA GPU Architectures - https://developer.nvidia.com/blog/how-to-scale-fast-fourier-transforms-to-exascale-on-modern-nvidia-gpu-architectures/ - NVIDIA discusses scaling FFTs for advanced computing.
+7. Spectral Community Detection in Clinical Knowledge Graphs - https://towardsdatascience.com/spectral-community-detection-in-clinical-knowledge-graphs/ - New methods for identifying patient groups in clinical data.
+8. The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel - https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/ - A practical guide to understanding logistic regression.
+9. Decentralized Computation: The Hidden Principle Behind Deep Learning - https://towardsdatascience.com/the-power-of-decentralization/ - Exploring the foundational principles of deep learning.
+10. Improved Gemini audio models for powerful voice experiences - https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/ - DeepMind enhances audio models for better voice applications.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212' target='_blank'>New method improves the reliability of statistical estimations</a></strong> — <em>2025-12-12 05:00:00</em></summary>
+    <details><summary><strong><a href='https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/' target='_blank'>Enabling Horizontal Autoscaling of Enterprise RAG Components on Kubernetes</a></strong> — <em>2025-12-12 21:00:00</em></summary>
 
-The technique can help scientists in economics, public health, and other fields understand whether to trust the results of their experiments.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/' target='_blank'>NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture</a></strong> — <em>2025-12-11 19:20:31</em></summary>
-
-AI innovation continues to be driven by three scaling laws: pre-training, post-training, and test-time scaling. Training is foundational to building smarter...
+Today’s best AI agents rely on retrieval-augmented generation (RAG) to enable more accurate results. A RAG system facilitates the use of a knowledge base to...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet/' target='_blank'>Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet</a></strong> — <em>2025-12-11 19:03:51</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212' target='_blank'>Enabling small language models to solve complex reasoning tasks</a></strong> — <em>2025-12-12 20:30:00</em></summary>
 
-As AI data centers rapidly evolve into AI factories, traditional network monitoring methods are no longer sufficient. Workloads continue to grow in complexity...
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-harmonic-security-improved-their-data-leakage-detection-system-with-low-latency-fine-tuned-models-using-amazon-sagemaker-amazon-bedrock-and-amazon-nova-pro/' target='_blank'>How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro</a></strong> — <em>2025-12-11 18:28:15</em></summary>
-
-This post walks through how Harmonic Security used Amazon SageMaker AI, Amazon Bedrock, and Amazon Nova Pro to fine-tune a ModernBERT model, achieving low-latency, accurate, and scalable data leakage detection.
+The “self-steering” DisCIPL system directs small models to work together on tasks with constraints, like itinerary planning and budgeting.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/' target='_blank'>How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore</a></strong> — <em>2025-12-11 18:24:13</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212' target='_blank'>New MIT program to train military leaders for the AI age</a></strong> — <em>2025-12-12 18:10:00</em></summary>
 
-In this post, we'll show how Swisscom implemented Amazon Bedrock AgentCore to build and scale their enterprise AI agents for customer support and sales operations. As an early adopter of Amazon Bedrock in the AWS Europe Region (Zurich), Swisscom leads in enterprise AI implementation with their Chatbot Builder system and various AI initiatives. Their successful deployments include Conversational AI powered by Rasa and fine-tuned LLMs on Amazon SageMaker, and the Swisscom Swisscom myAI assistant, built to meet Swiss data protection standards.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/scaling-mlflow-for-enterprise-ai-whats-new-in-sagemaker-ai-with-mlflow/' target='_blank'>Scaling MLflow for enterprise AI: What’s New in SageMaker AI with MLflow</a></strong> — <em>2025-12-11 18:16:19</em></summary>
-
-Today we’re announcing Amazon SageMaker AI with MLflow, now including a serverless capability that dynamically manages infrastructure provisioning, scaling, and operations for artificial intelligence and machine learning (AI/ML) development tasks. In this post, we explore how these new capabilities help you run large MLflow workloads—from generative AI agents to large language model (LLM) experimentation—with improved performance, automation, and security using SageMaker AI with MLflow.
+The new certificate program will equip naval officers with skills needed to solve the military’s hardest problems.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-observability-with-langfuse/' target='_blank'>Amazon Bedrock AgentCore Observability with Langfuse</a></strong> — <em>2025-12-11 18:12:48</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/' target='_blank'>Building a voice-driven AWS assistant with Amazon Nova Sonic</a></strong> — <em>2025-12-12 18:07:57</em></summary>
 
-In this post, we explain how to integrate Langfuse observability with Amazon Bedrock AgentCore to gain deep visibility into an AI agent's performance, debug issues faster, and optimize costs. We walk through a complete implementation using Strands agents deployed on AgentCore Runtime followed by step-by-step code examples.
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/' target='_blank'>Agent Lightning: Adding reinforcement learning to AI agents without code rewrites</a></strong> — <em>2025-12-11 17:00:00</em></summary>
-
-By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes.
-The post Agent Lightning: Adding reinforcement learning to AI agents without code rewrites appeared first on Microsoft Research.
+In this post, we explore how to build a sophisticated voice-powered AWS operations assistant using Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This solution demonstrates how natural language voice interactions can transform cloud operations, making AWS services more accessible and operations more efficient.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/the-machine-learning-advent-calendar-day-11-linear-regression-in-excel/' target='_blank'>The Machine Learning “Advent Calendar” Day 11: Linear Regression in Excel</a></strong> — <em>2025-12-11 16:31:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/how-to-scale-fast-fourier-transforms-to-exascale-on-modern-nvidia-gpu-architectures/' target='_blank'>How to Scale Fast Fourier Transforms to Exascale on Modern NVIDIA GPU Architectures</a></strong> — <em>2025-12-12 18:00:00</em></summary>
 
-Linear Regression looks simple, but it introduces the core ideas of modern machine learning: loss functions, optimization, gradients, scaling, and interpretation.
-In this article, we rebuild Linear Regression in Excel, compare the closed-form solution with Gradient Descent, and see how the coefficients evolve step by step.
-This foundation naturally leads to regularization, kernels, classification, and the dual view.
-Linear Regression is not just a straight line, but the starting point for many models we will explore next in the Advent Calendar.
-The post The Machine Learning “Advent Calendar” Day 11: Linear Regression in Excel appeared first on Towards Data Science.
+Fast Fourier Transforms (FFTs) are widely used across scientific computing, from molecular dynamics and signal processing to computational fluid dynamics (CFD),...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/' target='_blank'>Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics</a></strong> — <em>2025-12-11 16:00:00</em></summary>
+<details><summary><strong><a href='https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/' target='_blank'>Improved Gemini audio models for powerful voice experiences</a></strong> — <em>2025-12-12 17:50:50</em></summary>
 
-Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous...
 
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/drawing-shapes-with-the-python-turtle-module/' target='_blank'>Drawing Shapes with the Python Turtle Module</a></strong> — <em>2025-12-11 15:00:00</em></summary>
-
-A step-by-step tutorial that explores the Python Turtle Module
-The post Drawing Shapes with the Python Turtle Module appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/7-pandas-performance-tricks-every-data-scientist-should-know/' target='_blank'>7 Pandas Performance Tricks Every Data Scientist Should Know</a></strong> — <em>2025-12-11 13:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/' target='_blank'>The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel</a></strong> — <em>2025-12-12 17:15:00</em></summary>
 
-What I've learned about making Pandas faster after too many slow notebooks and frozen sessions
-The post 7 Pandas Performance Tricks Every Data Scientist Should Know appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/' target='_blank'>How Agent Handoffs Work in Multi-Agent Systems</a></strong> — <em>2025-12-11 12:00:00</em></summary>
-
-Understanding how LLM agents transfer control to each other in a multi-agent system with LangGraph
-The post How Agent Handoffs Work in Multi-Agent Systems appeared first on Towards Data Science.
+In this article, we rebuild Logistic Regression step by step directly in Excel.
+Starting from a binary dataset, we explore why linear regression struggles as a classifier, how the logistic function fixes these issues, and how log-loss naturally appears from the likelihood.
+With a transparent gradient-descent table, you can watch the model learn at each iteration—making the whole process intuitive, visual, and surprisingly satisfying.
+The post The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/gpt-5-2-for-science-and-math' target='_blank'>Advancing science and math with GPT-5.2</a></strong> — <em>2025-12-11 10:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/r2d2-improving-robot-manipulation-with-simulation-and-language-models/' target='_blank'>R²D²: Improving Robot Manipulation with Simulation and Language Models</a></strong> — <em>2025-12-12 17:00:00</em></summary>
 
-GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.
+Robot manipulation systems struggle with changing objects, lighting, and contact dynamics when they move into dynamic real-world environments. On top of this,...
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data/' target='_blank'>How to Build Privacy-Preserving Evaluation Benchmarks with Synthetic Data</a></strong> — <em>2025-12-12 16:33:59</em></summary>
+
+Validating AI systems requires benchmarks—datasets and evaluation workflows that mimic real-world conditions—to measure accuracy, reliability, and safety...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/the-power-of-decentralization/' target='_blank'>Decentralized Computation: The Hidden Principle Behind Deep Learning</a></strong> — <em>2025-12-12 15:47:00</em></summary>
+
+Most breakthroughs in deep learning — from simple neural networks to large language models — are built upon a principle that is much older than AI itself: decentralization. Instead of relying on a powerful “central planner” coordinating and commanding the behaviors of other components, modern deep-learning-based AI models succeed because many simple units interact locally […]
+The post Decentralized Computation: The Hidden Principle Behind Deep Learning appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/eda-in-public-part-1-cleaning-exploring-sales-data-with-pandas/' target='_blank'>EDA in Public (Part 1): Cleaning and Exploring Sales Data with Pandas</a></strong> — <em>2025-12-12 13:20:00</em></summary>
+
+Hey everyone! Welcome to the start of a major data journey that I’m calling “EDA in Public.” For those who know me, I believe the best way to learn anything is to tackle a real-world problem and share the entire messy process — including mistakes, victories, and everything in between. If you’ve been looking to level up […]
+The post EDA in Public (Part 1): Cleaning and Exploring Sales Data with Pandas appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/' target='_blank'>Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa</a></strong> — <em>2025-12-12 10:42:00</em></summary>
+
+Conferences & Events
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/spectral-community-detection-in-clinical-knowledge-graphs/' target='_blank'>Spectral Community Detection in Clinical Knowledge Graphs</a></strong> — <em>2025-12-12 10:30:00</em></summary>
+
+Introduction How do we identify latent groups of patients in a large cohort? How can we find similarities among patients that go beyond the well-known comorbidity clusters associated with specific diseases? And more importantly, how can we extract quantitative signals that can be analyzed, compared, and reused across different clinical scenarios? The information associated to […]
+The post Spectral Community Detection in Clinical Knowledge Graphs appeared first on Towards Data Science.
 
 </details>
 
