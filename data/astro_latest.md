@@ -1,294 +1,354 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Space Exploration
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Cosmic Mapping and the Role of the Roman Space Telescope
-NASA's Nancy Grace Roman Space Telescope is poised to enhance our understanding of the universe by mapping thousands of newly discovered cosmic voids—regions with a lower density of galaxies. This mission will not only chart vast areas of the Milky Way but also provide critical insights into dark energy and the universe's expansion history. The telescope's advanced capabilities represent a significant leap in observational technology, reflecting a trend toward more detailed cosmic surveys.
+#### Advancements in Space Exploration
+Recent developments in space exploration underscore a commitment to expanding our capabilities in both navigation and lunar exploration. The successful launch of two Galileo satellites via the Ariane 6 rocket enhances Europe's navigation system, demonstrating significant advancements in autonomous satellite technology. Simultaneously, NASA's ongoing tests of lunar spacecraft for the Artemis II mission reflect rigorous preparations to return humans to the Moon. These initiatives highlight a broader trend toward enhancing existing technologies and laying the groundwork for future ambitious missions.
 
-Key items:
-1. NASA's Roman Telescope will conduct a major survey of the Milky Way, focusing on cosmic voids and their implications for universal expansion - https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids/.
-2. The telescope's capabilities promise unprecedented detail in mapping galactic structures, contributing to the understanding of dark energy and cosmic evolution - https://phys.org/news/2025-12-nasa-milky-roman-space-telescope.html.
+Key Items:
+1. **Galileo L14 Liftoff** - https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6 - Two new satellites launched, reinforcing Europe's navigation capabilities.
+2. **NASA JPL Tests Future Lunar Craft** - https://phys.org/news/2025-12-nasa-jpl-future-lunar-craft.html - NASA prepares for lunar missions by testing spacecraft under extreme conditions.
 
-#### New Insights into Stellar Evolution and Exoplanets
-Recent studies have advanced our understanding of stellar evolution and planet formation. The James Webb Space Telescope has identified primitive, massive stars in the early universe, providing clues about stellar life cycles and the conditions that prevailed during cosmic infancy. Additionally, discoveries of planetary companions to ultracool dwarf stars in the Taurus region enhance our knowledge of star formation processes, highlighting the complexity of planetary system evolution.
+#### Insights into Cosmic Phenomena
+Recent discoveries have provided critical insights into cosmic phenomena, particularly regarding black holes and stellar formation. The IXPE mission has made significant strides by identifying the source of X-rays in the jets emitted by supermassive black holes, resolving a long-standing mystery in X-ray astronomy. Additionally, the discovery of a brown dwarf orbiting an ancient star offers valuable information about the formation and evolution of substellar objects. These findings not only enhance our understanding of the universe but also highlight the importance of advanced observational technologies.
 
-Key items:
-1. The James Webb Space Telescope has provided evidence for primitive, massive stars, offering clues about the early universe's conditions - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-1st-evidence-of-dinosaur-like-stars-in-the-early-universe.
-2. Observations in the Taurus star-forming region have led to the discovery of new planetary-mass companions, expanding our knowledge of ultracool dwarf stars - https://phys.org/news/2025-12-astronomers-planetary-stellar-companions-ultracool.html.
+Key Items:
+1. **NASA IXPE's Longest Observation** - https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/ - Breakthrough in understanding black hole jets.
+2. **Rare Brown Dwarf Discovered** - https://phys.org/news/2025-12-rare-brown-dwarf-orbiting-ancient.html - New findings on substellar objects enhance knowledge of cosmic evolution.
 
-#### Advanced Observations of Interstellar Objects
-The approaching interstellar comet 3I/ATLAS has become a focal point for astronomers, offering a rare opportunity for in-depth analysis. Observations from Hubble and ESA's XMM-Newton have begun to reveal its characteristics, providing insights into its composition and behavior as it nears Earth. This close approach is viewed as a pivotal moment for cometary studies and our understanding of interstellar materials.
+#### Innovative Instrumentation and Data Collection
+The launch of NASA's Interstellar Mapping and Acceleration Probe (IMAP) has yielded first-light data from its CoDICE instrument, marking a pivotal step in understanding the heliosphere's boundaries. Additionally, the Atacama Large Millimeter/Submillimeter Array (ALMA) has upgraded its capabilities with the installation of 145 low-noise amplifiers, enhancing its ability to probe dark and distant regions of the universe. These technological advancements are crucial for future astrophysical research, allowing for more precise measurements and deeper insights into cosmic phenomena.
 
-Key items:
-1. The close approach of interstellar comet 3I/ATLAS on December 19 offers astronomers a rare chance to study its features and origins - https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-on-dec-19-heres-what-you-need-to-know.
-2. Observations in X-ray light by ESA's XMM-Newton have provided new insights into the comet's behavior and composition during its approach - https://phys.org/news/2025-12-xmm-newton-comet-3iatlas-ray.html.
+Key Items:
+1. **IMAP Instrument Delivers First-Light Data** - https://phys.org/news/2025-12-interstellar-probe-instrument.html - New insights into the heliosphere's boundaries.
+2. **ALMA Completes Low-Noise Amplifiers** - https://phys.org/news/2025-12-exploring-universe-noise-amplifiers-alma.html - Enhanced capabilities for studying star and galaxy formation.
 
 ### Conclusion
-The current landscape in astrophysics is characterized by significant technological advancements and a deepening understanding of cosmic phenomena. The integration of new observational tools like the Roman Space Telescope and the insights gained from studying interstellar objects are paving the way for transformative discoveries in the field. As researchers continue to explore the complexities of stellar and galactic evolution, the potential for groundbreaking findings remains high, promising to reshape our understanding of the universe.
+The current landscape of astrophysics is marked by significant advancements in space exploration, a deeper understanding of cosmic phenomena, and innovative instrumentation. Recent launches and technological innovations are paving the way for more profound investigations into the universe, while groundbreaking discoveries are reshaping our comprehension of celestial objects. As these trends continue, they promise to unlock further mysteries of the cosmos, reinforcing the importance of collaboration and innovation in the field of astrophysics.
 
-Top Sources:
-1. NASA's Roman Telescope Will Observe Thousands of Newfound Cosmic Voids - https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids - The Roman Space Telescope aims to map cosmic voids and unveil new galactic structures.
-2. NASA announces plan to map Milky Way with Roman Space Telescope - https://phys.org/news/2025-12-nasa-milky-roman-space-telescope.html - Detailed plans for a major survey of the Milky Way using the Roman Space Telescope.
-3. James Webb Space Telescope finds 1st evidence of 'dinosaur-like' stars in the early universe - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-1st-evidence-of-dinosaur-like-stars-in-the-early-universe - Discovery of primitive massive stars providing insights into early cosmic conditions.
-4. Astronomers find planetary and stellar companions to two ultracool dwarfs in Taurus - https://phys.org/news/2025-12-astronomers-planetary-stellar-companions-ultracool.html - New findings on companions to ultracool dwarf stars enhance understanding of star formation.
-5. Interstellar comet keeps its distance as it makes its closest approach to Earth - https://phys.org/news/2025-12-interstellar-comet-distance-closest-approach.html - A unique opportunity to study the interstellar comet 3I/ATLAS.
-6. XMM-Newton sees comet 3I/ATLAS in X-ray light - https://phys.org/news/2025-12-xmm-newton-comet-3iatlas-ray.html - X-ray observations provide new insights into the comet's characteristics.
-7. Massive stars make their mark in Hubble image - https://phys.org/news/2025-12-massive-stars-hubble-image.html - A new Hubble image showcases the impact of massive stars in the universe.
-8. Finding the point of no return: Sun's shifting, spiky atmospheric boundary mapped in detail for 1st time - https://www.space.com/astronomy/sun/finding-the-point-of-no-return-suns-shifting-spiky-atmospheric-boundary-mapped-in-detail-for-1st-time - Detailed mapping of the Sun’s atmospheric boundary opens new avenues for solar research.
-9. Good news for lunar bases? Earth's atmosphere leaks all the way out to the moon - https://www.space.com/astronomy/moon/good-news-for-lunar-bases-earths-atmosphere-leaks-all-the-way-out-to-the-moon - Research suggests Earth's atmosphere could support lunar bases, enhancing future exploration.
-10. New insights into black hole mergers from gravitational wave detections - https://www.nature.com/articles/s41586-023-00001-2 - Gravitational wave data reveals new information about black hole merger events.
+### Top Sources
+1. Galileo L14 Liftoff - https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6 - Two new satellites launched, reinforcing Europe's navigation capabilities.
+2. NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery - https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/ - Breakthrough in understanding black hole jets.
+3. Rare Brown Dwarf Discovered Orbiting Ancient Star - https://phys.org/news/2025-12-rare-brown-dwarf-orbiting-ancient.html - New findings on substellar objects enhance knowledge of cosmic evolution.
+4. NASA JPL Tests Future Lunar Craft - https://phys.org/news/2025-12-nasa-jpl-future-lunar-craft.html - NASA prepares for lunar missions by testing spacecraft under extreme conditions.
+5. IMAP Instrument Delivers First-Light Data - https://phys.org/news/2025-12-interstellar-probe-instrument.html - New insights into the heliosphere's boundaries.
+6. ALMA Completes Low-Noise Amplifiers - https://phys.org/news/2025-12-exploring-universe-noise-amplifiers-alma.html - Enhanced capabilities for studying star and galaxy formation.
+7. Dazzling Cosmic Jet Reveals Time-Stamped History of Star Birth - https://phys.org/news/2025-12-dazzling-cosmic-jet-reveals-history.html - Evidence of star growth episodes captured by cosmic jets.
+8. NASA's Parker Solar Probe Captures Solar Wind Doing a 'U-Turn' - https://www.space.com/astronomy/sun/nasas-parker-solar-probe-captures-solar-wind-doing-a-u-turn - Insights into solar magnetic energy recycling.
+9. James Webb Space Telescope Discovers a Lemon-Shaped Exoplanet - https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-a-lemon-shaped-exoplanet-unlike-anything-seen-before-what-the-heck-is-this - Unexpected findings on exoplanet composition.
+10. PUNCH Mission Spacecraft Producing Unprecedented Images of the Sun - https://phys.org/news/2025-12-mission-spacecraft-unprecedented-images-sun.html - Major imaging achievements from the PUNCH mission.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-subtle-return-of-la-nina/' target='_blank'>A Subtle Return of La Niña</a></strong> — <em>2025-12-16 05:00:00</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6' target='_blank'>Galileo L14 liftoff on Ariane 6</a></strong> — <em>2025-12-17 05:02:00</em></summary>
+
+
+	Video: 
+			00:01:06
+				On 17 December, two new Galileo satellites lifted off from Europe’s Spaceport in French Guiana aboard an Ariane 6 rocket. This marked the 14th launch for Europe’s satellite navigation operational satellite programme, reinforcing Europe’s resilience and autonomy.The European Space Agency (ESA) is responsible for carrying out the Galileo launch with Arianespace on behalf of the European Commission. The Galileo satellites were manufactured by OHB, under contract with ESA. Once in orbit, the EU Agency for the Space Programme (EUSPA) will bring the satellites into service and oversee their operation.The flight, designated VA266, was the first launch of Galileo satellites on Europe’s newest heavy-lift launcher Ariane 6.Follow the launch campaign. Access the related broadcast quality video material. 
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/' target='_blank'>A Siberian Snowman in Billings</a></strong> — <em>2025-12-17 05:01:00</em></summary>
+
+Winds, waves, and ice near a remote town on the Chukchi Peninsula have sculpted a series of coastal inshore lagoons that resemble an icon of winter.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-interstellar-probe-instrument.html' target='_blank'>Novel Interstellar Mapping and Acceleration Probe instrument delivers first-light data</a></strong> — <em>2025-12-17 03:20:04</em></summary>
+
+Southwest Research Institute's novel Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has successfully collected first-light data. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar system.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-exploring-universe-noise-amplifiers-alma.html' target='_blank'>Exploring the origins of the universe: 145 low-noise amplifiers complete ALMA telescopes</a></strong> — <em>2025-12-16 23:10:04</em></summary>
+
+The Atacama Large Millimeter/Submillimeter Array (ALMA) in the Chilean Andes is one of the most powerful radio telescope facilities in the world. Researchers use it to study dark and distant regions of the universe in order to better understand how stars, planets, galaxies and life itself are formed.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/wildfire-smoke-created-a-new-particle-in-the-atmosphere' target='_blank'>Wildfire smoke lofted miles high could have an unexpected effect on Earth's climate</a></strong> — <em>2025-12-16 23:00:00</em></summary>
+
+New measurements demonstrate that smoke particles in the upper atmosphere are twice the size of lower-altitude ones.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-image-hatch-thermal-space-station.html' target='_blank'>Image: Hatch thermal cover protects space station vestibule</a></strong> — <em>2025-12-16 21:34:25</em></summary>
+
+Clockwise from left, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui and NASA astronauts Jonny Kim, Zena Cardman, and Mike Fincke pose for a playful portrait through a circular opening in a hatch thermal cover aboard the International Space Station on Sept. 18, 2025.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-jpl-future-lunar-craft.html' target='_blank'>NASA JPL tests future lunar craft with shake-up</a></strong> — <em>2025-12-16 21:29:32</em></summary>
+
+The same historic facilities that some 50 years ago prepared NASA's twin Voyager probes for their ongoing interstellar odyssey are helping to ready a towering commercial spacecraft for a journey to the moon. Launches involve brutal shaking and astonishingly loud noises, and testing in these facilities mimics those conditions to help ensure mission hardware can survive the ordeal.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/' target='_blank'>NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery</a></strong> — <em>2025-12-16 21:23:13</em></summary>
+
+Written by Michael Allen An international team of astronomers using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) has identified the origin of X-rays in a supermassive black hole’s jet, answering a question that has been unresolved since the earliest days of X-ray astronomy. Their findings are described in a paper published in The Astrophysical Journal Letters, […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/learning-resources/research-program-for-students/' target='_blank'>NASA Launches Research Program for Students to Explore Big Ideas</a></strong> — <em>2025-12-16 21:01:46</em></summary>
+
+NASA is now accepting concepts for a new research challenge. The Opportunities in Research, Business, Innovation, and Technology (ORBIT) challenge is a multi-phase innovation competition designed to empower university and college students to develop next-generation solutions that benefit life on Earth and deep-space exploration. With up to $380,000 in total prize funding, NASA’s ORBIT challenges […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/sun/nasas-parker-solar-probe-captures-solar-wind-doing-a-u-turn' target='_blank'>NASA's Parker Solar Probe captures solar wind doing a 'U-turn'</a></strong> — <em>2025-12-16 21:00:00</em></summary>
+
+NASA's Parker Solar Probe captured solar material looping back to the sun, revealing how it recycles magnetic energy and shapes future solar storms.
+
+</details>
+
+<details><summary><strong><a href='https://news.mit.edu/2025/nuno-loureiro-professor-director-plasma-science-and-fusion-center-dies-1216' target='_blank'>Nuno Loureiro, professor and director of MIT’s Plasma Science and Fusion Center, dies at 47</a></strong> — <em>2025-12-16 20:45:00</em></summary>
+
+In his 10 years at MIT, Loureiro helped illuminate the physics occurring at the center of fusion vacuum chambers and at the edges of the universe.
+
+</details>
+
+<details><summary><strong><a href='https://news.mit.edu/2025/nuno-loureiro-professor-director-plasma-science-and-fusion-center-dies-1216' target='_blank'>Nuno Loureiro, professor and director of MIT’s Plasma Science and Fusion Center, dies at 47</a></strong> — <em>2025-12-16 20:45:00</em></summary>
+
+In his 10 years at MIT, Loureiro helped illuminate the physics occurring at the center of fusion vacuum chambers and at the edges of the universe.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/' target='_blank'>Through Astronaut Eyes: 25 Years of Life in Orbit</a></strong> — <em>2025-12-16 20:35:35</em></summary>
+
+After 25 years of continuous human presence in space, the International Space Station remains a training and proving ground for deep space missions, enabling NASA to focus on Artemis missions to the Moon and Mars. The orbiting laboratory is also a living archive of human experience, culture, and connection.   Creating community With 290 visitors from […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/' target='_blank'>Through Astronaut Eyes: 25 Years of Life in Orbit</a></strong> — <em>2025-12-16 20:35:35</em></summary>
+
+After 25 years of continuous human presence in space, the International Space Station remains a training and proving ground for deep space missions, enabling NASA to focus on Artemis missions to the Moon and Mars. The orbiting laboratory is also a living archive of human experience, culture, and connection.   Creating community With 290 visitors from […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/steven-spielberg-finally-reveals-1st-trailer-for-new-ufo-film-disclosure-day-and-now-were-terrified' target='_blank'>Steven Spielberg finally reveals 1st trailer for new UFO film 'Disclosure Day', and now we're terrified</a></strong> — <em>2025-12-16 20:30:00</em></summary>
+
+Emily Blunt and Josh O'Connor star in Universal Pictures' eerie alien invasion project coming next summer.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-key-cameras-orbiting-mars.html' target='_blank'>One of NASA's key cameras orbiting Mars takes 100,000th image</a></strong> — <em>2025-12-16 20:03:20</em></summary>
+
+After nearly 20 years on the Red Planet, NASA's Mars Reconnaissance Orbiter (MRO) has snapped its 100,000th image of the surface with its HiRISE camera. Short for High Resolution Imaging Science Experiment, HiRISE is the instrument the mission relies on for high-resolution images of features ranging from impact craters, sand dunes, and ice deposits to potential landing sites. Those images, in turn, help improve our understanding of Mars and prepare for NASA's future human missions there.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/' target='_blank'>NASA Ignites New Golden Age of Exploration, Innovation in 2025</a></strong> — <em>2025-12-16 19:48:18</em></summary>
+
+With a second Trump Administration at the helm in 2025, NASA marked significant progress toward the Artemis II test flight early next year, which is the first crewed mission around the Moon in more than 50 years, as well as built upon its momentum toward a human return to the lunar surface in preparation to […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/' target='_blank'>NASA Ignites New Golden Age of Exploration, Innovation in 2025</a></strong> — <em>2025-12-16 19:48:18</em></summary>
+
+With a second Trump Administration at the helm in 2025, NASA marked significant progress toward the Artemis II test flight early next year, which is the first crewed mission around the Moon in more than 50 years, as well as built upon its momentum toward a human return to the lunar surface in preparation to […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/' target='_blank'>NASA Ignites New Golden Age of Exploration, Innovation in 2025</a></strong> — <em>2025-12-16 19:48:18</em></summary>
+
+With a second Trump Administration at the helm in 2025, NASA marked significant progress toward the Artemis II test flight early next year, which is the first crewed mission around the Moon in more than 50 years, as well as built upon its momentum toward a human return to the lunar surface in preparation to […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/' target='_blank'>NASA Ignites New Golden Age of Exploration, Innovation in 2025</a></strong> — <em>2025-12-16 19:48:18</em></summary>
+
+With a second Trump Administration at the helm in 2025, NASA marked significant progress toward the Artemis II test flight early next year, which is the first crewed mission around the Moon in more than 50 years, as well as built upon its momentum toward a human return to the lunar surface in preparation to […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/how-small-is-too-small-volunteers-help-nasa-test-lake-monitoring-from-space/' target='_blank'>How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space</a></strong> — <em>2025-12-16 19:45:41</em></summary>
+
+Volunteers participating in the Lake Observations by Citizen Scientists and Satellites (LOCSS) project have been collecting water level data in lakes since 2017. Now, the LOCSS team has used these data to examine the accuracy of water level measurements made from space.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/' target='_blank'>NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft</a></strong> — <em>2025-12-16 19:43:07</em></summary>
+
+The same historic facilities that some 50 years ago prepared NASA’s twin Voyager probes for their ongoing interstellar odyssey are helping to ready a towering commercial spacecraft for a journey to the Moon. Launches involve brutal shaking and astonishingly loud noises, and testing in these facilities mimics those conditions to help ensure mission hardware can […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/' target='_blank'>NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft</a></strong> — <em>2025-12-16 19:43:07</em></summary>
+
+The same historic facilities that some 50 years ago prepared NASA’s twin Voyager probes for their ongoing interstellar odyssey are helping to ready a towering commercial spacecraft for a journey to the Moon. Launches involve brutal shaking and astonishingly loud noises, and testing in these facilities mimics those conditions to help ensure mission hardware can […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-powering-mysterious-bright-blue-cosmic.html' target='_blank'>What's powering these mysterious, bright blue cosmic flashes? Astronomers find a clue</a></strong> — <em>2025-12-16 19:05:10</em></summary>
+
+Among the more puzzling cosmic phenomena discovered over the past few decades are brief and very bright flashes of blue and ultraviolet light that gradually fade away, leaving behind faint X-ray and radio emissions. With slightly more than a dozen discovered so far, astronomers have debated whether they are produced by an unusual type of supernova or by interstellar gas falling into a black hole.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-spacecraft-is-still-silent-at-mars-and-apparently-is-spinning-too' target='_blank'>NASA's MAVEN spacecraft is still silent at Mars — and apparently is spinning, too</a></strong> — <em>2025-12-16 19:00:00</em></summary>
+
+NASA still hasn't heard from its MAVEN Mars orbiter, and the spacecraft appears to be spinning in an odd way as well.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/scientists-map-the-suns-magnetic-surface/' target='_blank'>Scientists Map the Sun’s Magnetic “Surface”</a></strong> — <em>2025-12-16 18:41:25</em></summary>
+
+Where does the Sun end and the solar wind begin? Scientists have mapped the dynamic magnetic edge that bounds our star.
+The post Scientists Map the Sun’s Magnetic “Surface” appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-superkilonova.html' target='_blank'>Possible 'superkilonova' exploded not once but twice</a></strong> — <em>2025-12-16 18:09:31</em></summary>
+
+When the most massive stars reach the ends of their lives, they blow up in spectacular supernova explosions, which seed the universe with heavy elements such as carbon and iron. Another type of explosion—the kilonova—occurs when a pair of dense dead stars, called neutron stars, smash together, forging even heavier elements such as gold and uranium. Such heavy elements are among the basic building blocks of stars and planets.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-mission-spacecraft-unprecedented-images-sun.html' target='_blank'>PUNCH mission spacecraft producing unprecedented images of Sun</a></strong> — <em>2025-12-16 18:03:01</em></summary>
+
+After less than a year in orbit, the Southwest Research Institute-built PUNCH spacecraft have made major accomplishments, imaging the sun in context while tracking comets and enormous space weather events as they traveled through the inner solar system. SwRI's Dr. Craig DeForest discussed the achievements of NASA's PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission during a media roundtable at the AGU25 conference on Dec. 16.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-launch-galileo-33-3' target='_blank'>Europe's Ariane 6 rocket launches its 1st pair of Galileo navigation satellites</a></strong> — <em>2025-12-16 18:00:00</em></summary>
+
+Europe's Ariane 6 rocket launched a pair of Galileo satellites just after midnight on Wednesday (Dec. 17), adding to the continent's geopositioning constellation.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-frontier-space-closer-world-earth.html' target='_blank'>The next frontier in space is closer than you think: Welcome to the world of very low Earth orbit satellites</a></strong> — <em>2025-12-16 17:29:27</em></summary>
+
+There are about 15,000 satellites orbiting Earth. Most of them, like the International Space Station and the Hubble Telescope, reside in low Earth orbit, or LEO, which tops out at about 1,200 miles (2,000 kilometers) above Earth's surface.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/peekaboo-2/' target='_blank'>Peekaboo!</a></strong> — <em>2025-12-16 17:27:30</em></summary>
+
+Clockwise from left, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui and NASA astronauts Jonny Kim, Zena Cardman, and Mike Fincke pose for a playful portrait through a circular opening in a hatch thermal cover aboard the International Space Station on Sept. 18, 2025. The cover provides micrometeoroid and orbital debris protection while maintaining cleanliness […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/peekaboo-2/' target='_blank'>Peekaboo!</a></strong> — <em>2025-12-16 17:27:30</em></summary>
+
+Clockwise from left, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui and NASA astronauts Jonny Kim, Zena Cardman, and Mike Fincke pose for a playful portrait through a circular opening in a hatch thermal cover aboard the International Space Station on Sept. 18, 2025. The cover provides micrometeoroid and orbital debris protection while maintaining cleanliness […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-webb-pulsar-orbiting-planet-composition.html' target='_blank'>Webb observes pulsar-orbiting planet whose composition defies explanation</a></strong> — <em>2025-12-16 17:23:29</em></summary>
+
+Scientists using NASA's James Webb Space Telescope have observed a rare type of exoplanet, or planet outside our solar system, whose atmospheric composition challenges our understanding of how it formed.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-michibiki-5-navigation-satellite' target='_blank'>Launch of Japan's Michibiki 5 navigation satellite scrubbed late in countdown</a></strong> — <em>2025-12-16 17:00:00</em></summary>
+
+The planned launch of Japan's Michibiki 5 navigation satellite atop an H3 rocket tonight (Dec. 16) was scrubbed with less than a minute left in the countdown.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-dazzling-cosmic-jet-reveals-history.html' target='_blank'>Dazzling cosmic jet reveals time-stamped history of star birth</a></strong> — <em>2025-12-16 16:30:29</em></summary>
+
+An international team of astronomers has uncovered the most unmistakable evidence yet that the powerful jets launched by newborn stars reliably record a star's most violent growth episodes, confirming a long-standing model of how these jets propagate through their surroundings.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/' target='_blank'>Toxicology and Environmental Chemistry</a></strong> — <em>2025-12-16 16:28:12</em></summary>
+
+Ensuring Astronaut Safety Achieving safe exploration of space in vehicles that rely upon closed environmental systems to recycle air and water to sustain life and are operated in extremely remote locations is a major challenge. The Toxicology and Environmental Chemistry (TEC) group at Johnson Space Center (JSC) is made up of 2 interrelated groups: Toxicology […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-subtle-la-nia.html' target='_blank'>A subtle return of La Niña</a></strong> — <em>2025-12-16 16:16:52</em></summary>
 
 A weak La Niña emerged in the equatorial Pacific in late 2025, and scientists are watching how it may help shape weather and climate in the months ahead.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-stardust-star-ice.html' target='_blank'>Forget stardust—it was star ice all along</a></strong> — <em>2025-12-16 00:10:01</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/' target='_blank'>Statistics and Data Science</a></strong> — <em>2025-12-16 16:14:41</em></summary>
 
-Carl Sagan famously said that "We're all made of star stuff." But he didn't elaborate on how that actually happened. Yes, many of the molecules in our bodies could only have been created in massive supernovae explosions—hence the saying—and scientists have long thought they had the mechanism for how settled: the isotopes created in the supernovae flew here on tiny dust grains (stardust) that eventually accreted into Earth, and later into biological systems.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/science/climate-change/private-satellites-pinpoint-methane-emissions-from-oil-gas-and-coal-facilities-worldwide' target='_blank'>Private satellites pinpoint methane emissions from oil, gas and coal facilities worldwide</a></strong> — <em>2025-12-15 22:00:00</em></summary>
-
-Using high-resolution observations from the GHGSat satellite constellation, researchers have produced the first global, facility-level estimate of methane emissions from the energy sector.
+Enabling Successful Research A major aim of biomedical research at NASA is to acquire data to evaluate, understand, and assess the biomedical hazards of spaceflight and to develop effective countermeasures. Data Science (S&DS) personnel provide statistical support to groups within the NASA JSC Human Health and Performance Directorate and other NASA communities. They have expertise […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons' target='_blank'>Ghosts, sharks and Norse mythology: US Space Force unveils new names for satellites and space weapons</a></strong> — <em>2025-12-15 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/how-to-watch-fallout-season-2-online-and-from-anywhere' target='_blank'>How to watch 'Fallout' Season 2 online and from anywhere</a></strong> — <em>2025-12-16 16:00:00</em></summary>
 
-The U.S. Space Force unveiled the new naming scheme that it will use for its spacecraft and space-based weaponry, drawing inspiration from mythology and the natural world.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-roman-telescope-thousands-newfound.html' target='_blank'>NASA's Roman telescope will observe thousands of newfound cosmic voids</a></strong> — <em>2025-12-15 19:55:31</em></summary>
-
-Our universe is filled with galaxies, in all directions as far as our instruments can see. Some researchers estimate that there are as many as 2 trillion galaxies in the observable universe. At first glance, these galaxies might appear to be randomly scattered across space, but they're not. Careful mapping has shown that they are distributed across the surfaces of giant cosmic "bubbles" up to several hundred million light-years across. Inside these bubbles, few galaxies are found, so those regions are called cosmic voids. NASA's Nancy Grace Roman Space Telescope will allow us to measure these voids with new precision, which can tell us about the history of the universe's expansion.
+Okey Dokey! Prime Video's post-apocalyptic adventure heads for New Vegas starting tonight!
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/' target='_blank'>NextSTEP-3 B: Moon to Mars Architecture Studies</a></strong> — <em>2025-12-15 19:31:53</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-spacex-100th-space-coast-weather.html' target='_blank'>SpaceX squeezes in 100th Space Coast launch, but weather delays ULA, 2nd SpaceX mission</a></strong> — <em>2025-12-16 15:50:01</em></summary>
 
-Notice ID: M2M-MSFC-0001 NAICS Codes: NASA seeks industry-led architecture concept development, concept refinement studies, and risk-reduction activities that address Moon to Mars Architecture gaps through the Next Space Technologies for Exploration Partnerships-3 (NextSTEP-3). NASA plans to release this solicitation — NextSTEP-3 Appendix B: Moon to Mars Architectural Studies — near the beginning of calendar year […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/fallout-games-ranked-worst-to-best' target='_blank'>Fallout games ranked, worst to best</a></strong> — <em>2025-12-15 19:00:00</em></summary>
-
-With the Fallout TV show venturing back out into the Wasteland, what better time to rank every Fallout game from worst to best?
+SpaceX managed to find a lull in the winds early Monday, but a second SpaceX launch as well as one from United Launch Alliance opted to wait at least a day before trying to add to the Space Coast's rocket mission total.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-massive-stars-hubble-image.html' target='_blank'>Massive stars make their mark in Hubble image</a></strong> — <em>2025-12-15 18:30:23</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-a-lemon-shaped-exoplanet-unlike-anything-seen-before-what-the-heck-is-this' target='_blank'>James Webb Space Telescope discovers a lemon-shaped exoplanet unlike anything seen before: 'What the heck is this?'</a></strong> — <em>2025-12-16 15:01:00</em></summary>
 
-This NASA/ESA Hubble Space Telescope image features a glittering blue dwarf galaxy called Markarian 178 (Mrk 178). The galaxy, which is substantially smaller than our own Milky Way, lies 13 million light-years away in the constellation Ursa Major (the Great Bear).
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-on-dec-19-heres-what-you-need-to-know' target='_blank'>Interstellar comet 3I/ATLAS makes its closest approach to Earth on Dec. 19: Here's what you need to know</a></strong> — <em>2025-12-15 18:00:00</em></summary>
-
-The interstellar comet will pass safely by Earth, giving astronomers their best chance to study it up close.
+"This was an absolute surprise. It's extremely different from what we expected."
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/mars-maven-mission-may-be-lost-in-space/' target='_blank'>Mars MAVEN Mission May Be Lost in Space</a></strong> — <em>2025-12-15 17:57:23</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/the-comet-of-bethlehem-why-we-may-need-to-rethink-a-popular-christmas-story' target='_blank'>Could the Star of Bethlehem have actually been a comet?</a></strong> — <em>2025-12-16 15:00:00</em></summary>
 
-NASA is working to restore communications with its MAVEN Mars Orbiter mission.
-The post Mars MAVEN Mission May Be Lost in Space appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-days-disaster-earth-orbit.html' target='_blank'>2.8 days to disaster: Why we are running out of time in low earth orbit</a></strong> — <em>2025-12-15 17:30:23</em></summary>
-
-A "House of Cards" is a wonderful English phrase that it seems is now primarily associated with a Netflix political drama. However, its original meaning is of a system that is fundamentally unstable. It's also the term Sarah Thiele, originally a Ph.D. student at the University of British Columbia, and now at Princeton, and her co-authors used to describe our current satellite mega-constellation system in a new paper available in pre-print on arXiv.
+The direction, distance and motion of the comet through the sky during its closest approach could have made it seem like it was hovering over Bethlehem when Jesus was said to have been born.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/bassac-river-southern-vietnam/' target='_blank'>Bassac River, Southern Vietnam</a></strong> — <em>2025-12-15 17:30:20</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/best-space-stocking-stuffers-budget-friendly-christmas-gifts-for-stargazers-and-astrophotographers' target='_blank'>Best space stocking stuffers: Budget friendly Christmas gifts for stargazers and astrophotographers</a></strong> — <em>2025-12-16 15:00:00</em></summary>
 
-A camera on the International Space Station captured this Oct. 2, 2025, photo of the Bassac River in Cù Lao Dung, a river islet district in southern Vietnam. The Bassac River surrounds the district before emptying into the South China Sea. The river’s brown waters at its mouth result from massive amounts of silt, clay, […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/these-canon-18x50-image-stabilized-binoculars-are-my-top-choice-for-up-close-stargazing-even-cheaper-than-black-friday' target='_blank'>These Canon 18x50 image-stabilized binoculars are my top choice for up-close stargazing — even cheaper than Black Friday</a></strong> — <em>2025-12-15 17:23:06</em></summary>
-
-30% savings on the Canon 18x50 IS UD all-weather binoculars are great for stable stargazing at a high magnification. They are at their cheapest price ahead of the Christmas holidays in this deal from Amazon, for only $11.
+Stuck for a small gift for a skywatcher? From compact binoculars to power banks and SD cards, we've rounded up the ideal sub-$100 stocking stuffers.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-scientists-life-machine.html' target='_blank'>Can scientists detect life without knowing what it looks like? Research using machine learning offers a new way</a></strong> — <em>2025-12-15 17:12:28</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-rare-brown-dwarf-orbiting-ancient.html' target='_blank'>Rare brown dwarf discovered orbiting ancient star</a></strong> — <em>2025-12-16 14:30:03</em></summary>
 
-When NASA scientists opened the sample return canister from the OSIRIS-REx asteroid sample mission in late 2023, they found something astonishing.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-xmm-newton-comet-3iatlas-ray.html' target='_blank'>XMM-Newton sees comet 3I/ATLAS in X-ray light</a></strong> — <em>2025-12-15 17:11:26</em></summary>
-
-The European Space Agency's X-ray space observatory XMM-Newton observed interstellar comet 3I/ATLAS on 3 December for around 20 hours. During that time, the comet was about 282–285 million km from the spacecraft.
+Astronomers from the Harvard-Smithsonian Center for Astrophysics (CfA) and elsewhere report the discovery of a new brown dwarf about 60 times more massive than Jupiter. The newfound substellar object, designated TOI-7019 b, is a brown dwarf known to orbit a star that is part of the Milky Way's ancient thick disk. The finding is detailed in a paper published December 5 on the arXiv preprint server.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-milky-roman-space-telescope.html' target='_blank'>NASA announces plan to map Milky Way with Roman Space Telescope</a></strong> — <em>2025-12-15 17:10:32</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/science-research/heliophysics/nasas-carruthers-geocorona-observatory-reveals-first-light-images/' target='_blank'>NASA’s Carruthers Geocorona Observatory Reveals ‘First Light’ Images</a></strong> — <em>2025-12-16 14:30:00</em></summary>
 
-NASA's Nancy Grace Roman Space Telescope team has released detailed plans for a major survey that will reveal our home galaxy, the Milky Way, in unprecedented detail. In one month of observations spread across two years, the survey will unveil tens of billions of stars and explore previously uncharted structures.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-radio-omega-centauri-heart.html' target='_blank'>Radio observations find nothing at Omega Centauri's heart</a></strong> — <em>2025-12-15 17:09:51</em></summary>
-
-Omega Centauri dominates the southern sky as the Milky Way's largest and brightest globular cluster, a dense sphere containing roughly 10 million stars. Earlier this year, astronomers found evidence that an intermediate mass black hole hides within the cluster's core, revealed by seven stars moving far too quickly to remain bound unless something massive holds them gravitationally. Now, researchers have searched for the black hole itself using radio telescopes, and their discovery is what they didn't find.
+NASA’s Carruthers Geocorona Observatory has captured its first images from space, revealing rare views of Earth and the Moon in ultraviolet light. Taken on Nov. 17 — still months before the mission’s science phase begins — these “first light” images confirm the spacecraft is healthy while hinting at the incredible views to come. The initial […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-1st-evidence-of-dinosaur-like-stars-in-the-early-universe' target='_blank'>James Webb Space Telescope finds 1st evidence of 'dinosaur-like' stars in the early universe</a></strong> — <em>2025-12-15 17:04:25</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/First_image_from_Sentinel-6B_extends_sea-level_legacy' target='_blank'>First image from Sentinel-6B extends sea-level legacy</a></strong> — <em>2025-12-16 14:00:00</em></summary>
 
-"A bit like dinosaurs on Earth — they were enormous and primitive. And they had short lives, living for just a quarter of a million years."
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-interstellar-comet-distance-closest-approach.html' target='_blank'>Interstellar comet keeps its distance as it makes its closest approach to Earth</a></strong> — <em>2025-12-15 16:50:04</em></summary>
-
-A stray comet from another star swings past Earth this week in one last hurrah before racing back toward interstellar space.
+Copernicus Sentinel-6B, launched last month, has reached its orbit and delivered its first set of data, which show variations in sea level in the North Atlantic Ocean. This data underlines how the mission will continue to strengthen the long-term reference record of sea levels, a key parameter of climate change.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-hubble-glimpse-3iatlas.html' target='_blank'>Hubble catches another glimpse of 3I/ATLAS</a></strong> — <em>2025-12-15 16:47:40</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/satellite-watches-volcano-spew-ash-over-middle-east-space-photo-of-the-day-for-dec-16-2025' target='_blank'>Satellite watches volcano spew ash over Middle East | Space photo of the day for Dec. 16, 2025</a></strong> — <em>2025-12-16 14:00:00</em></summary>
 
-On July 1st, 2025, the third interstellar object (ISO) ever detected was seen making its way through our solar system. Shortly after being alerted by automated detection systems, astronomers at the European Space Agency (ESA) began using observatories in Hawaii, Chile, and Australia to get a better look at the interstellar interloper. Since then, 3I/ATLAS has been observed by multiple space observatories, including the venerable NASA/ESA Hubble Space Telescope. On Nov. 30th, Hubble viewed the ISO again, which is about to make its closest approach to Earth.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-image-hubble-captures-death-mass.html' target='_blank'>Image: Hubble captures the death of a low-mass star in the Calabash Nebula</a></strong> — <em>2025-12-15 16:43:19</em></summary>
-
-NASA's Hubble Space Telescope captured an uncommon sight—the death of a low-mass star—in this image of the Calabash Nebula released on Feb. 3, 2017.
+The ash plume disrupted flights as far away as India.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-escapade-explorer-mars.html' target='_blank'>EscaPADE explorer sort of goes to Mars</a></strong> — <em>2025-12-15 16:40:07</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/fallout-season-2-review' target='_blank'>'Fallout' Season 2 review: A stark warning against letting tech billionaires decide humanity's fate</a></strong> — <em>2025-12-16 14:00:00</em></summary>
 
-On 13 November, the Escape and Plasma Acceleration and Dynamic Explorers (EscaPADE) mission launched to space on the New Glenn rocket provided by Blue Origin.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-rogue-planet-reshape-solar.html' target='_blank'>Did a rogue planet reshape our solar system?</a></strong> — <em>2025-12-15 16:04:25</em></summary>
-
-The giant planets weren't always where we find them today. Jupiter, Saturn, Uranus and Neptune formed in a more compact configuration and later underwent a violent reshuffling that scattered them to their current positions. Exactly what triggered this chaos remains uncertain, but researchers at the Laboratoire d'Astrophysique de Bordeaux and the Planetary Science Institute now propose a close encounter with a wandering substellar object during the sun's youth.
+Amazon and Bethesda return to the Wasteland with a second Fallout season that's all about New Vegas and not letting businessmen and fanatics run the world.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/finding-the-point-of-no-return-suns-shifting-spiky-atmospheric-boundary-mapped-in-detail-for-1st-time' target='_blank'>Finding the point of no return: Sun's shifting, spiky atmospheric boundary mapped in detail for 1st time</a></strong> — <em>2025-12-15 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251216081949.htm' target='_blank'>Ramanujan’s 100-year-old pi formula is still revealing the Universe</a></strong> — <em>2025-12-16 13:19:49</em></summary>
 
-Scientists have created the first detailed maps of the sun's atmospheric boundary, where solar material breaks free and streams into space.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-radio-leaks-kilometers.html' target='_blank'>Measuring radio leaks from 36,000 kilometers up</a></strong> — <em>2025-12-15 15:32:25</em></summary>
-
-Radio astronomy has a pollution problem. Satellites thousands of kilometers overhead, designed to broadcast communications or relay data, are increasingly contaminating the frequencies astronomers use to study the universe. While much attention has focused on SpaceX's Starlink and other low Earth orbit constellations, what about the satellites much farther away?
+Ramanujan’s elegant formulas for calculating pi, developed more than a century ago, have unexpectedly resurfaced at the heart of modern physics. Researchers at IISc discovered that the same mathematical structures behind these formulas also describe real-world phenomena like turbulence, percolation, and even black holes. What once seemed like pure mathematics now appears deeply intertwined with the physical laws governing the universe.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-video-lunar-impact-moon-armagh.html' target='_blank'>Video: Lunar impact flash detected on the moon by Armagh Observatory and Planetarium</a></strong> — <em>2025-12-15 15:16:32</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/strange-structures-of-space-a-weird-quiz' target='_blank'>Strange structures of space: a weird quiz</a></strong> — <em>2025-12-16 13:00:00</em></summary>
 
-On 12 December 2025 at 03:09:36 UTC, astronomers at the Armagh Observatory and Planetarium (AOP) have captured what is believed to be the first video recording of a lunar impact flash in Ireland, and the second recorded from the UK.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251215084222.htm' target='_blank'>Hidden dimensions could explain where mass comes from</a></strong> — <em>2025-12-15 15:13:41</em></summary>
-
-A new theory proposes that the universe’s fundamental forces and particle properties may arise from the geometry of hidden extra dimensions. These dimensions could twist and evolve over time, forming stable structures that generate mass and symmetry breaking on their own. The approach may even explain cosmic expansion and predict a new particle. It hints at a universe built entirely from geometry.
+Think you know your Dyson spheres from your dark blobs? This cosmic crossword dives into the strangest, most mind-bending structures ever spotted — or imagined — in the universe.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-astronomers-planetary-stellar-companions-ultracool.html' target='_blank'>Astronomers find planetary and stellar companions to two ultracool dwarfs in Taurus</a></strong> — <em>2025-12-15 15:01:19</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/dark-universe/james-webb-space-telescope-could-illuminate-dark-matter-in-a-way-scientists-didnt-realize' target='_blank'>James Webb Space Telescope could illuminate dark matter in a way scientists didn't realize</a></strong> — <em>2025-12-16 11:00:00</em></summary>
 
-Astronomers from the University of Hawai'i (UH) at Manoa and elsewhere have observed the Taurus star-forming region, which resulted in the discovery of planetary-mass and stellar companions of two ultracool dwarf stars. The new finding was presented in a paper published December 4 on the pre-print server arXiv.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/12/ESA_highlights_2025' target='_blank'>ESA highlights 2025</a></strong> — <em>2025-12-15 15:00:00</em></summary>
-
-
-	Video: 
-			00:07:26
-				2025 was a landmark year for Europe in space. From celebrating 50 years of ESA to new missions, scientific breakthroughs, the year reaffirmed Europe’s leadership in science, exploration, climate action and innovation.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids/' target='_blank'>NASA’s Roman Telescope Will Observe Thousands of Newfound Cosmic Voids</a></strong> — <em>2025-12-15 15:00:00</em></summary>
-
-Lee esta nota de prensa en español aquí. Our universe is filled with galaxies, in all directions as far as our instruments can see. Some researchers estimate that there are as many as two trillion galaxies in the observable universe. At first glance, these galaxies might appear to be randomly scattered across space, but they’re not. […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/nasa-tests-drones-in-death-valley-space-photo-of-the-day-for-dec-15-2025' target='_blank'>NASA tests drones in Death Valley | Space photo of the day for Dec. 15, 2025</a></strong> — <em>2025-12-15 15:00:00</em></summary>
-
-To develop more robust next-generation aerial explorers, NASA's Mars Exploration program is turning to drones.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-clues-hot-jupiters-hidden-orbits.html' target='_blank'>Clues to the origin of hot Jupiters hidden in their orbits</a></strong> — <em>2025-12-15 14:39:42</em></summary>
-
-The first exoplanet ever discovered in 1995 was what we now call a "hot Jupiter," a planet as massive as Jupiter with an orbital period of just a few days. Today, hot Jupiters are thought to have formed far from their stars—similar to Jupiter in our solar system—and later migrated inward.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-2025-thrills-skywatchers-with-an-end-of-year-celestial-firework-show-photos' target='_blank'>Geminid meteor shower 2025 thrills skywatchers with an end-of-year celestial firework show (photos)</a></strong> — <em>2025-12-15 14:17:18</em></summary>
-
-The Geminid meteor shower peaked overnight on Dec. 13.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/starfish-impulse-space-remora-private-rendezvous-mission-earth-orbit' target='_blank'>Surprise! 2 private spacecraft rendezvous in orbit on newly revealed 'Remora' mission</a></strong> — <em>2025-12-15 14:01:00</em></summary>
-
-Two commercial spacecraft pulled off a surprise rendezvous in Earth orbit recently, showcasing skills that could pave the way for satellite servicing missions down the road.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-moon-event-explosive-ejection-giant.html' target='_blank'>The moon-forming event: Why it was by explosive ejection rather than a giant impact</a></strong> — <em>2025-12-15 14:00:32</em></summary>
-
-One of the oldest unsolved riddles in planetary science concerns the origin of the moon. Over a century ago, George Darwin proposed that tidal and centrifugal forces on a rapidly rotating proto-Earth caused the moon to be spun off into an Earth orbit.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-spacex-billion-valuation-ipo.html' target='_blank'>SpaceX sets $800 billion valuation, confirms 2026 IPO plans</a></strong> — <em>2025-12-15 13:40:03</em></summary>
-
-SpaceX has authorized an insider share sale that values Elon Musk's rocket and satellite maker at about $800 billion, according to a company message seen by Bloomberg on Dec. 12.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-jwst-runaway-supermassive-black-hole.html' target='_blank'>Thank the JWST for confirming the first runaway supermassive black hole</a></strong> — <em>2025-12-15 13:30:43</em></summary>
-
-What could force a supermassive black hole (SMBH) out of its host galaxy? They can have hundreds of millions, even billions of solar masses. What's powerful enough to dislodge one of these behemoths?
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/good-news-for-lunar-bases-earths-atmosphere-leaks-all-the-way-out-to-the-moon' target='_blank'>Good news for lunar bases? Earth's atmosphere leaks all the way out to the moon</a></strong> — <em>2025-12-15 13:00:00</em></summary>
-
-Anomalous amounts of volatile elements found in the Apollo samples brought back from the moon have been traced back to our own planet's leaky atmosphere.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/why-interstellar-comet-3i-atlas-close-earth-approach-is-an-early-christmas-gift-for-astronomers' target='_blank'>Why interstellar comet 3I/ATLAS' close Earth approach is an early Christmas gift for astronomers</a></strong> — <em>2025-12-15 11:00:00</em></summary>
-
-When 3I/ATLAS is closest to the Earth on Dec. 19, all the features that we are looking for will be easier to detect with our telescopes.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/unexpected-trajectory-erin-sholls-path-to-human-spaceflight-safety/' target='_blank'>Unexpected Trajectory: Erin Sholl’s Path to Human Spaceflight Safety</a></strong> — <em>2025-12-15 10:00:00</em></summary>
-
-Career paths are rarely a straight line and often include some unexpected curves. That is certainly true for Erin Sholl, deputy chief of the Space Transportation Systems Division within the Safety and Mission Assurance Directorate at NASA’s Johnson Space Center in Houston. From struggling with multiplication tables in elementary school to supporting the International Space […]
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellites_help_tackle_landfill_methane_leaks' target='_blank'>Satellites help tackle landfill methane leaks</a></strong> — <em>2025-12-15 09:00:00</em></summary>
-
-
-Satellites are emerging as a powerful new tool in the fight to curb emissions of methane. While methane is much shorter-lived in the atmosphere than carbon dioxide, it is vastly more potent at trapping heat, which makes rapid cuts essential for slowing warming in the short term. The same satellite technology that has transformed methane monitoring in the oil and gas sector is now being turned towards another major source – landfill sites.
+Smooth filaments stretching for many light-years, seen by the powerful space telescope, could indicate what the right "recipe" is for dark matter.
 
 </details>
 
