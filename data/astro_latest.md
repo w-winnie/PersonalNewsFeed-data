@@ -1,321 +1,317 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Recent Developments in Astrophysics
 
-#### Understanding Cosmic Threats: Airbursts and Dark Matter
-Recent findings highlight the potential risks posed by "touchdown airbursts," which are explosive events from comets or asteroids that occur above Earth's surface, releasing intense heat and pressure without leaving physical traces. This research underscores the necessity for improved monitoring of near-Earth objects to mitigate potential threats. Additionally, new models suggest that gravitational waves could help reveal the distribution of dark matter around black holes, offering fresh insights into one of the universe's most enigmatic components.
+#### Insights into Martian Geology
+Recent studies of Martian megaripples by NASA's Perseverance rover have shed light on the planet's current geological processes. These large sand formations, reaching heights of two meters, are shaped by wind, providing a contemporary perspective on Mars' climate and surface evolution. This ongoing research contrasts with the rover's analysis of ancient riverbed rocks, highlighting how both past and present geological activities are crucial for understanding Mars’ environmental history.
 
-Key Items:
-1. Earth may have been ravaged by “invisible” explosions from space - https://www.sciencedaily.com/releases/2025/12/251218060602.htm - Highlights the destructive potential of airbursts.
-2. Gravitational waves may reveal hidden dark matter around black holes - https://www.sciencedaily.com/releases/2025/12/251218060559.htm - A new model indicates gravitational waves could provide insights into dark matter's distribution near black holes.
+Key items:
+1. "Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’" - https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/ - Discusses the significance of megaripples in Martian geology.
+2. "NASA's Perseverance Mars rover could break the record for miles driven on another planet" - https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet - Highlights the rover's exploration achievements.
 
-#### Stellar Dynamics: Capturing Collisions
-Astronomers have made significant advancements in observing stellar dynamics, particularly through the Hubble Space Telescope. For the first time, Hubble has directly imaged asteroid collisions in the Fomalhaut system, providing a unique perspective on the conditions that may have influenced the formation of our solar system. This observation not only enhances our understanding of planetary formation but also offers a window into the chaotic processes that shaped early solar systems.
+#### Discovery of Superkilonova Events
+Astronomers have tentatively identified a new class of cosmic explosions called "superkilonova," which emerged from observations of a double star explosion. This finding challenges existing supernova models, suggesting that these events release energy levels that cannot be accounted for by traditional mechanisms, necessitating a reevaluation of stellar explosion theories.
 
-Key Items:
-1. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time - https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/ - A landmark observation of collisional dynamics.
-2. Astronomers capture 1st direct images of collisions in a nearby star system - https://www.space.com/astronomy/stars/astronomers-capture-1st-direct-images-of-collisions-in-a-nearby-star-system-its-like-looking-back-in-time - Offers a unique perspective on early solar system events.
+Key items:
+1. "Astronomers may have spotted the 1st known 'superkilonova' double star explosion" - https://www.space.com/astronomy/stars/astronomers-may-have-spotted-the-1st-known-superkilonova-double-star-explosion - Explores implications for stellar evolution models.
+2. "Precessing magnetic jet engine model reveals power source of rare 'heartbeat' gamma-ray burst" - https://phys.org/news/2025-12-precessing-magnetic-jet-reveals-power.html - Introduces a new understanding of gamma-ray bursts, related to superkilonova phenomena.
 
-#### Insights into Planetary Formation from Gaia
-The European Space Agency's Gaia mission continues to revolutionize our understanding of planetary formation. Recent observations have detected subtle motions in young star systems, indicating the presence of unseen companions, such as planets or brown dwarfs. These findings not only deepen our comprehension of how planetary systems evolve but also set the stage for future observational campaigns that could unveil more about the early stages of stellar development.
+#### Advancements in Stellar Evolution Observations
+The James Webb Space Telescope (JWST) is making significant contributions to our understanding of galaxy evolution, particularly through its observations of the "Jekyll and Hyde" galaxy, which displays varied characteristics across its structure. This duality provides insights into star formation processes and the role of supermassive black holes in shaping galaxies.
 
-Key Items:
-1. Gaia finds hints of planets in baby star systems - https://phys.org/news/2025-12-gaia-hints-planets-baby-star.html - Reveals the presence of potential planets in early stellar environments.
-2. Webb uncovers Milky Way's turbulent youth through galactic twins - https://phys.org/news/2025-12-webb-uncovers-milky-turbulent-youth.html - Explores the early assembly of galaxies, contributing to the broader narrative of cosmic evolution.
+Key items:
+1. "James Webb Space Telescope watches 'Jekyll and Hyde' galaxy shapeshift into a cosmic monster" - https://www.space.com/astronomy/galaxies/james-webb-space-telescope-watches-jekyll-and-hyde-galaxy-shapeshift-into-a-cosmic-monster - Analyzes the galaxy's unique behaviors.
+2. "Glowing Arc by Andromeda Might Be Remnants of a Dying Star" - https://skyandtelescope.org/astronomy-news/glowing-arc-by-andromeda-might-be-remnants-of-a-dying-star/ - Discusses stellar remnants and ongoing research into stellar life cycles.
 
 ### Conclusion
-The astrophysics field is currently marked by significant observational breakthroughs and theoretical advancements. Research on cosmic threats, stellar dynamics, and planetary formation is reshaping our understanding of the universe's complexities. As missions like Gaia and Hubble continue to provide critical data, the potential for groundbreaking insights into cosmic phenomena is expanding, paving the way for a deeper comprehension of our universe.
+The current landscape in astrophysics is characterized by a blend of innovative observational technologies and groundbreaking discoveries that deepen our understanding of planetary and stellar phenomena. The findings from Mars and the identification of superkilonova events reflect a dynamic field that is constantly evolving. As instruments like the James Webb Space Telescope continue to unveil the complexities of the universe, the implications for our understanding of cosmic processes and the lifecycle of celestial bodies are profound, potentially guiding future research directions.
 
 ### Top Sources:
-1. Earth may have been ravaged by “invisible” explosions from space - https://www.sciencedaily.com/releases/2025/12/251218060602.htm - Highlights the destructive potential of airbursts.
-2. Gravitational waves may reveal hidden dark matter around black holes - https://www.sciencedaily.com/releases/2025/12/251218060559.htm - A new model indicates gravitational waves could provide insights into dark matter's distribution near black holes.
-3. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time - https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/ - A landmark observation of collisional dynamics.
-4. Astronomers capture 1st direct images of collisions in a nearby star system - https://www.space.com/astronomy/stars/astronomers-capture-1st-direct-images-of-collisions-in-a-nearby-star-system-its-like-looking-back-in-time - Offers a unique perspective on early solar system events.
-5. Gaia finds hints of planets in baby star systems - https://phys.org/news/2025-12-gaia-hints-planets-baby-star.html - Reveals the presence of potential planets in early stellar environments.
-6. Webb uncovers Milky Way's turbulent youth through galactic twins - https://phys.org/news/2025-12-webb-uncovers-milky-turbulent-youth.html - Explores the early assembly of galaxies, contributing to the broader narrative of cosmic evolution.
-7. Comet 3I/ATLAS: Europa Clipper captures rare ultraviolet view - https://phys.org/news/2025-12-comet-3iatlas-europa-clipper-captures.html - Details observations of an interstellar comet, enhancing our understanding of such bodies.
-8. Scientists detect X-ray glow from interstellar comet 3I/ATLAS extending 250,000 miles into space - https://www.space.com/astronomy/comets/scientists-detect-x-ray-glow-from-interstellar-comet-3i-atlas-extending-250-000-out-miles-into-space - Provides insights into the comet’s interaction with solar particles.
-9. Life on lava: How microbes colonize new habitats - https://phys.org/news/2025-12-life-lava-microbes-colonize-habitats.html - Explores resilience in ecosystems, relevant for astrobiological studies.
-10. New redback millisecond pulsar discovered with ASKAP - https://phys.org/news/2025-12-redback-millisecond-pulsar-askap.html - Expands the catalog of known pulsars, contributing to our understanding of stellar evolution.
+1. Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’ - https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/ - Insights into Martian geology from Perseverance's observations.
+2. Astronomers may have spotted the 1st known 'superkilonova' double star explosion - https://www.space.com/astronomy/stars/astronomers-may-have-spotted-the-1st-known-superkilonova-double-star-explosion - New class of cosmic explosions identified.
+3. Precessing magnetic jet engine model reveals power source of rare 'heartbeat' gamma-ray burst - https://phys.org/news/2025-12-precessing-magnetic-jet-reveals-power.html - A new model for gamma-ray bursts.
+4. James Webb Space Telescope watches 'Jekyll and Hyde' galaxy shapeshift into a cosmic monster - https://www.space.com/astronomy/galaxies/james-webb-space-telescope-watches-jekyll-and-hyde-galaxy-shapeshift-into-a-cosmic-monster - Observations of a galaxy's dual characteristics.
+5. Glowing Arc by Andromeda Might Be Remnants of a Dying Star - https://skyandtelescope.org/astronomy-news/glowing-arc-by-andromeda-might-be-remnants-of-a-dying-star/ - Potential stellar remnants in Andromeda.
+6. NASA's Perseverance Mars rover could break the record for miles driven on another planet - https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet - Rover's achievements in Martian exploration.
+7. Hubble Glimpses Galactic Gas Making a Getaway - https://science.nasa.gov/missions/hubble/hubble-glimpses-galactic-gas-making-a-getaway/ - Hubble's observations of galactic dynamics.
+8. Football-field-sized balloon takes flight over Antarctica in quest for dark matter answers - https://phys.org/news/2025-12-football-field-sized-balloon-flight.html - Aiming to detect dark matter from Antarctica.
+9. Betelgeuse and the Crab Nebula: Stellar Death and Rebirth - https://science.nasa.gov/solar-system/skywatching/night-sky-network/betelgeuse-and-the-crab-nebula/ - Insights into stellar evolution through Betelgeuse and the Crab Nebula.
+10. Farewell, comet 3I/ATLAS! Interstellar visitor heads for the outer solar system after its closest approach to Earth - https://www.space.com/astronomy/comets/interstellar-comet-3iatlas-heads-for-the-outer-solar-system-after-its-closest-approach-to-earth - Updates on the interstellar comet's trajectory.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251218060602.htm' target='_blank'>Earth may have been ravaged by “invisible” explosions from space</a></strong> — <em>2025-12-19 06:30:09</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/' target='_blank'>Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’</a></strong> — <em>2025-12-20 01:19:24</em></summary>
 
-Cosmic “touchdown airbursts” — explosions of comets or asteroids above Earth’s surface — may be far more common and destructive than previously thought, according to new research. Unlike crater-forming impacts, these events unleash extreme heat and pressure without leaving obvious scars, making them harder to detect.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251218060559.htm' target='_blank'>Gravitational waves may reveal hidden dark matter around black holes</a></strong> — <em>2025-12-19 05:56:58</em></summary>
-
-Gravitational waves from black holes may soon reveal where dark matter is hiding. A new model shows how dark matter surrounding massive black holes leaves detectable fingerprints in the waves recorded by future space observatories.
+Written by Noah Martin, Ph.D. student and Candice Bedford, Research Scientist at Purdue University While much of Perseverance’s work focuses on ancient rocks that record Mars’ long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/space-station-research-supports-new-fda-approved-cancer-therapy/' target='_blank'>Space Station Research Supports New FDA-Approved Cancer Therapy</a></strong> — <em>2025-12-19 04:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/mysterious-bright-blue-cosmic-blasts-triggered-by-black-holes-shredding-stars-scientists-say-its-definitely-not-just-an-exploding-star' target='_blank'>Mysterious bright blue cosmic blasts triggered by black holes shredding stars, scientists say. 'It's definitely not just an exploding star.'</a></strong> — <em>2025-12-19 22:00:00</em></summary>
 
-NASA opens the International Space Station for scientists and researchers, inviting them to use the benefits of microgravity for private industry research, technology demonstrations, and more. Today, half of the crew’s time aboard station is devoted to these aims, including medical research that addresses complex health challenges on Earth and prepares astronauts for future deep […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/space-station-research-supports-new-fda-approved-cancer-therapy/' target='_blank'>Space Station Research Supports New FDA-Approved Cancer Therapy</a></strong> — <em>2025-12-19 04:00:00</em></summary>
-
-NASA opens the International Space Station for scientists and researchers, inviting them to use the benefits of microgravity for private industry research, technology demonstrations, and more. Today, half of the crew’s time aboard station is devoted to these aims, including medical research that addresses complex health challenges on Earth and prepares astronauts for future deep […]
+"The sheer amount of radiated energy from these bursts is so large that you can't power them with a core collapse stellar explosion — or any other type of normal stellar explosion."
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4743-4749-polygons-in-the-hollow/' target='_blank'>Curiosity Blog, Sols 4743-4749:  Polygons in the Hollow</a></strong> — <em>2025-12-19 01:30:38</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/first-ever-lego-star-trek-set-now-available-with-free-gift' target='_blank'>Lego has gone boldly where they have never gone before with their first-ever Star Trek set, and it's back in stock with a free gift!</a></strong> — <em>2025-12-19 21:05:00</em></summary>
 
-Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth Planning Date: Friday, Dec. 12, 2025 The weekend drive starting from the “Nevado Sajama” drill site brought Curiosity back into the “Monte Grande” boxwork hollow. We’ve been in this hollow before for the “Valle de la Luna” drill campaign, but now that […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/trump-signs-sweeping-executive-order-aimed-at-ensuring-american-space-superiority' target='_blank'>Trump signs sweeping executive order aimed at 'ensuring American space superiority'</a></strong> — <em>2025-12-19 00:23:32</em></summary>
-
-On Thursday (Dec. 18), President Donald Trump issued an executive order designed to ensure American space superiority. It calls for the initial construction of a moon base by 2030, among other goals.
+The 3,600-piece Lego Icons Star Trek USS Enterprise is Lego's first-ever Star Trek set, and you get a free gift when you purchase it before Christmas eve.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/general/moonmascot/' target='_blank'>Moon Mascot: NASA Artemis II ZGI Design Challenge</a></strong> — <em>2025-12-18 21:52:17</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-may-have-spotted-the-1st-known-superkilonova-double-star-explosion' target='_blank'>Astronomers may have spotted the 1st known 'superkilonova' double star explosion</a></strong> — <em>2025-12-19 21:00:00</em></summary>
 
-Whose Moon Mascot design will join the Artemis II astronauts on their historic voyage around the Moon in early 2026? Between March 7 and Jun. 16, 2025, NASA worked with crowdsourcing company Freelancer to seek design ideas from global creators for a zero gravity indicator that will fly aboard the agency’s Artemis II test flight. Zero gravity […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-life-lava-microbes-colonize-habitats.html' target='_blank'>Life on lava: How microbes colonize new habitats</a></strong> — <em>2025-12-18 21:01:31</em></summary>
-
-Life has a way of bouncing back, even after catastrophic events like forest fires or volcanic eruptions. While nature's resilience to natural disasters has long been recognized, not much is known about how organisms colonize brand-new habitats for the first time. A new study led by a team of ecologists and planetary scientists from the University of Arizona provides glimpses into a poorly understood process.
+"We do not know with certainty that we found a superkilonova, but the event nevertheless is eye-opening."
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-announces-2025-international-space-apps-challenge-global-winners/' target='_blank'>NASA Announces 2025 International Space Apps Challenge Global Winners</a></strong> — <em>2025-12-18 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/' target='_blank'>NASA Shares SpaceX Crew-12 Assignments for Space Station Mission</a></strong> — <em>2025-12-19 20:21:53</em></summary>
 
-NASA Space Apps announced Thursday 10 winners of the 2025 NASA Space Apps Challenge. During this two-day hackathon, participants gathered at 551 local events across 167 countries and territories to showcase their STEM skills and proposed ways to transform NASA’s open data into actionable tools. More than 114,000 participants came together to address challenges created […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/the-best-streaming-devices-to-have-all-your-subscriptions-in-one-place' target='_blank'>Best streaming devices to watch sci-fi shows and movies in 2025</a></strong> — <em>2025-12-18 21:00:00</em></summary>
-
-Convert your TV into a smart TV with a streaming stick and watch all your favorite sci-fi shows and movies in one place, to access your streaming service of choice.
+As part of NASA’s SpaceX Crew-12 mission, four crew members from three space agencies will launch no earlier than Sunday, Feb. 15, 2026, to the International Space Station for a long-duration science expedition. NASA astronauts Jessica Meir and Jack Hathaway will serve as spacecraft commander and pilot, respectively, and will be accompanied by ESA (European […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/why-are-the-avatar-movies-so-massive-their-success-seems-to-defy-conventional-logic' target='_blank'>Why are the 'Avatar' movies so massive? Their success seems to defy conventional logic</a></strong> — <em>2025-12-18 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/' target='_blank'>NASA Shares SpaceX Crew-12 Assignments for Space Station Mission</a></strong> — <em>2025-12-19 20:21:53</em></summary>
 
-They're not part of a vast, Marvel-style universe, and neither is a classic. So why are the "Avatar" movies so successful?
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-spherex-telescope-full-sky-infrared.html' target='_blank'>SPHEREx telescope completes first full-sky infrared map in 102 colors</a></strong> — <em>2025-12-18 20:30:06</em></summary>
-
-Launched in March, NASA's SPHEREx space telescope has completed its first infrared map of the entire sky in 102 colors.
+As part of NASA’s SpaceX Crew-12 mission, four crew members from three space agencies will launch no earlier than Sunday, Feb. 15, 2026, to the International Space Station for a long-duration science expedition. NASA astronauts Jessica Meir and Jack Hathaway will serve as spacecraft commander and pilot, respectively, and will be accompanied by ESA (European […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/a-spacex-starlink-satellite-is-tumbling-and-falling-out-of-space-after-partial-breakup-in-orbit' target='_blank'>A SpaceX Starlink satellite is tumbling and falling out of space after partial breakup in orbit</a></strong> — <em>2025-12-18 19:51:11</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/these-2-companies-are-teaming-up-to-offer-insurance-for-space-debris-strikes-on-satellites' target='_blank'>These 2 companies are teaming up to offer insurance for space debris strikes on satellites</a></strong> — <em>2025-12-19 20:00:00</em></summary>
 
-One of SpaceX's Starlink broadband satellites suffered an anomaly in orbit on Wednesday (Dec. 17) that led to its partial breakup, according to the company.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/nasa-lab-completes-engine-checks-on-new-aircraft/' target='_blank'>NASA Lab Completes Engine Checks on New Aircraft</a></strong> — <em>2025-12-18 19:26:40</em></summary>
-
-Justin Hall, left, controls a subscale aircraft as Justin Link holds the aircraft in place during preliminary engine tests on Friday, Sept. 12, 2025, at NASA’s Armstong Flight Research Center in Edwards, California. Hall, chief pilot at the center’s Dale Reed Subscale Flight Research Laboratory, and Link, a pilot for small uncrewed aircraft systems, are […]
+Odin Space and Arkisys are teaming up to provide customers with pioneering insurance for spacecraft specifically to cover space debris collision events.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-capture-1st-direct-images-of-collisions-in-a-nearby-star-system-its-like-looking-back-in-time' target='_blank'>Astronomers capture 1st direct images of collisions in a nearby star system: 'It's like looking back in time'</a></strong> — <em>2025-12-18 19:01:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/' target='_blank'>NASA Johnson’s 2025 Milestones</a></strong> — <em>2025-12-19 19:59:20</em></summary>
 
-"It's like looking back in time in a sense, to that violent period of our solar system when it was less than a billion years old."
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/' target='_blank'>NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time</a></strong> — <em>2025-12-18 19:00:42</em></summary>
-
-Like a game of cosmic bumper cars, scientists think the early days of our solar system were a time of violent turmoil, with planetesimals, asteroids, and comets smashing together and pelting the Earth, Moon, and the other inner planets with debris. Now, in a historical milestone, NASA’s Hubble Space Telescope has directly imaged similar catastrophic […]
+NASA’s Johnson Space Center in Houston closed 2025 with major progress across human spaceflight, research, and exploration. From Artemis II mission preparations to science aboard the International Space Station, teams at Johnson helped prepare for future missions to the Moon and, ultimately, Mars. Orion Stacked for Artemis II, Orion Mission Evaluation Room Unveiled  As NASA […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-hubble-captures-rare-collision-nearby.html' target='_blank'>Hubble captures rare collision in nearby planetary system</a></strong> — <em>2025-12-18 19:00:07</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/' target='_blank'>NASA Johnson’s 2025 Milestones</a></strong> — <em>2025-12-19 19:59:20</em></summary>
 
-In an unprecedented celestial event, NASA's Hubble Space Telescope (HST) captured the dramatic aftermath of colliding space rocks within a nearby planetary system.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_asteroids_colliding_around_nearby_star' target='_blank'>Hubble sees asteroids colliding around nearby star</a></strong> — <em>2025-12-18 19:00:00</em></summary>
-
-
-In a historical milestone, astronomers using the NASA/ESA Hubble Space Telescope witnessed the catastrophic collisions in a nearby planetary system. As they observed the bright star Fomalhaut, scientists saw the impact of massive objects around the star. The Fomalhaut system appears to be in a dynamical upheaval, similar to what our Solar System experienced in its first few hundred million years after formation.
+NASA’s Johnson Space Center in Houston closed 2025 with major progress across human spaceflight, research, and exploration. From Artemis II mission preparations to science aboard the International Space Station, teams at Johnson helped prepare for future missions to the Moon and, ultimately, Mars. Orion Stacked for Artemis II, Orion Mission Evaluation Room Unveiled  As NASA […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/' target='_blank'>NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings</a></strong> — <em>2025-12-18 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/' target='_blank'>NASA Johnson’s 2025 Milestones</a></strong> — <em>2025-12-19 19:59:20</em></summary>
 
-The airliner you board in the future could look a lot different from today’s, with longer, thinner wings that provide a smoother ride while saving fuel. Those wings would be a revolutionary design for commercial aircraft, but like any breakthrough technology, they come with their own development challenges – which experts from NASA and Boeing […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/' target='_blank'>NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings</a></strong> — <em>2025-12-18 19:00:00</em></summary>
-
-The airliner you board in the future could look a lot different from today’s, with longer, thinner wings that provide a smoother ride while saving fuel. Those wings would be a revolutionary design for commercial aircraft, but like any breakthrough technology, they come with their own development challenges – which experts from NASA and Boeing […]
+NASA’s Johnson Space Center in Houston closed 2025 with major progress across human spaceflight, research, and exploration. From Artemis II mission preparations to science aboard the International Space Station, teams at Johnson helped prepare for future missions to the Moon and, ultimately, Mars. Orion Stacked for Artemis II, Orion Mission Evaluation Room Unveiled  As NASA […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/4-ways-to-track-3i-atlas-without-a-telescope-as-it-makes-its-closest-approach-to-earth-tonight' target='_blank'>4 ways to track 3I/ATLAS without a telescope as it makes its closest approach to Earth tonight</a></strong> — <em>2025-12-18 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/' target='_blank'>NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam</a></strong> — <em>2025-12-19 19:57:34</em></summary>
 
-Interstellar visitor 3I/ATLAS is travelling away from the sun on its way back to interstellar space.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/spherex/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/' target='_blank'>NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other</a></strong> — <em>2025-12-18 17:56:48</em></summary>
-
-Launched in March, NASA’s SPHEREx space telescope has completed its first infrared map of the entire sky in 102 colors. While not visible to the human eye, these 102 infrared wavelengths of light are prevalent in the cosmos, and observing the entire sky this way enables scientists to answer big questions, including how a dramatic […]
+Just like your cellphone stays connected by roaming between networks, NASA’s Polylingual Experimental Terminal, or PExT, technology demonstration is proving space missions can do the same by switching seamlessly between government and commercial communications networks.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/' target='_blank'>NASA Welcomes 15th Administrator Jared Isaacman</a></strong> — <em>2025-12-18 17:56:33</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/' target='_blank'>NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam</a></strong> — <em>2025-12-19 19:57:34</em></summary>
 
-Jared Isaacman was sworn in Thursday as NASA’s 15th administrator by District Judge Timothy J. Kelly. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington.  As NASA administrator, Isaacman will lead the agency in bold pursuit of exploration, innovation, and scientific discovery.  “I am deeply honored to be sworn […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-webb-uncovers-milky-turbulent-youth.html' target='_blank'>Webb uncovers Milky Way's turbulent youth through galactic twins</a></strong> — <em>2025-12-18 17:41:34</em></summary>
-
-How galaxies assemble their stars and grow over billions of years remains one of the central questions in astronomy. Recent results from the James Webb Space Telescope (JWST), including reports of surprisingly massive and evolved galaxies in the early universe, have only deepened the mystery. Understanding how our own home galaxy, the Milky Way, built itself over time provides a crucial piece of this broader cosmic puzzle.
+Just like your cellphone stays connected by roaming between networks, NASA’s Polylingual Experimental Terminal, or PExT, technology demonstration is proving space missions can do the same by switching seamlessly between government and commercial communications networks.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/stennis/a-look-back-2025/' target='_blank'>A Look Back at NASA Stennis in 2025</a></strong> — <em>2025-12-18 17:01:07</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/glowing-arc-by-andromeda-might-be-remnants-of-a-dying-star/' target='_blank'>Glowing Arc by Andromeda Might Be Remnants of a Dying Star</a></strong> — <em>2025-12-19 19:14:53</em></summary>
 
-In 2025, NASA’s Stennis Space Center near Bay St. Louis, Mississippi, marked a year of progress by supporting NASA’s Artemis campaign, celebrating historic milestones, and continuing its role as a trusted propulsion test partner at America’s largest rocket propulsion test site. “For more than six decades, NASA Stennis has proudly represented the Gulf Coast region […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-comet-3iatlas-europa-clipper-captures.html' target='_blank'>Comet 3I/ATLAS: Europa Clipper captures rare ultraviolet view</a></strong> — <em>2025-12-18 17:00:41</em></summary>
-
-The Southwest Research Institute-led Ultraviolet Spectrograph (UVS) aboard NASA's Europa Clipper spacecraft has made valuable observations of the interstellar comet 3I/ATLAS, which in July became the third officially recognized interstellar object to cross into our solar system. UVS had a unique view of the object during a period when Mars- and Earth-based observations were impractical or impossible.
+Discovered by amateur astronomers, a mysterious arc of gas might be the ghostly remains of a star shedding its outer layers. However, astronomers haven’t reached a consensus yet.
+The post Glowing Arc by Andromeda Might Be Remnants of a Dying Star appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/12/342nd_Council_Media_information_session' target='_blank'>342nd Council: Media information session</a></strong> — <em>2025-12-18 17:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/as-avatar-returns-to-theaters-theres-never-been-a-better-time-to-check-out-avatar-frontiers-of-pandora' target='_blank'>As Avatar returns to theaters, there's never been a better time to check out 'Avatar: Frontiers of Pandora'</a></strong> — <em>2025-12-19 18:00:00</em></summary>
+
+Ubisoft's ambitious open-world game remains the best way to immerse yourself in Pandora's lush locales, exotic creatures, and fierce battles.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/water-droplet-science/' target='_blank'>Water Droplet Science</a></strong> — <em>2025-12-19 17:43:10</em></summary>
+
+NASA astronaut Don Pettit demonstrates electrostatic forces using charged water droplets and a knitting needle made of Teflon. This series of overlapping frames from Feb. 19, 2025, displays the unique attraction-repulsion properties of Teflon and charged droplets, similar to how charged particles from the Sun behave when they come in contact with Earth’s magnetic field. […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-webb-captures-dwarf-stars-glittering.html' target='_blank'>Webb captures dwarf stars in a glittering sky</a></strong> — <em>2025-12-19 17:20:08</em></summary>
+
+The final ESA/Webb Picture of the Month feature for 2025 showcases a festive-looking region filled with glowing clouds of gas and thousands of sparkling stars. This star cluster, known as Westerlund 2, resides in a stellar breeding ground known as Gum 29, located 20,000 light-years away from Earth in the constellation Carina (the Keel).
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/love-capturing-the-cosmos-make-your-money-go-further-this-christmas-with-these-last-minute-camera-and-lens-deals' target='_blank'>Love capturing the cosmos? Make your money go further this Christmas with these last-minute camera and lens deals</a></strong> — <em>2025-12-19 17:00:00</em></summary>
+
+Whether you're buying for yourself or hunting for a gift for a keen astrophotographer, there's still time to save hundreds with these last-minute deals on cameras and lenses.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/2-of-earths-rarest-lightning-phenomena-captured-simultaneously-in-once-in-a-lifetime-photo' target='_blank'>2 of Earth's rarest lightning phenomena captured simultaneously in once-in-a-lifetime photo</a></strong> — <em>2025-12-19 17:00:00</em></summary>
+
+A photographer in Italy captured an ultra-rare elve and red sprite flashing above the Alps in a single breathtaking moment.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-precessing-magnetic-jet-reveals-power.html' target='_blank'>Precessing magnetic jet engine model reveals power source of rare 'heartbeat' gamma-ray burst</a></strong> — <em>2025-12-19 16:51:27</em></summary>
+
+Prof. An Tao from the Shanghai Astronomical Observatory (SHAO) of the Chinese Academy of Sciences has proposed a novel "precessing magnetic jet engine" model to explain the peculiar gamma-ray burst (GRB) 250702B, a rare cosmic explosion discovered on July 2, 2025.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_the_journey_of_satellites_33_and_34' target='_blank'>Galileo: the journey of satellites 33 and 34</a></strong> — <em>2025-12-19 16:30:00</em></summary>
 
 
 	Video: 
-			00:00:00
-				Watch the replay of the media information session in which ESA Director General Josef Aschbacher and ESA Council Chair Renato Krpoun (CH) update journalists on key decisions taken at the ESA Council meeting, held at ESA Headquarters in Paris on 17 and 18 December 2025.
+			00:05:30
+				On 17 December 2025, two new Galileo satellites lifted off from Europe’s Spaceport in French Guiana. This was the 14th launch for Europe’s satellite navigation operational satellite programme, reinforcing Europe’s resilience and autonomy. The flight, VA266, was the first launch of Galileo satellites on Europe’s newest heavy-lift launcher Ariane 6. The satellites, designated SAT 33 and SAT 34, separated from the launcher after a flight of just under four hours. The launch was declared successful after acquisition of signal and the confirmation that both satellites are healthy with their solar arrays deployed. “With these new satellites, we strengthen Europe’s global navigation services - delivering greater precision, reliability and autonomy in space”, affirmed Andrius Kubilius, EU Commissioner for Defence and Space.  “Galileo stands as the world’s most accurate global navigation satellite system – and today we have increased its reliability and robustness,” said Josef Aschbacher, ESA’s Director General.  The European Space Agency was responsible for carrying out the Galileo launch with Arianespace on behalf of the European Commission. The Galileo satellites were manufactured by OHB, under contract with ESA. Now in orbit, the EU Agency for the Space Programme (EUSPA) brings the satellites into service and oversees their operation. Follow the launch campaign. Access the related broadcast quality video material. 
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/crash-clock-reveals-how-soon-satellite-collisions-would-occur-after-a-severe-solar-storm-and-its-pretty-scary' target='_blank'>'Crash Clock' reveals how soon satellite collisions would occur after a severe solar storm — and it's pretty scary</a></strong> — <em>2025-12-18 17:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/About_Us/Business_with_ESA/Post-CM25_industry_event_online_set_for_14_January' target='_blank'>Post-CM25 industry event online set for 14 January</a></strong> — <em>2025-12-19 16:05:00</em></summary>
 
-Satellites would likely begin colliding with each other or space junk in less than three days if they were to lose the ability to maneuver, for example due to an intense solar storm.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-bent-complex-planetary-architectures.html' target='_blank'>Using bent light to map complex planetary architectures</a></strong> — <em>2025-12-18 16:31:40</em></summary>
-
-With new technologies comes new discoveries. Or so Spider Man's Uncle Ben might have said if he was an astronomer. Or a scientist more generally—but in astronomy that saying is more true than many other disciplines, as many discoveries are entirely dependent on the technology—the telescope, imager, or processing algorithm—used to collect data on them.
+On 14 January 2026, the European Space Agency (ESA) will hold an online post-CM25 industry event for all ESA industrial partners.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/ames/2025-in-review-highlights-from-nasa-in-silicon-valley/' target='_blank'>2025 in Review: Highlights from NASA in Silicon Valley</a></strong> — <em>2025-12-18 16:20:55</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/james-webb-space-telescope-watches-jekyll-and-hyde-galaxy-shapeshift-into-a-cosmic-monster' target='_blank'>James Webb Space Telescope watches 'Jekyll and Hyde' galaxy shapeshift into a cosmic monster</a></strong> — <em>2025-12-19 16:00:00</em></summary>
 
-NASA’s Ames Research Center in California’s Silicon Valley continued to make strides in research, technology, engineering, science, and innovation this past year. Join us as we take a look back at some of the highlights from 2025. From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II By combining the technologies of the NASA Advanced […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-ursid-meteor-shower-peaks-christmas.html' target='_blank'>Catch the Ursid meteor shower as it peaks just before Christmas</a></strong> — <em>2025-12-18 16:20:01</em></summary>
-
-The last major meteor shower of the year, known as the Ursids, peaks soon, bringing glowing streaks to nighttime and early morning skies. Compared to other meteor showers, it's more subdued, but experts say it's still worth a glimpse.
+"Virgil has two personalities, its 'good' side – a typical young galaxy quietly forming stars. But Virgil transforms into the host of a heavily obscured supermassive black hole, pouring out immense quantities of energy."
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251218060556.htm' target='_blank'>Astronomers just watched a black hole twist spacetime</a></strong> — <em>2025-12-18 15:41:26</em></summary>
+<details><summary><strong><a href='https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_October-December' target='_blank'>ESA Impact 2025 - October-December</a></strong> — <em>2025-12-19 15:49:00</em></summary>
 
-Astronomers have detected spacetime itself being dragged and twisted by a spinning black hole for the first time. The discovery, seen during a star’s violent destruction, confirms a prediction made over 100 years ago and reveals new clues about how black holes spin and launch jets.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-gaia-hints-planets-baby-star.html' target='_blank'>Gaia finds hints of planets in baby star systems</a></strong> — <em>2025-12-18 15:38:45</em></summary>
-
-Ever wondered how planetary systems like our own solar system form? Thanks to the European Space Agency's Gaia space telescope, we're getting a unique peek behind the cosmic curtain into these dusty environments.
+ESA Impact 2025 - October-December
+Welcome to ESA Impact, your interactive gateway to the most captivating stories and stunning visuals from the European Space Agency, now in a mobile-friendly format.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/scientists-detect-x-ray-glow-from-interstellar-comet-3i-atlas-extending-250-000-out-miles-into-space' target='_blank'>Scientists detect X-ray glow from interstellar comet 3I/ATLAS extending 250,000 miles into space</a></strong> — <em>2025-12-18 15:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-december-19-28/' target='_blank'>This Week's Sky at a Glance, December 19 – 28</a></strong> — <em>2025-12-19 15:11:56</em></summary>
 
-A rare interstellar comet has been caught in X-rays by two space telescopes, revealing how its gases interact with charged particles from the sun as it travels through the inner solar system.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-neural-networks-reveal-nature-dark.html' target='_blank'>Interpretable neural networks help reveal the nature of dark matter</a></strong> — <em>2025-12-18 14:42:42</em></summary>
-
-A research team from the Xinjiang Astronomical Observatory (XAO) of the Chinese Academy of Sciences has developed an interpretable artificial intelligence (AI) framework named Convolutional Kolmogorov–Arnold Network (CKAN), which sheds new light on the properties of dark matter at galaxy-cluster scales.
+We greet the winter solstice. Jupiter nears opposition. Will the two Dog Stars balance for you? And meet the House in the Hyades.
+The post This Week's Sky at a Glance, December 19 – 28 appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/will-2026-still-bring-strong-auroras-what-the-suns-recent-activity-tells-us' target='_blank'>Will 2026 bring strong auroras? What the sun's recent activity tells us</a></strong> — <em>2025-12-18 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet' target='_blank'>NASA's Perseverance Mars rover could break the record for miles driven on another planet</a></strong> — <em>2025-12-19 15:00:00</em></summary>
 
-2025 was another busy year on the sun. But how did it compare with 2024, and what will 2026 bring for solar activity and the northern lights?
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/as-above-so-below-earth-in-the-sky-space-photo-of-the-day-for-dec-18-2025' target='_blank'>As above, so below: Earth in the sky | Space photo of the day for Dec. 18, 2025</a></strong> — <em>2025-12-18 13:46:22</em></summary>
-
-This 3D rendering of our planet was part of France's Festival of Lights celebration.
+"There is a lot to keep us busy."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-redback-millisecond-pulsar-askap.html' target='_blank'>New redback millisecond pulsar discovered with ASKAP</a></strong> — <em>2025-12-18 12:58:19</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nssc/metrics/' target='_blank'>Metrics</a></strong> — <em>2025-12-19 14:42:45</em></summary>
 
-Using the Australian SKA Pathfinder (ASKAP) telescope, astronomers have discovered a new millisecond pulsar (MSPs) at a distance of some 7,000 light years away. The newfound pulsar, which received designation PSR J1728−4608, belongs to the so-called "spider" class of MSPs. The finding was reported in a paper published Dec. 10 on the arXiv pre-print server.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/news/live/night-sky-what-you-can-see-tonight' target='_blank'>Night sky tonight: See the Orion Nebula shine after dark on Dec. 18</a></strong> — <em>2025-12-18 11:11:59</em></summary>
-
-Find out what you can see in the night sky for tonight, from planets and stars to dazzling meteor showers.
+Services Catalog Click here to view the FY25 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/what-time-will-interstellar-comet-3i-atlas-be-closest-to-earth-on-dec-19' target='_blank'>What time will interstellar comet 3I/ATLAS be closest to Earth today?</a></strong> — <em>2025-12-18 11:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-football-field-sized-balloon-flight.html' target='_blank'>Football-field-sized balloon takes flight over Antarctica in quest for dark matter answers</a></strong> — <em>2025-12-19 14:36:13</em></summary>
 
-NASA JPL pinpoints the moment the interstellar visitor passes closest to our planet.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/which-is-the-best-star-projector-for-under-50-dollars' target='_blank'>Which is the best star projector for under $50 this Christmas?</a></strong> — <em>2025-12-18 10:00:00</em></summary>
-
-After testing and reviewing countless star projectors over the years, we're putting the very best head-to-head to determine which is the best for under $50 this Christmas.
+A scientific experiment aimed at detecting dark matter in space launched from Antarctica on December 15, with significant contributions from University of Hawaiʻi at Mānoa.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/10-gifts-under-100-dollars-to-kit-out-any-space-loving-kids-bedroom' target='_blank'>10 gifts under $100 to transform any space-loving kid's bedroom</a></strong> — <em>2025-12-18 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-space-station-fda-cancer-therapy.html' target='_blank'>Space station research supports new FDA-approved cancer therapy</a></strong> — <em>2025-12-19 14:34:52</em></summary>
 
-Totally transform a kid’s bedroom into a hub of space exploration without breaking the bank this holiday season.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-shortest-day-year-descending-northern.html' target='_blank'>The shortest day of the year is descending on the Northern Hemisphere. Here's what to know</a></strong> — <em>2025-12-18 09:06:11</em></summary>
-
-Yes the darkest day of the year is here, but that means brighter days are ahead. Sunday is the shortest day of the year north of the equator, where the solstice marks the start of astronomical winter. It's the opposite in the Southern Hemisphere, where it is the longest day of the year and summer will start.
+NASA opens the International Space Station for scientists and researchers, inviting them to use the benefits of microgravity for private industry research, technology demonstrations, and more. Today, half of the crew's time aboard station is devoted to these aims, including medical research that addresses complex health challenges on Earth and prepares astronauts for future deep space missions.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/12/Gaia_finds_hints_of_planets_in_baby_star_systems' target='_blank'>Gaia finds hints of planets in baby star systems</a></strong> — <em>2025-12-18 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_December_2025' target='_blank'>Week in images: 15-19 December 2025</a></strong> — <em>2025-12-19 14:15:00</em></summary>
+
+
+Week in images: 15-19 December 2025
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-advanced-civilizations-communicate-fireflies.html' target='_blank'>Could advanced civilizations communicate like fireflies</a></strong> — <em>2025-12-19 14:09:22</em></summary>
+
+Long before scientists discovered that other stars in the universe host their own planetary systems, humanity had contemplated the existence of life beyond Earth. As our technology matured and we began monitoring the night sky in multiple wavelengths (i.e., radio waves), this curiosity became a genuine scientific pursuit. By the 1960s, a scientific field dedicated to the search for advanced life (similar to ours) emerged: the Search for Extraterrestrial Intelligence (SETI). Since then, multiple SETI surveys have been conducted to search for potential signs of technological activity (aka "technosignatures").
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/best-lego-avatar-sets-2025' target='_blank'>Best Lego Avatar sets 2025</a></strong> — <em>2025-12-19 14:05:00</em></summary>
+
+If you're a Pandora-loving moviegoer who can't get enough of the Na'vi culture, keep an eye on these stunning Lego Avatar sets.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/geminid-meteors-streak-under-green-sky-space-photo-of-the-day-for-dec-19-2025' target='_blank'>Geminid meteors streak under green sky | Space photo of the day for Dec. 19, 2025</a></strong> — <em>2025-12-19 14:00:00</em></summary>
+
+Astrophotographer Josh Dury has captured the beauty of the Geminids in this stunning timelapse exposure.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/travelling-over-the-holidays-maximize-your-online-safety-with-our-exclusive-72-percent-discount-on-norton-vpn' target='_blank'>Traveling over the holidays? Maximize your online safety with our exclusive 72% discount on Norton VPN</a></strong> — <em>2025-12-19 13:40:39</em></summary>
+
+A VPN provides vastly improved online security for your device and can unlock streaming content from back home. Our exclusive Norton VPN deal saves you 72%.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/best-vpn-services-we-recommend' target='_blank'>Best VPN services we recommend 2025</a></strong> — <em>2025-12-19 13:05:00</em></summary>
+
+A VPN is a great tool for online safety and streaming, and ensuring content won't be geo-locked on your travels. These are the six best options out there.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/south-korea-innospace-first-orbital-launch-attempt-spaceward' target='_blank'>Watch South Korean startup Innospace attempt its 1st-ever orbital launch today</a></strong> — <em>2025-12-19 13:00:00</em></summary>
+
+The South Korean startup Innospace will attempt its first orbital launch from Brazil's Alcântara Space Center on Friday (Dec. 19), and you can watch the action live.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/hubble-glimpses-galactic-gas-making-a-getaway/' target='_blank'>Hubble Glimpses Galactic Gas Making a Getaway</a></strong> — <em>2025-12-19 12:00:00</em></summary>
+
+A sideways spiral galaxy shines in this NASA/ESA Hubble Space Telescope image. Located about 60 million light-years away in the constellation Virgo (the Maiden), NGC 4388 is a resident of the Virgo galaxy cluster. This enormous cluster of galaxies contains more than a thousand members and is the nearest large galaxy cluster to the Milky […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/interstellar-comet-3iatlas-heads-for-the-outer-solar-system-after-its-closest-approach-to-earth' target='_blank'>Farewell, comet 3I/ATLAS! Interstellar visitor heads for the outer solar system after its closest approach to Earth</a></strong> — <em>2025-12-19 11:33:20</em></summary>
+
+3I/ATLAS has now made its closest approach to the sun and Earth and is now heading back out toward the outer solar system.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/solar-system/skywatching/night-sky-network/betelgeuse-and-the-crab-nebula/' target='_blank'>Betelgeuse and the Crab Nebula: Stellar Death and Rebirth</a></strong> — <em>2025-12-19 11:00:00</em></summary>
+
+In 2019, Betelgeuse dimmed in brightness, sparking speculation that it may soon explode as a supernova. While it likely won’t explode quite yet, we can preview its fate by observing the nearby Crab Nebula.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/how-interstellar-comet-3i-atlas-went-from-routine-discovery-to-viral-obsession-in-2025' target='_blank'>How did interstellar comet 3I/ATLAS capture our imagination in 2025?</a></strong> — <em>2025-12-19 11:00:00</em></summary>
+
+For one, it came down to timing.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-trump-shifts-priority-moon-mission.html' target='_blank'>Trump shifts priority to moon mission, not Mars</a></strong> — <em>2025-12-19 09:14:05</em></summary>
+
+US President Donald Trump on Thursday confirmed that he wants to send astronauts back to the moon as soon as possible, putting eventual Mars missions on the back burner.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/12/Webb_Dwarf_stars_in_a_glittering_sky' target='_blank'>Webb: Dwarf stars in a glittering sky</a></strong> — <em>2025-12-19 09:00:00</em></summary>
 
 
 	Image:
-			Ever wondered how planetary systems like our own Solar System form? Thanks to the European Space Agency’s Gaia space telescope, we're getting a unique peek behind the cosmic curtain into these dusty environments.In this collage, we see the images of 31 baby star systems. Click on the white dots next to each system to find out more about them. The bar on the top right shows the scale of the image in Astronomical Units (AU).The collage also shows our own Solar System for reference on the bottom right, as it is predicted to have looked at an age of 1 million years, with the Sun at its centre (not visible).All of the systems are centred around very young stars that have recently collapsed from vast clouds of gas and dust.After the clouds collapsed under their own gravity, they spun faster and flattened into discs with hot, dense centres. These centres became the stars, sometimes multiple stars were formed. The discs around them are called protoplanetary discs.The 31 baby systems are shown here in orange-purple, as seen by the Atacama Large Millimeter Array (ALMA) ground-based telescope.Astronomers expect the remaining material in protoplanetary discs to clump together to form planets, but until now it’s been very difficult to spot them because of all the dust and gas present in discs. To date, very few planets have been detected around forming stars.Enter Gaia.In 31 out of 98 young star systems, Gaia has detected subtle motions that suggest the presence of unseen companions. For seven of these systems, the observed motions are consistent with objects of planetary mass. In eight systems, the data best match the presence of brown dwarfs – objects larger than planets but smaller than stars. The remaining sixteen systems likely have additional stars around.Gaia’s predicted locations of these companions in the systems are shown in cyan. In the reference image of our baby Solar System, Jupiter’s orbit is also shown in cyan.Gaia discovered the companions in the baby star systems thanks to its unique ability to sense the gravitational tug or ‘wobble’ a planet or companion induces on a star. This technique had already been used to find companions around older stars. But now, for the first time, a team of astronomers led by Miguel Vioque of the European Southern Observatory, Germany, has used this Gaia technique to find planets and companions around stars that are still forming.The all-sky, large-scale nature of the Gaia survey enabled the team to study hundreds of forming stars and identify companions across large samples for the first time. This in contrast to costly ground-based searches that can only target a few stars at a time.This ability of Gaia is revolutionising the field of star and planet formation. The companions that the telescope has already found, can now be followed up by telescopes like the NASA/ESA/CSA James Webb Space telescope that can study the inner discs of the baby systems in more detail.With Gaia’s upcoming fourth data release, many more hidden planets are expected to be uncovered.This new finding has been described in ‘Astrometric view of companions in the inner dust cavities of protoplanetary disks’ by M. Vioque et al., accepted for publication in Astronomy & Astrophysics. Learn more[Image description: A collage of 32 glowing discs on a black background. Each disc shows concentric rings in vivid colours: purple, orange, and yellow, with bright cyan centres. The discs vary in size and orientation, creating a striking pattern of circular and elliptical shapes.]
+			Dwarf stars in a glittering sky
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/12/Gaia_finds_hints_of_planets_in_baby_star_systems' target='_blank'>Gaia finds hints of planets in baby star systems</a></strong> — <em>2025-12-18 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/12/Earth_from_Space_Manicouagan_crater' target='_blank'>Earth from Space: Manicouagan crater</a></strong> — <em>2025-12-19 09:00:00</em></summary>
 
 
 	Image:
-			Ever wondered how planetary systems like our own Solar System form? Thanks to the European Space Agency’s Gaia space telescope, we're getting a unique peek behind the cosmic curtain into these dusty environments.In this collage, we see the images of 31 baby star systems. Click on the white dots next to each system to find out more about them. The bar on the top right shows the scale of the image in Astronomical Units (AU).The collage also shows our own Solar System for reference on the bottom right, as it is predicted to have looked at an age of 1 million years, with the Sun at its centre (not visible).All of the systems are centred around very young stars that have recently collapsed from vast clouds of gas and dust.After the clouds collapsed under their own gravity, they spun faster and flattened into discs with hot, dense centres. These centres became the stars, sometimes multiple stars were formed. The discs around them are called protoplanetary discs.The 31 baby systems are shown here in orange-purple, as seen by the Atacama Large Millimeter Array (ALMA) ground-based telescope.Astronomers expect the remaining material in protoplanetary discs to clump together to form planets, but until now it’s been very difficult to spot them because of all the dust and gas present in discs. To date, very few planets have been detected around forming stars.Enter Gaia.In 31 out of 98 young star systems, Gaia has detected subtle motions that suggest the presence of unseen companions. For seven of these systems, the observed motions are consistent with objects of planetary mass. In eight systems, the data best match the presence of brown dwarfs – objects larger than planets but smaller than stars. The remaining sixteen systems likely have additional stars around.Gaia’s predicted locations of these companions in the systems are shown in cyan. In the reference image of our baby Solar System, Jupiter’s orbit is also shown in cyan.Gaia discovered the companions in the baby star systems thanks to its unique ability to sense the gravitational tug or ‘wobble’ a planet or companion induces on a star. This technique had already been used to find companions around older stars. But now, for the first time, a team of astronomers led by Miguel Vioque of the European Southern Observatory, Germany, has used this Gaia technique to find planets and companions around stars that are still forming.The all-sky, large-scale nature of the Gaia survey enabled the team to study hundreds of forming stars and identify companions across large samples for the first time. This in contrast to costly ground-based searches that can only target a few stars at a time.This ability of Gaia is revolutionising the field of star and planet formation. The companions that the telescope has already found, can now be followed up by telescopes like the NASA/ESA/CSA James Webb Space telescope that can study the inner discs of the baby systems in more detail.With Gaia’s upcoming fourth data release, many more hidden planets are expected to be uncovered.This new finding has been described in ‘Astrometric view of companions in the inner dust cavities of protoplanetary disks’ by M. Vioque et al., accepted for publication in Astronomy & Astrophysics. Learn more[Image description: A collage of 32 glowing discs on a black background. Each disc shows concentric rings in vivid colours: purple, orange, and yellow, with bright cyan centres. The discs vary in size and orientation, creating a striking pattern of circular and elliptical shapes.]
+			This week Earth from Space features a wintery image: a red and white sphere that, if seen from a distance, resembles a festive decoration.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2025/12/Webb_Dwarf_stars_in_a_glittering_sky' target='_blank'>Webb: Dwarf stars in a glittering sky</a></strong> — <em>2025-12-19 09:00:00</em></summary>
+
+
+	Image:
+			Dwarf stars in a glittering sky
 
 </details>
 
