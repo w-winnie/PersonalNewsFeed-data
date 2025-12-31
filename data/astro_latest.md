@@ -1,228 +1,154 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Summary of Recent Developments in Astronomy
 
-#### The End of an Era in Earth Observation
-The impending conclusion of *The Earth Observer* newsletter in 2025 signifies the end of a key communication tool in Earth science, closely linked to NASA's Earth Observing System (EOS). This newsletter has documented advancements in satellite technology and their implications for climate science, natural disaster monitoring, and land use changes. The final issues will reflect on EOS's instrumental role, particularly highlighting the Clouds and the Earth’s Radiant Energy System (CERES), which has been integral to climate observations since its launch.
+#### Advances in Exoplanet Exploration
+The field of exoplanet exploration is experiencing a surge of activity, particularly ahead of the 247th American Astronomical Society (AAS) Meeting. Researchers are refining methodologies for detecting and characterizing exoplanets, focusing on their atmospheres and potential habitability. The upcoming discussions will not only highlight current findings but also set the stage for future missions, including the highly anticipated Nancy Grace Roman Space Telescope.
 
-Key Items:
-1. *The Earth Observer: Offering Perspectives from Space through Time* - https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/ - Overview of the newsletter's impact alongside EOS.
-2. *Terra: The End of An Era* - https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/ - Highlights the legacy of NASA's Terra satellite in Earth observation.
-3. *The State of CERES: Updates and Highlights* - https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/ - Discusses the ongoing contributions of CERES to climate science.
+Key items:
+1. The AAS meeting will feature sessions dedicated to the latest exoplanet detection techniques, emphasizing advancements in observational technology.
+2. Presentations on the Nancy Grace Roman Space Telescope will detail its capabilities in surveying distant exoplanet systems.
+3. Hyperwall storytelling sessions will showcase recent discoveries, enhancing public engagement with exoplanet research.
 
-#### Insights into Venusian Atmosphere
-Recent studies have advanced our understanding of Venus's atmosphere by employing combined light and polarization measurements to analyze its clouds. This innovative approach enhances knowledge of Venus's climate dynamics and could inform future exploratory missions targeting its surface and atmospheric conditions.
+#### Observations of Cosmic Phenomena
+The James Webb Space Telescope (JWST) continues to revolutionize our understanding of cosmic phenomena, particularly through its observations of colliding galaxies. Recent data reveals complex interactions and structures, providing insights into galaxy formation and evolution. The JWST's ability to capture high-resolution images in mid-infrared wavelengths allows astronomers to explore previously hidden aspects of these cosmic events.
 
-Key Items:
-1. *Venus cloud research highlights value of combining light and polarization measurements* - https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html - Discusses new techniques for studying Venusian clouds.
-2. *Are we the Martians? The intriguing idea that life on Earth began on the red planet* - https://phys.org/news/2025-12-martians-intriguing-idea-life-earth.html - Explores hypotheses about the origins of life in relation to Mars.
+Key items:
+1. JWST’s collaboration with the Chandra Observatory has yielded detailed images of colliding galaxies, highlighting energetic interactions.
+2. Observations of the Champagne Cluster have deepened our understanding of galaxy cluster dynamics and the behavior of superheated gas.
+3. The Australian Square Kilometer Array Pathfinder (ASKAP) has detected a significant outflow from a nearby galaxy, contributing to the study of galactic winds.
 
-#### Breakthroughs in Propulsion Technologies
-A novel kirigami-inspired solar sail technology has emerged, enhancing maneuverability without the need for propellant. This advancement could revolutionize deep space exploration, providing a more efficient means of propulsion that could extend mission capabilities and reduce costs.
+#### Insights into Stellar Formation
+Recent discoveries in stellar formation have uncovered a bridge of gas and dust linking two protostars, indicative of close encounters that shape star systems. This finding underscores the dynamic processes involved in star formation and suggests that interactions among protostars can significantly influence their development.
 
-Key Items:
-1. *Turning structural failure into propulsion* - https://phys.org/news/2025-12-failure-propulsion.html - Describes a new method for controlling solar sails.
-2. *Rethinking how we end a satellite's mission* - https://phys.org/news/2025-12-rethinking-satellite-mission.html - Discusses implications for satellite decommissioning strategies.
+Key items:
+1. The gas bridge discovery illustrates the complex interactions that can occur during the early stages of star formation.
+2. Ongoing investigations into such stellar interactions may enhance our understanding of the conditions necessary for planet formation.
 
 ### Conclusion
-The current landscape in astrophysics is characterized by a reflective acknowledgment of the contributions made in Earth observation, alongside a forward-looking enthusiasm for innovative technologies in planetary science and propulsion. The integration of new methodologies in studying celestial bodies and the development of sustainable propulsion techniques indicate a promising trajectory for future exploration and environmental considerations in space activities. This blend of past achievements and future aspirations shapes a dynamic and evolving field. 
+The current trajectory in astronomy is marked by significant advancements in exoplanet research, cosmic observations, and stellar formation studies. As researchers leverage new technologies and collaborative platforms like the AAS meeting, the potential for transformative discoveries increases. The integration of observational data from instruments like JWST and ongoing studies of stellar environments signals a robust and dynamic period in the field, promising deeper insights into the universe's complexities.
 
 ### Top Sources:
-1. *The Earth Observer: Offering Perspectives from Space through Time* - https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/ - Overview of the newsletter's impact alongside EOS.
-2. *Terra: The End of An Era* - https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/ - Highlights the legacy of NASA's Terra satellite in Earth observation.
-3. *The State of CERES: Updates and Highlights* - https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/ - Discusses the ongoing contributions of CERES to climate science.
-4. *Venus cloud research highlights value of combining light and polarization measurements* - https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html - Discusses new techniques for studying Venusian clouds.
-5. *Are we the Martians? The intriguing idea that life on Earth began on the red planet* - https://phys.org/news/2025-12-martians-intriguing-idea-life-earth.html - Explores hypotheses about the origins of life in relation to Mars.
-6. *Turning structural failure into propulsion* - https://phys.org/news/2025-12-failure-propulsion.html - Describes a new method for controlling solar sails.
-7. *Rethinking how we end a satellite's mission* - https://phys.org/news/2025-12-rethinking-satellite-mission.html - Discusses implications for satellite decommissioning strategies.
+1. 2025 AAS Town Hall Schedule - https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/ - NASA outlines key discussions for the upcoming AAS meeting focusing on exoplanet exploration.
+2. 2025 AAS Hyperwall Schedule - https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/ - Schedule for storytelling sessions at the AAS meeting, highlighting recent exoplanet discoveries.
+3. NASA's Chandra Rings in the New Year with the Champagne Cluster - https://phys.org/news/2025-12-nasa-chandra-year-champagne-cluster.html - Chandra Observatory's new image of a galaxy cluster offers insights into cosmic dynamics.
+4. Image: JWST captures colliding spiral galaxies - https://phys.org/news/2025-12-image-jwst-captures-colliding-spiral.html - JWST's observations reveal intricate details of colliding galaxies.
+5. ASKAP discovers a spectacular outflow in a nearby galaxy - https://phys.org/news/2025-12-askap-spectacular-outflow-nearby-galaxy.html - Discovery of a bipolar outflow contributes to understanding of galactic winds.
+6. Passing Baby Stars Lock Arms in Rare Astronomical Find - https://skyandtelescope.org/astronomy-news/passing-baby-stars-lock-arms-in-rare-astronomical-find/ - Discovery of a gas bridge between protostars highlights stellar interactions.
+7. Curiosity Sends Holiday Postcard from Mars - https://www.nasa.gov/image-article/curiosity-sends-holiday-postcard-from-mars/ - Curiosity rover captures stunning images from Mars, showcasing its ongoing mission.
+8. The year's first meteor shower and supermoon clash in January skies - https://phys.org/news/2025-12-year-meteor-shower-supermoon-clash.html - Upcoming celestial events promise to engage astronomy enthusiasts.
+9. Most sensitive radio observations to date find no evidence of technosignature from 3I/ATLAS - https://phys.org/news/2025-12-sensitive-radio-date-evidence-technosignature.html - Recent observations of interstellar object 3I/ATLAS yield no signs of technological civilizations.
+10. Golden satellite insulation sparkles during test | Space photo of the day for Dec. 30, 2025 - https://www.space.com/space-exploration/satellites/golden-satellite-insulation-sparkles-during-test-space-photo-of-the-day-for-dec-30-2025 - A striking image showcasing satellite testing for future missions.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/' target='_blank'>The Earth Observer: Offering Perspectives from Space through Time</a></strong> — <em>2025-12-29 23:52:34</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/' target='_blank'>2025 AAS Town Hall Schedule</a></strong> — <em>2025-12-31 02:00:43</em></summary>
 
-An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for more than 36 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/' target='_blank'>Terra: The End of An Era</a></strong> — <em>2025-12-29 22:20:01</em></summary>
-
-Introduction Launched into the night sky nearly 26 years ago, on December 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) Flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations useful […]
+247th American Astronomical Society (AAS) Meeting SATURDAY, JANUARY 3 8:30AM – 6:0PM  NASA’s Exoplanet Exploration Program Analysis Group (ExoPAG) 301DJosh Pepper, Dawn Gelino, Karl Stapelfeldt, Nick Siegler, Jessie Christiansen SUNDAY, JANUARY 4 8:30AM – 12:15PM  NASA’s Exoplanet Exploration Program Analysis Group (ExoPAG) 301D9:00AM – 2:00PMNASA’s Cosmic Origins Program Analysis Group (COPAG)Peter Kurczynski7:30PM – 9:30PM  NASA’s […]
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/the-final-earth-observer-editors-corner-october-december-2025/' target='_blank'>The Final Earth Observer Editor’s Corner: October–December 2025</a></strong> — <em>2025-12-29 22:08:25</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/' target='_blank'>2025 AAS Hyperwall Schedule</a></strong> — <em>2025-12-31 01:35:42</em></summary>
 
-It is with a heavy heart that I announce that NASA Earth Science Communications has directed The Earth Observer to conduct an orderly shutdown of the publication. No new content will be published after Dec. 31, 2025. While the sunset of The Earth Observer is bittersweet for our team, the good news is that all […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/' target='_blank'>The State of CERES: Updates and Highlights</a></strong> — <em>2025-12-29 22:02:37</em></summary>
-
-Introduction The Clouds and the Earth’s Radiant Energy System (CERES) was initially designed in the late-1980s and early-1990s as a facility instrument for NASA’s Earth Observing System (EOS). Since its inception, NASA’s Langley Research Center (LaRC) has led this effort. CERES has a long history with seven different instruments flying on five different missions since […]
+247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401 for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/celestis-books-stoke-space-rocket-for-2nd-ever-deep-space-memorial-flight-for-human-remains' target='_blank'>Celestis books Stoke Space rocket for 2nd-ever deep space memorial flight for human remains</a></strong> — <em>2025-12-29 22:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/space-debris-led-to-an-orbital-emergency-in-2025-will-anything-change' target='_blank'>Space debris led to an orbital emergency in 2025. Will anything change?</a></strong> — <em>2025-12-30 22:00:00</em></summary>
 
-This historic 2026 'Infinite Flight' service will blast off via a Stoke Space Nova rocket
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-marvel-sets-available-right-now' target='_blank'>10 most expensive Lego Marvel sets on the market right now</a></strong> — <em>2025-12-29 21:00:00</em></summary>
-
-From Spider-Man to the Guardians of the Galaxy, here are the most expensive Lego Marvel sets you can get your hands on.
+"Some will not change behavior until something bad happens."
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/2025-space-station-science-snapshots/' target='_blank'>2025 Space Station Science Snapshots</a></strong> — <em>2025-12-29 19:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-nasa-chandra-year-champagne-cluster.html' target='_blank'>NASA's Chandra rings in the new year with the Champagne Cluster</a></strong> — <em>2025-12-30 18:25:54</em></summary>
 
-2025 marks another year pushing the boundaries of scientific research aboard the International Space Station. This past year, over 750 investigations were conducted aboard the space station, supported by crewed missions and resupply vehicles delivering essential cargo and experiments to the orbiting laboratory. This year’s research included testing DNA’s ability to store data, producing vital […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/2025-space-station-science-snapshots/' target='_blank'>2025 Space Station Science Snapshots</a></strong> — <em>2025-12-29 19:00:00</em></summary>
-
-2025 marks another year pushing the boundaries of scientific research aboard the International Space Station. This past year, over 750 investigations were conducted aboard the space station, supported by crewed missions and resupply vehicles delivering essential cargo and experiments to the orbiting laboratory. This year’s research included testing DNA’s ability to store data, producing vital […]
+Celebrate the New Year with the "Champagne Cluster," a galaxy cluster seen in this new image from NASA's Chandra X-ray Observatory and optical telescopes.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/flat-earth-spirits-and-conspiracy-theories-experience-can-shape-even-extraordinary-beliefs' target='_blank'>Flat Earth, spirits and conspiracy theories — experience can shape even extraordinary beliefs</a></strong> — <em>2025-12-29 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/curiosity-sends-holiday-postcard-from-mars/' target='_blank'>Curiosity Sends Holiday Postcard from Mars</a></strong> — <em>2025-12-30 18:20:49</em></summary>
 
-Why do people often adopt and develop beliefs that lack strong supporting evidence?
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html' target='_blank'>Venus cloud research highlights value of combining light and polarization measurements</a></strong> — <em>2025-12-29 17:40:04</em></summary>
-
-A research team from the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has advanced the characterization and retrieval capability evaluation of microphysical properties of Venusian clouds and haze.
+Team members working with NASA’s Curiosity Mars rover created this “postcard” by commanding the rover to take images at two times of day on Nov. 18, 2025, spanning periods that occurred on both the 4,722nd and 4,723rd Martian days, or sols, of the mission. The panoramas were captured at 4:15 p.m. on Sol 4,722 and […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/iran-says-it-launched-3-satellites-to-space-on-russian-rocket-report' target='_blank'>Iran says it launched 3 satellites to space on Russian rocket: report</a></strong> — <em>2025-12-29 17:30:08</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/govee-galaxy-light-projector-2-pro-review' target='_blank'>Govee Galaxy Light Projector 2 Pro review</a></strong> — <em>2025-12-30 18:05:00</em></summary>
 
-Iran has launched a trio of new satellites into space with the help of a Russian rocket, the country's state media reported Sunday (Dec. 28).
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-star-bethlehem-comet-ancient-chinese.html' target='_blank'>The Star of Bethlehem might have actually been a comet described in an ancient Chinese text</a></strong> — <em>2025-12-29 17:20:07</em></summary>
-
-Many researchers have spent decades attempting to decode biblical descriptions and link them to verifiable historical events. One such description is that of the Star of Bethlehem—a bright astronomical body that was said to lead the Magi to Jesus shortly after his birth.
+The new Govee Star Light Projector 2 Pro provides a dreamy bedroom celestial display that's brighter and clearer than ever before.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/' target='_blank'>NASA to Preview US Spacewalks at Space Station in January</a></strong> — <em>2025-12-29 17:19:11</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/hhp/microbiology/' target='_blank'>Microbiology</a></strong> — <em>2025-12-30 17:11:30</em></summary>
 
-NASA astronauts will conduct a pair of spacewalks in January outside of the International Space Station to prepare for the installation of a roll-out solar array and complete other tasks. Experts from NASA will preview the spacewalks in a briefing at 2 p.m. EST Tuesday, Jan. 6, at NASA’s Johnson Space Center in Houston. Watch […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/' target='_blank'>NASA to Preview US Spacewalks at Space Station in January</a></strong> — <em>2025-12-29 17:19:11</em></summary>
-
-NASA astronauts will conduct a pair of spacewalks in January outside of the International Space Station to prepare for the installation of a roll-out solar array and complete other tasks. Experts from NASA will preview the spacewalks in a briefing at 2 p.m. EST Tuesday, Jan. 6, at NASA’s Johnson Space Center in Houston. Watch […]
+Microorganisms and Spaceflight Spaceflight poses a risk of adverse health effects due to the interactions between microorganisms, their hosts, and their environment. The JSC Microbiology team addresses the benefits and risks related to microorganisms, including infectious disease, allergens, environmental and food contamination, and the impacts of changes in environmental and human microbial ecology aboard spacecraft. […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/a-galactic-embrace/' target='_blank'>A Galactic Embrace</a></strong> — <em>2025-12-29 16:43:24</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-rehearse-for-launch-day-photos' target='_blank'>Artemis 2 moon astronauts rehearse for launch day (photos)</a></strong> — <em>2025-12-30 17:04:39</em></summary>
 
-Mid-infrared data from NASA’s James Webb Space Telescope (in white, gray, and red) and X-ray data from NASA’s Chandra X-ray Observatory (in blue) come together in this photo of colliding spiral galaxies released on Dec. 1, 2025. The pair grazed one another millions of years ago; billions of years in the future, they will merge […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-video-fly-webb-cosmic-vistas.html' target='_blank'>Video: Fly through Webb's cosmic vistas</a></strong> — <em>2025-12-29 16:40:05</em></summary>
-
-On the launch anniversary of the NASA/ESA/CSA James Webb Space Telescope, ESA presents a unique compilation of zooms into stunning cosmic views.
+The four astronauts who will fly around the moon on NASA's Artemis 2 mission suited up, walked out and climbed aboard their spacecraft during a key prelaunch test at Kennedy Space Center.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-martians-intriguing-idea-life-earth.html' target='_blank'>Are we the Martians? The intriguing idea that life on Earth began on the red planet</a></strong> — <em>2025-12-29 16:30:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/constellations/what-constellation-am-i-a-starry-personality-quiz' target='_blank'>What constellation am I? A starry personality quiz</a></strong> — <em>2025-12-30 17:00:00</em></summary>
 
-How did life begin on Earth? While scientists have theories, they don't yet fully understand the precise chemical steps that led to biology, or when the first primitive life forms appeared.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-moon-master-commute.html' target='_blank'>Before we build on the moon, we have to master the commute</a></strong> — <em>2025-12-29 16:00:01</em></summary>
-
-Even most rocket scientists would rather avoid hard math when they don't have to do it. So when it comes to figuring out orbits in complex three-body systems, like those in cis-lunar space, which is between Earth and the moon, they'd rather someone else do the work for them.
+Ever wondered which constellation mirrors your personality? Take this cosmic quiz to find out which starry pattern best reflects your inner self
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/11-times-rockets-and-spacecraft-crashed-and-burned-in-2025' target='_blank'>12 times rockets and spacecraft crashed and burned in 2025</a></strong> — <em>2025-12-29 15:40:04</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/chandra/nasas-chandra-rings-in-new-year-with-champagne-cluster/' target='_blank'>NASA’s Chandra Rings in New Year With Champagne Cluster</a></strong> — <em>2025-12-30 16:45:09</em></summary>
 
-We saw quite a few milestones notched in the final frontier this year. But there were a number of failures as well, some of them quite dramatic.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-failure-propulsion.html' target='_blank'>Turning structural failure into propulsion</a></strong> — <em>2025-12-29 15:40:01</em></summary>
-
-Solar sails have some major advantages over traditional propulsion methods—most notably, they don't use any propellant. But, how exactly do they turn? In traditional sailing, a ship's captain can simply adjust the angle of the sail itself to catch the wind at a different angle. But they also have the added advantage of a rudder, which doesn't work when sailing on light. This has been a long-standing challenge, but a new paper available on the arXiv preprint server by Gulzhan Aldan and Igor Bargatin at the University of Pennsylvania describes a new technique to turn solar sails—kirigami.
+Celebrate the New Year with the “Champagne Cluster,” a galaxy cluster seen in this new image from NASA’s Chandra X-ray Observatory and optical telescopes. Astronomers discovered this galaxy cluster Dec. 31, 2020. The date, combined with the bubble-like appearance of the galaxies and the superheated gas seen with Chandra observations (represented in purple), inspired the […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-christmas-star-astronomy.html' target='_blank'>What was the Christmas star? Astronomy might hold the answer</a></strong> — <em>2025-12-29 15:30:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-sensitive-radio-date-evidence-technosignature.html' target='_blank'>Most sensitive radio observations to date find no evidence of technosignature from 3I/ATLAS</a></strong> — <em>2025-12-30 16:30:01</em></summary>
 
-In the run up to Christmas, carols fill the air. Many have an astronomical twist, singing of the "Christmas Star" from the story of the nativity. Described in the Gospel of Matthew, the star guided the three wise men to the cradle of the young baby Jesus in a manger in Bethlehem.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-rethinking-satellite-mission.html' target='_blank'>Rethinking how we end a satellite's mission</a></strong> — <em>2025-12-29 15:20:59</em></summary>
-
-At the end of their lives, most satellites fall to their death. Many of the smaller ones, including most of those going up as part of the "mega-constellations" currently under construction, are intended to burn up in the atmosphere. This Design for Demise (D4D) principle has unintended consequences, according to a paper published in Acta Astronautica by Antoinette Ott and Christophe Bonnal, both of whom work for MaiaSpace, a company designing reusable launch vehicles for the small satellite market.
+Since the interstellar object (ISO) 3I/ATLAS was first discovered on July 1, 2025, it has garnered much attention, including speculation, hopes and fears that it may somehow contain evidence of technologically advanced civilizations outside of our solar system.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/iss-astronaut-snaps-stunning-nighttime-photo-of-florida-and-cuba-space-photo-of-the-day-for-dec-29-2025' target='_blank'>ISS astronaut snaps stunning nighttime photo of Florida and Cuba | Space photo of the day for Dec. 29, 2025</a></strong> — <em>2025-12-29 15:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/passing-baby-stars-lock-arms-in-rare-astronomical-find/' target='_blank'>Passing Baby Stars Lock Arms in Rare Astronomical Find</a></strong> — <em>2025-12-30 16:01:57</em></summary>
 
-The image offers a rare look at how Earth's surface and atmosphere interact after sunset.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/' target='_blank'>I Am Artemis: Jen Madsen and Trey Perryman</a></strong> — <em>2025-12-29 14:00:00</em></summary>
-
-Listen to this audio excerpt from Jen Madsen and Trey Perryman, leads of the Orion Mission Evaluation Room for the Artemis II mission: During NASA’s Artemis II mission, Jen Madsen and Trey Perryman will be leading a team monitoring the Orion spacecraft as it carries four astronauts around the Moon. The team works in the […]
+Astronomers have discovered a bridge of gas and dust between two protostars, the signature of a close encounter 15,000 years ago.
+The post Passing Baby Stars Lock Arms in Rare Astronomical Find appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/' target='_blank'>I Am Artemis: Jen Madsen and Trey Perryman</a></strong> — <em>2025-12-29 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-year-meteor-shower-supermoon-clash.html' target='_blank'>The year's first meteor shower and supermoon clash in January skies</a></strong> — <em>2025-12-30 16:01:02</em></summary>
 
-Listen to this audio excerpt from Jen Madsen and Trey Perryman, leads of the Orion Mission Evaluation Room for the Artemis II mission: During NASA’s Artemis II mission, Jen Madsen and Trey Perryman will be leading a team monitoring the Orion spacecraft as it carries four astronauts around the Moon. The team works in the […]
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/spaceflight-for-astronomy-a-look-back-and-ahead/' target='_blank'>Spaceflight for Astronomy — A Look Back and Ahead</a></strong> — <em>2025-12-29 14:00:00</em></summary>
-
-The highlights of spaceflight in 2025 have included missions to explore the Moon, Mars, and the Sun — and more is coming in the New Year.
-The post Spaceflight for Astronomy — A Look Back and Ahead appeared first on Sky & Telescope.
+The year's first supermoon and meteor shower will sync up in January skies, but the light from one may dim the other.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-veritas-explores-nature-mysterious-gamma.html' target='_blank'>Veritas explores the nature of a mysterious gamma-ray emitter</a></strong> — <em>2025-12-29 13:00:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-image-jwst-captures-colliding-spiral.html' target='_blank'>Image: JWST captures colliding spiral galaxies</a></strong> — <em>2025-12-30 15:50:03</em></summary>
 
-Astronomers have employed the Very Energetic Radiation Imaging Telescope Array System (VERITAS) to observe a mysterious gamma-ray emitting source designated HESS J1857+026. Results of the observational campaign, published December 19 on the pre-print server arXiv, shed more light on the nature of this source.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/science/particle-physics/does-physics-say-that-free-will-doesnt-exist' target='_blank'>Does physics say that free will doesn't exist?</a></strong> — <em>2025-12-29 13:00:00</em></summary>
-
-At first glance, it seems like our understanding of physics forbids free will.
+Mid-infrared observations from NASA's James Webb Space Telescope, shown in white, gray, and red, are combined here with X-ray data from NASA's Chandra X-ray Observatory, highlighted in blue. Together, these different wavelengths reveal a detailed and layered view of a pair of colliding spiral galaxies, captured in an image released on Dec. 1, 2025.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-moon-sun-figure-big-year.html' target='_blank'>The moon and sun figure big in the new year's lineup of cosmic wonders</a></strong> — <em>2025-12-29 12:41:49</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/golden-satellite-insulation-sparkles-during-test-space-photo-of-the-day-for-dec-30-2025' target='_blank'>Golden satellite insulation sparkles during test | Space photo of the day for Dec. 30, 2025</a></strong> — <em>2025-12-30 15:00:00</em></summary>
 
-The moon and sun share top billing in 2026.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/13-must-see-moon-events-in-2026-eclipses-supermoons-conjunctions-and-more' target='_blank'>13 must-see moon events in 2026: Eclipses, supermoons, conjunctions and more</a></strong> — <em>2025-12-29 11:00:00</em></summary>
-
-Here are the best lunar events to see in 2026, including eclipses, supermoons and conjunctions.
+The test is designed to prepare satellites for one of the most complex tasks in space: safely approaching another object.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/fujifilm-gfx-100s-ii-review' target='_blank'>Fujifilm GFX 100S II review</a></strong> — <em>2025-12-29 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-askap-spectacular-outflow-nearby-galaxy.html' target='_blank'>ASKAP discovers a spectacular outflow in a nearby galaxy</a></strong> — <em>2025-12-30 13:00:01</em></summary>
 
-This lightweight medium-format powerhouse is one of the most powerful cameras you can get, but how does it work for astrophotography?
+Using the Australian Square Kilometer Array Pathfinder (ASKAP), an international team of astronomers has discovered a spectacular bipolar outflow from the disk of a nearby galaxy known as ESO 130-G012. The finding was reported in a paper published December 17 on the pre-print server arXiv.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/how-nasa-changed-in-2025-possibly-forever' target='_blank'>How NASA changed in 2025 — possibly forever</a></strong> — <em>2025-12-30 13:00:00</em></summary>
+
+"The damage is real, but it doesn't have to be permanent."
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/our-10-favorite-space-com-reader-photos-of-2025' target='_blank'>Our 10 favorite Space.com reader astronomy photos of 2025</a></strong> — <em>2025-12-30 11:00:00</em></summary>
+
+From auroras at 36,000 feet to comet flybys and eclipses, these are the standout images our readers shared with Space.com in 2025.
 
 </details>
 
