@@ -2,133 +2,146 @@
 
     ### Major Themes in Recent Astrophysics Developments
 
-#### Galactic Collisions and Dark Matter Dynamics
-Recent studies of the Champagne Cluster, a significant collision of two galaxy clusters, have provided new insights into dark matter's behavior during these colossal events. The observations reveal intricate interactions, including the behavior of superheated gas and the dispersion of galaxies, which may enhance our understanding of dark matter's role in galaxy formation and evolution. This research underscores the importance of high-resolution imaging techniques in astrophysics.
+#### Cosmic Explosions and Earth’s Historical Climate
+Recent research has unveiled evidence suggesting that a cosmic explosion, possibly from a comet airburst, played a crucial role in climatic changes at the end of the last ice age. The discovery of shocked quartz at Clovis-era archaeological sites indicates a significant environmental event that may have contributed to the extinction of megafauna and the collapse of the Clovis culture. This finding emphasizes the profound impact of extraterrestrial phenomena on Earth's ecological and cultural history.
 
-Key Items:
-1. Astronomers released detailed images of the Champagne Cluster, showcasing the dynamics of the collision that occurred on New Year’s Eve. These findings could shift current theories regarding dark matter interactions in galaxy clusters. [Link](https://www.sciencedaily.com/releases/2025/12/251231203753.htm).
-2. The study emphasizes the need for advanced imaging technologies to better visualize complex cosmic phenomena, which can lead to significant theoretical advancements.
+Key items:
+1. Did an exploding comet wipe out the mammoths? - https://www.sciencedaily.com/releases/2025/12/251225080736.htm - Evidence of shocked quartz suggests a comet airburst may have caused drastic environmental changes.
+2. The Best Meteor Showers in 2026 - https://skyandtelescope.org/astronomy-news/the-best-meteor-showers-in-2026/ - Highlights meteor showers, linking them to the broader context of cosmic phenomena.
 
-#### New Insights into Nova Explosions
-High-resolution imaging has revolutionized our understanding of nova explosions, revealing that these events are complex and multi-stage rather than simple bursts. Recent observations document intricate gas interactions and delayed eruptions, confirming theoretical predictions about the mechanisms involved in these stellar phenomena.
+#### Unconventional Exoplanet Discoveries
+A newly discovered exoplanet orbiting a neutron star is challenging existing theories about planetary formation. This Jupiter-mass planet, characterized by a carbon-rich atmosphere and extreme gravitational effects, is deformed into a lemon shape. Its rapid orbital period and the potential presence of unusual materials, such as diamonds, could significantly alter our understanding of planetary diversity and the conditions under which planets can form.
 
-Key Items:
-1. A nova was documented exhibiting multiple gas streams colliding shortly after its explosion, while another displayed a notable delay of over 50 days before its eruption. These observations provide critical evidence of the evolving nature of novae. [Link](https://www.sciencedaily.com/releases/2025/12/251227082708.htm).
-2. The findings have broader implications for stellar evolution theories and highlight the need for further research into explosive stellar mechanisms.
+Key items:
+1. NASA’s Webb telescope just discovered one of the weirdest planets ever - https://www.sciencedaily.com/releases/2025/12/251227004146.htm - The discovery of a bizarre exoplanet orbiting a neutron star raises questions about planetary formation.
+2. A planet just vanished. NASA’s Hubble reveals a violent cosmic secret - https://www.sciencedaily.com/releases/2025/12/251225035346.htm - The disappearance of a supposed exoplanet reveals the aftermath of collisions in a nearby star system.
 
-#### Robotic Space Exploration Enhancements
-As preparations for human missions to Mars progress, the integration of robotic exploration capabilities is becoming vital. Researchers are focusing on optimizing robotic systems to work in tandem with human explorers, enhancing mission efficiency and data collection.
+#### Advances in Dark Matter Research
+Innovative techniques are being employed to enhance our understanding of dark matter, particularly through the use of quantum sensors. These sensors aim to track dark matter's elusive properties and interactions with ordinary matter, potentially leading to significant breakthroughs in the field. This approach not only improves detection methods but also contributes to mapping dark matter distribution in the Milky Way.
 
-Key Items:
-1. Scientists are developing robotic systems designed to assist human missions to Mars, prioritizing safety and data gathering. [Link](https://www.space.com/space-exploration/human-spaceflight/scientists-are-getting-our-robotic-explorers-ready-to-help-send-humans-to-mars).
-2. This trend reflects a growing recognition of the complementary roles of robotics and human presence in space exploration, emphasizing a collaborative approach to future missions.
+Key items:
+1. Searching for light dark matter by tracking its direction with quantum sensors - https://phys.org/news/2025-12-dark-tracking-quantum-sensors.html - New methods using quantum sensors aim to detect dark matter more effectively.
+2. Finding runaway stars to help map dark matter in the Milky Way - https://phys.org/news/2025-12-runaway-stars-dark-milky.html - A search for hypervelocity stars could provide insights into dark matter distribution in our galaxy.
 
 ### Conclusion
-The current state of astrophysics is marked by significant advancements in understanding cosmic phenomena, driven by enhanced observational techniques and collaborative exploration strategies. Insights into dark matter dynamics, the complexities of nova explosions, and the integration of robotic technologies into human space missions highlight a vibrant field poised for continued discovery. As researchers delve deeper into these areas, the implications for our understanding of the universe and the future of space exploration are both profound and promising.
+The current landscape of astrophysics is vibrant, marked by groundbreaking discoveries and innovative methodologies. From elucidating ancient cosmic events that may have shaped Earth's climate to uncovering the complexities of exoplanets and advancing dark matter research, these developments reflect a dynamic field that continually pushes the boundaries of our understanding. As researchers delve deeper into these interconnected themes, the implications for our comprehension of the universe and our place within it are profound and far-reaching.
 
 ### Top Sources:
-1. Astronomers ring in the new year with a stunning galaxy collision - https://www.sciencedaily.com/releases/2025/12/251231203753.htm - Discovery of the Champagne Cluster provides insights into dark matter during galaxy collisions.
-2. New images reveal what really happens when stars explode - https://www.sciencedaily.com/releases/2025/12/251227082708.htm - High-resolution imaging shows novae as complex, multi-stage events.
-3. Scientists are getting our robotic explorers ready to help send humans to Mars - https://www.space.com/space-exploration/human-spaceflight/scientists-are-getting-our-robotic-explorers-ready-to-help-send-humans-to-mars - Emphasis on collaboration between robotic and human exploration for Mars missions.
-4. Einstein Probe detects an X-ray flare from nearby star - https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html - Detection of an X-ray flare offers insights into stellar activity.
-5. Wind-battered Lick Observatory rushes to shield historic telescope after dome damage - https://phys.org/news/2025-12-battered-observatory-shield-historic-telescope.html - Severe weather impacts observatory operations, highlighting infrastructure challenges.
-6. SpaceX shatters its rocket launch record yet again — 165 orbital flights in 2025 - https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025 - Continued success of SpaceX showcases advancements in commercial spaceflight.
-7. Tour 15 of the Brightest Stars on New Year's Eve (VIDEO) - https://skyandtelescope.org/astronomy-news/tour-15-of-the-brightest-stars-on-new-years-eve-video/ - Interactive video experience highlights prominent celestial bodies.
-8. Big Bear glows with big stars | Space photo of the day for Dec. 31, 2025 - https://www.space.com/astronomy/galaxies/big-bear-glows-with-big-stars-space-photo-of-the-day-for-dec-31-2025 - Stunning astrophotography captures the beauty of the cosmos.
-9. Upcoming sci-fi movies in 2026: 10 good reasons to head to theaters this year - https://www.space.com/entertainment/space-movies-shows/upcoming-sci-fi-movies-in-2026-10-good-reasons-to-head-to-theaters-this-year - Cultural reflections on space exploration in cinema.
-10. The race to mine the moon is on – and it urgently needs some clear international rules - https://www.space.com/astronomy/moon/the-race-to-mine-the-moon-is-on-and-it-urgently-needs-some-clear-international-rules - Exploration of lunar resource extraction raises ethical and regulatory questions.
+1. Did an exploding comet wipe out the mammoths? - https://www.sciencedaily.com/releases/2025/12/251225080736.htm - Evidence of shocked quartz suggests a comet airburst may have caused drastic environmental changes.
+2. The Best Meteor Showers in 2026 - https://skyandtelescope.org/astronomy-news/the-best-meteor-showers-in-2026/ - Highlights meteor showers, linking them to the broader context of cosmic phenomena.
+3. NASA’s Webb telescope just discovered one of the weirdest planets ever - https://www.sciencedaily.com/releases/2025/12/251227004146.htm - The discovery of a bizarre exoplanet orbiting a neutron star raises questions about planetary formation.
+4. A planet just vanished. NASA’s Hubble reveals a violent cosmic secret - https://www.sciencedaily.com/releases/2025/12/251225035346.htm - The disappearance of a supposed exoplanet reveals the aftermath of collisions in a nearby star system.
+5. Searching for light dark matter by tracking its direction with quantum sensors - https://phys.org/news/2025-12-dark-tracking-quantum-sensors.html - New methods using quantum sensors aim to detect dark matter more effectively.
+6. Finding runaway stars to help map dark matter in the Milky Way - https://phys.org/news/2025-12-runaway-stars-dark-milky.html - A search for hypervelocity stars could provide insights into dark matter distribution in our galaxy.
+7. Moon landings, asteroid missions and new telescopes: Here are the top spaceflight moments to look forward to in 2026 - https://www.space.com/space-exploration/moon-landings-asteroid-missions-and-new-telescopes-here-are-the-top-spaceflight-moments-to-look-forward-to-in-2026 - Anticipated milestones in space exploration for 2026.
+8. Experiment nixes 'sterile' neutrino explanation of previous unexpected measurements - https://phys.org/news/2025-12-nixes-sterile-neutrino-explanation-previous.html - New findings challenge the existence of a hypothesized type of neutrino.
+9. Study unveils the dual nature of a young stellar object - https://phys.org/news/2025-12-unveils-dual-nature-young-stellar.html - Research reveals complex characteristics of a young stellar object.
+10. 15 skywatching events you won't want to miss in 2026 - https://www.space.com/stargazing/15-skywatching-events-you-wont-want-to-miss-in-2026 - A guide to significant astronomical events in 2026.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251231203753.htm' target='_blank'>Astronomers ring in the new year with a stunning galaxy collision</a></strong> — <em>2026-01-01 02:04:28</em></summary>
+    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251225080736.htm' target='_blank'>Did an exploding comet wipe out the mammoths?</a></strong> — <em>2026-01-02 04:12:42</em></summary>
 
-The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together. Its festive name comes from both its New Year’s Eve discovery and its bubbly appearance in space. Images reveal superheated gas and galaxies spread across a massive collision zone. Astronomers believe this system could help explain how dark matter responds when giant structures collide.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/scientists-are-getting-our-robotic-explorers-ready-to-help-send-humans-to-mars' target='_blank'>Scientists are getting our robotic explorers ready to help send humans to Mars</a></strong> — <em>2025-12-31 22:00:00</em></summary>
-
-"It's really not a question of robotic exploration or human exploration," Ehlmann said. "It is an 'and' — it's robotic and human exploration and how we do these best together."
+Scientists are uncovering new clues that a cosmic explosion may have rocked Earth at the end of the last ice age. At major Clovis-era sites, researchers found shocked quartz—evidence of intense heat and pressure consistent with a comet airburst rather than volcanism or human activity. The event could have sparked massive fires, blocked sunlight, and triggered a rapid return to ice-age conditions. These harsh changes may explain the sudden loss of megafauna and the disappearance of the Clovis culture.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251227082708.htm' target='_blank'>New images reveal what really happens when stars explode</a></strong> — <em>2025-12-31 21:22:51</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/the-best-meteor-showers-in-2026/' target='_blank'>The Best Meteor Showers in 2026</a></strong> — <em>2026-01-01 23:50:27</em></summary>
 
-New high-resolution images show that novae are anything but simple stellar fireworks. One exploded with multiple gas streams colliding almost immediately, while another shockingly delayed its eruption for more than 50 days before unleashing a powerful blast. These complex outflows create shock waves that produce intense gamma rays, confirming long-standing theories with direct visual evidence. The findings reveal novae as evolving, multi-stage events rather than single, instant explosions.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/lego-star-wars-2025-a-year-in-review' target='_blank'>Lego Star Wars 2025: A year in review</a></strong> — <em>2025-12-31 21:05:00</em></summary>
-
-From Grogu to the Death Star, we look back over the Lego Star Wars sets released over the course of 2025.
+The Quadrantids and Eta Aquariids will have Moon trouble in 2026, but the beloved Perseids and Geminids should be glorious.
+The post The Best Meteor Showers in 2026 appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/upcoming-sci-fi-movies-in-2026-10-good-reasons-to-head-to-theaters-this-year' target='_blank'>Upcoming sci-fi movies in 2026: 10 good reasons to head to theaters this year</a></strong> — <em>2025-12-31 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251225035346.htm' target='_blank'>A planet just vanished. NASA’s Hubble reveals a violent cosmic secret</a></strong> — <em>2026-01-01 22:02:26</em></summary>
 
-The power of Grayskull, Superman's cousin, and the return of a certain galaxy far, far away are among 2026's big-screen wonders.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/lego-icons-shuttle-carrier-aircraft-review' target='_blank'>Lego Icons Shuttle Carrier Aircraft review</a></strong> — <em>2025-12-31 18:05:00</em></summary>
-
-An impressive display piece for Lego-loving space fans who want to commemorate the legacy of this iconic post-Space Race vessel.
+Astronomers tracking a nearby star system thought they had spotted an exoplanet reflecting light from its star. Then it vanished. Even stranger, another bright object appeared nearby. After studying years of Hubble Space Telescope data, scientists realized they were not seeing planets at all, but the glowing debris left behind by two massive collisions between asteroid-sized bodies.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/nasa-chief-jared-isaacman-says-texas-may-get-a-moonship-not-space-shuttle-discovery' target='_blank'>NASA chief Jared Isaacman says Texas may get a moonship, not space shuttle Discovery</a></strong> — <em>2025-12-31 17:34:12</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/one-of-the-best-meteor-showers-of-the-year-peaks-at-the-worst-possible-time-this-week' target='_blank'>One of the best meteor showers of the year peaks at the worst possible time this week</a></strong> — <em>2026-01-01 22:00:00</em></summary>
 
-NASA's new chief Jared Isaacman said controversial proposal to move the space shuttle Discovery to Texas from its current home in a Smithsonian Air and Space Museum hangar in Virginia, may end with a different spacecraft entirely landing in Houston.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/the-race-to-mine-the-moon-is-on-and-it-urgently-needs-some-clear-international-rules' target='_blank'>The race to mine the moon is on – and it urgently needs some clear international rules</a></strong> — <em>2025-12-31 17:00:00</em></summary>
-
-There are billions of dollars in it for companies able to kickstart mining operations, even if such returns are still years away.
+A daylight peak and a full moon combine to sabotage the powerful Quadrantid meteor shower in 2026.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/former-united-launch-alliance-ceo-tory-bruno-joins-competitor-blue-origin-for-national-security-projects' target='_blank'>Former United Launch Alliance CEO Tory Bruno joins competitor Blue Origin for national security projects</a></strong> — <em>2025-12-31 16:37:26</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set' target='_blank'>Playmobil versus Lego: Which is the best USS Enterprise set?</a></strong> — <em>2026-01-01 21:05:00</em></summary>
 
-Tory Bruno, the longtime chief of the launch provider United Launch Alliance (ULA) has joined the competition at Blue Origin.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/big-bear-glows-with-big-stars-space-photo-of-the-day-for-dec-31-2025' target='_blank'>Big Bear glows with big stars | Space photo of the day for Dec. 31, 2025</a></strong> — <em>2025-12-31 15:00:00</em></summary>
-
-Bears, stars, Battlestar Galactica
+Lego has recently released their first-ever Star Trek set, the 3600-piece U.S.S Enterprise, but is it better than Playmobil's model?
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025' target='_blank'>SpaceX shatters its rocket launch record yet again — 165 orbital flights in 2025</a></strong> — <em>2025-12-31 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-books/nebula-nights-award-winning-sci-fi-literature-through-the-ages' target='_blank'>Nebula nights: Award-winning sci-fi literature through the ages</a></strong> — <em>2026-01-01 19:00:00</em></summary>
 
-SpaceX just set a new annual-launch record for the sixth year in a row, and the numbers are getting pretty silly.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/tour-15-of-the-brightest-stars-on-new-years-eve-video/' target='_blank'>Tour 15 of the Brightest Stars on New Year's Eve (VIDEO)</a></strong> — <em>2025-12-31 14:00:00</em></summary>
-
-Tour 15 of the sky's brightest stars all in one night on this New Year's Eve! This interactive Worldwide Telescope video will show you the way.
-The post Tour 15 of the Brightest Stars on New Year's Eve (VIDEO) appeared first on Sky & Telescope.
+Think you know your Le Guin from your Liu? Let’s find out
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html' target='_blank'>Einstein Probe detects an X-ray flare from nearby star</a></strong> — <em>2025-12-31 13:30:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-unveils-dual-nature-young-stellar.html' target='_blank'>Study unveils the dual nature of a young stellar object</a></strong> — <em>2026-01-01 18:30:01</em></summary>
 
-Using the Einstein Probe (EP), astronomers have detected a new X-ray transient event, which turned out to be an X-ray flare from the star PM J23221-0301 located about 150 light years away. The finding was reported in a research paper published December 18 on the arXiv preprint server.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-battered-observatory-shield-historic-telescope.html' target='_blank'>Wind-battered Lick Observatory rushes to shield historic telescope after dome damage</a></strong> — <em>2025-12-31 12:50:02</em></summary>
-
-Winds exceeding 110 mph that tore across the top of Mount Hamilton early Christmas morning blasted a massive steel protective door off the iconic white dome at Lick Observatory.
+Astronomers from the Aryabhatta Research Institute of Observational Sciences (ARIES) in India and elsewhere have conducted a long-term photometric and spectroscopic study of a young stellar object known as V1180 Cassiopeiae. Results of the study, published December 23 on the arXiv preprint server, unveil the dual nature of this object.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/new-years-eve-sky-heres-what-to-look-out-for-on-the-final-night-of-2025' target='_blank'>New Year's Eve sky: Here's what to look out for on the final night of 2025</a></strong> — <em>2025-12-31 11:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2025-12-dark-tracking-quantum-sensors.html' target='_blank'>Searching for light dark matter by tracking its direction with quantum sensors</a></strong> — <em>2026-01-01 18:00:02</em></summary>
 
-Constellations, planets, a waxing moon and more grace the night sky this New Year's Eve.
+Dark matter is an elusive type of matter that does not emit, absorb or reflect light, interacting very weakly with ordinary matter. These characteristics make it impossible to detect using conventional technologies used by physicists to study matter particles.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-runaway-stars-dark-milky.html' target='_blank'>Finding runaway stars to help map dark matter in the Milky Way</a></strong> — <em>2026-01-01 17:30:02</em></summary>
+
+Hypervelocity stars have, since the 1920s, been an important tool that allows astronomers to study the properties of the Milky Way galaxy, such as its gravitational potential and the distribution of matter. Now astronomers from China have made a large-volume search for hypervelocity stars by utilizing a special class of stars known for their distinct, regular, predictable pulsation behavior that makes them useful as distance indicators.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/moon-landings-asteroid-missions-and-new-telescopes-here-are-the-top-spaceflight-moments-to-look-forward-to-in-2026' target='_blank'>Moon landings, asteroid missions and new telescopes: Here are the top spaceflight moments to look forward to in 2026</a></strong> — <em>2026-01-01 17:00:00</em></summary>
+
+From astronauts looping around the moon to spacecraft reaching Mercury and asteroids near Earth, 2026 is shaping up to be a landmark year for space exploration.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2025-12-nixes-sterile-neutrino-explanation-previous.html' target='_blank'>Experiment nixes 'sterile' neutrino explanation of previous unexpected measurements</a></strong> — <em>2026-01-01 15:20:01</em></summary>
+
+Experimental particle physicists working at the MicroBooNE experiment at Fermilab National Accelerator Laboratory have found evidence against the existence of a "sterile" type of neutrino hypothesized to be responsible for previous experiments' anomalous results, as detailed in a paper published in Nature.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251227004146.htm' target='_blank'>NASA’s Webb telescope just discovered one of the weirdest planets ever</a></strong> — <em>2026-01-01 15:14:09</em></summary>
+
+A newly discovered exoplanet is rewriting the rules of what planets can be. Orbiting a city-sized neutron star, this Jupiter-mass world has a bizarre carbon-rich atmosphere filled with soot clouds and possibly diamonds at its core. Its extreme gravity stretches it into a lemon shape, and it completes a full orbit in under eight hours. Scientists are stunned — no known theory explains how such a planet could exist.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/15-skywatching-events-you-wont-want-to-miss-in-2026' target='_blank'>15 skywatching events you won't want to miss in 2026</a></strong> — <em>2026-01-01 15:00:00</em></summary>
+
+Our 2026 skywatching guide includes a total solar eclipse, a "blood moon" and a festive supermoon. Here are the dates you need to know.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/space-force-shows-off-snowy-new-alaska-radar-post-space-photo-of-the-day-for-jan-1-2026' target='_blank'>Space Force shows off snowy new Alaska radar post | Space photo of the day for Jan. 1, 2026</a></strong> — <em>2026-01-01 14:00:00</em></summary>
+
+"I am the watcher on the walls."
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/what-to-expect-from-the-planets-in-2026-key-dates-and-sky-events' target='_blank'>What to expect from the planets in 2026 — key dates and sky events</a></strong> — <em>2026-01-01 11:00:00</em></summary>
+
+Your complete guide to the brightest planetary moments of 2026.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/are-image-stabilized-binoculars-good-for-stargazing' target='_blank'>Are image-stabilized binoculars good for stargazing?</a></strong> — <em>2026-01-01 10:00:00</em></summary>
+
+We've tested many image-stabilized binoculars — here's our expert verdict on whether you should bite the bullet and buy a pair or go with regular binoculars for stargazing.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/observing/astronomy-podcasts/sky-tour-podcast-january-2026/' target='_blank'>January Podcast: Jupiter and Orion</a></strong> — <em>2026-01-01 08:08:00</em></summary>
+
+In this month’s episode, start with one of the year’s best meteor showers, then spend some time with Jupiter, and check out a mythical queen and hunter who have ego problems. So bundle up, grab your curiosity, and come along on this month’s Sky Tour.
+The post January Podcast: Jupiter and Orion appeared first on Sky & Telescope.
 
 </details>
 
