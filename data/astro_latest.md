@@ -1,147 +1,160 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics Developments
+    ### Recent Advances in Astrophysics
 
-#### Cosmic Explosions and Earth’s Historical Climate
-Recent research has unveiled evidence suggesting that a cosmic explosion, possibly from a comet airburst, played a crucial role in climatic changes at the end of the last ice age. The discovery of shocked quartz at Clovis-era archaeological sites indicates a significant environmental event that may have contributed to the extinction of megafauna and the collapse of the Clovis culture. This finding emphasizes the profound impact of extraterrestrial phenomena on Earth's ecological and cultural history.
+#### Rogue Planet Discoveries
+Recent advancements in the study of rogue planets have provided crucial insights into these elusive celestial bodies that wander through space without a parent star. For the first time, astronomers have successfully measured both the mass and distance of a rogue planet, revealing that a Saturn-sized planet is located approximately 10,000 light-years from Earth. This research not only enhances our understanding of planetary formation and dynamics but also suggests that rogue planets might be more common than previously thought, influencing theories about planetary migration and the potential for life in diverse environments.
 
-Key items:
-1. Did an exploding comet wipe out the mammoths? - https://www.sciencedaily.com/releases/2025/12/251225080736.htm - Evidence of shocked quartz suggests a comet airburst may have caused drastic environmental changes.
-2. The Best Meteor Showers in 2026 - https://skyandtelescope.org/astronomy-news/the-best-meteor-showers-in-2026/ - Highlights meteor showers, linking them to the broader context of cosmic phenomena.
+Key Items:
+1. Astronomers measured both mass and distance of a rogue planet for the first time - https://phys.org/news/2026-01-astronomers-mass-distance-rogue-planet.html - This measurement provides critical data on the characteristics of free-floating planets.
+2. Detection of a rogue planet the size of Saturn, drifting through the Milky Way - https://www.space.com/astronomy/exoplanets/astronomers-detect-rare-free-floating-exoplanet-10-000-light-years-from-earth - This discovery emphasizes the prevalence of rogue planets in our galaxy.
 
-#### Unconventional Exoplanet Discoveries
-A newly discovered exoplanet orbiting a neutron star is challenging existing theories about planetary formation. This Jupiter-mass planet, characterized by a carbon-rich atmosphere and extreme gravitational effects, is deformed into a lemon shape. Its rapid orbital period and the potential presence of unusual materials, such as diamonds, could significantly alter our understanding of planetary diversity and the conditions under which planets can form.
+#### Stellar Phenomena and Cosmic Events
+The exploration of stellar phenomena continues to unveil intriguing characteristics of celestial objects. The Hubble Space Telescope recently captured images of gas escaping from the galaxy NGC 4388, which may deepen our understanding of galaxy dynamics and evolution. Furthermore, the interstellar comet 3I/ATLAS, which passed close to the Sun, has provided valuable data that could enhance our knowledge of cometary behavior and origins. These findings are essential for understanding the life cycles of stars and the processes governing their evolution.
 
-Key items:
-1. NASA’s Webb telescope just discovered one of the weirdest planets ever - https://www.sciencedaily.com/releases/2025/12/251227004146.htm - The discovery of a bizarre exoplanet orbiting a neutron star raises questions about planetary formation.
-2. A planet just vanished. NASA’s Hubble reveals a violent cosmic secret - https://www.sciencedaily.com/releases/2025/12/251225035346.htm - The disappearance of a supposed exoplanet reveals the aftermath of collisions in a nearby star system.
-
-#### Advances in Dark Matter Research
-Innovative techniques are being employed to enhance our understanding of dark matter, particularly through the use of quantum sensors. These sensors aim to track dark matter's elusive properties and interactions with ordinary matter, potentially leading to significant breakthroughs in the field. This approach not only improves detection methods but also contributes to mapping dark matter distribution in the Milky Way.
-
-Key items:
-1. Searching for light dark matter by tracking its direction with quantum sensors - https://phys.org/news/2025-12-dark-tracking-quantum-sensors.html - New methods using quantum sensors aim to detect dark matter more effectively.
-2. Finding runaway stars to help map dark matter in the Milky Way - https://phys.org/news/2025-12-runaway-stars-dark-milky.html - A search for hypervelocity stars could provide insights into dark matter distribution in our galaxy.
+Key Items:
+1. Hubble observed gas escaping from the galaxy NGC 4388, located 60 million light-years away - https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/ - This observation may provide insights into the lifecycle of galaxies.
+2. The interstellar comet 3I/ATLAS revealed significant data during its recent flyby - https://phys.org/news/2026-01-interstellar-comet-secrets.html - This adds to our limited knowledge of interstellar objects.
 
 ### Conclusion
-The current landscape of astrophysics is vibrant, marked by groundbreaking discoveries and innovative methodologies. From elucidating ancient cosmic events that may have shaped Earth's climate to uncovering the complexities of exoplanets and advancing dark matter research, these developments reflect a dynamic field that continually pushes the boundaries of our understanding. As researchers delve deeper into these interconnected themes, the implications for our comprehension of the universe and our place within it are profound and far-reaching.
+The current landscape of astrophysics is marked by significant discoveries that enhance our understanding of both rogue planets and stellar phenomena. The measurement of rogue planets and the dynamics of galaxies are pivotal areas of research that promise to reshape our comprehension of the universe. As observational technologies advance, these findings may lead to new theoretical frameworks regarding the formation and evolution of celestial bodies, underscoring the interconnectedness of various cosmic processes.
 
 ### Top Sources:
-1. Did an exploding comet wipe out the mammoths? - https://www.sciencedaily.com/releases/2025/12/251225080736.htm - Evidence of shocked quartz suggests a comet airburst may have caused drastic environmental changes.
-2. The Best Meteor Showers in 2026 - https://skyandtelescope.org/astronomy-news/the-best-meteor-showers-in-2026/ - Highlights meteor showers, linking them to the broader context of cosmic phenomena.
-3. NASA’s Webb telescope just discovered one of the weirdest planets ever - https://www.sciencedaily.com/releases/2025/12/251227004146.htm - The discovery of a bizarre exoplanet orbiting a neutron star raises questions about planetary formation.
-4. A planet just vanished. NASA’s Hubble reveals a violent cosmic secret - https://www.sciencedaily.com/releases/2025/12/251225035346.htm - The disappearance of a supposed exoplanet reveals the aftermath of collisions in a nearby star system.
-5. Searching for light dark matter by tracking its direction with quantum sensors - https://phys.org/news/2025-12-dark-tracking-quantum-sensors.html - New methods using quantum sensors aim to detect dark matter more effectively.
-6. Finding runaway stars to help map dark matter in the Milky Way - https://phys.org/news/2025-12-runaway-stars-dark-milky.html - A search for hypervelocity stars could provide insights into dark matter distribution in our galaxy.
-7. Moon landings, asteroid missions and new telescopes: Here are the top spaceflight moments to look forward to in 2026 - https://www.space.com/space-exploration/moon-landings-asteroid-missions-and-new-telescopes-here-are-the-top-spaceflight-moments-to-look-forward-to-in-2026 - Anticipated milestones in space exploration for 2026.
-8. Experiment nixes 'sterile' neutrino explanation of previous unexpected measurements - https://phys.org/news/2025-12-nixes-sterile-neutrino-explanation-previous.html - New findings challenge the existence of a hypothesized type of neutrino.
-9. Study unveils the dual nature of a young stellar object - https://phys.org/news/2025-12-unveils-dual-nature-young-stellar.html - Research reveals complex characteristics of a young stellar object.
-10. 15 skywatching events you won't want to miss in 2026 - https://www.space.com/stargazing/15-skywatching-events-you-wont-want-to-miss-in-2026 - A guide to significant astronomical events in 2026.
+1. Astronomers measure both mass and distance of a rogue planet for the first time - https://phys.org/news/2026-01-astronomers-mass-distance-rogue-planet.html - This measurement provides critical data on the characteristics of free-floating planets.
+2. Astronomers detect rare 'free floating' exoplanet 10,000 light-years from Earth - https://www.space.com/astronomy/exoplanets/astronomers-detect-rare-free-floating-exoplanet-10-000-light-years-from-earth - This discovery emphasizes the prevalence of rogue planets in our galaxy.
+3. Hubble Glimpses Galactic Gas Making a Getaway - https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/ - This observation may provide insights into the lifecycle of galaxies.
+4. The interstellar comet that's spilling its secrets - https://phys.org/news/2026-01-interstellar-comet-secrets.html - This adds to our limited knowledge of interstellar objects.
+5. SpaceX launches Italian Earth-observing satellite to orbit on the 1st mission of 2026 - https://www.space.com/space-exploration/private-spaceflight/spacex-cosmo-skymed-second-generation-falcon-9-launch - Highlights ongoing advancements in space technology.
+6. SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake - https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake - A significant step towards reducing space traffic and collision risks.
+7. Will Comet C/2025 R3 (PanSTARRS) be the 'great comet' of 2026? - https://www.space.com/astronomy/comets/will-comet-c-2025-r3-panstarrs-be-the-great-comet-of-2026 - Potential for new observational opportunities in 2026.
+8. When stars fail to explode - https://phys.org/news/2026-01-stars.html - Investigates the atypical behavior of certain stellar remnants.
+9. Curiosity sends holiday postcard from Mars - https://phys.org/news/2026-01-curiosity-holiday-postcard-mars.html - Engages public interest in ongoing Mars exploration.
+10. Could TRAPPIST-1's seven worlds host moons? - https://phys.org/news/2026-01-trappist-worlds-host-moons.html - Explores the habitability potential of exoplanetary systems.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251225080736.htm' target='_blank'>Did an exploding comet wipe out the mammoths?</a></strong> — <em>2026-01-02 04:12:42</em></summary>
+    <details><summary><strong><a href='https://www.space.com/entertainment/star-trek-warps-into-2026-with-epic-space-for-everybody-rose-parade-float' target='_blank'>'Star Trek' warps into 2026 with epic 'Space For Everybody' Rose Parade float</a></strong> — <em>2026-01-02 21:41:14</em></summary>
 
-Scientists are uncovering new clues that a cosmic explosion may have rocked Earth at the end of the last ice age. At major Clovis-era sites, researchers found shocked quartz—evidence of intense heat and pressure consistent with a comet airburst rather than volcanism or human activity. The event could have sparked massive fires, blocked sunlight, and triggered a rapid return to ice-age conditions. These harsh changes may explain the sudden loss of megafauna and the disappearance of the Clovis culture.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/the-best-meteor-showers-in-2026/' target='_blank'>The Best Meteor Showers in 2026</a></strong> — <em>2026-01-01 23:50:27</em></summary>
-
-The Quadrantids and Eta Aquariids will have Moon trouble in 2026, but the beloved Perseids and Geminids should be glorious.
-The post The Best Meteor Showers in 2026 appeared first on Sky & Telescope.
+2026 is a special year for creator Gene Roddenberry's iconic "Wagon Train To The Stars" sci-fi franchise as it celebrates its 60th anniversary seeking out new life and new civilizations!
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251225035346.htm' target='_blank'>A planet just vanished. NASA’s Hubble reveals a violent cosmic secret</a></strong> — <em>2026-01-01 22:02:26</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/why-do-i-need-a-vpn' target='_blank'>Why do I need a VPN?</a></strong> — <em>2026-01-02 21:05:00</em></summary>
 
-Astronomers tracking a nearby star system thought they had spotted an exoplanet reflecting light from its star. Then it vanished. Even stranger, another bright object appeared nearby. After studying years of Hubble Space Telescope data, scientists realized they were not seeing planets at all, but the glowing debris left behind by two massive collisions between asteroid-sized bodies.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/one-of-the-best-meteor-showers-of-the-year-peaks-at-the-worst-possible-time-this-week' target='_blank'>One of the best meteor showers of the year peaks at the worst possible time this week</a></strong> — <em>2026-01-01 22:00:00</em></summary>
-
-A daylight peak and a full moon combine to sabotage the powerful Quadrantid meteor shower in 2026.
+A VPN, or virtual private network, is great for online safety and accessing content while travelling. It's worth getting, but why? Scroll down to find out.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set' target='_blank'>Playmobil versus Lego: Which is the best USS Enterprise set?</a></strong> — <em>2026-01-01 21:05:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/spacex-cosmo-skymed-second-generation-falcon-9-launch' target='_blank'>SpaceX launches Italian Earth-observing satellite to orbit on the 1st mission of 2026</a></strong> — <em>2026-01-02 21:00:00</em></summary>
 
-Lego has recently released their first-ever Star Trek set, the 3600-piece U.S.S Enterprise, but is it better than Playmobil's model?
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-books/nebula-nights-award-winning-sci-fi-literature-through-the-ages' target='_blank'>Nebula nights: Award-winning sci-fi literature through the ages</a></strong> — <em>2026-01-01 19:00:00</em></summary>
-
-Think you know your Le Guin from your Liu? Let’s find out
+SpaceX launched the first mission of 2026 tonight (Jan. 2), sending an Italian Earth-observing satellite to orbit.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-unveils-dual-nature-young-stellar.html' target='_blank'>Study unveils the dual nature of a young stellar object</a></strong> — <em>2026-01-01 18:30:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake' target='_blank'>SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake</a></strong> — <em>2026-01-02 20:00:00</em></summary>
 
-Astronomers from the Aryabhatta Research Institute of Observational Sciences (ARIES) in India and elsewhere have conducted a long-term photometric and spectroscopic study of a young stellar object known as V1180 Cassiopeiae. Results of the study, published December 23 on the arXiv preprint server, unveil the dual nature of this object.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2025-12-dark-tracking-quantum-sensors.html' target='_blank'>Searching for light dark matter by tracking its direction with quantum sensors</a></strong> — <em>2026-01-01 18:00:02</em></summary>
-
-Dark matter is an elusive type of matter that does not emit, absorb or reflect light, interacting very weakly with ordinary matter. These characteristics make it impossible to detect using conventional technologies used by physicists to study matter particles.
+SpaceX will soon lower the orbits of about 4,400 Starlink satellites, to decrease the threat they pose to other spacecraft and reduce space traffic overall.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-runaway-stars-dark-milky.html' target='_blank'>Finding runaway stars to help map dark matter in the Milky Way</a></strong> — <em>2026-01-01 17:30:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/16-upcoming-sci-fi-shows-to-be-excited-for-in-2026' target='_blank'>16 upcoming sci-fi shows to be excited for in 2026</a></strong> — <em>2026-01-02 19:00:00</em></summary>
 
-Hypervelocity stars have, since the 1920s, been an important tool that allows astronomers to study the properties of the Milky Way galaxy, such as its gravitational potential and the distribution of matter. Now astronomers from China have made a large-volume search for hypervelocity stars by utilizing a special class of stars known for their distinct, regular, predictable pulsation behavior that makes them useful as distance indicators.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/moon-landings-asteroid-missions-and-new-telescopes-here-are-the-top-spaceflight-moments-to-look-forward-to-in-2026' target='_blank'>Moon landings, asteroid missions and new telescopes: Here are the top spaceflight moments to look forward to in 2026</a></strong> — <em>2026-01-01 17:00:00</em></summary>
-
-From astronauts looping around the moon to spacecraft reaching Mercury and asteroids near Earth, 2026 is shaping up to be a landmark year for space exploration.
+Entertainment is the final frontier, as you experience everything from Starfleet to the Green Lantern Corps and Godzilla in 2026.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2025-12-nixes-sterile-neutrino-explanation-previous.html' target='_blank'>Experiment nixes 'sterile' neutrino explanation of previous unexpected measurements</a></strong> — <em>2026-01-01 15:20:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-astronomers-mass-distance-rogue-planet.html' target='_blank'>Astronomers measure both mass and distance of a rogue planet for the first time</a></strong> — <em>2026-01-02 17:20:01</em></summary>
 
-Experimental particle physicists working at the MicroBooNE experiment at Fermilab National Accelerator Laboratory have found evidence against the existence of a "sterile" type of neutrino hypothesized to be responsible for previous experiments' anomalous results, as detailed in a paper published in Nature.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2025/12/251227004146.htm' target='_blank'>NASA’s Webb telescope just discovered one of the weirdest planets ever</a></strong> — <em>2026-01-01 15:14:09</em></summary>
-
-A newly discovered exoplanet is rewriting the rules of what planets can be. Orbiting a city-sized neutron star, this Jupiter-mass world has a bizarre carbon-rich atmosphere filled with soot clouds and possibly diamonds at its core. Its extreme gravity stretches it into a lemon shape, and it completes a full orbit in under eight hours. Scientists are stunned — no known theory explains how such a planet could exist.
+While most planets that we are familiar with stick relatively close to their host star in a predictable orbit, some planets seem to have been knocked out of their orbits, floating through space free of any particular gravitational attachments. Astronomers refer to these lonely planets as "free-floating" or "rogue" planets.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/15-skywatching-events-you-wont-want-to-miss-in-2026' target='_blank'>15 skywatching events you won't want to miss in 2026</a></strong> — <em>2026-01-01 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/2026-is-the-year-humanity-will-finally-go-back-to-the-moon' target='_blank'>2026 is the year humanity will finally go back to the moon</a></strong> — <em>2026-01-02 17:00:00</em></summary>
 
-Our 2026 skywatching guide includes a total solar eclipse, a "blood moon" and a festive supermoon. Here are the dates you need to know.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/space-force-shows-off-snowy-new-alaska-radar-post-space-photo-of-the-day-for-jan-1-2026' target='_blank'>Space Force shows off snowy new Alaska radar post | Space photo of the day for Jan. 1, 2026</a></strong> — <em>2026-01-01 14:00:00</em></summary>
-
-"I am the watcher on the walls."
+It's happening. We are going.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/what-to-expect-from-the-planets-in-2026-key-dates-and-sky-events' target='_blank'>What to expect from the planets in 2026 — key dates and sky events</a></strong> — <em>2026-01-01 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-18-states-tonight' target='_blank'>Northern lights may be visible in 18 states tonight</a></strong> — <em>2026-01-02 16:12:27</em></summary>
 
-Your complete guide to the brightest planetary moments of 2026.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/are-image-stabilized-binoculars-good-for-stargazing' target='_blank'>Are image-stabilized binoculars good for stargazing?</a></strong> — <em>2026-01-01 10:00:00</em></summary>
-
-We've tested many image-stabilized binoculars — here's our expert verdict on whether you should bite the bullet and buy a pair or go with regular binoculars for stargazing.
+Auroras may be visible from Alaska to Illinois as an incoming coronal mass ejection could disrupt Earth's magnetic field and trigger geomagnetic storm conditions.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/observing/astronomy-podcasts/sky-tour-podcast-january-2026/' target='_blank'>January Podcast: Jupiter and Orion</a></strong> — <em>2026-01-01 08:08:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/the-1st-full-moon-of-2026-rises-tonight-heres-what-to-expect-from-januarys-supermoon-wolf-moon' target='_blank'>The 1st full moon of 2026 rises tonight! Here's what to expect from January's supermoon Wolf Moon</a></strong> — <em>2026-01-02 16:00:00</em></summary>
 
-In this month’s episode, start with one of the year’s best meteor showers, then spend some time with Jupiter, and check out a mythical queen and hunter who have ego problems. So bundle up, grab your curiosity, and come along on this month’s Sky Tour.
-The post January Podcast: Jupiter and Orion appeared first on Sky & Telescope.
+Don't miss January's Wolf Moon rise over the eastern horizon tonight, as the first full moon of 2026.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/' target='_blank'>Hubble Glimpses Galactic Gas Making a Getaway</a></strong> — <em>2026-01-02 15:39:01</em></summary>
+
+A sideways spiral galaxy shines in this NASA/ESA Hubble Space Telescope image. Located about 60 million light-years away in the constellation Virgo (the Maiden), NGC 4388 is a resident of the Virgo galaxy cluster. This enormous cluster of galaxies contains more than a thousand members and is the nearest large galaxy cluster to the Milky Way. NGC […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-interstellar-comet-secrets.html' target='_blank'>The interstellar comet that's spilling its secrets</a></strong> — <em>2026-01-02 15:28:18</em></summary>
+
+When 3I/ATLAS swept past the sun in late October 2025, it became only the third confirmed visitor from interstellar space ever detected. Unlike the mysterious 'Oumuamua, which revealed almost nothing about itself during its brief flyby in 2017, or even 2I/Borisov which appeared in 2019, this latest interstellar traveler arrived with perfect timing for detailed study.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/astronomers-detect-rare-free-floating-exoplanet-10-000-light-years-from-earth' target='_blank'>Astronomers detect rare 'free floating' exoplanet 10,000 light-years from Earth</a></strong> — <em>2026-01-02 15:00:00</em></summary>
+
+Astronomers have detected a "free floating" rogue planet the size of Saturn drifting through the Milky Way some 10,000 light-years from Earth.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-curiosity-holiday-postcard-mars.html' target='_blank'>Curiosity sends holiday postcard from Mars</a></strong> — <em>2026-01-02 14:24:21</em></summary>
+
+Team members working with NASA's Curiosity Mars rover created this "postcard" by commanding the rover to take images at two times of day on Nov. 18, 2025, spanning periods that occurred on both the 4,722nd and 4,723rd Martian days, or sols, of the mission.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-stars.html' target='_blank'>When stars fail to explode</a></strong> — <em>2026-01-02 14:22:20</em></summary>
+
+Many stars die spectacularly when they explode as supernovae. During these violent explosions, they leave behind thick, chaotic clouds of debris shaped like cauliflowers. But supernova remnant Pa 30 looks nothing like that.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-space-mice-home-families.html' target='_blank'>Space mice come home and start families</a></strong> — <em>2026-01-02 14:18:29</em></summary>
+
+Four mice went to space as astronauts. One came back and became a mother. And that simple fact might matter more than you'd think for humanity's future beyond Earth.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-trappist-worlds-host-moons.html' target='_blank'>Could TRAPPIST-1's seven worlds host moons?</a></strong> — <em>2026-01-02 14:06:22</em></summary>
+
+Forty light-years away, seven Earth-sized planets orbit around a dim red dwarf star in one of the most tightly packed planetary systems ever discovered. The TRAPPIST-1 system has captivated astronomers since 2017, with three of its planets orbiting in the habitable zone where liquid water might exist. But there's been a lingering question whether any of these worlds could hold onto moons.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/nature-carves-colossal-snowman-in-siberia-space-photo-of-the-day-for-jan-2-2026' target='_blank'>Nature carves colossal snowman in Siberia | Space photo of the day for Jan. 2, 2026</a></strong> — <em>2026-01-02 13:03:24</em></summary>
+
+Do you want to build a snowman?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/will-comet-c-2025-r3-panstarrs-be-the-great-comet-of-2026' target='_blank'>Will Comet C/2025 R3 (PanSTARRS) be the 'great comet' of 2026?</a></strong> — <em>2026-01-02 11:00:00</em></summary>
+
+In late April 2026, a long-period comet will swing through the inner solar system. It will likely be visible with binoculars, and there's a small chance it could be seen with the naked eye.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-january-2-11/' target='_blank'>This Week's Sky at a Glance, January 2 – 11</a></strong> — <em>2026-01-02 10:09:00</em></summary>
+
+The bright Moon shines over Jupiter, Pollux and Castor on Friday evening the 2nd, then
+groups right up amidst them on Saturday the 3rd.
+The post This Week's Sky at a Glance, January 2 – 11 appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/01/A_neighbouring_vista_of_stellar_birth' target='_blank'>A neighbouring vista of stellar birth</a></strong> — <em>2026-01-02 09:37:00</em></summary>
+
+
+	Image:
+			A neighbouring vista of stellar birth
 
 </details>
 
