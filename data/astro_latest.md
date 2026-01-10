@@ -1,286 +1,232 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Recent Developments in Astrophysics and Space Exploration
 
-#### Understanding Galactic Dynamics and Black Holes
-Recent observations have significantly advanced our understanding of supermassive black holes and their roles in shaping galaxies. Notably, the W. M. Keck Observatory has documented the largest stream of super-heated gas emanating from a black hole, suggesting that these massive entities can influence their host galaxies on a grand scale. Additionally, NASA's X-ray spacecraft has revealed a tumultuous history of the Milky Way's supermassive black hole, indicating a more violent past than previously understood, which could reshape theories about galaxy evolution.
+#### 1. Stellar Companions and Cosmic Mysteries
+Recent advancements in stellar astrophysics have unveiled intriguing details about the dynamics of massive stars and their companions. Notably, the discovery of a hidden companion star orbiting Betelgeuse, named Siwarha, has provided new insights into the giant star's unusual behavior, particularly its atmospheric gas trails. This finding enhances our understanding of stellar interactions and the evolutionary processes of massive stars, shedding light on their life cycles and the factors influencing their variability.
 
-Key Items:
-1. **First galaxy-wide wobbling black hole jet discovered** - https://phys.org/news/2026-01-galaxy-wide-black-hole-jet.html - Discovery of a massive gas stream reshaping its host galaxy.
-2. **NASA X-ray spacecraft reveals the violent history of the Milky Way's black hole** - https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-reveals-the-shockingly-violent-history-of-the-milky-ways-supermassive-black-hole - Insights into the Milky Way's supermassive black hole's tumultuous past.
+Key items:
+- Betelgeuse's companion star detected, revealing its influence on the giant's atmosphere. [Link](https://www.sciencedaily.com/releases/2026/01/260109235153.htm)
+- Hubble's Cloud-9 discovery of a dark matter-dominated "failed galaxy" reinforces theories about starless galaxies, providing a glimpse into the universe's early structures. [Link](https://www.sciencedaily.com/releases/2026/01/260109220500.htm)
 
-#### Advances in Dark Matter Research
-The enigmatic nature of dark matter continues to be a focal point of astrophysical research. Recent studies propose that dark stars, which are powered by dark matter annihilation, could explain various phenomena observed by the James Webb Space Telescope, such as the formation of blue monster galaxies and the existence of overmassive black holes. Furthermore, the identification of a starless gas cloud potentially containing dark matter may provide critical evidence for its properties and existence.
+#### 2. Advancements in Space Missions
+NASA's Artemis program is making significant strides towards its goal of returning humans to the Moon. The rollout of the Artemis 2 rocket is set for January 17, with a potential launch as early as February 6, marking the first crewed lunar mission in over half a century. This mission is pivotal not only for lunar exploration but also as a precursor for future Mars missions. Additionally, the Dragonfly mission, aimed at exploring Titan, is undergoing rigorous testing, showcasing NASA's commitment to innovative extraterrestrial exploration.
 
-Key Items:
-1. **Dark stars could help solve cosmic dawn puzzles** - https://phys.org/news/2026-01-dark-stars-puzzles-high-redshift.html - Connecting dark stars to early universe mysteries.
-2. **Starless gas cloud might harbor dark matter** - https://skyandtelescope.org/astronomy-news/starless-gas-cloud-might-hide-a-clump-of-dark-matter/ - A potential breakthrough in dark matter research.
+Key items:
+- Artemis 2 rocket rollout planned for January 17, with a targeted launch window starting February 6. [Link](https://www.space.com/space-exploration/artemis/nasa-to-roll-out-rocket-for-artemis-2-moon-mission-on-jan-17)
+- NASA's Dragonfly mission, which will explore Titan, is undergoing rigorous testing, emphasizing the agency's innovative approach to extraterrestrial exploration. [Link](https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/)
 
-#### Innovations in Space Exploration Technologies
-Technological advancements are transforming space exploration capabilities. NASA has successfully powered on the Gateway Power and Propulsion Element, a critical component for lunar exploration infrastructure. Additionally, the Vera Rubin Observatory has made headlines with the discovery of the fastest-spinning asteroid recorded, which has implications for our understanding of asteroid dynamics and planetary defense.
+#### 3. New Insights into Dark Matter and Galaxy Evolution
+Ongoing research is expanding our understanding of dark matter and its influence on galaxy formation. A recent study has identified a higher prevalence of active black holes in dwarf and Milky Way-sized galaxies, suggesting a complex interplay between these massive objects and their host galaxies. Furthermore, the discovery of a "ghost galaxy," composed entirely of dark matter, prompts deeper investigation into the nature of dark matter and its role in cosmic evolution.
 
-Key Items:
-1. **NASA starts up Gateway’s power system** - https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/ - A milestone in lunar exploration capabilities.
-2. **Vera Rubin Observatory discovers fastest spinning asteroid** - https://www.space.com/astronomy/asteroids/vera-rubin-observatory-discovers-the-fastest-spinning-asteroid-ever-and-its-huge - A significant finding with implications for asteroid research.
+Key items:
+- A comprehensive census of active galactic nuclei reveals insights into the prevalence of black holes across different galaxy sizes. [Link](https://phys.org/news/2026-01-scientists-black-holes-dwarf-milky.html)
+- The concept of "red geysers" offers explanations for how massive galaxies can cease star formation while still containing gas. [Link](https://phys.org/news/2026-01-quiet-galaxies-stay-cool-gas.html)
 
 ### Conclusion
-The current landscape of astrophysics is marked by significant discoveries and technological advancements that deepen our understanding of black holes, dark matter, and space exploration. Researchers are uncovering the complex dynamics of black holes and their interactions with galaxies, while also making strides in unraveling the mysteries of dark matter. These developments not only enhance our fundamental knowledge of the universe but also set the stage for future exploration missions, reflecting a vibrant and rapidly evolving field.
+The current state of astrophysics and space exploration is characterized by significant discoveries that enhance our understanding of the universe's complexities. From the dynamics of stellar systems to ambitious lunar missions and the ongoing quest to unravel dark matter's mysteries, researchers are making strides that promise to reshape our comprehension of cosmic evolution. As these investigations continue, they will undoubtedly influence future explorations and theories in astrophysics.
 
 Top Sources:
-1. NASA X-ray spacecraft reveals the shockingly violent history of the Milky Way's supermassive black hole - https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-reveals-the-shockingly-violent-history-of-the-milky-ways-supermassive-black-hole - New insights into the Milky Way's black hole dynamics.
-2. First galaxy-wide wobbling black hole jet discovered in a disk galaxy - https://phys.org/news/2026-01-galaxy-wide-black-hole-jet.html - Largest stream of gas from a black hole observed.
-3. Dark stars could help solve three pressing puzzles of the high-redshift universe - https://phys.org/news/2026-01-dark-stars-puzzles-high-redshift.html - Linking dark stars to cosmic phenomena.
-4. Starless gas cloud might harbor dark matter - https://skyandtelescope.org/astronomy-news/starless-gas-cloud-might-hide-a-clump-of-dark-matter/ - Potential evidence for dark matter's existence.
-5. NASA Starts Up Gateway’s Power System for First Time - https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/ - Milestone for lunar exploration infrastructure.
-6. Vera Rubin Observatory discovers fastest spinning asteroid ever and its huge! - https://www.space.com/astronomy/asteroids/vera-rubin-observatory-discovers-the-fastest-spinning-asteroid-ever-and-its-huge - Important finding in asteroid dynamics.
-7. Astrophysicists map how many ghost particles all the Milky Way's stars send towards Earth - https://phys.org/news/2026-01-astrophysicists-ghost-particles-milky-stars.html - New insights into neutrino emissions from the Milky Way.
-8. Scientists are closing in on the Universe’s biggest mystery - https://www.sciencedaily.com/releases/2026/01/260107225530.htm - Advances in dark matter detection technology.
-9. Cosmic lens reveals hyperactive cradle of future galaxy cluster - https://phys.org/news/2026-01-cosmic-lens-reveals-hyperactive-cradle.html - Insights into galaxy cluster formation.
-10. Repeating fast radio burst shows diverse activity and hints at magnetar origin - https://phys.org/news/2026-01-fast-radio-diverse-hints-magnetar.html - Findings on fast radio bursts and their origins.
+1. SpaceX launches 29 Starlink satellites on its 3rd mission of 2026 - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-6-96-jrti - SpaceX successfully launches another batch of Starlink satellites.
+2. Betelgeuse has a hidden companion and Hubble just caught its wake - https://www.sciencedaily.com/releases/2026/01/260109235153.htm - Discovery of a companion star influencing Betelgeuse's behavior.
+3. Astronomers find a ghost galaxy made of dark matter - https://www.sciencedaily.com/releases/2026/01/260109220500.htm - Hubble reveals Cloud-9, a dark matter-dominated cloud with no stars.
+4. NASA to roll out rocket for Artemis 2 moon mission on Jan. 17 - https://www.space.com/space-exploration/artemis/nasa-to-roll-out-rocket-for-artemis-2-moon-mission-on-jan-17 - NASA prepares for its first crewed lunar mission in decades.
+5. Final Steps Underway for NASA’s First Crewed Artemis Moon Mission - https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/ - Artemis II test flight approaches launch readiness.
+6. Scientists find more active black holes in dwarf and Milky Way-sized galaxies - https://phys.org/news/2026-01-scientists-black-holes-dwarf-milky.html - New insights into the prevalence of black holes across galaxy types.
+7. How quiet galaxies stay quiet: Cool gas feeds black holes in 'red geysers' - https://phys.org/news/2026-01-quiet-galaxies-stay-cool-gas.html - Understanding the dormancy of massive galaxies despite available gas.
+8. Flight Engineers Give NASA’s Dragonfly Lift - https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/ - Preparations for the Dragonfly mission to Titan continue.
+9. Cold neutral gas in early universe prompts rethink of galaxy cluster evolution - https://phys.org/news/2026-01-cold-neutral-gas-early-universe.html - New findings challenge previous assumptions about galaxy cluster formation.
+10. Jupiter ocean moon Europa likely lacks tectonic activity, reducing its chances for life - https://www.space.com/space-exploration/search-for-life/jupiter-ocean-moon-europa-likely-lacks-tectonic-activity-reducing-its-chances-for-life - Study suggests Europa's geological inactivity may hinder potential habitability.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/' target='_blank'>Ganges Delta Under a Winter Shroud of Fog</a></strong> — <em>2026-01-09 05:00:00</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-6-96-jrti' target='_blank'>SpaceX launches 29 Starlink satellites on its 3rd mission of 2026 (video)</a></strong> — <em>2026-01-10 06:43:41</em></summary>
 
-Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/' target='_blank'>Ganges Delta Under a Winter Shroud of Fog</a></strong> — <em>2026-01-09 05:00:00</em></summary>
-
-Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
+SpaceX launched 29 Starlink broadband satellites to orbit from Florida's Space Coast on Friday (Jan. 9), acing its third mission of 2026.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/nasa-says-it-will-return-4-astronauts-home-early-in-1st-ever-medical-evacuation-from-the-international-space-station' target='_blank'>NASA says it will return 4 astronauts home early in 1st-ever medical evacuation from the International Space Station</a></strong> — <em>2026-01-08 23:29:58</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/nasa-will-evacuate-spacex-crew-11-astronauts-from-international-space-station-on-jan-14' target='_blank'>NASA will evacuate SpaceX Crew-11 astronauts from International Space Station on Jan. 14</a></strong> — <em>2026-01-10 05:44:57</em></summary>
 
-NASA has decided to bring the four astronauts of SpaceX's Crew-11 mission home from the International Space Station early due to a medical issue experienced by a crewmember in orbit.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-reveals-the-shockingly-violent-history-of-the-milky-ways-supermassive-black-hole' target='_blank'>NASA X-ray spacecraft reveals the shockingly violent history of the Milky Way's supermassive black hole</a></strong> — <em>2026-01-08 22:00:00</em></summary>
-
-"Nothing in my professional training as an X-ray astronomer had prepared me for something like this."
+The first medical evacuation in the history of the International Space Station will take place on Jan. 14, when the four astronauts of SpaceX's Crew-11 mission head home.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-electrifying-science-martian.html' target='_blank'>The electrifying science behind Martian dust</a></strong> — <em>2026-01-08 21:26:33</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260109235153.htm' target='_blank'>Betelgeuse has a hidden companion and Hubble just caught its wake</a></strong> — <em>2026-01-10 05:08:18</em></summary>
 
-Mars, often depicted as a barren red planet, is far from lifeless. With its thin atmosphere and dusty surface, it is an energetic and electrically charged environment where dust storms and dust devils continually reshape the landscape, creating dynamic processes that have intrigued scientists.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-dark-stars-puzzles-high-redshift.html' target='_blank'>Dark stars could help solve three pressing puzzles of the high-redshift universe</a></strong> — <em>2026-01-08 21:00:01</em></summary>
-
-A recent study provides answers to three seemingly disparate yet pressing cosmic dawn puzzles. Specifically, the authors show how dark stars could help explain the unexpected discovery of "blue monster" galaxies, the numerous early overmassive black hole galaxies, and the "little red dots" in images from the James Webb Space Telescope (JWST).
+Astronomers have uncovered the long-hidden cause behind Betelgeuse’s strange behavior: a small companion star carving a visible wake through the giant’s vast atmosphere. Using nearly eight years of observations from NASA’s Hubble Space Telescope and ground-based observatories, scientists detected swirling trails of dense gas created as the companion, called Siwarha, moves through Betelgeuse’s outer layers.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-galaxy-wide-black-hole-jet.html' target='_blank'>First galaxy-wide wobbling black hole jet discovered in a disk galaxy</a></strong> — <em>2026-01-08 20:58:01</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260109220500.htm' target='_blank'>Astronomers find a ghost galaxy made of dark matter</a></strong> — <em>2026-01-10 03:05:00</em></summary>
 
-Astronomers using W. M. Keck Observatory on Maunakea, Hawaiʻi Island have uncovered the largest and most extended stream of super-heated gas ever observed flowing from a nearby galaxy, providing the clearest evidence yet that a supermassive black hole can dramatically reshape its host galaxy far beyond its core.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/february-full-moon-2026-when-where-and-how-to-see-the-snow-moon' target='_blank'>February full moon 2026: When, where and how to see the Snow Moon</a></strong> — <em>2026-01-08 20:17:48</em></summary>
-
-Your guide to February's full Snow Moon, from peak times to skywatching highlights.
+Hubble has revealed a strange cosmic object called Cloud-9, a dark matter–dominated cloud with no stars at all. Scientists believe it is a “failed galaxy,” a leftover building block from the early Universe that never lit up. Its discovery confirms long-standing theories about starless galaxies. Cloud-9 offers a rare glimpse into the dark side of cosmic evolution.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/how-does-nasa-handle-astronaut-medical-issues-in-space' target='_blank'>How does NASA handle astronaut medical issues in space?</a></strong> — <em>2026-01-08 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-to-roll-out-rocket-for-artemis-2-moon-mission-on-jan-17' target='_blank'>NASA to roll out rocket for Artemis 2 moon mission on Jan. 17</a></strong> — <em>2026-01-10 01:31:45</em></summary>
 
-NASA just postponed a spacewalk because of a medical concern with an astronaut. Here's how the agency has handled such issues in the past.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html' target='_blank'>Simultaneous packing structures in superionic water may explain ice giant magnetic fields</a></strong> — <em>2026-01-08 19:50:03</em></summary>
-
-Superionic water—the hot, black and strangely conductive form of ice that exists in the center of distant planets—was predicted in the 1980s and first recreated in a laboratory in 2018. With each closer look, it continues to surprise researchers.
+NASA plans to roll out its Artemis 2 moon rocket on Jan. 17, keeping the historic mission on track to launch as soon as Feb. 6.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/' target='_blank'>NASA to Provide Media with International Space Station Update Today</a></strong> — <em>2026-01-08 19:26:06</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/' target='_blank'>Final Steps Underway for NASA’s First Crewed Artemis Moon Mission</a></strong> — <em>2026-01-10 00:00:48</em></summary>
 
-NASA will host a live news conference at 5 p.m. EST on Thursday from the agency’s headquarters in Washington to discuss the International Space Station and its crew. On Jan. 7, the agency announced it was postponing a planned spacewalk originally scheduled for Jan. 8 while teams monitored a medical concern with a crew member […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/' target='_blank'>NASA to Provide Media with International Space Station Update Today</a></strong> — <em>2026-01-08 19:26:06</em></summary>
-
-NASA will host a live news conference at 5 p.m. EST on Thursday from the agency’s headquarters in Washington to discuss the International Space Station and its crew. On Jan. 7, the agency announced it was postponing a planned spacewalk originally scheduled for Jan. 8 while teams monitored a medical concern with a crew member […]
+As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch rehearsals. NASA is targeting no earlier […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/' target='_blank'>Best of 2025: Artemis II Countdown Demonstration Test</a></strong> — <em>2026-01-08 17:20:46</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/' target='_blank'>Final Steps Underway for NASA’s First Crewed Artemis Moon Mission</a></strong> — <em>2026-01-10 00:00:48</em></summary>
 
-Artemis II crewmembers (left to right) NASA astronauts Christina Koch, mission specialist; and Victor Glover, pilot; CSA (Canadian Space Agency) astronaut Jeremy Hansen, mission specialist; and NASA astronaut Reid Wiseman, commander are led by Bill Owens of the Closeout Crew from the elevator at the 275-foot level of the mobile launcher to the crew access […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/' target='_blank'>Best of 2025: Artemis II Countdown Demonstration Test</a></strong> — <em>2026-01-08 17:20:46</em></summary>
-
-Artemis II crewmembers (left to right) NASA astronauts Christina Koch, mission specialist; and Victor Glover, pilot; CSA (Canadian Space Agency) astronaut Jeremy Hansen, mission specialist; and NASA astronaut Reid Wiseman, commander are led by Bill Owens of the Closeout Crew from the elevator at the 275-foot level of the mobile launcher to the crew access […]
+As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch rehearsals. NASA is targeting no earlier […]
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/starless-gas-cloud-might-hide-a-clump-of-dark-matter/' target='_blank'>Starless Gas Cloud Might Harbor Dark Matter</a></strong> — <em>2026-01-08 17:09:18</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/space-skeleton-crew-just-3-astronauts-will-run-the-iss-after-crew-11s-medical-evacuation' target='_blank'>Space skeleton crew: Just 3 astronauts will run the ISS after Crew-11's medical evacuation</a></strong> — <em>2026-01-09 22:30:00</em></summary>
 
-Astronomers discovered a cloud of hydrogen gas that’s devoid of stars. Held together by an invisible halo of dark matter, the starless cloud may elucidate its nature.
-The post Starless Gas Cloud Might Harbor Dark Matter appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html' target='_blank'>Earliest known barred spiral galaxy spotted just 2 billion years after Big Bang</a></strong> — <em>2026-01-08 17:06:59</em></summary>
-
-Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral galaxies containing a stellar bar, a sometimes-striking visual feature that can play an important role in the evolution of a galaxy. Our galaxy, the Milky Way, also has a stellar bar.
+NASA will bring four astronauts back to Earth early due to a health issue, leaving the International Space Station with just three crewmembers. But that's the way it used to be.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-asteroid-impact-simulation-reveals-hidden.html' target='_blank'>Asteroid impact simulation reveals the hidden strength of space rocks</a></strong> — <em>2026-01-08 17:05:20</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/' target='_blank'>Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests</a></strong> — <em>2026-01-09 21:41:42</em></summary>
 
-Physicists at the University of Oxford have contributed to a new study which has found that iron-rich asteroids can tolerate far more energy than previously thought without breaking apart—a breakthrough with direct implications for planetary defense strategies. The findings have been published in Nature Communications.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/' target='_blank'>NASA Starts Up Gateway’s Power System for First Time</a></strong> — <em>2026-01-08 17:04:25</em></summary>
-
-Development continues on NASA’s Power and Propulsion Element, a solar electric propulsion spacecraft designed to provide power for Gateway in lunar orbit. Able to generate 60 kilowatts of power, the element was successfully powered on earlier last year. The milestone demonstrates the element can provide the spacecraft with power, high-rate communications, attitude control, as well […]
+Heated, cooled, shaken, and settled – NASA’s StarBurst instrument is several steps closer to being ready for launch. The small satellite is now awaiting instrument calibration following a successful integration in Canada and rigorous testing by engineers at the agency’s Marshall Space Flight Center in Huntsville, Alabama. StarBurst is designed to detect the initial emission […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/' target='_blank'>NASA Starts Up Gateway’s Power System for First Time</a></strong> — <em>2026-01-08 17:04:25</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/strange-cosmic-objects-spotted-by-the-james-webb-space-telescope-may-be-baby-platypus-galaxies-or-something-entirely-new' target='_blank'>Strange cosmic objects spotted by the James Webb Space Telescope may be baby 'platypus' galaxies — or something entirely new</a></strong> — <em>2026-01-09 21:00:00</em></summary>
 
-Development continues on NASA’s Power and Propulsion Element, a solar electric propulsion spacecraft designed to provide power for Gateway in lunar orbit. Able to generate 60 kilowatts of power, the element was successfully powered on earlier last year. The milestone demonstrates the element can provide the spacecraft with power, high-rate communications, attitude control, as well […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/vera-rubin-observatory-discovers-the-fastest-spinning-asteroid-ever-and-its-huge' target='_blank'>Vera Rubin Observatory discovers fastest spinning asteroid ever and its huge!</a></strong> — <em>2026-01-08 17:00:00</em></summary>
-
-The Vera Rubin Observatory has found 19 new "superfast rotator" asteroids, including the fastest-spinning big space rock ever found.
+"These nine objects are special."
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-12-states-jan-8-9' target='_blank'>Northern lights may be visible in 12 states tonight</a></strong> — <em>2026-01-08 16:46:19</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/drones/the-best-drone-on-the-market-is-still-at-its-lowest-ever-price-but-stock-is-starting-running-low' target='_blank'>The best drone on the market is still at its lowest-ever price, but you'll have to hurry as stock is starting to run low</a></strong> — <em>2026-01-09 18:44:32</em></summary>
 
-Auroras may be visible from Alaska to New York as incoming coronal mass ejections and high-speed solar winds could trigger geomagnetic storms tonight.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-final-greenland-2-migration-trailer-is-here-and-its-got-the-90s-disaster-movie-vibes-weve-been-craving-video' target='_blank'>The final 'Greenland 2: Migration' trailer is here, and it's got the '90s disaster movie vibes we've been craving (video)</a></strong> — <em>2026-01-08 16:00:00</em></summary>
-
-Gerard Butler and Morena Baccarin return in an epic sci-fi survival sequel to 2020's surprise hit, "Greenland".
+The DJI Mavic 4 Pro is a powerful drone featuring three cameras that can capture images in 100MP resolution and video in 6K and it's still at its lowest price.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-nasa-cancels-spacewalk-due-medical.html' target='_blank'>NASA cancels spacewalk due to medical issue and may bring the crew back early</a></strong> — <em>2026-01-08 15:52:54</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/' target='_blank'>Flight Engineers Give NASA’s Dragonfly Lift</a></strong> — <em>2026-01-09 18:17:30</em></summary>
 
-NASA canceled its first spacewalk of the year and may bring its crew back early from the International Space Station due to an onboard medical issue.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-solution-gravitational-mystery.html' target='_blank'>Study offers possible solution to a gravitational wave mystery</a></strong> — <em>2026-01-08 15:46:41</em></summary>
-
-Scientists at the University of Colorado Boulder may have solved a pressing mystery about the universe's gravitational wave background.
+In sending a car-sized rotorcraft to explore Saturn’s moon Titan, NASA’s Dragonfly mission will undertake an unprecedented voyage of scientific discovery. And the work to ensure that this first-of-its-kind project can fulfill its ambitious exploration vision is underway in some of the nation’s most advanced space simulation and testing laboratories. Set for launch in in […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/former-ceo-of-google-spearheads-4-next-gen-telescopes-3-on-earth-and-1-in-space' target='_blank'>Former CEO of Google spearheads 4 next-gen telescopes — 3 on Earth and 1 in space</a></strong> — <em>2026-01-08 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/gerard-butler-on-the-rigors-of-making-disaster-sequel-greenland-2-migration-interview' target='_blank'>'I was done. I was burned out': Gerard Butler on the rigors of making disaster sequel 'Greenland 2: Migration' (interview)</a></strong> — <em>2026-01-09 18:00:00</em></summary>
 
-"We're going to do it in three years, and we're going to do it for a ridiculously low price."
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/nord-sci-fi-vpn-deal' target='_blank'>Stream Starfleet Academy and all the other top sci-fi shows coming in 2026 while traveling — and save money</a></strong> — <em>2026-01-08 14:58:47</em></summary>
-
-Watch your favorite series just as you would at home with a huge 70% discount on the best VPN service overall.
+"It's about the themes of love and sacrifice and family. And maybe asking ourselves, 'What am I going to do that adds quality to this world?'"
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/comet-24p-schaumasse-makes-its-closest-approach-to-the-sun-today-but-will-you-be-able-to-see-it' target='_blank'>Comet 24P/Schaumasse makes its closest approach to the sun today: But will you be able to see it?</a></strong> — <em>2026-01-08 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-9-2026' target='_blank'>ISS astronaut medical evacuation latest news: NASA targets return to Earth date</a></strong> — <em>2026-01-09 17:39:21</em></summary>
 
-Solar system comets are often at their brightest as they draw close to the sun
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/an-extremely-rare-callisto-event-on-january-10th/' target='_blank'>An extremely rare Callisto event on January 10th</a></strong> — <em>2026-01-08 14:00:00</em></summary>
-
-Observers across America may witness a special transit and shadow event of Jupiter’s moon on opposition day.
-The post An extremely rare Callisto event on January 10th appeared first on Sky & Telescope.
+NASA will return four astronauts to Earth early from the International Space Station due to a medical concern with one of the Crew-11 astronauts. Here's the latest news.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-astrophysicists-ghost-particles-milky-stars.html' target='_blank'>Astrophysicists map how many ghost particles all the Milky Way's stars send towards Earth</a></strong> — <em>2026-01-08 13:45:28</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dave-reynolds/' target='_blank'>I Am Artemis: Dave Reynolds</a></strong> — <em>2026-01-09 17:29:03</em></summary>
 
-They're called ghost particles for a reason. They're everywhere—trillions of them constantly stream through everything: our bodies, our planet, even the entire cosmos. These so-called neutrinos are elementary particles that are invisible, incredibly light, and interact only rarely with other matter.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260107225530.htm' target='_blank'>Scientists are closing in on the Universe’s biggest mystery</a></strong> — <em>2026-01-08 13:44:48</em></summary>
-
-Nearly everything in the universe is made of mysterious dark matter and dark energy, yet we can’t see either of them directly. Scientists are developing detectors so sensitive they can spot particle interactions that might occur once in years or even decades. These experiments aim to uncover what shapes galaxies and fuels cosmic expansion. Cracking this mystery could transform our understanding of the laws of nature.
+As booster manager for NASA’s SLS (Space Launch System), Dave Reynolds’ path to NASA is embodied by his childhood poster of the space shuttle’s Return to Flight initiative, which hangs in his office, serving as a constant reminder that his journey to the agency began decades ago. Growing up in Roy, Utah, Reynolds remembers standing […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-cosmic-lens-reveals-hyperactive-cradle.html' target='_blank'>Cosmic lens reveals hyperactive cradle of future galaxy cluster</a></strong> — <em>2026-01-08 13:41:36</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dave-reynolds/' target='_blank'>I Am Artemis: Dave Reynolds</a></strong> — <em>2026-01-09 17:29:03</em></summary>
 
-Galaxy clusters are formed by a dense packing of many galaxies, making them the most massive structures in the universe. Their progenitors, protoclusters, show these galaxies in their infancy, offering a window to study how they all formed. This early "settlement" of galaxies will eventually evolve into a sprawling metropolis by the present day.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-fast-radio-diverse-hints-magnetar.html' target='_blank'>Repeating fast radio burst shows diverse activity and hints at magnetar origin</a></strong> — <em>2026-01-08 13:10:01</em></summary>
-
-Using the upgraded Giant Metrewave Radio Telescope (uGMRT), Indian astronomers have performed multi-frequency observations of a repeating fast radio burst designated FRB 20201124A. Results of these observations shed more light on the activity and properties of this burst. The new findings were presented in a paper published December 31 on the arXiv preprint server.
+As booster manager for NASA’s SLS (Space Launch System), Dave Reynolds’ path to NASA is embodied by his childhood poster of the space shuttle’s Return to Flight initiative, which hangs in his office, serving as a constant reminder that his journey to the agency began decades ago. Growing up in Roy, Utah, Reynolds remembers standing […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/space-telescopes-capture-breathtaking-galactic-hug-space-photo-of-the-day-for-jan-8-2026' target='_blank'>Space telescopes capture breathtaking galactic hug | Space photo of the day for Jan. 8, 2026</a></strong> — <em>2026-01-08 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-cold-neutral-gas-early-universe.html' target='_blank'>Cold neutral gas in early universe prompts rethink of galaxy cluster evolution</a></strong> — <em>2026-01-09 17:01:36</em></summary>
 
-Both NASA’s James Webb Space Telescope and Chandra X-ray Observatory caught these two galaxies in a close embrace.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260107225544.htm' target='_blank'>Scientists tried to break Einstein’s speed of light rule</a></strong> — <em>2026-01-08 12:37:11</em></summary>
-
-Einstein’s claim that the speed of light is constant has survived more than a century of scrutiny—but scientists are still daring to test it. Some theories of quantum gravity suggest light might behave slightly differently at extreme energies. By tracking ultra-powerful gamma rays from distant cosmic sources, researchers searched for tiny timing differences that could reveal new physics. They found none, but their results tighten the limits by a huge margin.
+A small group of young researchers at the Cosmic Dawn Center, Niels Bohr Institute, University of Copenhagen, have, through observations of the early stages of an extremely large galaxy cluster's evolution, shown that the largest structures we know have a different history than previously thought.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_Director_General_s_2026_annual_press_briefing' target='_blank'>ESA Director General’s 2026 annual press briefing</a></strong> — <em>2026-01-08 11:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/jupiter-ocean-moon-europa-likely-lacks-tectonic-activity-reducing-its-chances-for-life' target='_blank'>Jupiter ocean moon Europa likely lacks tectonic activity, reducing its chances for life</a></strong> — <em>2026-01-09 17:00:00</em></summary>
 
-
-	Video: 
-			01:30:00
-				Josef Aschbacher, Director General of the European Space Agency, briefed journalists on the main milestones for 2026, such as the launch of Smile, a mission that will give humankind its first complete look at how Earth reacts to streams of particles and bursts of radiation from the Sun. Later in 2026 should also see the arrival of BepiColombo at Mercury after its eight-year trip, where it will gather data to answer many perplexing questions about the least-explored planet of the inner Solar System. Many more exciting missions are expected, with ESA astronaut Sophie Adenot launching for the International Space Station, and various Earth Observation and Navigation launches from Europe’s Spaceport in French Guiana.Download the press briefing slides
+New models suggest that Europa has very little tectonic activity at its seafloor, which is potentially catastrophic news for the hopes of finding alien life within its ocean.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/super-star-being-shredded-by-black-hole-releases-as-much-energy-as-400-billion-suns' target='_blank'>'Super star' being shredded by black hole releases as much energy as 400 billion suns</a></strong> — <em>2026-01-08 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/iss-astronaut-evacuation-shouldnt-interfere-with-upcoming-artemis-2-moon-mission-nasa-chief-says' target='_blank'>ISS astronaut evacuation shouldn't interfere with upcoming Artemis 2 moon mission, NASA chief says</a></strong> — <em>2026-01-09 15:44:40</em></summary>
 
-"This was many times more energetic than any similar event and more than any known explosion powered by the collapse of a star."
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_preview_2026' target='_blank'>ESA preview 2026</a></strong> — <em>2026-01-08 10:00:00</em></summary>
-
-
-	Video: 
-			00:06:21
-				As a new year begins, let’s take a look at what’s ahead for the European Space Agency in 2026. From Earth to the farthest reaches of the Solar System, 2026 marks a year of firsts that continue to shape the future of space.
+The medical evacuation of SpaceX's Crew-11 astronauts from the International Space Station shouldn't interfere with Artemis 2's launch to the moon, NASA Administrator Jared Isaacman says.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/nasa-considering-bringing-astronauts-home-early-from-international-space-station-due-to-medical-issue' target='_blank'>NASA considering bringing astronauts home early from International Space Station due to medical issue</a></strong> — <em>2026-01-08 07:51:23</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/aurora-chaser-catches-a-fox-basking-in-the-glow-of-finlands-legendary-fox-fires-photos' target='_blank'>Aurora chaser catches a fox basking in the glow of Finland's legendary 'fox fires' (photos)</a></strong> — <em>2026-01-09 15:00:00</em></summary>
 
-NASA is evaluating its options for dealing with an astronaut health issue in orbit, one of which is an early end to SpaceX's Crew-11 mission to the International Space Station.
+A magical encounter in northern Finland blends ancient folklore, swirling auroras and an unexpectedly curious fox.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tiny_patches_of_deforestation_drive_tropical_carbon_loss' target='_blank'>Tiny patches of deforestation drive tropical carbon loss</a></strong> — <em>2026-01-08 07:30:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/' target='_blank'>NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond</a></strong> — <em>2026-01-09 14:40:59</em></summary>
+
+A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. Along for the ride are two shoebox-sized satellites called BlackCAT (Black Hole Coded Aperture Telescope) and SPARCS (Star-Planet Activity Research CubeSat), as NASA innovates with ambitious science […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-scientists-black-holes-dwarf-milky.html' target='_blank'>Scientists find more active black holes in dwarf and Milky Way-sized galaxies by cutting through glare of star formation</a></strong> — <em>2026-01-09 14:35:48</em></summary>
+
+Astronomers have completed the most comprehensive census of active galactic nuclei (AGN) to date, providing the clearest picture yet of the probability that galaxies of different sizes host active black holes.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-quiet-galaxies-stay-cool-gas.html' target='_blank'>How quiet galaxies stay quiet: Cool gas feeds black holes in 'red geysers'</a></strong> — <em>2026-01-09 14:30:02</em></summary>
+
+Astronomers have long puzzled over how some massive galaxies stop forming stars and remain dormant for billions of years—even when they still contain gas that could, in principle, fuel new stars.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-spacex-afternoon-2nd-space-coast.html' target='_blank'>SpaceX targets afternoon launch of 2nd Space Coast mission of 2026</a></strong> — <em>2026-01-09 14:26:22</em></summary>
+
+SpaceX has the first of a series of afternoon launches in the next week on tap Friday with another Starlink mission from Cape Canaveral.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-bees-intelligent-alien-life-interstellar.html' target='_blank'>Can we use bees as a model of intelligent alien life to develop interstellar communication?</a></strong> — <em>2026-01-09 14:24:27</em></summary>
+
+Humans have always been fascinated with space. We frequently question whether we are alone in the universe. If not, what does intelligent life look like? And how would aliens communicate?
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_January_2026' target='_blank'>Week in images: 05-09 January 2026</a></strong> — <em>2026-01-09 14:15:00</em></summary>
 
 
-Often called Earth’s green lungs, tropical forests pull down massive amounts of carbon dioxide from the atmosphere, release oxygen and help regulate the global climate. While the threat of large-scale deforestation is well known, new findings reveal a surprising culprit – the clearance of small areas of forest accounts for more than half of net carbon losses across the Tropics.
+Week in images: 05-09 January 2026
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/jupiter-is-at-its-best-and-brightest-of-2026-tonight-heres-what-to-expect-as-the-gas-giant-reaches-opposition' target='_blank'>Jupiter is at its best and brightest of 2026 tonight! Here's what to expect as the gas giant reaches opposition</a></strong> — <em>2026-01-09 14:00:00</em></summary>
+
+Jupiter reaches opposition overnight on Jan. 10, when it appears its brightest in 2026 opposite the sun in Earth's sky.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/mars-and-venus-buzz-the-beehive-space-photo-of-the-day-for-january-9-2026' target='_blank'>Mars and Venus buzz the Beehive | Space photo of the day for January 9, 2026</a></strong> — <em>2026-01-09 13:00:00</em></summary>
+
+Planets, stars, and star clusters, oh my!
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/dark-universe/is-dark-matter-made-of-mysterious-ghost-particles-galaxy-clusters-could-hold-the-answer' target='_blank'>Is dark matter made of mysterious 'ghost particles?' Galaxy clusters could hold the answer</a></strong> — <em>2026-01-09 11:00:00</em></summary>
+
+"WIMPs are still the leading candidate for dark matter, but billions of dollars of experiments have been done, only getting stronger and stronger upper limits, so alternative scenarios have to be considered."
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-january-9-18/' target='_blank'>This Week's Sky at a Glance, January 9 – 18</a></strong> — <em>2026-01-09 09:42:00</em></summary>
+
+Jupiter is at opposition. Evenings are moonless, and the winter Milky Way arches high over the world. Betelgeuse stands over Sirius.
+The post This Week's Sky at a Glance, January 9 – 18 appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-nasa-rare-space-station-mission.html' target='_blank'>NASA, in a rare move, cuts space station mission short after an astronaut's medical issue</a></strong> — <em>2026-01-09 09:23:27</em></summary>
+
+In a rare move, NASA is cutting a mission aboard the International Space Station short after an astronaut had a medical issue.
 
 </details>
 

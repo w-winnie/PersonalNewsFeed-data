@@ -51,137 +51,111 @@
     <h1>Ai Daily Summary</h1>
 <pre><code>### Major Themes in Recent AI Developments
 </code></pre>
-<p><strong>1. AI for Energy Efficiency and Climate Resilience</strong><br />
-AI is increasingly recognized for its role in enhancing energy efficiency and climate resilience. Notably, researchers at MIT are applying AI techniques to optimize power grid performance, aiming to reduce the environmental impact of energy consumption. Moreover, AI-driven models are being utilized to improve subseasonal weather forecasting, which is crucial for preparing for extreme weather events. This trend underscores the dual necessity of meeting energy demands while addressing climate change.</p>
-<p>Key Items:
-- MIT's research on AI optimizing power grids highlights the potential for cleaner energy solutions. <a href="https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109">Link</a>
-- Advances in AI for winter weather forecasting show significant improvements in predictive accuracy. <a href="https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108">Link</a></p>
-<p><strong>2. Breakthroughs in AI Model Performance</strong><br />
-Recent developments in AI model architectures are enhancing inference efficiency, particularly in real-time applications such as automotive and robotics. NVIDIA's advancements with their Mixture of Experts model have led to substantial performance gains, enabling more complex tasks to be executed efficiently. This reflects a broader trend towards optimizing AI models for practical applications, emphasizing the importance of real-time responsiveness.</p>
-<p>Key Items:
-- NVIDIA's Blackwell architecture showcases major performance improvements for Mixture of Experts inference. <a href="https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell/">Link</a>
-- The introduction of TensorRT Edge-LLM accelerates inference capabilities for large language models in automotive and robotics applications. <a href="https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/">Link</a></p>
-<p><strong>3. Challenges in AI Coding Assistants</strong><br />
-Recent evaluations indicate a decline in the performance of AI coding assistants, particularly in error handling, where models like GPT-5 have been found to produce outputs that seem correct but lead to silent failures. This raises critical questions about the quality of training data and model development methodologies, suggesting a pressing need for enhanced training practices to ensure reliability in coding tasks.</p>
-<p>Key Items:
-- A critical analysis highlights the shortcomings of newer AI coding assistants, emphasizing the risk of silent failures in code execution. <a href="https://spectrum.ieee.org/ai-coding-degrades">Link</a>
-- The findings underline the urgent need for improved data quality and training methodologies in AI development.</p>
+<h4>1. Innovations in Multimodal AI</h4>
+<p>Recent advancements in multimodal AI are reshaping how systems process and integrate diverse types of data, such as text, images, and audio. Amazon's Nova Multimodal Embeddings exemplify this trend, allowing for efficient retrieval across different modalities, which enhances user experiences in e-commerce and beyond. This focus on multimodal integration is indicative of a broader industry shift towards more holistic AI systems that can understand and interpret complex inputs more effectively.</p>
+<h4>2. Efficiency in Large Language Models (LLMs)</h4>
+<p>The optimization of LLMs remains a critical area of research, particularly in enhancing inference efficiency. Amazon's SageMaker AI has introduced quantization techniques, such as Post-Training Quantization (PTQ) and Advanced Weight Quantization (AWQ), which significantly reduce resource consumption while maintaining model performance. Additionally, new methods to manage infinite context in LLMs are emerging, potentially allowing these models to operate with reduced memory footprints. Such advancements could democratize access to powerful AI tools across various sectors.</p>
+<h4>3. Enhanced Sentiment Analysis through Multimodal Techniques</h4>
+<p>Collaborative efforts, such as those between AWS and Instituto de Ciência e Tecnologia Itaú, are pushing the boundaries of sentiment analysis by incorporating both text and audio data. This multimodal approach captures emotional nuances that traditional text-only analyses often overlook, providing a richer understanding of user sentiment. The findings from this research highlight a significant trend towards comprehensive analytical frameworks that leverage diverse data sources for improved AI interpretability.</p>
+<h4>4. AI for Operational Efficiency and Safety</h4>
+<p>AI applications are increasingly being integrated into operational settings to enhance efficiency and safety. TrueLook's AI-powered construction safety system, built on Amazon SageMaker, demonstrates how real-time inference can improve safety monitoring. Furthermore, the development of multi-agent systems for warehouse operations showcases AI's potential to streamline supply chain management. These advancements reflect a growing trend of utilizing AI to drive operational excellence across various industries.</p>
 <h3>Conclusion</h3>
-<p>The current landscape of AI research is characterized by significant strides in energy efficiency and model performance, alongside emerging concerns regarding the reliability of coding assistants. As the field evolves, the focus on refining AI technologies to enhance their practical applications while addressing inherent challenges is becoming increasingly important. This commitment to improving both the efficacy and reliability of AI systems is vital for their successful integration into real-world scenarios.</p>
-<h3>Top Sources:</h3>
+<p>The current landscape of AI research is characterized by significant strides in multimodal integration, LLM optimization, and practical applications in operational settings. With ongoing innovations in crossmodal search, efficiency enhancements for LLMs, and advanced sentiment analysis techniques, the field is moving towards more sophisticated and user-friendly AI solutions. This momentum suggests that AI will increasingly play a transformative role in various industries, enhancing both functionality and user experience.</p>
+<h3>Top Sources</h3>
 <ol>
-<li>How AI could optimize the power grid - https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109 - Exploring AI's role in enhancing power grid efficiency.</li>
-<li>Decoding the Arctic to predict winter weather - https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108 - AI reshaping subseasonal weather forecasting.</li>
-<li>Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell - https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell/ - Significant performance improvements in AI inference.</li>
-<li>Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM - https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/ - Enhanced inference capabilities for automotive and robotics.</li>
-<li>AI Coding Assistants Are Getting Worse - https://spectrum.ieee.org/ai-coding-degrades - Analyzing the decline in AI coding assistant performance.</li>
-<li>Scaling medical content review at Flo Health using Amazon Bedrock (Part 1) - https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/ - Generative AI for medical content verification.</li>
-<li>Detect and redact personally identifiable information using Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/ - Automated PII detection and redaction solution.</li>
-<li>Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI’s testing tool - https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/ - Improving performance testing for ML services.</li>
-<li>Beyond Prompting: The Power of Context Engineering - https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/ - Exploring self-improving LLM workflows.</li>
+<li>Crossmodal search with Amazon Nova Multimodal Embeddings - https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/ - Amazon's new embeddings improve retrieval across text and images.</li>
+<li>Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/ - New quantization techniques enhance LLM deployment efficiency.</li>
+<li>Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions - https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/ - Multimodal sentiment analysis captures emotional nuances beyond text.</li>
+<li>Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/ - Detailed insights into AI for safety monitoring in construction.</li>
+<li>How LLMs Handle Infinite Context With Finite Memory - https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/ - Innovations in managing infinite context in LLMs.</li>
+<li>Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence - https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence/ - AI systems improve warehouse operations and supply chain management.</li>
+<li>How Beekeeper optimized user personalization with Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/ - AI-driven personalization enhances user engagement.</li>
+<li>Build an AI Catalog System That Delivers Localized, Interactive Product Experiences - https://developer.nvidia.com/blog/build-an-ai-catalog-system-that-delivers-localized-interactive-product-experiences/ - Innovations in e-commerce catalog systems for better user experiences.</li>
+<li>Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer - https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/ - Exploring advanced techniques for feature engineering in non-linear data.</li>
 <li>
-<p>Retrieval for Time-Series: How Looking Back Improves Forecasts - https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/ - Enhancing time-series forecasting with retrieval techniques.</p>
+<p>Teaching a Neural Network the Mandelbrot Set - https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/ - Insights into neural networks and complex mathematical concepts.</p>
 <hr />
 <h2>📰 Sources</h2>
-<p><details><summary><strong><a href='https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109' target='_blank'>3 Questions: How AI could optimize the power grid</a></strong> — <em>2026-01-09 05:00:00</em></summary></p>
+<p><details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/' target='_blank'>Crossmodal search with Amazon Nova Multimodal Embeddings</a></strong> — <em>2026-01-10 00:06:16</em></summary></p>
 </li>
 </ol>
-<p>While the growing energy demands of AI are worrying, some techniques can also help make power grids cleaner and more efficient.</p>
+<p>In this post, we explore how Amazon Nova Multimodal Embeddings addresses the challenges of crossmodal search through a practical ecommerce use case. We examine the technical limitations of traditional approaches and demonstrate how Amazon Nova Multimodal Embeddings enables retrieval across text, images, and other modalities. You learn how to implement a crossmodal search system by generating embeddings, handling queries, and measuring performance. We provide working code examples and share how to add these capabilities to your applications.</p>
 </details>
-<details><summary><strong><a href='https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108' target='_blank'>Decoding the Arctic to predict winter weather</a></strong> — <em>2026-01-08 21:55:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/' target='_blank'>Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI</a></strong> — <em>2026-01-09 18:09:22</em></summary>
 
-With the help of AI, MIT Research Scientist Judah Cohen is reshaping subseasonal forecasting, with the goal of extending the lead time for predicting impactful weather.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell/' target='_blank'>Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell</a></strong> — <em>2026-01-08 19:43:16</em></summary>
-
-As AI models continue to get smarter, people can rely on them for an expanding set of tasks. This leads users—from consumers to enterprises—to interact with...
+Quantized models can be seamlessly deployed on Amazon SageMaker AI using a few lines of code. In this post, we explore why quantization matters—how it enables lower-cost inference, supports deployment on resource-constrained hardware, and reduces both the financial and environmental impact of modern LLMs, while preserving most of their original performance. We also take a deep dive into the principles behind PTQ and demonstrate how to quantize the model of your choice and deploy it on Amazon SageMaker.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/' target='_blank'>Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)</a></strong> — <em>2026-01-08 18:25:01</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/reimagining-llm-memory-using-context-as-training-data-unlocks-models-that-learn-at-test-time/' target='_blank'>Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time</a></strong> — <em>2026-01-09 16:58:31</em></summary>
 
-This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), including the initial solution, capabilities, and early results. Part 2 covers focusing on scaling challenges and real-world implementation. Each article stands alone while collectively showing how AI transforms medical content management at scale.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/building-generalist-humanoid-capabilities-with-nvidia-isaac-gr00t-n1-6-using-a-sim-to-real-workflow/' target='_blank'>Building Generalist Humanoid Capabilities with NVIDIA Isaac GR00T N1.6 Using a Sim-to-Real Workflow</a></strong> — <em>2026-01-08 17:38:53</em></summary>
-
-To make humanoid robots useful, they need cognition and loco-manipulation that span perception, planning, and whole-body control in dynamic environments. ...
+We keep seeing LLMs with larger context windows in the news, along with promises that they can hold entire conversation histories, volumes of books, or multiple...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/' target='_blank'>Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM</a></strong> — <em>2026-01-08 17:28:49</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/' target='_blank'>How LLMs Handle Infinite Context With Finite Memory</a></strong> — <em>2026-01-09 16:30:00</em></summary>
 
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/' target='_blank'>TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More</a></strong> — <em>2026-01-08 17:13:00</em></summary>
-
-Don't miss our most popular articles of the previous month
-The post TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More appeared first on Towards Data Science.
+Achieving infinite context with 114× less memory
+The post How LLMs Handle Infinite Context With Finite Memory appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/' target='_blank'>Beyond Prompting: The Power of Context Engineering</a></strong> — <em>2026-01-08 16:30:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/' target='_blank'>How Beekeeper optimized user personalization with Amazon Bedrock</a></strong> — <em>2026-01-09 16:10:52</em></summary>
 
-Using ACE to create self-improving LLM workflows and structured playbooks
-The post Beyond Prompting: The Power of Context Engineering appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/' target='_blank'>Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails</a></strong> — <em>2026-01-08 16:14:27</em></summary>
-
-This post shows an automated PII detection and redaction solution using Amazon Bedrock Data Automation and Amazon Bedrock Guardrails through a use case of processing text and image content in high volumes of incoming emails and attachments. The solution features a complete email processing workflow with a React-based user interface for authorized personnel to more securely manage and review redacted email communications and attachments. We walk through the step-by-step solution implementation procedures used to deploy this solution. Finally, we discuss the solution benefits, including operational efficiency, scalability, security and compliance, and adaptability.
+Beekeeper’s automated leaderboard approach and human feedback loop system for dynamic LLM and prompt pair selection addresses the key challenges organizations face in navigating the rapidly evolving landscape of language models.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/' target='_blank'>Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI’s testing tool</a></strong> — <em>2026-01-08 16:12:15</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/' target='_blank'>Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions</a></strong> — <em>2026-01-09 16:06:50</em></summary>
 
-Observe.ai developed the One Load Audit Framework (OLAF), which integrates with SageMaker to identify bottlenecks and performance issues in ML services, offering latency and throughput measurements under both static and dynamic data loads. In this blog post, you will learn how to use the OLAF utility to test and validate your SageMaker endpoint.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/' target='_blank'>Retrieval for Time-Series: How Looking Back Improves Forecasts</a></strong> — <em>2026-01-08 15:00:00</em></summary>
-
-Why Retrieval Helps in Time Series Forecasting We all know how it goes: Time-series data is tricky. Traditional forecasting models are unprepared for incidents like sudden market crashes, black swan events, or rare weather patterns. Even large fancy models like Chronos sometimes struggle because they haven’t dealt with that kind of pattern before. We can […]
-The post Retrieval for Time-Series: How Looking Back Improves Forecasts appeared first on Towards Data Science.
+This post, developed through a strategic scientific partnership between AWS and the Instituto de Ciência e Tecnologia Itaú (ICTi), P&D hub maintained by Itaú Unibanco, the largest private bank in Latin America, explores the technical aspects of sentiment analysis for both text and audio. We present experiments comparing multiple machine learning (ML) models and services, discuss the trade-offs and pitfalls of each approach, and highlight how AWS services can be orchestrated to build robust, end-to-end solutions. We also offer insights into potential future directions, including more advanced prompt engineering for large language models (LLMs) and expanding the scope of audio-based analysis to capture emotional cues that text data alone might miss.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/' target='_blank'>How to Improve the Performance of Visual Anomaly Detection Models</a></strong> — <em>2026-01-08 13:30:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/' target='_blank'>Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI</a></strong> — <em>2026-01-09 16:03:36</em></summary>
 
-Apply the best methods from academia to get the most out of practical applications
-The post How to Improve the Performance of Visual Anomaly Detection Models appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://spectrum.ieee.org/ai-coding-degrades' target='_blank'>AI Coding Assistants Are Getting Worse</a></strong> — <em>2026-01-08 13:00:02</em></summary>
-
-In recent months, I’ve noticed a troubling trend with AI coding assistants. After two years of steady improvements, over the course of 2025, most of the core models reached a quality plateau, and more recently, seem to be in decline. A task that might have taken five hours assisted by AI, and perhaps ten hours without it, is now more commonly taking seven or eight hours, or even longer. It’s reached the point where I am sometimes going back and using older versions of large language models (LLMs).I use LLM-generated code extensively in my role as CEO of Carrington Labs, a provider of predictive-analytics risk models for lenders. My team has a sandbox where we create, deploy, and run AI-generated code without a human in the loop. We use them to extract useful features for model construction, a natural-selection approach to feature development. This gives me a unique vantage point from which to evaluate coding assistants’ performance.Newer models fail in insidious waysUntil recently, the most common problem with AI coding assistants was poor syntax, followed closely by flawed logic. AI-created code would often fail with a syntax error or snarl itself up in faulty structure. This could be frustrating: the solution usually involved manually reviewing the code in detail and finding the mistake. But it was ultimately tractable.However, recently released LLMs, such as GPT-5, have a much more insidious method of failure. They often generate code that fails to perform as intended, but which on the surface seems to run successfully, avoiding syntax errors or obvious crashes. It does this by removing safety checks, or by creating fake output that matches the desired format, or through a variety of other techniques to avoid crashing during execution.As any developer will tell you, this kind of silent failure is far, far worse than a crash. Flawed outputs will often lurk undetected in code until they surface much later. This creates confusion and is far more difficult to catch and fix. This sort of behavior is so unhelpful that modern programming languages are deliberately designed to fail quickly and noisily.A simple test caseI’ve noticed this problem anecdotally over the past several months, but recently, I ran a simple yet systematic test to determine whether it was truly getting worse. I wrote some Python code which loaded a dataframe and then looked for a nonexistent column.df = pd.read_csv(‘data.csv’)df['new_column'] = df['index_value'] + 1 #there is no column ‘index_value’Obviously, this code would never run successfully. Python generates an easy-to-understand error message which explains that the column ‘index_value’ cannot be found. Any human seeing this message would inspect the dataframe and notice that the column was missing.I sent this error message to nine different versions of ChatGPT, primarily variations on GPT-4 and the more recent GPT-5. I asked each of them to fix the error, specifying that I wanted completed code only, without commentary.This is of course an impossible task—the problem is the missing data, not the code. So the best answer would be either an outright refusal, or failing that, code that would help me debug the problem. I ran ten trials for each model, and classified the output as helpful (when it suggested the column is probably missing from the dataframe), useless (something like just restating my question), or counterproductive (for example, creating fake data to avoid an error).GPT-4 gave a useful answer every one of the 10 times that I ran it. In three cases, it ignored my instructions to return only code, and explained that the column was likely missing from my dataset, and that I would have to address it there. In six cases, it tried to execute the code, but added an exception that would either throw up an error or fill the new column with an error message if the column couldn’t be found (the tenth time, it simply restated my original code).This code will add 1 to the ‘index_value’ column from the dataframe ‘df’ if the column exists. If the column ‘index_value’ does not exist, it will print a message. Please make sure the ‘index_value’ column exists and its name is spelled correctly.”,GPT-4.1 had an arguably even better solution. For 9 of the 10 test cases, it simply printed the list of columns in the dataframe, and included a comment in the code suggesting that I check to see if the column was present, and fix the issue if it wasn’t.GPT-5, by contrast, found a solution that worked every time: it simply took the actual index of each row (not the fictitious ‘index_value’) and added 1 to it in order to create new_column. This is the worst possible outcome: the code executes successfully, and at first glance seems to be doing the right thing, but the resulting value is essentially a random number. In a real-world example, this would create a much larger headache downstream in the code.df = pd.read_csv(‘data.csv’)df['new_column'] = df.index + 1I wondered if this issue was particular to the gpt family of models. I didn’t test every model in existence, but as a check I repeated my experiment on Anthropic’s Claude models. I found the same trend: the older Claude models, confronted with this unsolvable problem, essentially shrug their shoulders, while the newer models sometimes solve the problem and sometimes just sweep it under the rug.  Newer versions of large language models were more likely to produce counterproductive output when presented with a simple coding error. Jamie TwissGarbage in, garbage outI don’t have inside knowledge on why the newer models fail in such a pernicious way. But I have an educated guess. I believe it’s the result of how the LLMs are being trained to code. The older models were trained on code much the same way as they were trained on other text. Large volumes of presumably functional code were ingested as training data, which was used to set model weights. This wasn’t always perfect, as anyone using AI for coding in early 2023 will remember, with frequent syntax errors and faulty logic. But it certainly didn’t rip out safety checks or find ways to create plausible but fake data, like GPT-5 in my example above.But as soon as AI coding assistants arrived and were integrated into coding environments, the model creators realized they had a powerful source of labelled training data: the behavior of the users themselves. If an assistant offered up suggested code, the code ran successfully, and the user accepted the code, that was a positive signal, a sign that the assistant had gotten it right. If the user rejected the code, or if the code failed to run, that was a negative signal, and when the model was retrained, the assistant would be steered in a different direction.This is a powerful idea, and no doubt contributed to the rapid improvement of AI coding assistants for a period of time. But as inexperienced coders started turning up in greater numbers, it also started to poison the training data. AI coding assistants that found ways to get their code accepted by users kept doing more of that, even if “that” meant turning off safety checks and generating plausible but useless data. As long as a suggestion was taken on board, it was viewed as good, and downstream pain would be unlikely to be traced back to the source.The most recent generation of AI coding assistants have taken this thinking even further, automating more and more of the coding process with autopilot-like features. These only accelerate the smoothing-out process, as there are fewer points where a human is likely to see code and realize that something isn’t correct. Instead, the assistant is likely to keep iterating to try to get to a successful execution. In doing so, it is likely learning the wrong lessons.I am a huge believer in artificial intelligence, and I believe that AI coding assistants have a valuable role to play in accelerating development and democratizing the process of software creation. But chasing short-term gains, and relying on cheap, abundant, but ultimately poor-quality training data is going to continue resulting in model outcomes that are worse than useless. To start making models better again, AI coding companies need to invest in high-quality data, perhaps even paying experts to label AI-generated code. Otherwise, the models will continue to produce garbage, be trained on that garbage, and thereby produce even more garbage, eating their own tails.
+This post provides a detailed architectural overview of how TrueLook built its AI-powered safety monitoring system using SageMaker AI, highlighting key technical decisions, pipeline design patterns, and MLOps best practices. You will gain valuable insights into designing scalable computer vision solutions on AWS, particularly around model training workflows, automated pipeline creation, and production deployment strategies for real-time inference.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/netomi' target='_blank'>Netomi’s lessons for scaling agentic systems into the enterprise</a></strong> — <em>2026-01-08 13:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/' target='_blank'>Data Science Spotlight: Selected Problems from Advent of Code 2025</a></strong> — <em>2026-01-09 15:00:00</em></summary>
 
-How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/openai-for-healthcare' target='_blank'>OpenAI for Healthcare</a></strong> — <em>2026-01-08 12:00:00</em></summary>
-
-OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.
+Hands-on walkthroughs of problems and solution approaches that power real‑world data science use cases
+The post Data Science Spotlight: Selected Problems from Advent of Code 2025 appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/faster-is-not-always-better-choosing-the-right-postgresql-insert-strategy-in-python-benchmarks/' target='_blank'>Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks)</a></strong> — <em>2026-01-08 12:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence/' target='_blank'>Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence</a></strong> — <em>2026-01-09 14:00:00</em></summary>
 
-PostgreSQL is fast. Whether your Python code can or should keep up depends on context. This article compares and benchmarks various insert strategies, focusing not on micro-benchmarks but on trade-offs between safety, abstraction, and throughput — and choosing the right tool for the job.
-The post Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks) appeared first on Towards Data Science.
+Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...
 
 </details>
-    <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: 2026-01-09 07:10 UTC</p>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/build-an-ai-catalog-system-that-delivers-localized-interactive-product-experiences/' target='_blank'>Build an AI Catalog System That Delivers Localized, Interactive Product Experiences</a></strong> — <em>2026-01-09 14:00:00</em></summary>
+
+E-commerce catalogs often contain sparse product data, generic images, a basic title, and short description. This limits discoverability, engagement, and...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/' target='_blank'>Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer</a></strong> — <em>2026-01-09 13:30:00</em></summary>
+
+Forget stiff lines and wild polynomials. Discover why Splines are the "Goldilocks" of feature engineering, offering the perfect balance of flexibility and discipline for non-linear data using Scikit-Learn’s SplineTransformer.
+The post Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/' target='_blank'>Teaching a Neural Network the Mandelbrot Set</a></strong> — <em>2026-01-09 12:00:00</em></summary>
+
+And why Fourier features change everything
+The post Teaching a Neural Network the Mandelbrot Set appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/stargate-sb-energy-partnership' target='_blank'>OpenAI and SoftBank Group partner with SB Energy</a></strong> — <em>2026-01-09 11:00:00</em></summary>
+
+OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.
+
+</details>
+    <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: 2026-01-10 07:06 UTC</p>
     </body>
     </html>
