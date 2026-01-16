@@ -1,236 +1,257 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics Developments
+    ### Summary of Recent Developments in Astrophysics
 
-#### Rethinking Dark Matter
-Recent investigations are challenging the traditional view that dark matter is primarily "cold" and instead propose that it may have originated from "red-hot" particles moving at relativistic speeds shortly after the Big Bang. This new perspective emphasizes the significance of the post-inflationary reheating period, suggesting that these energetic particles could cool and play a critical role in the universe's structure. This shift could lead to revised cosmological models and a better understanding of galaxy formation.
-
-Key items:
-1. New research challenges the cold dark matter assumption - https://www.sciencedaily.com/releases/2026/01/260114084113.htm - Dark matter may have initially been hot, reshaping our understanding of its role in galaxy formation.
-2. Researchers solve mystery of universe's 'little red dots' - https://phys.org/news/2026-01-mystery-universe-red-dots.html - Findings from the James Webb Space Telescope reveal that these dots may conceal black holes in ionized gas.
-
-#### Insights into Stellar Evolution
-New findings are enhancing our understanding of stellar life cycles and their remnants. A recent study links a massive supernova explosion to the formation of a binary black hole, suggesting complex evolutionary paths for massive stars. Additionally, observations of low-mass dwarf galaxies indicate that these smaller structures may have experienced mergers, which challenges previous assumptions about their development.
+#### Advancements in Exoplanet Research
+The field of exoplanet research is undergoing significant transformation, particularly as new discoveries challenge established definitions of habitability. Recent findings of two exoplanets in unusual orbits have prompted scientists to reconsider the criteria that define the habitable zone, suggesting that life may exist in environments previously deemed inhospitable. This re-evaluation is crucial as researchers aim to broaden the search for extraterrestrial life beyond conventional parameters.
 
 Key items:
-1. Massive supernova explosion may have created a binary black hole - https://www.space.com/astronomy/black-holes/massive-supernova-explosion-may-have-created-a-binary-black-hole - This research sheds light on the evolutionary history of massive stars.
-2. Do even low-mass dwarf galaxies merge? - https://phys.org/news/2026-01-mass-dwarf-galaxies-merge-clues.html - Discoveries around a Milky Way satellite galaxy provide evidence for mergers among low-mass galaxies.
+1. **New Exoplanet Discoveries** - The detection of two new exoplanets has raised questions about current habitable zone definitions, indicating a need for updated criteria in exoplanet studies. [Link](https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html)
+2. **Magma Oceans on Super-Earths** - Research suggests that hidden magma oceans beneath super-Earths could create strong magnetic fields, potentially shielding these planets from cosmic radiation and enabling life-supporting conditions. [Link](https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html)
 
-#### Advances in Observational Techniques
-Technological advancements are driving significant discoveries in observational astronomy. The Five-hundred-meter Aperture Spherical radio Telescope (FAST) has recently identified 19 new pulsars, enriching our catalog of these neutron stars. Meanwhile, the Hubble Space Telescope has captured new images of protostars in the Orion Molecular Cloud complex, offering deeper insights into star formation processes.
+#### Insights from Stellar Phenomena
+The Hubble Space Telescope continues to unveil remarkable cosmic events, enhancing our understanding of stellar evolution. Recent observations have captured a "reborn" black hole, illustrating the dynamic nature of such phenomena and their implications for galactic evolution. Additionally, the detection of an ancient Type II supernova from the early universe provides vital data for models of stellar life cycles, shedding light on the conditions of the cosmos shortly after the Big Bang.
 
 Key items:
-1. Astronomers discover 19 new pulsars by analyzing FAST archival data - https://phys.org/news/2026-01-astronomers-pulsars-fast-archival.html - This adds to the growing catalog of known pulsars.
-2. Hubble Observes Stars Flaring to Life in Orion - https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/ - New images reveal insights into the formation of stars and their surrounding environments.
+1. **Hubble's Black Hole Discovery** - A vivid portrayal of a "reborn" black hole offers insights into the processes that govern black hole activity and galactic dynamics. [Link](https://phys.org/news/2026-01-reborn-black-hole-awakens-million.html)
+2. **Ancient Supernova Discovery** - The observation of a Type II supernova from when the universe was only 1 billion years old contributes essential information for understanding stellar evolution. [Link](https://phys.org/news/2026-01-ancient-ii-supernova-universe-billion.html)
+
+#### Innovations in Observational Technology
+Technological advancements are enhancing our ability to observe and understand cosmic phenomena. New frequency comb lasers are improving the clarity of black hole imaging, while the upcoming ESA Plato mission has successfully passed critical vibration tests, ensuring its readiness for future exoplanet observations. These innovations are pivotal for deeper explorations of the universe and will likely lead to more precise data collection.
+
+Key items:
+1. **Frequency Comb Lasers for Black Hole Observation** - This new technology enhances synchronization, resulting in clearer imaging of black holes, which is crucial for studying their properties. [Link](https://phys.org/news/2026-01-frequency-lasers-enable-clearer-black.html)
+2. **Plato Mission Vibration Tests** - The successful completion of vibration tests for the Plato mission marks a significant step toward its launch and future contributions to exoplanet research. [Link](https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check)
 
 ### Conclusion
-The current landscape of astrophysics is marked by a reevaluation of dark matter theories, evolving understanding of stellar phenomena, and enhanced observational capabilities. Researchers are actively revising established concepts and uncovering new cosmic mysteries, indicating a vibrant and dynamic field poised for significant breakthroughs in the near future.
+Astrophysics is currently characterized by a surge of discoveries and technological advancements that are reshaping our understanding of the universe. From redefined criteria for habitability in exoplanet research to groundbreaking observations of stellar phenomena, the field is moving towards a more nuanced comprehension of cosmic dynamics. These developments underscore the importance of innovative technologies and interdisciplinary approaches, suggesting a promising trajectory for future research and exploration. 
 
-Top Sources:
-1. New research challenges the cold dark matter assumption - https://www.sciencedaily.com/releases/2026/01/260114084113.htm - Dark matter may have initially been hot, reshaping our understanding of its role in galaxy formation.
-2. Researchers solve mystery of universe's 'little red dots' - https://phys.org/news/2026-01-mystery-universe-red-dots.html - Findings from the James Webb Space Telescope reveal that these dots may conceal black holes in ionized gas.
-3. Massive supernova explosion may have created a binary black hole - https://www.space.com/astronomy/black-holes/massive-supernova-explosion-may-have-created-a-binary-black-hole - This research sheds light on the evolutionary history of massive stars.
-4. Do even low-mass dwarf galaxies merge? - https://phys.org/news/2026-01-mass-dwarf-galaxies-merge-clues.html - Discoveries around a Milky Way satellite galaxy provide evidence for mergers among low-mass galaxies.
-5. Astronomers discover 19 new pulsars by analyzing FAST archival data - https://phys.org/news/2026-01-astronomers-pulsars-fast-archival.html - This adds to the growing catalog of known pulsars.
-6. Hubble Observes Stars Flaring to Life in Orion - https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/ - New images reveal insights into the formation of stars and their surrounding environments.
-7. James Webb Space Telescope's mysterious 'little red dots' may be black holes in disguise - https://www.space.com/astronomy/black-holes/james-webb-space-telescopes-mysterious-little-red-dots-may-be-black-holes-in-disguise - Investigating new celestial phenomena.
-8. Type Ia supernova delayed-detonation model supported by SN 2024gy observations - https://phys.org/news/2026-01-ia-supernova-delayed-detonation-sn.html - Insights into supernova mechanisms.
-9. Jupiter's hidden depths: Simulation suggests planet holds 1.5 times more oxygen than the sun - https://phys.org/news/2026-01-jupiter-hidden-depths-simulation-planet.html - New findings on Jupiter's atmospheric composition.
-10. How Mars' ancient lakes grew shields of ice to stay warm as the Red Planet froze - https://www.space.com/astronomy/mars/how-mars-ancient-lakes-grew-shields-of-ice-to-stay-warm-as-the-red-planet-froze - Exploring Mars' climatic history.
+### Top Sources
+1. New Exoplanet Discoveries Challenge Definitions - https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html - Discovery of two new exoplanets calls for updated habitable zone criteria.
+2. Hidden Magma Oceans on Super-Earths - https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html - Research suggests magma oceans may protect exoplanets from cosmic radiation.
+3. Hubble Observes "Reborn" Black Hole - https://phys.org/news/2026-01-reborn-black-hole-awakens-million.html - Captivating images of a black hole eruption span nearly 1 million light-years.
+4. Ancient Type II Supernova Detected - https://phys.org/news/2026-01-ancient-ii-supernova-universe-billion.html - A supernova from the universe's early days offers insights into stellar evolution.
+5. Frequency Comb Lasers for Black Hole Observation - https://phys.org/news/2026-01-frequency-lasers-enable-clearer-black.html - New technology improves synchronization for clearer black hole imaging.
+6. Plato Mission Vibration Tests - https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check - The ESA's Plato mission passes critical vibration tests ahead of its launch.
+7. Stellar Blast Captured by Hubble - https://www.nasa.gov/image-article/hubble-spies-stellar-blast-setting-clouds-ablaze/ - Hubble captures a jet of gas from a forming star.
+8. Antarctic Telescope Studies Carbon Cycle - https://phys.org/news/2026-01-antarctic-submillimeter-telescope-enables-view.html - Research enhances understanding of carbon cycling in star-forming regions.
+9. Mapping Antarctica's Subglacial Surface - https://www.space.com/astronomy/earth/detailed-mapping-of-antarctica-subglacial-topography - New satellite data reveals detailed maps of Antarctica's subglacial terrain.
+10. Sentinel-2 Explores Night Vision - https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision - Sentinel-2A finds new applications in nighttime Earth observation.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260114084113.htm' target='_blank'>New research challenges the cold dark matter assumption</a></strong> — <em>2026-01-15 05:42:07</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/blooming-seas-around-the-chatham-islands/' target='_blank'>Blooming Seas Around the Chatham Islands</a></strong> — <em>2026-01-16 05:01:00</em></summary>
 
-Dark matter, one of the Universe’s greatest mysteries, may have been born blazing hot instead of cold and sluggish as scientists long believed. New research shows that dark matter particles could have been moving near the speed of light shortly after the Big Bang, only to cool down later and still help form galaxies. By focusing on a chaotic early era known as post-inflationary reheating, researchers reveal that “red-hot” dark matter could survive long enough to become the calm, structure-building force we see today.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/' target='_blank'>Clouds Swimming over Lago Argentino</a></strong> — <em>2026-01-15 05:01:00</em></summary>
-
-A collection of fish-shaped clouds hovered above the glacial lake in Patagonia in December 2025.
+A vibrant display of phytoplankton encircled the remote New Zealand islands.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/with-starfleet-academy-beaming-up-to-small-screens-save-37-percent-on-an-annual-subscription-to-paramount-plus' target='_blank'>With Starfleet Academy beaming up to small screens and season four of Strange New Worlds later in the year, 2026 is a big year for Star Trek and you can save 37% on an annual subscription to Paramount Plus</a></strong> — <em>2026-01-14 23:10:55</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/detailed-mapping-of-antarctica-subglacial-topography' target='_blank'>Beneath the ice: Satellites help map Antarctica's subglacial surface like never before</a></strong> — <em>2026-01-15 23:00:00</em></summary>
 
-2026 sees Starfleet Academy and a new season of Strange New Worlds enter the Star Trek universe, so now is the time to save big on Paramount Plus and a VPN.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/' target='_blank'>Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad</a></strong> — <em>2026-01-14 22:26:49</em></summary>
-
-NASA’s integrated SLS (Space Launch System) rocket and Orion spacecraft for the Artemis II mission is inching closer to launch – literally. The agency is targeting no earlier than 7 a.m. EST, Saturday, Jan. 17, to begin the multi-hour trek from the Vehicle Assembly Building to Launch Pad 39B at NASA’s Kennedy Space Center in […]
+Antarctica's subglacial bedrock was previously one of the least-mapped planetary surfaces in our solar system.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/' target='_blank'>Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad</a></strong> — <em>2026-01-14 22:26:49</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/this-seti-program-is-chasing-down-its-final-100-signals-could-one-of-them-be-from-aliens' target='_blank'>This SETI program is chasing down its final 100 signals. Could one of them be from aliens?</a></strong> — <em>2026-01-15 22:00:00</em></summary>
 
-NASA’s integrated SLS (Space Launch System) rocket and Orion spacecraft for the Artemis II mission is inching closer to launch – literally. The agency is targeting no earlier than 7 a.m. EST, Saturday, Jan. 17, to begin the multi-hour trek from the Vehicle Assembly Building to Launch Pad 39B at NASA’s Kennedy Space Center in […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/james-webb-space-telescopes-mysterious-little-red-dots-may-be-black-holes-in-disguise' target='_blank'>James Webb Space Telescope's mysterious 'little red dots' may be black holes in disguise</a></strong> — <em>2026-01-14 22:00:00</em></summary>
-
-"If they were purely made up of stars, they would be the densest galaxies in the universe."
+SETI@home has been one of the largest citizen science projects ever, with millions of users around the world.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html' target='_blank'>From a new flagship space telescope to lunar exploration, global cooperation will make 2026 an exciting year for space</a></strong> — <em>2026-01-14 20:06:55</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/every-avengers-doomsday-teaser-trailer-so-far' target='_blank'>Every 'Avengers: Doomsday' teaser trailer revealed so far</a></strong> — <em>2026-01-15 21:00:00</em></summary>
 
-In 2026, astronauts will travel around the moon for the first time since the Apollo era, powerful new space telescopes will prepare to survey billions of galaxies, and multiple nations will launch missions aimed at finding habitable worlds, water on the moon and clues to how our solar system formed.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/massive-supernova-explosion-may-have-created-a-binary-black-hole' target='_blank'>Massive supernova explosion may have created a binary black hole</a></strong> — <em>2026-01-14 20:00:00</em></summary>
-
-"Our study provides a new direction to understand the whole evolutionary history of massive stars toward the formation of black hole binaries."
+It's apparently never too early to start the MCU hype machine rolling!
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-robert-picardo-and-gina-yashere-on-embracing-the-legacy-of-their-roles-in-latest-trek-show-interview' target='_blank'>'Star Trek: Starfleet Academy': Robert Picardo and Gina Yashere on embracing the legacy of their roles in latest Trek show (interview)</a></strong> — <em>2026-01-14 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/nasa-adds-two-f-15-aircraft-to-support-supersonic-flight-research/' target='_blank'>NASA Adds Two F-15 Aircraft to Support Supersonic Flight Research</a></strong> — <em>2026-01-15 20:58:45</em></summary>
 
-"It's hopeful about the future, and we need that optimistic enthusiasm right now."
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/new-york-newark-jersey-city-metropolitan-area/' target='_blank'>New York–Newark–Jersey City Metropolitan Area</a></strong> — <em>2026-01-14 18:55:06</em></summary>
-
-The New York–Newark–Jersey City Metropolitan Statistical Area, which spans 23 counties across New York, New Jersey, and Connecticut and has a population of about 19.9 million, is pictured at approximately 3:29 a.m. local time Dec. 20, 2025, from the International Space Station as it orbited 262 miles above the Atlantic coast. Crew members aboard the […]
+Two retired U.S. Air Force F-15 jets have joined the flight research fleet at NASA’s Armstrong Flight Research Center in Edwards, California, transitioning from military service to a new role enabling breakthrough advancements in aerospace. The F-15s will support supersonic flight research for NASA’s Flight Demonstrations and Capabilities project, including testing for the Quesst mission’s […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-98-1085-ccsfs-asog' target='_blank'>Starlink satellites lift off on SpaceX Falcon 9 from Cape Canaveral (video)</a></strong> — <em>2026-01-14 18:21:34</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/nasa-adds-two-f-15-aircraft-to-support-supersonic-flight-research/' target='_blank'>NASA Adds Two F-15 Aircraft to Support Supersonic Flight Research</a></strong> — <em>2026-01-15 20:58:45</em></summary>
 
-A SpaceX Falcon 9 carrying 29 Starlink satellites launched from the Cape Canaveral Space Force Station in Florida on Wednesday, Jan. 14, 2026.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-peering-callisto-icy-crust-alma.html' target='_blank'>Peering below Callisto's icy crust with ALMA</a></strong> — <em>2026-01-14 18:18:34</em></summary>
-
-What exists beneath the surface of Jupiter's icy moon, Callisto? This is what a recent study accepted by The Planetary Science Journal hopes to address as a team of researchers investigated the subsurface composition of Callisto, which is Jupiter's outermost Galilean satellite. This study has the potential to help scientists better understand the interior composition of Callisto, which is hypothesized to possess a subsurface liquid water ocean, and develop new techniques for exploring planetary subsurface environments.
+Two retired U.S. Air Force F-15 jets have joined the flight research fleet at NASA’s Armstrong Flight Research Center in Edwards, California, transitioning from military service to a new role enabling breakthrough advancements in aerospace. The F-15s will support supersonic flight research for NASA’s Flight Demonstrations and Capabilities project, including testing for the Quesst mission’s […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-mystery-universe-red-dots.html' target='_blank'>Researchers solve mystery of universe's 'little red dots'</a></strong> — <em>2026-01-14 17:40:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html' target='_blank'>Hidden magma oceans could shield rocky exoplanets from harmful radiation</a></strong> — <em>2026-01-15 20:49:35</em></summary>
 
-Since the James Webb Space Telescope (JWST) went into operation, red dots in its images have puzzled researchers around the world. Now, researchers from the University of Copenhagen have explained these enigmatic findings, revealing the most violent forces in the universe concealed in a cocoon of ionized gas. The discovery is published in Nature.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-cosmic-clock-tiny-crystals-reveals.html' target='_blank'>A 'cosmic clock' in tiny crystals reveals the rise and fall of Australia's ancient landscapes</a></strong> — <em>2026-01-14 17:20:01</em></summary>
-
-Australia's iconic red landscapes have been home to Aboriginal culture and recorded in songlines for tens of thousands of years. But further clues to just how ancient this landscape is come from far beyond Earth: cosmic rays that leave telltale fingerprints inside minerals at Earth's surface.
+Deep beneath the surface of distant exoplanets known as super-Earths, oceans of molten rock may be doing something extraordinary: powering magnetic fields strong enough to shield entire planets from dangerous cosmic radiation and other harmful high-energy particles.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/nasa-x-ray-instrument-finds-black-holes-act-like-cosmic-seesaws-shaping-the-universe' target='_blank'>NASA X-ray instrument finds black holes act like 'cosmic seesaws' shaping the universe</a></strong> — <em>2026-01-14 17:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-wraps-up-space-station-science/' target='_blank'>NASA’s SpaceX Crew-11 Wraps Up Space Station Science</a></strong> — <em>2026-01-15 20:37:23</em></summary>
 
-"We're seeing what could be described as an energetic tug-of-war inside the black hole's accretion flow."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-jupiter-hidden-depths-simulation-planet.html' target='_blank'>Jupiter's hidden depths: Simulation suggests planet holds 1.5 times more oxygen than the sun</a></strong> — <em>2026-01-14 16:26:28</em></summary>
-
-Spectacular clouds swirl across the surface of Jupiter. These clouds contain water, just like Earth's, but are much denser on the gas giant—so thick that no spacecraft has been able to measure exactly what lies beneath.
+NASA’s SpaceX Crew-11 mission with agency astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth after a long-duration mission aboard the International Space Station. During their stay, Cardman, Fincke, and Yui contributed more than 850 hours of research to help prepare humanity […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-mass-dwarf-galaxies-merge-clues.html' target='_blank'>Do even low-mass dwarf galaxies merge? New clues from the outer stars of a Milky Way satellite</a></strong> — <em>2026-01-14 16:20:23</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-wraps-up-space-station-science/' target='_blank'>NASA’s SpaceX Crew-11 Wraps Up Space Station Science</a></strong> — <em>2026-01-15 20:37:23</em></summary>
 
-Using the Subaru Telescope's wide-field camera, astronomers have discovered a previously unknown structure surrounding a tiny satellite galaxy of the Milky Way. The newly discovered structure exhibits features resembling the remnants of past galaxy mergers. This result provides compelling evidence that even extremely low-mass dwarf galaxies may have experienced mergers in their past.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/how-mars-ancient-lakes-grew-shields-of-ice-to-stay-warm-as-the-red-planet-froze' target='_blank'>How Mars' ancient lakes grew shields of ice to stay warm as the Red Planet froze</a></strong> — <em>2026-01-14 16:00:00</em></summary>
-
-The findings potentially solve the paradox of how liquid water seems to have persisted on Mars even when the climate grew too cold.
+NASA’s SpaceX Crew-11 mission with agency astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth after a long-duration mission aboard the International Space Station. During their stay, Cardman, Fincke, and Yui contributed more than 850 hours of research to help prepare humanity […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-ignites-space-ball-flame.html' target='_blank'>What happens when fire ignites in space? 'A ball of flame'</a></strong> — <em>2026-01-14 15:20:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/esa-email-credentials-on-dark-web' target='_blank'>Cyberthieves hit European Space Agency, stealing hundreds of gigabytes of data</a></strong> — <em>2026-01-15 20:03:01</em></summary>
 
-When fire breaks out in the low-gravity, high-stakes conditions inside spacecraft or space stations, it behaves very differently than back here on Earth.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-medical-issue-spacex-crew-depart.html' target='_blank'>After medical issue, SpaceX Crew-11 set to depart space station for overnight splashdown</a></strong> — <em>2026-01-14 15:10:12</em></summary>
-
-NASA gave the go for the SpaceX Crew-11 mission to depart the International Space Station on Wednesday headed for an overnight splashdown back on Earth in the Pacific Ocean.
+A recent string of cyberattacks against the European Space Agency is just the tip of the iceberg, a researcher said, claiming that email credentials of ESA employees are regularly leaked online.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/unusual-ingredients-helped-stars-form-in-a-galaxy-near-the-milky-way' target='_blank'>Unusual 'ingredients' helped stars form in a galaxy near the Milky Way</a></strong> — <em>2026-01-14 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-dark-asteroids-die.html' target='_blank'>How dark asteroids die</a></strong> — <em>2026-01-15 19:58:19</em></summary>
 
-Some newly found stars in a small galaxy called Sextans A are forming without some of the usual "ingredients," raising questions about how the early universe evolved.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-ia-supernova-delayed-detonation-sn.html' target='_blank'>Type Ia supernova delayed-detonation model supported by SN 2024gy observations</a></strong> — <em>2026-01-14 14:38:30</em></summary>
-
-A research team from the Yunnan Observatories of the Chinese Academy of Sciences (CAS), in collaboration with domestic and international partners, has carried out observational studies on SN 2024gy—a high-velocity Type Ia supernova (SN Ia)—using the Lijiang 2.4-meter telescope.
+Back in the earlier days of the internet, there was a viral video from a creator called Bill Wurtz called "the history of the entire world, i guess" which spawned a number of memorable memes, some of which are still in use to this day. One of those was a clip from the video where Wurtz states, "The sun is a deadly laser."
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/' target='_blank'>La NASA publica datos de la temperatura global</a></strong> — <em>2026-01-14 14:35:22</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/giraffe-in-space-eerie-dark-nebula-takes-on-an-uncanny-shape-photo' target='_blank'>Giraffe in space? Eerie dark nebula takes on an uncanny shape (photo)</a></strong> — <em>2026-01-15 19:00:00</em></summary>
 
-Read this press release in English here. La temperatura global de la superficie terrestre en 2025 fue un poco más cálida que en 2023 pero, dentro de los márgenes de error, ambos años está prácticamente empatados, según un análisis realizado por científicos de la NASA. Desde que comenzaron los registros en 1880, 2024 sigue siendo el […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-14-2026' target='_blank'>ISS astronaut medical evacuation latest news:  Crew-11 astronauts now returning to Earth</a></strong> — <em>2026-01-14 14:25:37</em></summary>
-
-NASA is returning four astronauts to Earth early from the International Space Station due to a medical concern with one of the Crew-11 astronauts. Here's the latest news.
+The shadow nebula LDN 1245 is located in the constellation Cassiopeia.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-astronomers-pulsars-fast-archival.html' target='_blank'>Astronomers discover 19 new pulsars by analyzing FAST archival data</a></strong> — <em>2026-01-14 14:22:36</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-sentinel-explores-night-vision.html' target='_blank'>Sentinel-2 explores night vision</a></strong> — <em>2026-01-15 18:12:12</em></summary>
 
-Astronomers from Nanjing University in China have analyzed the archival data from the Five-hundred-meter Aperture Spherical radio Telescope (FAST), searching for new pulsars. As a result, they detected 19 such objects that were missed by previous studies. The findings were presented January 5 on the pre-print server arXiv.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/' target='_blank'>NASA Releases Global Temperature Data</a></strong> — <em>2026-01-14 14:00:27</em></summary>
-
-Lee este comunicado de prensa en español aquí. Earth’s global surface temperature in 2025 was slightly warmer than 2023 – but within the margin of error the two years are effectively tied according to an analysis by NASA scientists. Since record-keeping began in 1880, the hottest year on record remains 2024.  Global temperatures in 2025 were […]
+After more than 10 years in orbit, the first Copernicus Sentinel-2 satellite, Sentinel-2A, is still finding new ways to contribute to Earth observation. With its younger siblings, Sentinel-2B and Sentinel-2C, now leading the mission's core task of delivering high-resolution, 'camera-like' images of Earth's surface, the European Space Agency is pushing Sentinel-2A beyond its original remit.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/satellite-sees-snowy-greenland-peaks-from-space-space-photo-of-the-day-for-jan-14-2026' target='_blank'>Satellite sees snowy Greenland peaks from space | Space photo of the day for Jan. 14, 2026</a></strong> — <em>2026-01-14 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-antarctic-submillimeter-telescope-enables-view.html' target='_blank'>Antarctic submillimeter telescope enables more complete view of the carbon cycle in star-forming regions</a></strong> — <em>2026-01-15 17:59:56</em></summary>
 
-Greenland's mountains greatly affect local climate patterns.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/four-privately-funded-observatories-in-the-next-three-years/' target='_blank'>Four Privately Funded Observatories in the Next Three Years</a></strong> — <em>2026-01-14 14:00:00</em></summary>
-
-Schmidt Sciences has unveiled details on four ambitious observatories to monitor the dynamic cosmos, with data from all four expected by 2029.
-The post Four Privately Funded Observatories in the Next Three Years appeared first on Sky & Telescope.
+Chinese researchers have braved the cold and harsh environment of Antarctica in order to get a unique view of star formation in the interstellar medium (ISM). The Chinese National Antarctica and Arctic Research Expedition (CHINARE) has managed to complete a study at Dome A—the highest ice dome on the Antarctic Plateau—and successfully collected submillimeter data to form a better understanding of carbon cycling in the ISM. Their research is published in Science Advances.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/' target='_blank'>Hubble Observes Stars Flaring to Life in Orion</a></strong> — <em>2026-01-14 13:21:15</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/' target='_blank'>NASA Data Helps Maine Oyster Farmers Choose Where to Grow</a></strong> — <em>2026-01-15 16:28:21</em></summary>
 
-Just-forming stars, called protostars, dazzle a cloudy landscape in the Orion Molecular Cloud complex (OMC). These three new images from NASA’s Hubble Space Telescope were taken as part of an effort to learn more about the envelopes of gas and dust surrounding the protostars, as well as the outflow cavities where stellar winds and jets […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-siwarha-betelgeuse.html' target='_blank'>Siwarha's wake gives it away at Betelgeuse</a></strong> — <em>2026-01-14 13:19:33</em></summary>
-
-Betelgeuse is the star that everybody can't wait to see blow up, preferably sooner rather than later. That's because it's a red supergiant on the verge of becoming a supernova and there hasn't been one explode this close in recorded human history. It's been changing its brightness and showing strange surface behavior, which is why astronomers track its activity closely. Are these changes due to its aging process? Do they mean it's about to blow up? Probably not.
+NASA satellites are helping Maine oyster farmers pick better sites and plan when oysters will be ready to harvest.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/the-universe-should-be-packed-with-tiny-galaxies-so-where-are-they' target='_blank'>The universe should be packed with tiny galaxies — so where are they?</a></strong> — <em>2026-01-14 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/how-mars-punches-above-its-weight-to-influence-earths-climate' target='_blank'>How Mars 'punches above its weight' to influence Earth's climate</a></strong> — <em>2026-01-15 16:00:00</em></summary>
 
-There may not be as nearly as many small galaxies in the early universe as astronomers predict there should be, which has big implications for the story of how our universe grew up.
+"Without Mars, Earth's orbit would be missing major climate cycles. What would humans and other animals even look like if Mars weren't there?"
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/watch-crew-11-astronauts-undock-in-1st-ever-medical-evacuation-from-the-international-space-station-today' target='_blank'>Crew-11 astronauts undock in 1st-ever medical evacuation from the International Space Station (video)</a></strong> — <em>2026-01-14 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/hubble-spies-stellar-blast-setting-clouds-ablaze/' target='_blank'>Hubble Spies Stellar Blast Setting Clouds Ablaze</a></strong> — <em>2026-01-15 15:47:08</em></summary>
 
-SpaceX's Crew-11 astronauts will leave the International Space Station today (Jan. 14) in the first-ever medical evacuation from the orbiting lab, and you can watch it live.
+This new NASA Hubble Space Telescope image captures a jet of gas from a forming star shooting across the dark expanse. The bright pink and green patches running diagonally through the image are HH 80/81, a pair of Herbig-Haro (HH) objects previously observed by Hubble in 1995. The patch to the upper left is part of HH […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-frequency-lasers-enable-clearer-black.html' target='_blank'>Frequency comb lasers enable clearer observation of black holes</a></strong> — <em>2026-01-15 15:00:05</em></summary>
+
+Radio telescopes are instruments that capture faint radio signals from space and convert them into images of celestial bodies. To observe distant black holes clearly, multiple radio telescopes must capture cosmic signals at exactly the same time, acting as a single unit. Research teams at KAIST have developed a new reference signal technology that uses laser light to precisely synchronize the observation timing and phase of these telescopes.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/satellites-spy-raging-bushfires-in-australia-space-photo-of-the-day-for-jan-15-2026' target='_blank'>Satellites spy raging bushfires in Australia | Space photo of the day for Jan. 15, 2026</a></strong> — <em>2026-01-15 15:00:00</em></summary>
+
+The image shows just how large and devastating these events can be.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-spacex-turnaround-cape-canaveral-pad.html' target='_blank'>SpaceX launch sets record turnaround from Cape Canaveral pad</a></strong> — <em>2026-01-15 14:40:01</em></summary>
+
+SpaceX is starting to get the ball rolling on its Florida launch card with its fourth mission of the year coming less than two days since the last launch, setting a record for its Cape Canaveral launch pad.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-reborn-black-hole-awakens-million.html' target='_blank'>'Reborn' black hole awakens after 100 million years of silence</a></strong> — <em>2026-01-15 14:35:38</em></summary>
+
+One of the most vivid portraits of "reborn" black hole activity—likened to the eruption of a "cosmic volcano" spreading almost 1 million light-years across space—has been captured in a gigantic radio galaxy.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-ancient-ii-supernova-universe-billion.html' target='_blank'>Ancient Type II supernova discovered from universe's first billion years</a></strong> — <em>2026-01-15 14:33:31</em></summary>
+
+Using the James Webb Space Telescope (JWST), an international team of astronomers has discovered a new Type II supernova. The newly detected supernova, named SN Eos, exploded when the universe was only 1 billion years old. The finding was reported January 7 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-is-hogwarts-in-space-by-way-of-dawsons-creek-and-we-dont-love-it' target='_blank'>'Star Trek: Starfleet Academy' is Hogwarts in space by way of 'Dawson's Creek', and we don't love it</a></strong> — <em>2026-01-15 14:00:00</em></summary>
+
+The noisy fandom is about to have a field day with Star Trek: Starfleet Academy.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html' target='_blank'>Two new exoplanets and the need for new habitable zone definitions</a></strong> — <em>2026-01-15 13:59:35</em></summary>
+
+At the beginning of the exoplanet age, the goals were fairly simple. The first was to find as many of them as possible to flesh out our understanding of the exoplanet population. The second was to determine if any were in the habitable zones around their stars.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/hubbles-album-of-planet-forming-disks/' target='_blank'>Hubble’s Album of Planet-Forming Disks</a></strong> — <em>2026-01-15 13:13:02</em></summary>
+
+This collection of new images taken by NASA’s Hubble Space Telescope showcases protoplanetary disks, the swirling masses of gas and dust that surround forming stars, in both visible and infrared wavelengths. Through observations of young stellar objects like these, Hubble helps scientists better understand how stars form. These visible-light images depict dark, planet-forming dust disks […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/how-to-watch-star-trek-starfleet-academy-online-and-from-anywhere' target='_blank'>How to watch 'Star Trek: Starfleet Academy' online and from anywhere</a></strong> — <em>2026-01-15 13:00:00</em></summary>
+
+Space school is officially in session and here's your center seat invitation!
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/this-is-nasa-at-its-finest-crew-11-astronauts-in-good-shape-after-smooth-medical-evacuation-and-splashdown-agency-says' target='_blank'>'This is NASA at its finest': Crew-11 astronauts in good shape after smooth medical evacuation and splashdown, agency says</a></strong> — <em>2026-01-15 12:27:37</em></summary>
+
+NASA leaders said the Crew-11 mission's astronaut medical evacuation shows how the agency is prepared to handle the unexpected.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/drones/dji-neo-2-drone-review' target='_blank'>DJI Neo 2 drone review</a></strong> — <em>2026-01-15 11:45:22</em></summary>
+
+The DJI Neo 2 delivers improved image quality alongside Omnidirectional Obstacle Avoidance and many other new and impressive features.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/what-are-dark-stars-scientists-think-they-could-explain-3-big-mysteries-in-the-universe' target='_blank'>What are 'dark' stars? Scientists think they could explain 3 big mysteries in the universe</a></strong> — <em>2026-01-15 11:00:00</em></summary>
+
+"This is a structure we've never seen before, so it could be a new class of dark object."
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/' target='_blank'>NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California</a></strong> — <em>2026-01-15 10:59:03</em></summary>
+
+NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month mission aboard the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth at […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/' target='_blank'>NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California</a></strong> — <em>2026-01-15 10:59:03</em></summary>
+
+NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month mission aboard the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth at […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html' target='_blank'>ISS astronauts splash down on Earth after first-ever medical evacuation</a></strong> — <em>2026-01-15 09:23:12</em></summary>
+
+Four International Space Station crewmembers splashed down in the Pacific Ocean on Thursday, NASA footage showed, after the first ever medical evacuation in the orbital lab's history.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check' target='_blank'>Plato passes vibe check</a></strong> — <em>2026-01-15 09:00:00</em></summary>
+
+
+	Video: 
+			00:01:16
+				Plato, the European Space Agency’s mission to discover Earth-like exoplanets, successfully passed a first round of tests designed to ensure that the spacecraft is fit for launch. As this video shows, the tests consist of vigorously shaking the spacecraft to mimic the powerful jolts and vibrations that Plato will experience during launch.These so-called ‘vibration tests’, are arranged in three parts. In this clip, we see the phase when the spacecraft, mounted on a ‘quad’ shaker, is jolted up and down (Z axis). In the other two stages, on top a ‘lateral’ shaker, the spacecraft is jiggled back and forth sideways in two perpendicular directions (X and Y axes).Each test run lasts one minute, during which the frequency of the oscillations is gradually increased from 5 to 100 oscillations per second (hertz). At the higher frequencies we can no longer perceive the movement, but we hear the spacecraft’s internal rumbling caused by the fast shaking. The sound comes in waves, becoming louder when the shaker hits resonance frequencies and makes the spacecraft vibrate more intensely.The first couple of minutes of a satellite's spaceflight are the toughest, as it sustains the extreme vibration of lift-off. By subjecting the spacecraft with these dramatic stresses in advance of the real launch, engineers ensure that no piece of space hardware will be damaged during launch.Plato is currently undertaking its tough exams to graduate for launch. After vibration tests, the spacecraft was placed inside ESA’s acoustic test chamber and blasted by deafening sound similar to what it will experience during lift-off. Also this test went as expected.Next, engineers will move the spacecraft to the Large Space Simulator – Europe’s largest vacuum chamber – to verify that it can withstand the extreme temperatures and emptiness of space.The mission is expected to be ready for launch by the end of the year. Lift-off on an Ariane 6 is planned in by Ariane Space for January 2027.About PlatoESA’s Plato (PLAnetary Transits and Oscillations of stars) will use 26 cameras to study terrestrial exoplanets in orbits up to the habitable zone of Sun-like stars.Plato's scientific instrumentation, consisting of the cameras and electronic units, is provided through a collaboration between ESA and the Plato Mission Consortium composed of various European research centres, institutes and industries. The spacecraft is being built and assembled by the industrial Plato Core Team led by OHB together with Thales Alenia Space and Beyond Gravity.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss' target='_blank'>SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS</a></strong> — <em>2026-01-15 08:50:08</em></summary>
+
+The four astronauts of SpaceX's Crew-11 mission splashed down safely today (Jan. 15) after the first-ever medical evacuation of the International Space Station.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision' target='_blank'>Sentinel-2 explores night vision</a></strong> — <em>2026-01-15 08:00:00</em></summary>
+
+
+After more than 10 years in orbit, the first Copernicus Sentinel-2 satellite, Sentinel-2A, is still finding new ways to contribute to Earth observation. With its younger siblings, Sentinel-2B and Sentinel-2C, now leading the mission’s core task of delivering high-resolution, ‘camera-like’ images of Earth’s surface, the European Space Agency is pushing Sentinel-2A beyond its original remit.In recent trials, this elderly satellite was even switched on at night to see how it would perform in the dark – and the results have been strikingly positive, offering encouraging news for the follow-on Copernicus Sentinel-2 Next Generation mission, currently in development.
 
 </details>
 
