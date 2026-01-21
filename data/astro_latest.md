@@ -1,241 +1,326 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Recent Developments in Astrophysics and Space Exploration
 
-#### Insights into Planetary System Evolution
-Recent findings from the ALMA (Atacama Large Millimeter/submillimeter Array) have significantly advanced our understanding of planetary system formation. The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) has captured detailed images of 24 debris disks, illustrating the complex structures that form as these systems evolve. This research is pivotal for understanding the conditions that lead to planet formation and the subsequent dynamics that govern their development, potentially informing theories about the habitability of exoplanets.
+#### 1. Advancements in Solar Observation
+NASA's SunRISE mission is nearing its launch, with six small satellites designed to operate collectively as a single radio dish to monitor solar energetic particle events. These events can pose significant risks to astronauts and satellites, making their real-time tracking essential for safety. By enhancing our understanding of solar phenomena, SunRISE aims to improve predictions of solar radiation hazards, with a launch anticipated in late 2026.
 
-Key Items:
-1. ALMA's imaging reveals intricate dust and gas distributions within debris disks, crucial for studying planetary formation processes. - https://phys.org/news/2026-01-alma-reveals-teenage-years-worlds.html
-2. The survey emphasizes the relevance of debris disks in assessing exoplanetary systems' potential for supporting life.
+Key items:
+- SunRISE satellites will monitor radio emissions from the Sun's corona.
+- The mission's data will aid in managing solar radiation risks for space missions.
+- Launch is expected in late 2026.
 
-#### Atmospheric Dynamics of Gas Giants
-New studies focusing on the polar weather patterns of Jupiter and Saturn have unveiled distinct atmospheric dynamics that may reflect their internal structures. Saturn’s hexagonal vortex and Jupiter’s smaller polar vortices indicate differing atmospheric behaviors, which could provide insights into the planets' composition and internal heat sources. Understanding these dynamics is essential for broader planetary science and comparative planetology.
+#### 2. Insights into Planetary Formation and Evolution
+Recent research has provided new insights into the formation of super-Earths and the water composition of Jupiter's Galilean moons. Findings indicate that super-Earths frequently lose their atmospheres due to stellar radiation, while studies show that the distinct water characteristics of Europa and Io were established at their formation, rather than evolving later. These revelations are crucial for understanding planetary habitability and the conditions necessary for life.
 
-Key Items:
-1. Research suggests that the polar vortices are linked to the planets' internal heat, enhancing our knowledge of gas giant atmospheres. - https://phys.org/news/2026-01-polar-weather-jupiter-saturn-hints.html
-2. Data from multiple missions contribute to a richer understanding of how these polar systems operate.
+Key items:
+- Super-Earths' atmospheric loss impacts their potential to support life.
+- The water makeup of Jupiter's moons was set at their formation.
+- These studies enhance the search for extraterrestrial life.
 
-#### Progress in Exoplanet Atmosphere Analysis
-Astronomers are developing innovative methods to detect biosignatures in the atmospheres of distant exoplanets, marking a significant step in the search for extraterrestrial life. These new techniques aim to identify specific molecules indicative of biological activity, potentially revolutionizing our understanding of life beyond Earth as new telescopes come online.
+#### 3. Stellar and Galactic Discoveries
+The James Webb Space Telescope has delivered remarkable observations of the Helix Nebula, showcasing the processes involved in stellar death and the recycling of cosmic materials. Additionally, astronomers have identified a dense cluster of galaxies from just one billion years after the Big Bang, challenging current models of star formation rates in the early universe. These findings deepen our understanding of cosmic evolution and the lifecycle of stars.
 
-Key Items:
-1. Enhanced analytical techniques are being tested to improve the detection of biosignatures in exoplanet atmospheres. - https://www.space.com/astronomy/exoplanets/how-astronomers-plan-to-detect-the-signatures-of-alien-life-in-the-atmospheres-of-distant-planets
-2. Future discoveries could reshape our approach to astrobiology and the criteria for identifying habitable worlds.
+Key items:
+- Webb's imaging of the Helix Nebula reveals intricate stellar death processes.
+- A newly discovered galaxy cluster suggests rapid star formation in the early universe.
+- These discoveries may revise existing astrophysical theories.
 
-### Conclusion
-The current landscape in astrophysics is marked by significant advancements in our understanding of planetary formation, the atmospheric dynamics of gas giants, and the methodologies for detecting life beyond Earth. These developments not only deepen our scientific knowledge but also pave the way for future explorations that could fundamentally alter our comprehension of the universe.
+#### 4. Solar System Dynamics and Space Weather
+A recent severe geomagnetic storm has resulted in spectacular auroras across the continental U.S., demonstrating the significant effects of solar activity on Earth. Triggered by a coronal mass ejection (CME), this event underscores the necessity of monitoring space weather, particularly for satellite operations and astronaut safety.
+
+Key items:
+- A G4 geomagnetic storm led to widespread auroras seen across the U.S.
+- The storm's intensity was linked to a CME impacting Earth's magnetic field.
+- Continuous monitoring by ESA and NASA is essential for understanding space weather.
+
+### Synthesis
+The current landscape of astrophysics and space exploration is marked by significant discoveries and technological advancements. Missions like SunRISE and the capabilities of the James Webb Space Telescope are propelling our understanding of solar phenomena, planetary formation, and cosmic evolution. As researchers continue to investigate these complex processes, the implications for our understanding of life beyond Earth and the dynamics of the universe become increasingly profound.
 
 ### Top Sources:
-1. ALMA reveals teenage years of new worlds - https://phys.org/news/2026-01-alma-reveals-teenage-years-worlds.html - ALMA captures detailed images of debris disks, offering insights into planetary formation.
-2. Polar weather on Jupiter and Saturn hints at the planets' interior details - https://phys.org/news/2026-01-polar-weather-jupiter-saturn-hints.html - New research explains differences in polar vortex patterns of gas giants.
-3. How astronomers plan to detect the signatures of alien life in the atmospheres of distant planets - https://www.space.com/astronomy/exoplanets/how-astronomers-plan-to-detect-the-signatures-of-alien-life-in-the-atmospheres-of-distant-planets - New methods aim to identify biosignatures in exoplanet atmospheres.
-4. Mercury's BepiColombo Mio and Earth's GEOTAIL show shared wave frequency properties across planetary magnetospheres - https://phys.org/news/2026-01-mercury-bepicolombo-mio-earth-geotail.html - Chorus emissions observed in both Mercury and Earth’s magnetosphere.
-5. Proba-3 mission captures rare solar prominence eruptions in sun's inner corona - https://phys.org/news/2026-01-proba-mission-captures-rare-solar.html - Proba-3 provides insights into solar activity and its implications for space weather.
-6. Reborn black hole seen erupting across 1 million light-years of space like a cosmic volcano - https://www.space.com/astronomy/black-holes/reborn-black-hole-seen-erupting-across-1-million-light-years-of-space-like-a-cosmic-volcano - A black hole's eruption reveals new structures in the cosmos.
-7. X-ray observations reveal hidden disturbances in galaxy cluster Abell 3571 - https://phys.org/news/2026-01-ray-reveal-hidden-disturbances-galaxy.html - New findings on the X-ray properties of a nearby galaxy cluster.
-8. Was the Red Planet once blue? New evidence points to an ancient ocean on Mars - https://www.space.com/astronomy/mars/was-the-red-planet-once-blue-new-evidence-points-to-an-ancient-ocean-on-mars - Geological features suggest Mars may have hosted vast oceans in its past.
-9. Hubble observes ghostly cloud alive with star formation - https://phys.org/news/2026-01-hubble-ghostly-cloud-alive-star.html - Hubble captures new star formation in the Lupus 3 cloud.
-10. These gravitationally lensed supernovae could resolve the Hubble tension - https://phys.org/news/2026-01-gravitationally-lensed-supernovae-hubble-tension.html - Gravitational lensing may provide new measurements of the universe's expansion rate.
+1. SunRISE SmallSats ace tests, moving closer to launch - https://phys.org/news/2026-01-sunrise-smallsats-ace-closer.html - NASA's SunRISE mission progresses toward launch to monitor solar activity.
+2. How to make a super-Earth: The universe's most common planets are whittled down by stellar radiation - https://www.space.com/astronomy/exoplanets/how-to-make-a-super-earth-the-universes-most-common-planets-are-whittled-down-by-stellar-radiation - New insights into super-Earth formation and atmospheric loss.
+3. Water makeup of Jupiter's Galilean moons set at birth, new study finds - https://phys.org/news/2026-01-makeup-jupiter-galilean-moons-birth.html - Study reveals the initial conditions of Jupiter's moons' water composition.
+4. Webb reveals Helix Nebula in glistening detail - https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/ - James Webb Space Telescope captures detailed images of the Helix Nebula.
+5. Vast cluster of ancient galaxies could rewrite the history of star formation - https://phys.org/news/2026-01-vast-cluster-ancient-galaxies-rewrite.html - Discovery of a dense galaxy cluster challenges existing star formation models.
+6. Severe G4 geomagnetic storm sparks jaw-dropping northern lights worldwide (photos) - https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-jaw-dropping-northern-lights-worldwide-photos - A geomagnetic storm creates stunning auroras visible across the U.S.
+7. A faint signal from the Universe’s dark ages could reveal dark matter - https://www.sciencedaily.com/releases/2026/01/260120000318.htm - New simulations suggest dark matter may alter signals from the universe's early period.
+8. James Webb catches an exoplanet losing its atmosphere in real time - https://www.sciencedaily.com/releases/2026/01/260120000311.htm - Webb observes the dramatic atmospheric loss of exoplanet WASP-121b.
+9. Gaia data release reveals four substructures in open cluster NGC 752 - https://phys.org/news/2026-01-gaia-reveals-substructures-cluster-ngc.html - New findings from Gaia data enhance our understanding of star clusters.
+10. Complex building blocks of life form spontaneously in space, research reveals - https://phys.org/news/2026-01-complex-blocks-life-spontaneously-space.html - Research shows protein building blocks essential for life can form in space.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-01-alma-reveals-teenage-years-worlds.html' target='_blank'>ALMA reveals teenage years of new worlds</a></strong> — <em>2026-01-20 07:00:01</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/' target='_blank'>Fires Erupt in South-Central Chile</a></strong> — <em>2026-01-21 05:01:00</em></summary>
 
-Astronomers have, for the first time, captured a detailed snapshot of planetary systems in an era long shrouded in mystery. The ALMA survey to Resolve exoKuiper belt Substructures (ARKS), using the Atacama Large Millimeter/submillimeter Array (ALMA), has produced the sharpest images ever of 24 debris disks, the dusty belts left after planets finish forming.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/an-armada-of-6-500-elite-dangerous-players-just-embarked-on-a-three-month-expedition-to-explore-the-milky-way-and-theres-still-time-to-join-them' target='_blank'>An armada of 6,500 Elite Dangerous players just embarked on a three-month expedition to explore the Milky Way, and there's still time to join them</a></strong> — <em>2026-01-19 21:00:00</em></summary>
-
-To explore strange new worlds; to seek out new life and new civilizations; to boldly go where no one has gone before!
+Tens of thousands of people fled to safety as blazes spread throughout the country’s Biobío and Ñuble regions.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-astronaut-deep-space-missions.html' target='_blank'>Improving astronaut fitness for deep space missions</a></strong> — <em>2026-01-19 20:30:13</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration-2/' target='_blank'>NASA’s Day of Remembrance Honors Fallen Heroes of Exploration</a></strong> — <em>2026-01-20 23:17:06</em></summary>
 
-As we prepare for missions beyond Earth orbit, one crucial challenge remains: keeping astronauts healthy in microgravity. Without daily exercise, their muscles, bones and cardiovascular systems weaken, which could impact mission success and astronaut safety, especially in destinations such as the moon or Mars, where crew will have to operate autonomously immediately after landing.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-polar-weather-jupiter-saturn-hints.html' target='_blank'>Polar weather on Jupiter and Saturn hints at the planets' interior details</a></strong> — <em>2026-01-19 20:00:06</em></summary>
-
-Over the years, passing spacecraft have observed mystifying weather patterns at the poles of Jupiter and Saturn. The two planets host very different types of polar vortices, which are huge atmospheric whirlpools that rotate over a planet's polar region. On Saturn, a single massive polar vortex appears to cap the north pole in a curiously hexagonal shape, while on Jupiter, a central polar vortex is surrounded by eight smaller vortices, like a pan of swirling cinnamon rolls.
+NASA will observe its annual Day of Remembrance on Thursday, Jan. 22, which includes commemorating the crews of Apollo 1 and the space shuttles Challenger and Columbia. The event is traditionally held every year on the fourth Thursday of January, as all three astronaut accidents happened around the end of the month. “On NASA’s Day […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/how-astronomers-plan-to-detect-the-signatures-of-alien-life-in-the-atmospheres-of-distant-planets' target='_blank'>How astronomers plan to detect the signatures of alien life in the atmospheres of distant planets</a></strong> — <em>2026-01-19 20:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-sunrise-smallsats-ace-closer.html' target='_blank'>SunRISE SmallSats ace tests, moving closer to launch</a></strong> — <em>2026-01-20 22:09:38</em></summary>
 
-Astonishingly, we can identify molecules present in the atmospheres of exoplanets.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/polar-weather-jupiter-saturn-hints-planets-interior-details-0119' target='_blank'>Polar weather on Jupiter and Saturn hints at the planets’ interior details</a></strong> — <em>2026-01-19 20:00:00</em></summary>
-
-New research may explain the striking differences between the two planets’ polar vortex patterns.
+When the six tiny spacecraft of NASA's SunRISE (Sun Radio Interferometer Space Experiment) mission settle into their orbits high above Earth after launching later this year, they'll function as one giant radio dish to track the rumbles of radio bursts coming from deep within the sun's atmosphere, or corona. Those bursts are generated by solar energetic particle events that could, in extreme cases, irradiate unprotected astronauts and satellites; tracking the radio waves they generate with SunRISE will help scientists mitigate their effects.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/polar-weather-jupiter-saturn-hints-planets-interior-details-0119' target='_blank'>Polar weather on Jupiter and Saturn hints at the planets’ interior details</a></strong> — <em>2026-01-19 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/solar-system/mysterious-polar-weather-on-jupiter-and-saturn-could-be-key-to-understanding-their-insides' target='_blank'>Mysterious polar weather on Jupiter and Saturn could be key to understanding their insides</a></strong> — <em>2026-01-20 22:00:00</em></summary>
 
-New research may explain the striking differences between the two planets’ polar vortex patterns.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/what-the-first-medical-evacuation-from-the-international-space-station-tells-us-about-healthcare-in-space' target='_blank'>What the first medical evacuation from the International Space Station tells us about healthcare in space</a></strong> — <em>2026-01-19 19:00:00</em></summary>
-
-The evacuation raises a question worth exploring: how do astronauts stay healthy in space, and why is this early evacuation so unusual?
+"I don't think anyone's made this connection between the surface fluid pattern and the interior properties of these planets."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-mercury-bepicolombo-mio-earth-geotail.html' target='_blank'>Mercury's BepiColombo Mio and Earth's GEOTAIL show shared wave frequency properties across planetary magnetospheres</a></strong> — <em>2026-01-19 18:50:01</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-astronaut-suni-williams-retires/' target='_blank'>NASA Astronaut Suni Williams Retires</a></strong> — <em>2026-01-20 21:57:32</em></summary>
 
-An international team from Kanazawa University (Japan), Tohoku University (Japan), LPP (France), and partners has demonstrated that chorus emissions, natural electromagnetic waves long studied in Earth's magnetosphere, also occur in Mercury's magnetosphere exhibiting similar chirping frequency changes.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-proba-mission-captures-rare-solar.html' target='_blank'>Proba-3 mission captures rare solar prominence eruptions in sun's inner corona</a></strong> — <em>2026-01-19 18:07:26</em></summary>
-
-The sun's inner corona, the hottest part of our star's atmosphere, appears faint yellow in a time-lapse made from images taken by the ASPIICS coronagraph aboard Proba-3.
+After 27 years of service, NASA astronaut Suni Williams retired from the agency, effective Dec. 27, 2025. Williams completed three missions aboard the International Space Station, setting numerous human spaceflight records throughout her career. “Suni Williams has been a trailblazer in human spaceflight, shaping the future of exploration through her leadership aboard the space station […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/how-to-find-4-legendary-spacecraft-in-januarys-night-sky' target='_blank'>How to find 4 legendary spacecraft in January's night sky</a></strong> — <em>2026-01-19 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/' target='_blank'>New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History</a></strong> — <em>2026-01-20 21:21:59</em></summary>
 
-Along with bonus stargazing targets!
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/drones/dji-mini-5-pro-drone-review' target='_blank'>DJI Mini 5 Pro drone review</a></strong> — <em>2026-01-19 17:56:10</em></summary>
-
-The DJI Mini 5 Pro is the best sub-250g drone ever made and redefines what’s possible in this regulator-friendly drone category.
+NASA announced Tuesday the selection of three new science investigations that will strengthen humanity’s understanding and exploration of the Moon. As part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, American companies will deliver these research payloads to the lunar surface no earlier than 2028. “With CLPS, NASA has been taking […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-green-oceans-purple-earths.html' target='_blank'>Searching for 'green oceans' and 'purple Earths'</a></strong> — <em>2026-01-19 17:55:31</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/' target='_blank'>New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History</a></strong> — <em>2026-01-20 21:21:59</em></summary>
 
-The early stage of giant telescope development involves a lot of horse-trading to try to appease all the different stakeholders that are hoping to get what they want out of the project, but also to try to appease the financial managers that want to minimize its cost. Typically, this horse-trading takes the form of a series of white papers that describe what would be needed to meet the stated objectives of the mission and suggest the type of instrumentation and systems that would be needed to achieve them.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-hubble-ghostly-cloud-alive-star.html' target='_blank'>Hubble observes ghostly cloud alive with star formation</a></strong> — <em>2026-01-19 17:10:24</em></summary>
-
-While this eerie NASA Hubble Space Telescope image may look ghostly, it's actually full of new life. Lupus 3 is a star-forming cloud about 500 light-years away in the constellation Scorpius.
+NASA announced Tuesday the selection of three new science investigations that will strengthen humanity’s understanding and exploration of the Moon. As part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, American companies will deliver these research payloads to the lunar surface no earlier than 2028. “With CLPS, NASA has been taking […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/reborn-black-hole-seen-erupting-across-1-million-light-years-of-space-like-a-cosmic-volcano' target='_blank'>Reborn black hole seen erupting across 1 million light-years of space like a cosmic volcano</a></strong> — <em>2026-01-19 17:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/nasas-budget-woes-are-over-for-now/' target='_blank'>NASA’s Budget Woes Are Over, For Now</a></strong> — <em>2026-01-20 21:04:09</em></summary>
 
-"It's like watching a cosmic volcano erupt again after ages of calm — except this one is big enough to carve out structures stretching nearly a million light-years across space."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-gravitationally-lensed-supernovae-hubble-tension.html' target='_blank'>These gravitationally lensed supernovae could resolve the Hubble tension</a></strong> — <em>2026-01-19 16:37:38</em></summary>
-
-One of the most stubborn issues in cosmology today concerns the universe's rate of expansion. Scientists know it's expanding, but defining the rate of that expansion is challenging. The rate of expansion is called the Hubble Constant, after American astronomer Edwin Hubble, who discovered in the 1920s that the universe is expanding.
+Congress has rejected a draconian budget request, passing a bill that funds the space agency similarly to 2025.
+The post NASA’s Budget Woes Are Over, For Now appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video' target='_blank'>China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)</a></strong> — <em>2026-01-19 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-complex-blocks-life-spontaneously-space.html' target='_blank'>Complex building blocks of life form spontaneously in space, research reveals</a></strong> — <em>2026-01-20 20:30:27</em></summary>
 
-Chinese researchers have completed a full end-to-end simulation of the Chinese Space Station Telescope's observing systems, offering a preview of how the powerful scope will survey the universe.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-medical-evacuation-international-space-station.html' target='_blank'>What the first medical evacuation from the International Space Station tells us about health care in space</a></strong> — <em>2026-01-19 15:40:30</em></summary>
-
-For the first time in 25 years of continuous crewed operations, an astronaut has been medically evacuated from the International Space Station (ISS). The Crew-11 mission ended when a SpaceX Dragon capsule brought the four astronauts of Crew 11 home following a medical incident in early January 2026.
+Challenging long-held assumptions, Aarhus University researchers have demonstrated that the protein building blocks essential for life as we know it can form readily in space. This discovery, appearing in Nature Astronomy, significantly raises the statistical probability of finding extraterrestrial life.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-astronauts-gear-thin-air.html' target='_blank'>How astronauts will fix their gear using thin air</a></strong> — <em>2026-01-19 15:20:08</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-supplements-facts-first-challenge/' target='_blank'>NIH Supplements, Facts First Challenge</a></strong> — <em>2026-01-20 20:29:13</em></summary>
 
-Additive manufacturing, more commonly known as 3D printing, will be an absolutely critical technology for any long-term settlement on another world. Its ability to take a generic input, such as plastic strips or metal powder, and turn it into any shape of tool an astronaut will need is an absolute game changer. But the chemistry behind these technologies is complicated, and their applications are extremely varied, ranging from creating bricks for settlements to plastics for everything from cups to toothbrush holders.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-01-protostars-homes-orion-molecular-cloud.html' target='_blank'>Protostars carve out homes in the Orion Molecular Cloud</a></strong> — <em>2026-01-19 15:14:42</em></summary>
-
-Young stars need time to grow into their final masses before they begin fusing lighter elements into heavier elements as main-sequence stars. They can spend hundreds of thousands of years as protostars, when they're still accreting mass from the molecular clouds they form in. But even though they haven't begun fusion, they still inject energy into their surroundings.
+NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Office of Dietary Supplements (ODS) at the National Institutes of Health (NIH) announces the “Supplements, Facts First: […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-24-states-tonight-as-massive-cme-races-toward-earth' target='_blank'>Northern lights may be visible in 24 states tonight as a massive CME slams into Earth</a></strong> — <em>2026-01-19 15:06:11</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-century-worth-future-solar.html' target='_blank'>A century's worth of data could help predict future solar cycle activity</a></strong> — <em>2026-01-20 20:10:30</em></summary>
 
-Auroras may be visible from Alaska to Colorado tonight as a speedy coronal mass ejection impacts Earth.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-rolls-artemis-2-moon-rocket-to-launch-pad-space-photo-of-the-day-for-jan-19-2025' target='_blank'>NASA rolls Artemis 2 moon rocket to launch pad | Space photo of the day for Jan. 19, 2025</a></strong> — <em>2026-01-19 15:00:00</em></summary>
-
-America's next mission to the moon is happening in only a few weeks.
+Research conducted by an international team of astronomers from Southwest Research Institute, Aryabhatta Research Institute of Observational Sciences in India and the Max Planck Institute in Germany could help predict upcoming solar cycle activity.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-01-ray-reveal-hidden-disturbances-galaxy.html' target='_blank'>X-ray observations reveal hidden disturbances in galaxy cluster Abell 3571</a></strong> — <em>2026-01-19 14:04:59</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-38-suborbital-space-tourism-mission' target='_blank'>Blue Origin launching 6 people to suborbital space on Jan. 22</a></strong> — <em>2026-01-20 20:00:00</em></summary>
 
-Using the Einstein Probe (EP), astronomers from China and Germany have observed a nearby galaxy cluster known as Abell 3571. Results of the observational campaign, published January 8 on the arXiv pre-print server, provide more insights into the X-ray properties and structure of this cluster.
+Blue Origin will launch six people to the final frontier on Thursday (Jan. 22), and you can watch the space tourism mission live.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/01/Rocket_roll' target='_blank'>Rocket roll</a></strong> — <em>2026-01-19 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-01-south-pole-telescope-energetic-stellar.html' target='_blank'>South Pole Telescope detects energetic stellar flares near center of galaxy</a></strong> — <em>2026-01-20 19:58:27</em></summary>
+
+Researchers from the South Pole Telescope project team looked deep into the center of the Milky Way, discovering powerful, surprising bursts of light from two accreting white dwarf systems.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/aeronautics/chase-aircraft-ensures-x-59-safety/' target='_blank'>NASA Chase Aircraft Ensures X-59’s Safety in Flight</a></strong> — <em>2026-01-20 19:11:25</em></summary>
+
+As NASA’s X-59 quiet supersonic research aircraft continues a series of flight tests over the California high desert in 2026, its pilot will be flying with a buddy closely looking out for his safety.  That colleague will be another test pilot in a separate chase aircraft. His job as chase pilot: keep a careful watch on things as he tracks the […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/aeronautics/chase-aircraft-ensures-x-59-safety/' target='_blank'>NASA Chase Aircraft Ensures X-59’s Safety in Flight</a></strong> — <em>2026-01-20 19:11:25</em></summary>
+
+As NASA’s X-59 quiet supersonic research aircraft continues a series of flight tests over the California high desert in 2026, its pilot will be flying with a buddy closely looking out for his safety.  That colleague will be another test pilot in a separate chase aircraft. His job as chase pilot: keep a careful watch on things as he tracks the […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/how-to-make-a-super-earth-the-universes-most-common-planets-are-whittled-down-by-stellar-radiation' target='_blank'>How to make a super-Earth: The universe's most common planets are whittled down by stellar radiation</a></strong> — <em>2026-01-20 19:00:00</em></summary>
+
+The origin of super-Earths and sub-Neptunes has been revealed in a system of four young planets that are dramatically losing their thick atmospheres.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/nasas-sls-rocket-secondary-payloads/' target='_blank'>NASA’s SLS Rocket: Secondary Payloads</a></strong> — <em>2026-01-20 18:56:53</em></summary>
+
+When NASA’s SLS (Space Launch System) rocket launches the agency’s Artemis II mission to the Moon, four CubeSats, or small satellites, will be hitching a ride inside the rocket’s Orion stage adapter (OSA). All four Artemis II CubeSats are provided by countries that are signatories of the Artemis Accords. Payload deployment, which begins approximately five […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-hubble-tension-primordial-magnetic-fields.html' target='_blank'>Hubble tension: Primordial magnetic fields could resolve one of cosmology's biggest questions</a></strong> — <em>2026-01-20 18:29:29</em></summary>
+
+A Simon Fraser University cosmologist believes his team's new research may bring them a step closer to cracking one of science's biggest questions—the Hubble tension.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-intricacies-helix-nebula-revealed-webb.html' target='_blank'>Intricacies of Helix Nebula revealed with Webb</a></strong> — <em>2026-01-20 18:20:06</em></summary>
+
+NASA's James Webb Space Telescope has zoomed into the Helix Nebula to give an up-close view of the possible eventual fate of our own sun and planetary system. In Webb's high-resolution look, the structure of the gas being shed off by a dying star comes into full focus. The image reveals how stars recycle their material back into the cosmos, seeding future generations of stars and planets, as NASA explores the secrets of the universe and our place in it.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-spherex-imaging-reveals-sublimation-3iatlas.html' target='_blank'>SPHEREx imaging reveals increased sublimation activity on 3I/ATLAS</a></strong> — <em>2026-01-20 18:14:16</em></summary>
+
+The interstellar object, 3I/ATLAS, was first discovered in July 2025, and made its closest approach to the sun (perihelion) in late October. New observations of 3I/ATLAS were taken in December from the SPHEREx observatory—a near-infrared space observatory used for spectrophotometry. The analysis of these observations was recently discussed by a team of scientists in a paper on arXiv, and reveals some dramatic differences from the data taken before 3I/ATLAS reached perihelion.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2030-everything-you-need-to-know-about-totality-in-southern-africa-and-southeast-australia' target='_blank'>Total solar eclipse 2030: Everything you need to know about totality in southern Africa and southeast Australia</a></strong> — <em>2026-01-20 18:00:00</em></summary>
+
+The total solar eclipse on Nov. 25, 2030, will mainly cross the Indian Ocean, but views will be possible from Australia, South Africa, Namibia, Botswana and Lesotho.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-unlocks-golden-age-of-innovation-exploration-in-trumps-first-year/' target='_blank'>NASA Unlocks Golden Age of Innovation, Exploration in Trump’s First Year</a></strong> — <em>2026-01-20 17:56:10</em></summary>
+
+One year into President Donald J. Trump’s second term, NASA is delivering measurable progress across human spaceflight, science, aeronautics, and cutting-edge technology. These advances mark the beginning of a new Golden Age of American space leadership driven by clear national direction and historic investment through the Working Families Tax Cut Act. Since his inauguration as […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-unlocks-golden-age-of-innovation-exploration-in-trumps-first-year/' target='_blank'>NASA Unlocks Golden Age of Innovation, Exploration in Trump’s First Year</a></strong> — <em>2026-01-20 17:56:10</em></summary>
+
+One year into President Donald J. Trump’s second term, NASA is delivering measurable progress across human spaceflight, science, aeronautics, and cutting-edge technology. These advances mark the beginning of a new Golden Age of American space leadership driven by clear national direction and historic investment through the Working Families Tax Cut Act. Since his inauguration as […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-makeup-jupiter-galilean-moons-birth.html' target='_blank'>Water makeup of Jupiter's Galilean moons set at birth, new study finds</a></strong> — <em>2026-01-20 17:55:34</em></summary>
+
+While Io, the most volcanically active moon in the solar system, appears completely dry and devoid of water ice, its neighbor Europa is thought to harbor a vast global ocean of liquid water beneath its icy crust. A new international study co-led by Aix-Marseille University and Southwest Research Institute (SwRI) reveals that this striking contrast was established at birth, as they formed around Jupiter, not from later evolutionary processes.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-alien-hunter.html' target='_blank'>The alien hunter's shopping list</a></strong> — <em>2026-01-20 17:21:31</em></summary>
+
+We recently discussed the different types of worlds that the Habitable Worlds Observatory (HWO) is expected to find that might have noticeable biosignatures. However, no matter how good the instrumentation on board the observatory is, the data it collects will be useless if scientists don't know how to interpret it. A paper explaining what data they need to collect before analyzing HWO data was authored by Niki Parenteau, a research biologist at NASA, and her co-authors, and is now available on the arXiv preprint server.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-vast-cluster-ancient-galaxies-rewrite.html' target='_blank'>Vast cluster of ancient galaxies could rewrite the history of star formation</a></strong> — <em>2026-01-20 17:00:01</em></summary>
+
+Astronomers have discovered a vast, dense cluster of massive galaxies just 1 billion years after the Big Bang, each forming stars at an intense rate from collapsing clouds of dust. Reported in Astronomy & Astrophysics by an international team, led by Guilaine Lagache at Aix-Marseille University, the structure appears to challenge existing models of how rapidly stars could have formed in the early universe.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-10-states-tonight-as-earths-magnetic-field-rings-like-a-bell-after-cme-impact' target='_blank'>Northern lights may be visible in 10 states tonight as Earth's magnetic field 'rings like a bell' after CME impact</a></strong> — <em>2026-01-20 16:55:23</em></summary>
+
+Auroras may be visible from Alaska to Maine tonight as Earth reels from a colossal CME impact.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/sun/earth-was-just-hit-by-the-strongest-solar-radiation-storm-in-over-20-years-heres-what-it-means' target='_blank'>Earth was just hit by the strongest solar radiation storm in over 20 years — here's what it means</a></strong> — <em>2026-01-20 16:00:00</em></summary>
+
+Earth just experienced a rare S4 solar radiation storm, the most intense since 2003 — powerful for satellites and astronauts, but harmless on the ground.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/' target='_blank'>Hubble Nets Menagerie of Young Stellar Objects</a></strong> — <em>2026-01-20 15:52:29</em></summary>
+
+A disparate collection of young stellar objects bejewels a cosmic panorama in the star-forming region NGC 1333 in this new image from NASA’s Hubble Space Telescope. To the left, an actively forming star called a protostar casts its glow on the surrounding gas and dust, creating a reflection nebula. Two dark stripes on opposite sides of […]
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail' target='_blank'>Webb reveals Helix Nebula in glistening detail</a></strong> — <em>2026-01-20 15:00:00</em></summary>
 
 
 	Image:
-			The Artemis II rocket was rolled out to its launch pad.
+			Helix Nebula (NIRCam image)
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/was-the-red-planet-once-blue-new-evidence-points-to-an-ancient-ocean-on-mars' target='_blank'>Was the Red Planet once blue? New evidence points to an ancient ocean on Mars</a></strong> — <em>2026-01-19 14:00:00</em></summary>
-
-Ancient shoreline features hint that water on Mars once formed a vast ocean.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/this-is-the-sharpest-view-ever-seen-of-a-black-holes-dusty-disk' target='_blank'>This is the sharpest view ever seen of a black hole's dusty disk</a></strong> — <em>2026-01-19 13:00:00</em></summary>
-
-"Instead of Webb's 6.5-meter diameter, it's like we are observing this region with a 13-meter space telescope."
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/missing-supernova-images-offer-measure-of-universes-expansion/' target='_blank'>“Missing” Supernova Images Offer Measure of Universe’s Expansion</a></strong> — <em>2026-01-19 13:00:00</em></summary>
-
-Astronomers have found two gravitationally lensed supernovae that are missing images. Those images' arrival will offer a measure of the universe's expansion. 
-The post “Missing” Supernova Images Offer Measure of Universe’s Expansion appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260118233609.htm' target='_blank'>Inside the mysterious collapse of dark matter halos</a></strong> — <em>2026-01-19 12:52:41</em></summary>
-
-Physicists have unveiled a new way to simulate a mysterious form of dark matter that can collide with itself but not with normal matter. This self-interacting dark matter may trigger a dramatic collapse inside dark matter halos, heating and densifying their cores in surprising ways. Until now, this crucial middle ground of behavior was nearly impossible to model accurately. The new code makes these simulations faster, more precise, and accessible enough to run on a laptop.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/sun-erupts-with-powerful-x-class-flare-as-huge-cme-races-toward-earth-impact-possible-within-24-hours' target='_blank'>Sun unleashes powerful X-flare, CME hits Earth sparking severe geomagnetic storm</a></strong> — <em>2026-01-19 11:00:01</em></summary>
-
-Aurora alert! The colossal solar storm could impact and trigger impressive northern lights.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-discover-an-enormous-iron-bar-in-the-famous-ring-nebula-we-definitely-need-to-know-more' target='_blank'>Astronomers discover an enormous iron bar in the famous Ring Nebula: 'We definitely need to know more'</a></strong> — <em>2026-01-19 11:00:00</em></summary>
-
-"One thing popped out as clear as anything, this previously unknown 'bar' of ionized iron atoms, in the middle of the familiar and iconic ring."
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/01/Proba-3_our_eyes_on_the_Sun_s_inner_corona' target='_blank'>Proba-3: our eyes on the Sun’s inner corona</a></strong> — <em>2026-01-19 10:50:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail' target='_blank'>Webb reveals Helix Nebula in glistening detail</a></strong> — <em>2026-01-20 15:00:00</em></summary>
 
 
 	Image:
-			Proba-3: our eyes on the Sun’s inner corona
+			Helix Nebula (NIRCam image)
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/About_Us/Careers_at_ESA/The_EGT_Programme_your_road_to_space' target='_blank'>The EGT Programme: your road to space</a></strong> — <em>2026-01-19 10:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/' target='_blank'>Intricacies of Helix Nebula Revealed With NASA’s Webb</a></strong> — <em>2026-01-20 15:00:00</em></summary>
+
+NASA’s James Webb Space Telescope has zoomed into the Helix Nebula to give an up-close view of the possible eventual fate of our own Sun and planetary system. In Webb’s high-resolution look, the structure of the gas being shed off by a dying star comes into full focus. The image reveals how stars recycle their […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/universal-truths-astronomys-deepest-theories-quiz' target='_blank'>Universal truths: Astronomy's deepest theories quiz</a></strong> — <em>2026-01-20 15:00:00</em></summary>
+
+Test your grasp of the forces and ideas that shape our universe.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-salty-ice-pathway-life-sustaining.html' target='_blank'>Sinking salty ice suggests pathway for life-sustaining conditions in Europa's ocean</a></strong> — <em>2026-01-20 14:41:43</em></summary>
+
+A recent study by geophysicists at Washington State University offers insight into how nutrients may reach the subsurface ocean of Europa, one of Jupiter's moons and a leading candidate for extraterrestrial life in the solar system.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/01/Smoke_plumes_from_Chile_wildfires_seen_by_Sentinel-3' target='_blank'>Smoke plumes from Chile wildfires seen by Sentinel-3</a></strong> — <em>2026-01-20 14:03:00</em></summary>
 
 
-Dreaming of a career in space? The 2026 ESA Graduate Trainee opportunities are launching soon! It’s time to polish up your CV, craft your motivation letter and get ready to reach for the stars.
+	Image:
+			This image, captured by Copernicus Sentinel-3 on 18 January 2026, shows clouds of smoke from wildfires on the coast of Chile.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/mars-orbiter-sees-odd-etchings-in-the-sand-space-photo-of-the-day-for-jan-20-2025' target='_blank'>Mars orbiter sees odd etchings in the sand | Space photo of the day for Jan. 20, 2025</a></strong> — <em>2026-01-20 14:00:00</em></summary>
+
+Even though the Red Planet's atmosphere is thin, wind is still one of Mars' most relentless sculptors.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260120000318.htm' target='_blank'>A faint signal from the Universe’s dark ages could reveal dark matter</a></strong> — <em>2026-01-20 13:34:32</em></summary>
+
+After the Big Bang, the Universe entered a long, dark period before the first stars formed. During this era, hydrogen emitted a faint radio signal that still echoes today. New simulations show this signal could be slightly altered by dark matter, leaving behind a measurable fingerprint. Future radio telescopes on the Moon may be able to detect it and shed light on one of astronomy’s greatest mysteries.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/01/260120000311.htm' target='_blank'>James Webb catches an exoplanet losing its atmosphere in real time</a></strong> — <em>2026-01-20 13:01:33</em></summary>
+
+Astronomers have captured the most dramatic view yet of a planet losing its atmosphere, watching the ultra-hot gas giant WASP-121b for an entire orbit with the James Webb Space Telescope. Instead of a single stream of escaping gas, the planet is wrapped in two colossal helium tails—one trailing behind like a comet, the other stretching ahead toward its star.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-gaia-reveals-substructures-cluster-ngc.html' target='_blank'>Gaia data release reveals four substructures in open cluster NGC 752</a></strong> — <em>2026-01-20 13:00:01</em></summary>
+
+By analyzing the data from ESA's Gaia satellite, Chinese astronomers have investigated the structure of a nearby open cluster known as NGC 752. The new study identified four substructures and delivered evidence for mass segregation in this cluster. The findings were presented Jan. 12 on the arXiv preprint server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-young-galaxies-age-rapidly-its-like-seeing-2-year-old-children-act-like-teenagers' target='_blank'>James Webb Space Telescope discovers young galaxies age rapidly: 'It's like seeing 2-year-old children act like teenagers'</a></strong> — <em>2026-01-20 13:00:00</em></summary>
+
+"The knowledge of these will ultimately help us understand the formation of the first stars and planets and how our own Milky Way came into being."
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/comet-wierzchos-buzzes-the-sun-later-today-but-can-you-see-it' target='_blank'>Comet Wierzchos buzzes the sun later today: But can you see it?</a></strong> — <em>2026-01-20 11:00:00</em></summary>
+
+C/2024 E1 (Wierzchos) brightened significantly ahead of its close approach to the sun.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-jaw-dropping-northern-lights-worldwide-photos' target='_blank'>Severe G4 geomagnetic storm sparks jaw-dropping northern lights worldwide (photos)</a></strong> — <em>2026-01-20 10:33:21</em></summary>
+
+A fast CME slammed into Earth on Jan. 19, unleashing hours of intense auroral activity and lighting up skies far beyond the poles.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Space_Safety/Space_weather/ESA_monitoring_January_2026_space_weather_event' target='_blank'>ESA monitoring January 2026 space weather event</a></strong> — <em>2026-01-20 09:37:00</em></summary>
+
+
+The European Space Agency’s (ESA) Space Weather Office is closely monitoring a notable space weather event, first detected 18:09 UTC on Sunday, 18 January 2026. We are collecting detailed information from our expert service centres.Further details and updates will be provided here as they become available.This page was last updated on 20 January 2026, at 14:00 CET.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-01-geomagnetic-storm-northern-central.html' target='_blank'>Geomagnetic storm to bring northern lights to central US</a></strong> — <em>2026-01-20 09:27:10</em></summary>
+
+Meteorologists say a major disturbance in Earth's magnetic field Monday could mean the northern lights will be seen farther south than typical in the US, possibly even in Alabama or northern California.
 
 </details>
 
