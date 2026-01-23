@@ -2,113 +2,113 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Advancements in Autonomous AI Agents
-The landscape of AI is increasingly defined by the emergence of autonomous agents that can perform complex tasks with minimal human intervention. Recent implementations, such as those by Thomson Reuters and bunq, illustrate a significant shift towards systems that not only automate processes but also learn and adapt over time. This trend underscores the potential for AI to reshape operational efficiency across various sectors.
+#### 1. Advancements in Efficient Model Architectures
+Recent innovations in model architectures are pushing the boundaries of efficiency and performance in AI applications. Notably, NVIDIA's FlashAttention-4 and related technologies are designed to alleviate the computational and memory bottlenecks that have traditionally limited large language models (LLMs). These advancements are critical as they enable more scalable and responsive AI systems, particularly in real-time applications, thereby broadening the scope of generative AI.
 
-Key Items:
-- Thomson Reuters leveraged Amazon Bedrock AgentCore to create an automated platform that enhances service availability, showcasing the operational benefits of AI-driven systems.
-- bunq's AI assistant, Finn, now addresses 97% of customer support queries autonomously, highlighting the effectiveness of AI in improving customer service interactions.
-- The introduction of episodic memory in Amazon Bedrock allows agents to learn from past experiences, improving task success rates significantly.
+Key items:
+- Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell - https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/ - NVIDIA's new architecture enhances transformer performance by addressing compute and memory constraints.
+- Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs - https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/ - This initiative optimizes image generation performance in text-to-image models, pushing the boundaries of generative capabilities.
 
-#### 2. Innovations in AI Processing and Data Management
-The efficiency of AI processing is being revolutionized by new tools and methodologies that streamline data handling. NVIDIA's recent updates to its CUB library and the development of self-healing data pipelines represent significant advancements aimed at enhancing data processing capabilities, which are critical as AI applications grow in complexity and scale.
+#### 2. Practical AI Applications Transforming Industries
+AI is being increasingly integrated into business processes, particularly through intelligent systems that leverage cloud computing. Companies are deploying retrieval-augmented generation (RAG) systems to enhance data processing and decision-making. This trend indicates a significant shift towards operational efficiency, where AI tools are becoming essential for competitive advantage in data-intensive industries.
 
-Key Items:
-- NVIDIA's CUB library now features a simplified API that enhances usability for developers working with GPU algorithms, facilitating faster data processing.
-- A novel self-healing data pipeline autonomously corrects errors in Python scripts, potentially reducing maintenance costs and downtime in data-driven applications.
+Key items:
+- How PDI built an enterprise-grade RAG system for AI applications with AWS - https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/ - This implementation showcases the practical benefits of AI in enhancing operational efficiency.
+- How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents - https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/ - Demonstrates the transformation of advertising analysis through automation, drastically reducing manual efforts.
 
-#### 3. Addressing Security Vulnerabilities in Large Language Models
-Recent research has brought to light the vulnerabilities of large language models (LLMs) to prompt injection attacks, raising concerns about their contextual understanding. This highlights the pressing need for improved methodologies to bolster the robustness and security of these AI systems, especially as they become more integrated into sensitive applications.
+#### 3. Enhanced Understanding of Human Intent and Content Quality
+Research into intent extraction and content evaluation is yielding more sophisticated models that can better interpret user needs and enhance engagement. Google's recent efforts highlight the effectiveness of smaller models in accurately recognizing intent, while new metrics for evaluating generated content emphasize structural quality as a factor in user experience.
 
-Key Items:
-- A study has revealed how LLMs can be easily manipulated through prompt injections, underscoring the need for enhanced contextual awareness in AI.
-- Experts propose that integrating AI systems into physical environments may help improve their contextual understanding and mitigate vulnerabilities.
+Key items:
+- Small models, big results: Achieving superior intent extraction through decomposition - https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/ - This research emphasizes the effectiveness of smaller models in intent recognition tasks.
+- Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Require Structural Metrics - https://towardsdatascience.com/evaluating-multi-step-llm-generated-content-why-customer-journeys-require-structural-metrics/ - Discusses the importance of structure in LLM-generated content for enhancing user engagement.
 
 ### Conclusion
-The current trajectory in AI development emphasizes the dual focus on enhancing autonomous capabilities and addressing the inherent vulnerabilities of existing models. As organizations increasingly adopt these advanced systems, the emphasis on both productivity and security will shape future innovations. The ongoing research and technological advancements reflect a commitment to creating more resilient and efficient AI applications, indicating a robust and evolving field poised for continued growth.
+The current trajectory of AI research and application is characterized by significant technological advancements that enhance both model efficiency and practical utility. Innovations in model architectures are facilitating the deployment of AI in real-world business scenarios, while progress in understanding human intent and content evaluation is reshaping how AI interacts with users. As these developments continue to evolve, they promise to redefine the landscape of AI applications across various sectors, driving further integration of intelligent systems into everyday processes.
 
 ### Top Sources:
-1. How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/ - TR's transition to automated systems boosts operational productivity.
-2. Streamlining CUB with a Single-Call API - https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/ - NVIDIA enhances its CUB library for better GPU algorithm performance.
-3. Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory - https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/ - New episodic memory features improve agent learning outcomes.
-4. How bunq handles 97% of support with Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/how-bunq-handles-97-of-support-with-amazon-bedrock/ - bunq's AI assistant transforms customer service efficiency.
-5. Why AI Keeps Falling for Prompt Injection Attacks - https://spectrum.ieee.org/prompt-injection-attack - Analysis of LLM vulnerabilities and the need for improved contextual understanding.
-6. Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors - https://towardsdatascience.com/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors/ - Innovative pipeline that autonomously corrects errors.
-7. Using Strands Agents to create a multi-agent solution with Meta’s Llama 4 and Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/using-strands-agents-to-create-a-multi-agent-solution-with-metas-llama-4-and-amazon-bedrock/ - Multi-agent systems enhance video processing capabilities.
-8. Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data - https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/ - Critical insights on the misuse of Google Trends data in ML.
-9. A Case for the T-statistic - https://towardsdatascience.com/a-case-for-the-t-statistic/ - Discussion on the advantages of the T-statistic over the Z-score.
-10. How Higgsfield turns simple ideas into cinematic social videos - https://openai.com/index/higgsfield - OpenAI's tool for generating social-first video content from basic inputs.
+1. Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell - https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/ - NVIDIA's new architecture enhances transformer performance by addressing compute and memory constraints.
+2. Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs - https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/ - This initiative optimizes image generation performance in text-to-image models, pushing the boundaries of generative capabilities.
+3. How PDI built an enterprise-grade RAG system for AI applications with AWS - https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/ - This implementation showcases the practical benefits of AI in enhancing operational efficiency.
+4. How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents - https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/ - Demonstrates the transformation of advertising analysis through automation, drastically reducing manual efforts.
+5. Small models, big results: Achieving superior intent extraction through decomposition - https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/ - This research emphasizes the effectiveness of smaller models in intent recognition tasks.
+6. Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Require Structural Metrics - https://towardsdatascience.com/evaluating-multi-step-llm-generated-content-why-customer-journeys-require-structural-metrics/ - Discusses the importance of structure in LLM-generated content for enhancing user engagement.
+7. Scaling PostgreSQL to power 800 million ChatGPT users - https://openai.com/index/scaling-postgresql - Insights into how OpenAI scaled database performance to support massive user engagement.
+8. The New Cartography of the Invisible - https://vectorinstitute.ai/foundation-models-science-workshop-recap/?utm_source=rss&utm_medium=rss&utm_campaign=foundation-models-science-workshop-recap - A recap of a workshop exploring the intersection of AI and data science.
+9. What Other Industries Can Learn from Healthcare’s Knowledge Graphs - https://towardsdatascience.com/what-other-industries-can-learn-from-healthcares-knowledge-graphs/ - Discusses the potential of knowledge graphs in various sectors.
+10. Stop Writing Messy Boolean Masks: 10 Elegant Ways to Filter Pandas DataFrames - https://towardsdatascience.com/stop-writing-messy-boolean-masks-10-elegant-ways-to-filter-pandas-dataframes/ - A guide on improving data selection techniques in Python.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/' target='_blank'>How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore</a></strong> — <em>2026-01-21 21:39:42</em></summary>
+    <details><summary><strong><a href='https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/' target='_blank'>Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell</a></strong> — <em>2026-01-22 22:22:01</em></summary>
 
-This blog post explains how TR's Platform Engineering team, a geographically distributed unit overseeing TR's service availability, boosted its operational productivity by transitioning from manual to an automated agentic system using Amazon Bedrock AgentCore.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/' target='_blank'>Streamlining CUB with a Single-Call API</a></strong> — <em>2026-01-21 21:28:00</em></summary>
-
-The C++ template library CUB is a go-to for high-performance GPU primitive algorithms, but its traditional "two-phase" API, which separates memory estimation...
+Transformer architecture has become a foundational breakthrough driving the revolution in generative AI, powering large language models (LLMs) like GPT,...
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/' target='_blank'>Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory</a></strong> — <em>2026-01-21 19:45:04</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/' target='_blank'>Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs</a></strong> — <em>2026-01-22 19:21:07</em></summary>
 
-In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-bunq-handles-97-of-support-with-amazon-bedrock/' target='_blank'>How bunq handles 97% of support with Amazon Bedrock</a></strong> — <em>2026-01-21 17:50:35</em></summary>
-
-In this post, we show how bunq upgraded Finn, its in-house generative AI assistant, using Amazon Bedrock to transform user support and banking operations to be seamless, in multiple languages and time zones.
+In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance on NVIDIA...
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/using-strands-agents-to-create-a-multi-agent-solution-with-metas-llama-4-and-amazon-bedrock/' target='_blank'>Using Strands Agents to create a multi-agent solution with Meta’s Llama 4 and Amazon Bedrock</a></strong> — <em>2026-01-21 17:47:44</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/' target='_blank'>How PDI built an enterprise-grade RAG system for AI applications with AWS</a></strong> — <em>2026-01-22 17:11:47</em></summary>
 
-In this post, we explore how to build a multi-agent video processing workflow using Strands Agents, Meta's Llama 4 models, and Amazon Bedrock to automatically analyze and understand video content through specialized AI agents working in coordination. To showcase the solution, we will use Amazon SageMaker AI to walk you through the code.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/' target='_blank'>Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data</a></strong> — <em>2026-01-21 16:30:00</em></summary>
-
-Google Trends is one of the most widely used tools for analysing human behaviour at scale. Journalists use it. Data scientists use it. Entire papers are built on it. But there is a fundamental property of Google Trends data that makes it very easy to misuse, especially if you are working with time series or trying to build models, and most people never realise they are doing it.
-The post Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data appeared first on Towards Data Science.
+PDI Technologies is a global leader in the convenience retail and petroleum wholesale industries. In this post, we walk through the PDI Intelligence Query (PDIQ) process flow and architecture, focusing on the implementation details and the business outcomes it has helped PDI achieve.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/why-most-people-struggle-to-get-data-science-jobs-in-2026/' target='_blank'>If You Want to Become a Data Scientist in 2026, Do This</a></strong> — <em>2026-01-21 15:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/' target='_blank'>How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents</a></strong> — <em>2026-01-22 17:04:04</em></summary>
 
-Learn from my mistakes and fast track your data science career
-The post If You Want to Become a Data Scientist in 2026, Do This appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors/' target='_blank'>Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors</a></strong> — <em>2026-01-21 13:30:00</em></summary>
-
-How I built a self-healing pipeline that automatically fixes bad CSVs, schema changes, and weird delimiters.
-The post Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors appeared first on Towards Data Science.
+In this post, we demonstrate how CLICKFORCE used AWS services to build Lumos and transform advertising industry analysis from weeks-long manual work into an automated, one-hour process.
 
 </details>
 
-<details><summary><strong><a href='https://spectrum.ieee.org/prompt-injection-attack' target='_blank'>Why AI Keeps Falling for Prompt Injection Attacks</a></strong> — <em>2026-01-21 13:00:02</em></summary>
+<details><summary><strong><a href='https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/' target='_blank'>Small models, big results: Achieving superior intent extraction through decomposition</a></strong> — <em>2026-01-22 16:56:44</em></summary>
 
-Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Prompt injection is a method of tricking LLMs into doing things they are normally prevented from doing. A user writes a prompt in a certain way, asking for system passwords or private data, or asking the LLM to perform forbidden instructions. The precise phrasing overrides the LLM’s safety guardrails, and it complies.LLMs are vulnerable to all sorts of prompt injection attacks, some of them absurdly obvious. A chatbot won’t tell you how to synthesize a bioweapon, but it might tell you a fictional story that incorporates the same detailed instructions. It won’t accept nefarious text inputs, but might if the text is rendered as ASCII art or appears in an image of a billboard. Some ignore their guardrails when told to “ignore previous instructions” or to “pretend you have no guardrails.”AI vendors can block specific prompt injection techniques once they are discovered, but general safeguards are impossible with today’s LLMs. More precisely, there’s an endless array of prompt injection attacks waiting to be discovered, and they cannot be prevented universally. If we want LLMs that resist these attacks, we need new approaches. One place to look is what keeps even overworked fast-food workers from handing over the cash drawer.Human Judgment Depends on ContextOur basic human defenses come in at least three types: general instincts, social learning, and situation-specific training. These work together in a layered defense.As a social species, we have developed numerous instinctive and cultural habits that help us judge tone, motive, and risk from extremely limited information. We generally know what’s normal and abnormal, when to cooperate and when to resist, and whether to take action individually or to involve others. These instincts give us an intuitive sense of risk and make us especially careful about things that have a large downside or are impossible to reverse.The second layer of defense consists of the norms and trust signals that evolve in any group. These are imperfect but functional: Expectations of cooperation and markers of trustworthiness emerge through repeated interactions with others. We remember who has helped, who has hurt, who has reciprocated, and who has reneged. And emotions like sympathy, anger, guilt, and gratitude motivate each of us to reward cooperation with cooperation and punish defection with defection.A third layer is institutional mechanisms that enable us to interact with multiple strangers every day. Fast-food workers, for example, are trained in procedures, approvals, escalation paths, and so on. Taken together, these defenses give humans a strong sense of context. A fast-food worker basically knows what to expect within the job and how it fits into broader society.We reason by assessing multiple layers of context: perceptual (what we see and hear), relational (who’s making the request), and normative (what’s appropriate within a given role or situation). We constantly navigate these layers, weighing them against each other. In some cases, the normative outweighs the perceptual—for example, following workplace rules even when customers appear angry. Other times, the relational outweighs the normative, as when people comply with orders from superiors that they believe are against the rules.Crucially, we also have an interruption reflex. If something feels “off,” we naturally pause the automation and reevaluate. Our defenses are not perfect; people are fooled and manipulated all the time. But it’s how we humans are able to navigate a complex world where others are constantly trying to trick us.So let’s return to the drive-through window. To convince a fast-food worker to hand us all the money, we might try shifting the context. Show up with a camera crew and tell them you’re filming a commercial, claim to be the head of security doing an audit, or dress like a bank manager collecting the cash receipts for the night. But even these have only a slim chance of success. Most of us, most of the time, can smell a scam.Con artists are astute observers of human defenses. Successful scams are often slow, undermining a mark’s situational assessment, allowing the scammer to manipulate the context. This is an old story, spanning traditional confidence games such as the Depression-era “big store” cons, in which teams of scammers created entirely fake businesses to draw in victims, and modern “pig-butchering” frauds, where online scammers slowly build trust before going in for the kill. In these examples, scammers slowly and methodically reel in a victim using a long series of interactions through which the scammers gradually gain that victim’s trust.Sometimes it even works at the drive-through. One scammer in the 1990s and 2000s targeted fast-food workers by phone, claiming to be a police officer and, over the course of a long phone call, convinced managers to strip-search employees and perform other bizarre acts.  Humans detect scams and tricks by assessing multiple layers of context. AI systems do not. Nicholas LittleWhy LLMs Struggle With Context and Judgment LLMs behave as if they have a notion of context, but it’s different. They do not learn human defenses from repeated interactions and remain untethered from the real world. LLMs flatten multiple levels of context into text similarity. They see “tokens,” not hierarchies and intentions. LLMs don’t reason through context, they only reference it.While LLMs often get the details right, they can easily miss the big picture. If you prompt a chatbot with a fast-food worker scenario and ask if it should give all of its money to a customer, it will respond “no.” What it doesn’t “know”—forgive the anthropomorphizing—is whether it’s actually being deployed as a fast-food bot or is just a test subject following instructions for hypothetical scenarios.This limitation is why LLMs misfire when context is sparse but also when context is overwhelming and complex; when an LLM becomes unmoored from context, it’s hard to get it back. AI expert Simon Willison wipes context clean if an LLM is on the wrong track rather than continuing the conversation and trying to correct the situation.There’s more. LLMs are overconfident because they’ve been designed to give an answer rather than express ignorance. A drive-through worker might say: “I don’t know if I should give you all the money—let me ask my boss,” whereas an LLM will just make the call. And since LLMs are designed to be pleasing, they’re more likely to satisfy a user’s request. Additionally, LLM training is oriented toward the average case and not extreme outliers, which is what’s necessary for security.The result is that the current generation of LLMs is far more gullible than people. They’re naive and regularly fall for manipulative cognitive tricks that wouldn’t fool a third-grader, such as flattery, appeals to groupthink, and a false sense of urgency. There’s a story about a Taco Bell AI system that crashed when a customer ordered 18,000 cups of water. A human fast-food worker would just laugh at the customer.The Limits of AI AgentsPrompt injection is an unsolvable problem that gets worse when we give AIs tools and tell them to act independently. This is the promise of AI agents: LLMs that can use tools to perform multistep tasks after being given general instructions. Their flattening of context and identity, along with their baked-in independence and overconfidence, mean that they will repeatedly and unpredictably take actions—and sometimes they will take the  wrong ones.Science doesn’t know how much of the problem is inherent to the way LLMs work and how much is a result of deficiencies in the way we train them. The overconfidence and obsequiousness of LLMs are training choices. The lack of an interruption reflex is a deficiency in engineering. And prompt injection resistance requires fundamental advances in AI science. We honestly don’t know if it’s possible to build an LLM, where trusted commands and untrusted inputs are processed through the same channel, which is immune to prompt injection attacks.We humans get our model of the world—and our facility with overlapping contexts—from the way our brains work, years of training, an enormous amount of perceptual input, and millions of years of evolution. Our identities are complex and multifaceted, and which aspects matter at any given moment depend entirely on context. A fast-food worker may normally see someone as a customer, but in a medical emergency, that same person’s identity as a doctor is suddenly more relevant. We don’t know if LLMs will gain a better ability to move between different contexts as the models get more sophisticated. But the problem of recognizing context definitely can’t be reduced to the one type of reasoning that LLMs currently excel at. Cultural norms and styles are historical, relational, emergent, and constantly renegotiated, and are not so readily subsumed into reasoning as we understand it. Knowledge itself can be both logical and discursive.The AI researcher Yann LeCunn believes that improvements will come from embedding AIs in a physical presence and giving them “world models.” Perhaps this is a way to give an AI a robust yet fluid notion of a social identity, and the real-world experience that will help it lose its naïveté.Ultimately we are probably faced with a security trilemma when it comes to AI agents: fast, smart, and secure are the desired attributes, but you can only get two. At the drive-through, you want to prioritize fast and secure. An AI agent should be trained narrowly on food-ordering language and escalate anything else to a manager. Otherwise, every action becomes a coin flip. Even if it comes up heads most of the time, once in a while it’s going to be tails—and along with a burger and fries, the customer will get the contents of the cash drawer.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/a-case-for-the-t-statistic/' target='_blank'>A Case for the T-statistic</a></strong> — <em>2026-01-21 12:00:00</em></summary>
-
-And how it compares to the run-of-the-mill z-score
-The post A Case for the T-statistic appeared first on Towards Data Science.
+Generative AI
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/higgsfield' target='_blank'>How Higgsfield turns simple ideas into cinematic social videos</a></strong> — <em>2026-01-21 10:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/evaluating-multi-step-llm-generated-content-why-customer-journeys-require-structural-metrics/' target='_blank'>Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Require Structural Metrics</a></strong> — <em>2026-01-22 16:30:00</em></summary>
 
-Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.
+How to evaluate goal-oriented content designed to build engagement and deliver business results, and why structure matters.
+The post Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Require Structural Metrics appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/why-saas-product-management-is-the-best-domain-for-data-driven-professionals-in-2026/' target='_blank'>Why SaaS Product Management Is the Best Domain for Data-Driven Professionals in 2026</a></strong> — <em>2026-01-22 15:00:00</em></summary>
+
+How I use analytics, automation, and AI to build better SaaS 
+The post Why SaaS Product Management Is the Best Domain for Data-Driven Professionals in 2026 appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://vectorinstitute.ai/foundation-models-science-workshop-recap/?utm_source=rss&utm_medium=rss&utm_campaign=foundation-models-science-workshop-recap' target='_blank'>The New Cartography of the Invisible</a></strong> — <em>2026-01-22 14:50:14</em></summary>
+
+By John Knechtel From the telescope to the balance sheet – a Foundation Models for Science Workshop recap relates how scientists can help businesses solve their most stubborn data problems and […]
+The post The New Cartography of the Invisible appeared first on Vector Institute for Artificial Intelligence.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/stop-writing-messy-boolean-masks-10-elegant-ways-to-filter-pandas-dataframes/' target='_blank'>Stop Writing Messy Boolean Masks: 10 Elegant Ways to Filter Pandas DataFrames</a></strong> — <em>2026-01-22 13:30:00</em></summary>
+
+Master the art of readable, high-performance data selection using .query(), .isin(), and advanced vectorized logic.
+The post Stop Writing Messy Boolean Masks: 10 Elegant Ways to Filter Pandas DataFrames appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/scaling-postgresql' target='_blank'>Scaling PostgreSQL to power 800 million ChatGPT users</a></strong> — <em>2026-01-22 12:00:00</em></summary>
+
+An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/what-other-industries-can-learn-from-healthcares-knowledge-graphs/' target='_blank'>What Other Industries Can Learn from Healthcare’s Knowledge Graphs</a></strong> — <em>2026-01-22 12:00:00</em></summary>
+
+How shared meaning, evidence, and standards create durable semantic infrastructure
+The post What Other Industries Can Learn from Healthcare’s Knowledge Graphs appeared first on Towards Data Science.
 
 </details>
 
