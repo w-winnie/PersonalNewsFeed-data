@@ -1,190 +1,96 @@
 # Astro Daily Summary
 
-    ### Recent Advances in Astrochemistry and Organic Molecules
+    ### Major Themes in Recent Astrophysics Developments
 
-The James Webb Space Telescope (JWST) continues to revolutionize our understanding of astrochemistry, revealing complex organic molecules in distant galaxies. Recent findings indicate the presence of building blocks of life, suggesting that the chemical precursors necessary for life may be more widespread than previously thought. This shift challenges traditional models of chemical evolution in the universe and emphasizes the significance of organic chemistry in astrobiological studies.
+#### Real-Time Stellar Evolution Studies
+Recent advancements in observational astrophysics have enabled scientists to monitor massive stars in real time, significantly enhancing our understanding of stellar life cycles. Notably, WOH G64, a red supergiant in the Large Magellanic Cloud, is being closely observed as it undergoes dramatic changes, including material shedding, as it approaches its supernova phase. This ongoing study promises to yield critical insights into the processes that govern stellar evolution. Additionally, the James Webb Space Telescope (JWST) has provided detailed observations of the distant galaxy CEERS2-588, revealing its ultraviolet luminosity and offering valuable information about early star formation.
 
-Key items illustrating this theme include:
-1. **Building Blocks of Life** - JWST has identified precursors to life's building blocks in a nearby galaxy, revealing unexpected chemical diversity that could inform astrobiology. [Link](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-precursors-to-building-blocks-of-life-in-nearby-galaxy)
-2. **Organic Chemistry in Galaxies** - A study revealed a wealth of organic molecules in a nearby galaxy's nucleus, showcasing JWST's capability to probe deep into cosmic chemistry. [Link](https://phys.org/news/2026-02-jwst-uncovers-rich-chemistry-nearby.html)
+Key Items:
+1. Astronomers are observing WOH G64's transformation, a process that may lead to a supernova, which could provide insights into the fate of massive stars. - https://phys.org/news/2026-02-giant-star-eyes-astronomers-real.html
+2. The JWST's observations of CEERS2-588 have unveiled the characteristics of this ancient galaxy, contributing to our understanding of galaxy formation. - https://phys.org/news/2026-02-webb-unveils-nature-distant-ultraviolet.html
 
-### Stellar Activity and Superflares
+#### Progress in Dark Matter Research
+The quest to understand dark matter continues to progress, with recent studies proposing new models that could explain its elusive nature. One compelling hypothesis suggests that a dense clump of dark matter may be masquerading as a black hole at the center of the Milky Way, potentially clarifying unusual stellar motions observed there. In a complementary study, researchers reported evidence for a dark matter sub-halo influencing pulsar timings, providing a novel approach to investigate dark matter's distribution in our galaxy.
 
-Recent observations of a massive stellar eruption from a nearby star have provided critical insights into the nature of stellar superflares. These eruptions, which release energy on a scale comparable to the Sun's output over months, may have significant implications for understanding stellar behavior and its potential effects on exoplanets. Such studies are essential for assessing the habitability of planets in proximity to active stars.
-
-Key items illustrating this theme include:
-1. **Superflare Insights** - The observation of a nearby star's eruption provides critical data for unraveling the physics of stellar superflares, which could inform our understanding of solar behavior and its impact on exoplanets. [Link](https://www.space.com/astronomy/stars/nearby-stars-massive-eruption-could-help-astronomers-unlock-secret-of-superflares)
-
-### Human Spaceflight and International Collaboration
-
-NASA is preparing to resume crewed missions to the International Space Station (ISS) with the Crew-12 mission scheduled for February 11. This mission is pivotal for maintaining a continuous human presence in low Earth orbit, which is crucial for ongoing scientific research and international collaboration in space exploration.
-
-Key items illustrating this theme include:
-1. **Crew-12 Mission Launch** - NASA has confirmed the launch date for the Crew-12 mission, a critical step in ensuring ongoing human operations aboard the ISS. [Link](https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-is-officially-on-for-feb-11-as-faa-clears-falcon-9-rocket-to-fly-again)
+Key Items:
+1. A new hypothesis posits that a dark matter clump may be acting like a black hole at the Milky Way’s center, influencing the dynamics of surrounding stars. - https://www.sciencedaily.com/releases/2026/02/260206012206.htm
+2. Pulsar timing measurements suggest the presence of a dark matter sub-halo, offering a novel method to study dark matter's effects in our neighborhood. - https://phys.org/news/2026-02-pulsar-hints-nearby-dark-halo.html
 
 ### Conclusion
+The current landscape of astrophysics is characterized by significant strides in both stellar evolution and dark matter research. Real-time observations of massive stars, facilitated by advanced technologies like the JWST, are enhancing our comprehension of stellar life cycles and the conditions of the early universe. Concurrently, innovative studies on dark matter are reshaping our understanding of its role in galaxy dynamics and structure. Together, these developments signal a period of robust inquiry and discovery, setting the stage for future breakthroughs in our understanding of the cosmos.
 
-The field of astrophysics is currently characterized by significant advancements in observational capabilities, particularly through the JWST, which is uncovering new layers of chemical complexity in the universe. Concurrently, studies of stellar phenomena are enhancing our understanding of cosmic events that could influence planetary habitability. As human exploration of space resumes with renewed vigor, these developments collectively highlight a dynamic period in astrophysics, where new discoveries are reshaping our understanding of life, chemistry, and the cosmos.
-
-Top Sources:
-1. James Webb Space Telescope finds precursors to 'building blocks of life' in nearby galaxy - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-precursors-to-building-blocks-of-life-in-nearby-galaxy - JWST detects unexpected chemical complexity in a nearby galaxy.
-2. JWST uncovers rich organic chemistry in a nearby ultra-luminous infrared galaxy - https://phys.org/news/2026-02-jwst-uncovers-rich-chemistry-nearby.html - Study reveals an unprecedented richness of organic molecules.
-3. Nearby star's massive eruption could help astronomers unlock secret of superflares - https://www.space.com/astronomy/stars/nearby-stars-massive-eruption-could-help-astronomers-unlock-secret-of-superflares - Observation of stellar eruption provides insights into stellar activity.
-4. NASA confirms first flight to ISS since medical evacuation - https://phys.org/news/2026-02-nasa-flight-iss-medical-evacuation.html - Upcoming Crew-12 mission marks a return to crewed operations at the ISS.
-5. SpaceX's next astronaut launch for NASA is officially on for Feb. 11 - https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-is-officially-on-for-feb-11-as-faa-clears-falcon-9-rocket-to-fly-again - Crew-12 launch date confirmed after FAA clearance.
-6. Strong Solar Flare - https://www.nasa.gov/image-article/strong-solar-flare/ - NASA captures a powerful solar flare with implications for space weather.
-7. NASA space telescope sees interstellar visitor comet 3I/ATLAS flare up while exiting the solar system - https://www.space.com/astronomy/comets/nasa-space-telescope-sees-comet-3i-atlas-dramatically-flare-as-interstellar-visitor-exits-solar-system - Comet 3I/ATLAS brightens during its exit from the solar system.
-8. The dirty afterlife of a dead satellite - https://phys.org/news/2026-02-dirty-afterlife-dead-satellite.html - Discussion on the long-term implications of satellite megaconstellations.
-9. Does dark matter actually exist? New theory says it could be gravity behaving strangely - https://www.space.com/astronomy/dark-universe/does-dark-matter-actually-exist-new-theory-says-it-could-be-gravity-behaving-strangely - A new theory challenges conventional views on dark matter.
-10. This Week's Sky at a Glance, February 6 – 15 - https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-february-6-15/ - Overview of observable celestial events in the coming week.
+### Top Sources:
+1. A giant star is changing before our eyes and astronomers are watching in real time - https://phys.org/news/2026-02-giant-star-eyes-astronomers-real.html - WOH G64 is being monitored as it undergoes significant changes, providing insights into massive star evolution.
+2. Webb unveils nature of distant ultraviolet-luminous galaxy CEERS2-588 - https://phys.org/news/2026-02-webb-unveils-nature-distant-ultraviolet.html - JWST observations reveal key properties of the ancient galaxy CEERS2-588.
+3. Dark matter could be masquerading as a black hole at the Milky Way’s core - https://www.sciencedaily.com/releases/2026/02/260206012206.htm - A new theory suggests dark matter could explain stellar motions at the galaxy's center.
+4. Pulsar timing hints at a nearby dark matter 'sub-halo' - https://phys.org/news/2026-02-pulsar-hints-nearby-dark-halo.html - Evidence for a dark matter sub-halo could provide insights into its distribution in our galaxy.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-02-nasa-flight-iss-medical-evacuation.html' target='_blank'>NASA confirms first flight to ISS since medical evacuation</a></strong> — <em>2026-02-07 06:58:46</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-internet-satellite-launch-group-17-33-b1088-vsfb-ocisly' target='_blank'>SpaceX resumes Falcon 9 flights with Starlink satellite launch from California</a></strong> — <em>2026-02-08 02:59:36</em></summary>
 
-Four astronauts will blast off to re-staff the International Space Station (ISS) next week, NASA said Friday, after an emergency medical evacuation of the previous crew.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/' target='_blank'>A Grand, Snow-Rimmed Canyon</a></strong> — <em>2026-02-07 05:01:00</em></summary>
-
-A dusting of white highlighted the Colorado Plateau around the deep gorge, while shadows created a visual illusion.
+A SpaceX Falcon 9 rocket carrying 25 Starlink satellites launched from Vandenberg Space Force Base in California on Feb. 7, 2025. The mission returned the Falcon to flight after an upper stage issue.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-is-officially-on-for-feb-11-as-faa-clears-falcon-9-rocket-to-fly-again' target='_blank'>SpaceX's next astronaut launch for NASA is officially on for Feb. 11 as FAA clears Falcon 9 rocket to fly again</a></strong> — <em>2026-02-06 23:40:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-giant-star-eyes-astronomers-real.html' target='_blank'>A giant star is changing before our eyes and astronomers are watching in real time</a></strong> — <em>2026-02-07 19:10:01</em></summary>
 
-The FAA has cleared the Falcon 9 rocket to return to flight, freeing NASA and SpaceX to target Feb. 11 for the launch of the Crew-12 astronaut mission to the International Space Station.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-dirty-afterlife-dead-satellite.html' target='_blank'>The dirty afterlife of a dead satellite</a></strong> — <em>2026-02-06 22:30:02</em></summary>
-
-Sometimes we humans get ahead of ourselves. We embark on grand engineering experiments without really understanding what the long-term implications of such projects are. Climate change itself is a perfect example of that—no one in the early industrial revolution realized that, more than 100 years later, the emissions from their combustion engines would increase the overall global temperature and risk millions of people's lives and livelihoods, let alone the impact it would have on the species we share the world with. According to a new release from the Salata Institute at Harvard, we seem to be going down the same blind path with a different engineering challenge in this century—satellite megaconstellations.
+For decades, astronomers have been watching WOH G64, an enormous heavyweight star in the Large Magellanic Cloud, a galaxy visible with the naked eye from the Southern Hemisphere. This star is more than 1,500 times larger than the sun and emitting over 100,000 times more energy. For a long time, red supergiant WOH G64 looked like a star steadily reaching the end of its life, shedding material and swelling in size as it began to run out of fuel.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-precursors-to-building-blocks-of-life-in-nearby-galaxy' target='_blank'>James Webb Space Telescope finds precursors to 'building blocks of life' in nearby galaxy</a></strong> — <em>2026-02-06 22:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-webb-unveils-nature-distant-ultraviolet.html' target='_blank'>Webb unveils nature of distant ultraviolet-luminous galaxy CEERS2-588</a></strong> — <em>2026-02-07 16:50:01</em></summary>
 
-"We found an unexpected chemical complexity, with abundances far higher than predicted by current theoretical models."
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/' target='_blank'>NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking</a></strong> — <em>2026-02-06 21:11:44</em></summary>
-
-NASA will stream live coverage of the upcoming prelaunch, launch, and docking activities for the agency’s SpaceX Crew-12 mission to the International Space Station. Liftoff is targeted for no earlier than 6:01 a.m. EST on Wednesday, Feb. 11, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The targeted docking time […]
+Astronomers from the University of Tokyo in Japan and elsewhere have employed the James Webb Space Telescope (JWST) to observe a distant ultraviolet-luminous galaxy known as CEERS2-588. Results of the observational campaign, published January 29 on the arXiv preprint server, shed more light on the nature and properties of this galaxy.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/' target='_blank'>NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking</a></strong> — <em>2026-02-06 21:11:44</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/02/260206012206.htm' target='_blank'>Dark matter could be masquerading as a black hole at the Milky Way’s core</a></strong> — <em>2026-02-07 16:26:18</em></summary>
 
-NASA will stream live coverage of the upcoming prelaunch, launch, and docking activities for the agency’s SpaceX Crew-12 mission to the International Space Station. Liftoff is targeted for no earlier than 6:01 a.m. EST on Wednesday, Feb. 11, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The targeted docking time […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/strong-solar-flare/' target='_blank'>Strong Solar Flare</a></strong> — <em>2026-02-06 20:05:52</em></summary>
-
-This Feb. 4, 2026, image from NASA’s Solar Dynamics Observatory (SDO) captures a strong solar flare erupting from the star. Solar flares are powerful bursts of energy that can, along with other types of solar eruptions, can impact radio communications, electric power grids, navigation signals, and pose risks to spacecraft and astronauts. The flare pictured […]
+Astronomers propose that an ultra-dense clump of exotic dark matter could be masquerading as the powerful object thought to anchor our galaxy, explaining both the blistering speeds of stars near the center and the slower, graceful rotation of material far beyond. This dark matter structure would have a compact core that pulls on nearby stars like a black hole, surrounded by a broad halo shaping the galaxy’s outer motion.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/halo-campaign-evolved-release-date-rumors-platforms-and-everything-else-we-know-about-the-halo-remake' target='_blank'>Halo: Campaign Evolved: Release date rumors, platforms, and everything else we know about the Halo remake</a></strong> — <em>2026-02-06 20:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-pulsar-hints-nearby-dark-halo.html' target='_blank'>Pulsar timing hints at a nearby dark matter 'sub-halo'</a></strong> — <em>2026-02-07 16:00:01</em></summary>
 
-Master Chief is returning in 2026 with a ground-up remake of the original Halo that's promising new content on top of a totally remade presentation.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/landsat/boreal-forests-are-shifting-north/' target='_blank'>Boreal Forests Are Shifting North</a></strong> — <em>2026-02-06 19:58:06</em></summary>
-
-The boreal forest—the world’s largest terrestrial biome—is warming faster than any other forest type. New research uses Landsat data to track how the forests shift.
+A group of US astronomers may have uncovered the first evidence for a dark matter sub-halo lurking just beyond our stellar neighborhood. Reporting their findings in Physical Review Letters, a team led by Sukanya Chakrabarti at the University of Alabama in Huntsville suggests that an unseen clump of dark matter could be subtly tugging on nearby pulsars. If confirmed, the result could shed new light on the elusive nature of dark matter and how it is distributed throughout our galaxy.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/nasa-space-telescope-sees-comet-3i-atlas-dramatically-flare-as-interstellar-visitor-exits-solar-system' target='_blank'>NASA space telescope sees interstellar visitor comet 3I/ATLAS flare up while exiting the solar system</a></strong> — <em>2026-02-06 19:52:08</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-feb-2-2026-what-type-of-object-is-c-2026-a1-maps' target='_blank'>Space.com headlines crossword quiz for week of Feb. 2, 2026: What type of object is C/2026 A1 (MAPS)?</a></strong> — <em>2026-02-07 16:00:00</em></summary>
 
-New infrared observations reveal that the rare interstellar visitor known as comet 3I/ATLAS has dramatically brightened during its farewell tour of the solar system.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/nimoy-knight-foundation-honors-girl-spock-and-her-mission-to-become-the-1st-openly-autistic-woman-in-space' target='_blank'>Nimoy-Knight Foundation honors 'Girl Spock' and her mission to become the 1st openly autistic woman in space</a></strong> — <em>2026-02-06 17:00:00</em></summary>
-
-The latest recipient of the Foundation's Live Long & Prosper Tribute Award is Jessica Schonhut-Stasik, an astrophysicist and neurodiversity advocate who is affectionately known as "Girl Spock."
+Test your space smarts with our weekly crossword challenge, crafted from Space.com's biggest headlines.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-jwst-uncovers-rich-chemistry-nearby.html' target='_blank'>JWST uncovers rich organic chemistry in a nearby ultra-luminous infrared galaxy</a></strong> — <em>2026-02-06 16:18:34</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/the-way-earths-surface-moves-has-a-bigger-impact-on-shifting-the-climate-than-we-knew' target='_blank'>The way Earth's surface moves has a bigger impact on shifting the climate than we knew</a></strong> — <em>2026-02-07 15:00:00</em></summary>
 
-A study led by the Center for Astrobiology (CAB), CSIC-INTA, using modeling techniques developed at the University of Oxford, has uncovered an unprecedented richness of small organic molecules in the deeply obscured nucleus of a nearby galaxy, thanks to observations made with the James Webb Space Telescope (JWST).
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/uk-government-proposes-30-percent-budget-cut-to-astronomy-and-physics-research-its-pretty-disastrous' target='_blank'>UK government proposes 30% budget cut to astronomy and physics research: 'It's pretty disastrous'</a></strong> — <em>2026-02-06 16:00:00</em></summary>
-
-The UK government is to slash by 30 percent its funding for astronomy, particle and nuclear physics in a move branded as disastrous for the field and likely to affect a generation of researchers.
+New research reveals the source of this carbon – and the driving forces behind it – are far more complex than previously thought.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/4-upper-stage-issues-in-19-months-when-will-spacexs-falcon-9-rocket-return-to-flight' target='_blank'>When will SpaceX's Falcon 9 rocket return to flight after 4 upper-stage issues in 19 months?</a></strong> — <em>2026-02-06 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian' target='_blank'>This Week In Space podcast: Episode 196 — Becoming Martian!</a></strong> — <em>2026-02-07 14:07:54</em></summary>
 
-For the fourth time in the last 19 months, the upper stage of SpaceX's Falcon 9 rocket experienced a problem during a mission. How long will the vehicle be grounded this time?
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_February_2026' target='_blank'>Week in images: 02-06 February 2026</a></strong> — <em>2026-02-06 14:10:00</em></summary>
-
-
-Week in images: 02-06 February 2026
-Discover our week through the lens
+On Episode 196 of This Week In Space, Rod Pyle and Tariq Malik talk with Scott Solomon, Rice Univeristy professor and researcher, about humanity's need to expand its presence into the solar system.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/nearby-stars-massive-eruption-could-help-astronomers-unlock-secret-of-superflares' target='_blank'>Nearby star's massive eruption could help astronomers unlock secret of superflares</a></strong> — <em>2026-02-06 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/silo-vs-fallout-getting-under-the-surface-of-tvs-bunker-based-hits' target='_blank'>Silo vs Fallout: getting under the surface of TV's bunker-based hits</a></strong> — <em>2026-02-07 14:00:00</em></summary>
 
-Astronomers witnessed a star emitting as much energy in mere moments as our sun puts out in a few months. The dramatic observation gives a direct look into the brutal physics of these stellar events.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-arrives-for-crew-12-launch-space-photo-of-the-day-for-feb-6-2026' target='_blank'>SpaceX Dragon arrives for Crew-12 launch | Space photo of the day for Feb. 6, 2026</a></strong> — <em>2026-02-06 13:00:00</em></summary>
-
-Crew-12's timeline has been unusually dynamic.
+We're going deeper underground; there's too much panic in this town.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/dark-universe/does-dark-matter-actually-exist-new-theory-says-it-could-be-gravity-behaving-strangely' target='_blank'>Does dark matter actually exist? New theory says it could be gravity behaving strangely</a></strong> — <em>2026-02-06 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/how-will-astronauts-aboard-the-iss-watch-super-bowl-lx' target='_blank'>Will astronauts aboard the ISS get to watch Super Bowl LX?</a></strong> — <em>2026-02-07 11:00:00</em></summary>
 
-"It highlights gravity's possible hidden complexity and invites a reevaluation of where dark matter effects originate."
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-february-6-15/' target='_blank'>This Week's Sky at a Glance, February 6 – 15</a></strong> — <em>2026-02-06 10:14:00</em></summary>
-
-The Winter Hexagon encompasses the brightest winter stars. Near Orion, the Big Dog prances and the Hare crouches. And the moonless dark this week opens telescopic deep-sky depths.
-The post This Week's Sky at a Glance, February 6 – 15 appeared first on Sky & Telescope.
+There are only three astronauts currently aboard the ISS, and two are Russian. Even so, NASA has plans to make sure the big game will be beamed up to orbit.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Olympic_view' target='_blank'>Earth from Space: Olympic view</a></strong> — <em>2026-02-06 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/peak-design-7l-sling-bag-review' target='_blank'>Peak Design 7L sling bag review</a></strong> — <em>2026-02-07 10:00:00</em></summary>
 
-
-	Image:
-			With the 2026 Winter Olympics officially opening today, the Copernicus Sentinel-2 mission brings us a striking view of northern Italy, highlighting several key Olympic venues.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/02/Sophie_Adenot_ready_for_first_space_mission' target='_blank'>Sophie Adenot ready for first space mission</a></strong> — <em>2026-02-06 10:00:00</em></summary>
-
-
-	Video: 
-			00:03:58
-				ESA astronaut Sophie Adenot is preparing to launch to the International Space Station for her first space mission: εpsilon.After years of intensive training — from emergency procedures to spacewalk simulations — the countdown has begun. Flying alongside astronauts from NASA and Roscosmos, Sophie will join an international crew living and working together in space.Aboard the ISS, Sophie will live and work in microgravity, conducting scientific research and performing a range of European- and French-led experiments that advance knowledge for life on Earth and in space.Join us live on YouTube to watch the launch of Sophie Adenot.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/The_curious_case_of_why_methane_spiked_around_Covid' target='_blank'>The curious case of why methane spiked around Covid</a></strong> — <em>2026-02-06 07:30:00</em></summary>
-
-
-With fewer cars on the road, planes in the air and factories running, the skies seemed cleaner during the Covid-19 pandemic. However, while there was a decline in pollutants such as nitrogen dioxide, scientists were surprised to see that methane surged in the early 2020s and then dropped – and now they know why.
+Pare back what gear you take out with the Peak Design 7L sling bag
 
 </details>
 
