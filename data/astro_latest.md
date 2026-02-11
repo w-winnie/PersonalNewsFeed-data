@@ -1,267 +1,273 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics Developments
+    ### Summary of Recent Developments in Astrophysics
 
-**1. Mass Discrepancies in Galaxy Clusters**  
-Recent findings indicate that galaxy clusters may possess nearly double the mass previously estimated, primarily due to the presence of stellar remnants like neutron stars and black holes. This research, led by the University of Bonn, highlights the importance of these remnants in understanding the mass distribution within galaxy clusters, which could have significant implications for theories on dark matter and the evolution of the universe. The study suggests that these stellar remnants play a crucial role in explaining observed discrepancies in mass measurements, potentially reshaping our cosmological models.
+#### 1. Breakthroughs in Galaxy Formation Theories
+Recent observations challenge long-held beliefs about galaxy formation, indicating that massive galaxies may have emerged much earlier in cosmic history than previously thought. Using data from the Atacama Large Millimeter/submillimeter Array (ALMA), researchers have identified large galaxy clusters dating back to just 1.4 billion years after the Big Bang. This finding could necessitate a reevaluation of existing cosmological models, particularly regarding the conditions that allowed for such rapid galaxy evolution and the nature of the early universe.
 
-**Key Items:**  
-- Research from the University of Bonn reveals that galaxy clusters are approximately twice as massive due to stellar remnants.  
-- The findings contribute to the understanding of heavy element distribution in the universe.  
-- This work may influence theories surrounding dark matter and galaxy formation.
+Key Items:
+- How giant galaxies could form just 1.4 billion years after the Big Bang - https://phys.org/news/2026-02-giant-galaxies-billion-years-big.html - Research suggests early formation of massive galaxies, challenging current models.
+- Old galaxies in a young universe? - https://phys.org/news/2026-02-galaxies-young-universe.html - Investigates the implications of finding ancient galaxies in high-redshift observations.
 
-**2. Origins of Life from Asteroids and Comets**  
-New analyses of samples from the asteroid Bennu have provided compelling evidence regarding the origins of amino acids, suggesting they may have formed in cold, radioactive environments rather than solely through biological processes. Additionally, the interstellar comet 3I/ATLAS has yielded significant compositional data during its solar flyby, enhancing our understanding of these celestial bodies and their role in the early solar system's chemistry. These findings underscore the potential for extraterrestrial sources to contribute to the building blocks of life on Earth.
+#### 2. Innovations in Satellite Technology
+The recent deployment of CubeSats signifies a transformative moment in satellite technology, enabling a wide array of Earth observation and experimental missions. These compact, student-designed satellites are not only gathering critical data on environmental changes but also democratizing access to space for educational and research purposes. This trend underscores a growing interest in small satellite missions, which could lead to enhanced capabilities for future scientific endeavors.
 
-**Key Items:**  
-- Amino acids in Bennu's samples indicate formation in cold, radioactive conditions.  
-- The interstellar comet 3I/ATLAS provided valuable data during its solar flyby.  
-- These discoveries contribute to the broader exploration of life’s building blocks in space.
+Key Items:
+- CubeSats’ Missions Begin - https://www.nasa.gov/image-article/cubesats-missions-begin/ - A set of student-designed CubeSats launched for Earth observations.
+- Earth orbit is getting crowded. Can this map of 1 million routes around our planet help prevent satellite collisions? - https://www.space.com/space-exploration/satellites/earth-orbit-is-getting-crowded-can-this-map-of-1-million-routes-around-our-planet-help-prevent-satellite-collisions - Discusses potential solutions to mitigate satellite collision risks.
 
-**3. Innovations in Space Exploration Technologies**  
-Technological advancements are propelling human space exploration forward, particularly through missions to the International Space Station (ISS) and beyond. NASA's Crew-12 mission, although delayed, aims to enhance research capabilities aboard the ISS, which is pivotal for future lunar and Martian missions. Furthermore, the successful testing of the Ariane 6 rocket with additional boosters increases its payload capacity, preparing it for upcoming ambitious scientific missions. These developments reflect a growing trend in international collaboration and innovation in space technology.
+#### 3. Advancements in Dark Matter Research
+New methodologies utilizing pulsars are emerging as significant tools for probing dark matter and cosmic phenomena. Researchers are leveraging pulsar data to investigate the properties of dark matter waves, which could lead to groundbreaking insights into this enigmatic component of the universe. Such studies not only aim to enhance our understanding of dark matter but also have implications for testing fundamental physics theories like General Relativity.
 
-**Key Items:**  
-- NASA's Crew-12 mission is set to launch soon, focusing on critical research aboard the ISS.  
-- The Ariane 6 rocket's enhanced capabilities are expected to support future scientific missions.  
-- These advancements illustrate the increasing pace of technological innovation in space exploration.
+Key Items:
+- Experiment relies on pulsars to probe dark matter waves - https://phys.org/news/2026-02-pulsars-probe-dark.html - New methods using pulsars to investigate dark matter.
+- Discovery of a possible pulsar in the Milky Way's center could enable unprecedented tests of General Relativity - https://phys.org/news/2026-02-discovery-pulsar-milky-center-enable.html - A potential pulsar discovery that may test fundamental physics.
 
-### Conclusion  
-The current landscape of astrophysics is marked by significant discoveries that deepen our understanding of cosmic structures, the origins of life, and advancements in space exploration technologies. Researchers are uncovering complex relationships within galaxy formation and the potential for life in the universe while enhancing the tools necessary for future exploration. This momentum suggests a dynamic and evolving field poised to address fundamental questions about the universe and humanity's role within it.
+### Conclusion
+The current state of astrophysics is characterized by significant advancements that are reshaping our understanding of galaxy formation, expanding the accessibility of satellite technology, and developing innovative methods to explore dark matter. Collectively, these breakthroughs not only enhance our comprehension of the universe but also set the stage for future explorations that may redefine fundamental astrophysical concepts.
 
 ### Top Sources:
-1. Stellar remnants may solve mystery of missing mass in galaxy clusters - https://phys.org/news/2026-02-stellar-remnants-mystery-mass-galaxy.html - Research indicates galaxy clusters are twice as massive due to stellar remnants.
-2. Building blocks of life discovered in Bennu asteroid rewrite origin story - https://phys.org/news/2026-02-blocks-life-bennu-asteroid-rewrite.html - Amino acids from Bennu suggest origins in a cold, radioactive environment.
-3. Interstellar comet 3I/ATLAS survived its flyby of the sun — and gave up some secrets in the process - https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-survived-its-flyby-of-the-sun-and-gave-up-some-secrets-in-the-process - Comet 3I/ATLAS provides valuable data during solar flyby.
-4. Space Station Research Contributes to Artemis II - https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/ - Research aboard the ISS is crucial for future lunar missions.
-5. Ariane 6: more boosters, more power - https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_more_boosters_more_power - Ariane 6 successfully tested with additional boosters for enhanced payload capacity.
-6. What You Need to Know About NASA’s SpaceX Crew-12 Mission - https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/ - Crew-12 mission to the ISS focuses on research and technology demonstrations.
-7. Venus may have an underground tunnel carved by volcano eruptions - https://www.space.com/astronomy/venus/venus-may-have-an-underground-tunnel-carved-by-volcano-eruptions - Evidence of a subsurface lava tube on Venus found.
-8. Third exoplanet detected in the planetary system HD 176986 - https://phys.org/news/2026-02-exoplanet-planetary-hd.html - Discovery of a new planet in the HD 176986 system.
-9. Tiny Enceladus exercises giant electromagnetic influence at Saturn - https://phys.org/news/2026-02-tiny-enceladus-giant-electromagnetic-saturn.html - Enceladus plays a crucial role in Saturn's space environment.
-10. How long will the ISS operate with a skeleton crew? SpaceX’s Crew-12 astronaut mission delayed to Feb. 12 - https://www.space.com/space-exploration/launches-spacecraft/how-long-will-the-iss-operate-with-a-skeleton-crew-spacexs-crew-12-astronaut-mission-delayed-to-feb-12 - Delay in Crew-12 mission due to weather conditions.
+1. How giant galaxies could form just 1.4 billion years after the Big Bang - https://phys.org/news/2026-02-giant-galaxies-billion-years-big.html - Research suggests early formation of massive galaxies, challenging current models.
+2. Old galaxies in a young universe? - https://phys.org/news/2026-02-galaxies-young-universe.html - Investigates the implications of finding ancient galaxies in high-redshift observations.
+3. CubeSats’ Missions Begin - https://www.nasa.gov/image-article/cubesats-missions-begin/ - A set of student-designed CubeSats launched for Earth observations.
+4. Earth orbit is getting crowded. Can this map of 1 million routes around our planet help prevent satellite collisions? - https://www.space.com/space-exploration/satellites/earth-orbit-is-getting-crowded-can-this-map-of-1-million-routes-around-our-planet-help-prevent-satellite-collisions - Discusses potential solutions to mitigate satellite collision risks.
+5. Experiment relies on pulsars to probe dark matter waves - https://phys.org/news/2026-02-pulsars-probe-dark.html - New methods using pulsars to investigate dark matter.
+6. Discovery of a possible pulsar in the Milky Way's center could enable unprecedented tests of General Relativity - https://phys.org/news/2026-02-discovery-pulsar-milky-center-enable.html - A potential pulsar discovery that may test fundamental physics.
+7. NASA selects two Earth System Explorers missions - https://phys.org/news/2026-02-nasa-earth-explorers-missions.html - New satellite missions to improve environmental monitoring.
+8. Chang'e-6 samples constrain lunar impact flux and illuminate early impact history - https://phys.org/news/2026-02-samples-constrain-lunar-impact-flux.html - Lunar samples provide insights into early solar system impacts.
+9. Hubble captures light show around rapidly dying star - https://phys.org/news/2026-02-hubble-captures-rapidly-dying-star.html - Stunning imagery reveals processes around a dying star.
+10. Fermi data help refine orbital parameters of a gamma-ray binary - https://phys.org/news/2026-02-fermi-refine-orbital-parameters-gamma.html - New insights into a gamma-ray binary system from Fermi observations.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking' target='_blank'>Watch live: Crew-12 launch and docking</a></strong> — <em>2026-02-10 07:00:00</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/' target='_blank'>Summer Heat Hits Southeastern Australia</a></strong> — <em>2026-02-11 05:00:00</em></summary>
 
-
-Join ESA teams to watch live the launch and docking of Crew-12, marking the beginning of a nine‑month mission to the International Space Station.  
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/' target='_blank'>Winter Grips Japan</a></strong> — <em>2026-02-10 05:01:00</em></summary>
-
-The country’s northern regions are accustomed to snow, but unrelenting storms have snarled transportation and caused other challenges this winter.
+January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/' target='_blank'>Winter Grips Japan</a></strong> — <em>2026-02-10 05:01:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-weather-spacex-crew-window-door.html' target='_blank'>Weather pushes back SpaceX's Crew-12 window, opening door for first ULA launch of year</a></strong> — <em>2026-02-11 03:10:04</em></summary>
 
-The country’s northern regions are accustomed to snow, but unrelenting storms have snarled transportation and caused other challenges this winter.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-image-strong-solar-flare.html' target='_blank'>Image: Strong solar flare</a></strong> — <em>2026-02-10 00:20:03</em></summary>
-
-This Feb. 4, 2026, image from NASA's Solar Dynamics Observatory (SDO) captures a strong solar flare erupting from the star. Solar flares are powerful bursts of energy that can, along with other types of solar eruptions, impact radio communications, electric power grids, navigation signals, and pose risks to spacecraft and astronauts. The flare pictured was classified as an X4.2 flare. X-class denotes the most intense flares, while the number provides more information about its strength.
+NASA's plans to get the first human spaceflight of the year off the pad have to hold off until at least Friday because of weather constraints along the flight path needed in case of emergency. That delay, though, opens the door for a national security mission aiming for liftoff on Thursday morning.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-stellar-remnants-mystery-mass-galaxy.html' target='_blank'>Stellar remnants may solve mystery of missing mass in galaxy clusters</a></strong> — <em>2026-02-09 23:00:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-nasa-earth-explorers-missions.html' target='_blank'>NASA selects two Earth System Explorers missions</a></strong> — <em>2026-02-11 02:10:01</em></summary>
 
-Under the leadership of the University of Bonn, a research team led by Prof. Dr. Pavel Kroupa from the Helmholtz Institute for Radiation and Nuclear Physics has discovered that galaxy clusters are about twice as heavy as previously assumed. The additional mass comes mainly from neutron stars and stellar black holes and also explains the observed quantities of heavy elements.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/' target='_blank'>What You Need to Know About NASA’s SpaceX Crew-12 Mission</a></strong> — <em>2026-02-09 22:14:29</em></summary>
-
-Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-12 mission, where they will conduct research, technology demonstrations, and maintenance aboard the orbiting laboratory. The crew will lift off from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida aboard a SpaceX Dragon spacecraft […]
+Two next-generation satellite missions announced Thursday will help NASA better understand Earth and improve capabilities to foresee environmental events and mitigate disasters.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/' target='_blank'>What You Need to Know About NASA’s SpaceX Crew-12 Mission</a></strong> — <em>2026-02-09 22:14:29</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/life-on-earth-is-lucky-a-rare-chemical-fluke-may-have-made-our-planet-habitable' target='_blank'>Life on Earth is lucky: A rare chemical fluke may have made our planet habitable</a></strong> — <em>2026-02-10 22:00:00</em></summary>
 
-Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-12 mission, where they will conduct research, technology demonstrations, and maintenance aboard the orbiting laboratory. The crew will lift off from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida aboard a SpaceX Dragon spacecraft […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/a-city-on-the-moon-why-spacex-shifted-its-focus-away-from-mars' target='_blank'>A city on the moon: Why SpaceX shifted its focus away from Mars</a></strong> — <em>2026-02-09 22:00:00</em></summary>
-
-Just 13 months after declaring the moon "a distraction," Elon Musk has announced that Earth's nearest neighbor is now the focus of SpaceX's settlement plans. What changed?
+Life on Earth may exist thanks to an incredible stroke of luck — a chemical sweet spot that most planets miss during their formation but ours managed to hit.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-road-sustainable-space.html' target='_blank'>A road map to truly sustainable water systems in space</a></strong> — <em>2026-02-09 21:40:06</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-galaxies-young-universe.html' target='_blank'>Old galaxies in a young universe?</a></strong> — <em>2026-02-10 21:20:05</em></summary>
 
-If humans want to live in space, whether on spacecraft or the surface of Mars, one of the first problems to solve is that of water for drinking, hygiene, and life-sustaining plants. Even bringing water to the International Space Station (ISS) in low Earth orbit costs on the order of tens of thousands of dollars. Thus, finding efficient, durable, and trustworthy ways to source and reuse water in space is a clear necessity for long-term habitation there.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/how-long-will-the-iss-operate-with-a-skeleton-crew-spacexs-crew-12-astronaut-mission-delayed-to-feb-12' target='_blank'>How long will the ISS operate with a skeleton crew? SpaceX’s Crew-12 astronaut mission delayed to Feb. 12</a></strong> — <em>2026-02-09 21:00:00</em></summary>
-
-NASA and SpaceX mission managers have delayed the Falcon 9 launch of the next crew to the International Space Station as they await improved weather conditions.
+The standard cosmological model (present-day version of "Big Bang," called Lambda-CDM) gives an age of the universe close to 13.8 billion years and much younger when we explore the universe at high-redshift. The redshift of galaxies is produced by the expansion of the universe, which causes emitted wavelengths to lengthen and move toward the red end of the electromagnetic spectrum.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-blocks-life-bennu-asteroid-rewrite.html' target='_blank'>Building blocks of life discovered in Bennu asteroid rewrite origin story</a></strong> — <em>2026-02-09 20:20:42</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/earth-orbit-is-getting-crowded-can-this-map-of-1-million-routes-around-our-planet-help-prevent-satellite-collisions' target='_blank'>Earth orbit is getting crowded. Can this map of 1 million routes around our planet help prevent satellite collisions?</a></strong> — <em>2026-02-10 20:00:00</em></summary>
 
-Amino acids, the building blocks necessary for life, were previously found in samples of 4.6-billion-year-old rocks from an asteroid called Bennu, delivered to Earth in 2023 by NASA's OSIRIS-REx mission. How those amino acids—the molecules that create proteins and peptides in DNA—formed in space was a mystery, but new research led by Penn State scientists shows they could have originated in an icy-cold, radioactive environment at the dawn of Earth's solar system.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/star-trek-legend-george-takei-talks-nimoys-directing-the-future-of-exploration-and-his-sad-plastic-umbrella-interview' target='_blank'>'Star Trek' legend George Takei talks Nimoy's directing, the future of exploration, and his sad plastic umbrella (interview)</a></strong> — <em>2026-02-09 20:00:00</em></summary>
-
-"Science fiction is all about the imagination. And it can be exploring space or exploring that mysterious organism called our bodies."
+Could we prevent in-orbit crashes in the future by using advanced computer models?
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-small-planets-suitable-life.html' target='_blank'>Why only a small number of planets are suitable for life</a></strong> — <em>2026-02-09 18:12:42</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/lunar-eclipses/10-best-places-to-see-the-blood-moon-total-lunar-eclipse-on-march-3' target='_blank'>10 best places to see the 'blood moon' total lunar eclipse on March 3</a></strong> — <em>2026-02-10 19:00:00</em></summary>
 
-For life to develop on a planet, certain chemical elements are needed in sufficient quantities. Phosphorus and nitrogen are essential. Phosphorus is vital for the formation of DNA and RNA, which store and transmit genetic information, and for the energy balance of cells. Nitrogen is an essential component of proteins, which are needed for the formation, structure, and function of cells. Without these two elements, no life can develop out of lifeless matter.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-tiny-enceladus-giant-electromagnetic-saturn.html' target='_blank'>Tiny Enceladus exercises giant electromagnetic influence at Saturn</a></strong> — <em>2026-02-09 18:11:21</em></summary>
-
-A major study by an international team of researchers using data from the NASA/ESA/ASI Cassini spacecraft has revealed a lattice-like structure of crisscrossing reflected waves that flow downstream behind the moon in Saturn's equatorial plane, but also reach up to very high northern and southern latitudes. The analysis of data from four instruments aboard Cassini, collected over the mission's 13-year duration, demonstrates the crucial role that Enceladus plays in circulating energy and momentum around Saturn's space environment.
+From dark-sky parks to remote deserts, these locations offer prime views of the March 3, 2026, blood moon.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-antarctica-balloon-day-particles-outer.html' target='_blank'>In Antarctica, balloon lands after 23-day search for particles from outer space</a></strong> — <em>2026-02-09 17:43:22</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4798-4803-back-for-more-science/' target='_blank'>Curiosity Blog, Sols 4798-4803: Back for More Science</a></strong> — <em>2026-02-10 18:47:27</em></summary>
 
-After years of work building an exquisitely sensitive instrument, University of Chicago scientists stood and watched as it flew up and out of sight into the fiercely blue Antarctic sky. Launched on Dec. 20, it would travel for the next 23 days on a NASA balloon along the very highest reaches of the atmosphere, scanning the continent of Antarctica from its 120,000-foot vantage point for minuscule visitors from outer space known as neutrinos.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-iss-thursday-weather-nasa.html' target='_blank'>Launch to ISS pushed to Thursday over weather: NASA</a></strong> — <em>2026-02-09 17:30:01</em></summary>
-
-NASA on Monday delayed by one day the journey of four astronauts to the International Space Station (ISS) over weather conditions.
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Feb. 6, 2026 The results from our first visit to the “Nevado Sajama” drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/netflixs-war-machine-looks-like-predator-meets-metal-gear-and-were-100-percent-here-for-it' target='_blank'>Netflix's 'War Machine' looks like 'Predator' meets 'Metal Gear', and we're 100% here for it</a></strong> — <em>2026-02-09 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-europe-ariane-amazon-constellation-satellites.html' target='_blank'>Europe's Ariane 6 to launch Amazon constellation satellites into orbit</a></strong> — <em>2026-02-10 18:40:05</em></summary>
 
-'Whatever that thing is, it's hunting us, and it won’t stop.'
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-advanced-aliens-exoplanets-large-coal.html' target='_blank'>Looking for advanced aliens? Search for exoplanets with large coal deposits</a></strong> — <em>2026-02-09 16:24:34</em></summary>
-
-The combustible sedimentary rock, better known as coal, was not only crucial to the onset of advanced technology here on Earth, but it should also be key to the development of advanced E.T.s residing on any given exoearth. Or so say the authors of a new paper just published in the International Journal of Astrobiology.
+An enhanced version of Europe's Ariane 6 rocket will blast off Thursday to launch 32 satellites into orbit, forming part of the Amazon Leo network, which it hopes will rival Elon Musk's Starlink.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/' target='_blank'>Space Station Research Contributes to Artemis II</a></strong> — <em>2026-02-09 16:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-resources/astrophotography-upgrade-stepping-up-to-cmos/' target='_blank'>Astrophotography Upgrade: Stepping Up to CMOS</a></strong> — <em>2026-02-10 18:30:44</em></summary>
 
-Have you ever heard the saying, “You have to learn how to walk before you can run?” The same can be true in human space exploration. To push capabilities further and ensure safe, successful missions, NASA must test ideas and solve challenges ahead of time. While Earth-based research and engineering helps NASA progress through various […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/' target='_blank'>Space Station Research Contributes to Artemis II</a></strong> — <em>2026-02-09 16:00:00</em></summary>
-
-Have you ever heard the saying, “You have to learn how to walk before you can run?” The same can be true in human space exploration. To push capabilities further and ensure safe, successful missions, NASA must test ideas and solve challenges ahead of time. While Earth-based research and engineering helps NASA progress through various […]
+Upgrading to the latest cameras may require changing your imaging techniques.
+The post Astrophotography Upgrade: Stepping Up to CMOS appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/' target='_blank'>Space Station Research Contributes to Artemis II</a></strong> — <em>2026-02-09 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-hubble-captures-rapidly-dying-star.html' target='_blank'>Hubble captures light show around rapidly dying star</a></strong> — <em>2026-02-10 17:53:01</em></summary>
 
-Have you ever heard the saying, “You have to learn how to walk before you can run?” The same can be true in human space exploration. To push capabilities further and ensure safe, successful missions, NASA must test ideas and solve challenges ahead of time. While Earth-based research and engineering helps NASA progress through various […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-survived-its-flyby-of-the-sun-and-gave-up-some-secrets-in-the-process' target='_blank'>Interstellar comet 3I/ATLAS survived its flyby of the sun — and gave up some secrets in the process</a></strong> — <em>2026-02-09 16:00:00</em></summary>
-
-Interstellar comets are the original cosmic explorers, and by studying their metallic whispers, we are learning the secrets of worlds we may never see directly.
+This stunning image from NASA's Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust—like a "yolk" nestled within a dark, opaque "egg white." Only Hubble's sharpness can unveil the intricate details that hint at the processes shaping this enigmatic structure.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/icy-hudson-river/' target='_blank'>Icy Hudson River</a></strong> — <em>2026-02-09 15:55:41</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/cubesats-missions-begin/' target='_blank'>CubeSats’ Missions Begin</a></strong> — <em>2026-02-10 17:03:30</em></summary>
 
-During a stretch of frigid weather in late January 2026, ice choked the Hudson River along Manhattan’s western shore. The OLI (Operational Land Imager) on Landsat 8 captured this image of the wintry landscape around midday on Jan. 28. This image uses representational color to distinguish ice (light blue) from open water and snow. Vegetation appears red. Much of […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-lost-soviet-spacecraft-ai-mystery.html' target='_blank'>A long-lost Soviet spacecraft: AI could finally solve the mystery of Luna 9's landing site</a></strong> — <em>2026-02-09 15:00:01</em></summary>
-
-Using an advanced machine-learning algorithm, researchers in the UK and Japan have identified several promising candidate locations for the long-lost landing site of the Soviet Luna 9 spacecraft. Publishing their results in npj Space Exploration, the team, led by Lewis Pinault at University College London, hope that their model's predictions could soon be tested using new observations from India's Chandrayaan-2 orbiter.
+NASA astronaut Chris Williams pointed a camera out a window on the cupola as a set of CubeSats were deployed outside the Kibo laboratory module by a small satellite orbital deployer into Earth orbit. Students from Mexico, Italy, Thailand, Malaysia, and Japan designed the shoe-boxed satellites for a series of Earth observations and technology demonstrations. CubeSats are a class of nanosatellites – small spacecraft […]
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_more_boosters_more_power' target='_blank'>Ariane 6: more boosters, more power</a></strong> — <em>2026-02-09 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/cubesats-missions-begin/' target='_blank'>CubeSats’ Missions Begin</a></strong> — <em>2026-02-10 17:03:30</em></summary>
 
-
-	Video: 
-			00:01:21
-				For its most powerful flight yet, Ariane 6 lifts off for the first time with four boosters.Designed for versatility, Ariane 6 can adapt to each mission: flying with two boosters for lighter payloads, or four boosters when more power is needed.In its four-booster configuration, Ariane 6 can carry larger and heavier spacecraft into orbit, enabling some of Europe’s most ambitious missions — from science missions like PLATO to exploration systems such as Argonaut.
+NASA astronaut Chris Williams pointed a camera out a window on the cupola as a set of CubeSats were deployed outside the Kibo laboratory module by a small satellite orbital deployer into Earth orbit. Students from Mexico, Italy, Thailand, Malaysia, and Japan designed the shoe-boxed satellites for a series of Earth observations and technology demonstrations. CubeSats are a class of nanosatellites – small spacecraft […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/can-current-space-law-handle-the-new-space-age' target='_blank'>Can current space law handle the new space age?</a></strong> — <em>2026-02-09 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/how-are-gas-giant-exoplanets-born-james-webb-space-telescope-provides-new-clues' target='_blank'>How are gas giant exoplanets born? James Webb Space Telescope provides new clues</a></strong> — <em>2026-02-10 17:00:00</em></summary>
 
-A new proposal suggests borrowing the "Conference of the Parties" model from climate diplomacy to update space law before orbital congestion and lunar competition escalate.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-exoplanet-planetary-hd.html' target='_blank'>Third exoplanet detected in the planetary system HD 176986</a></strong> — <em>2026-02-09 14:40:01</em></summary>
-
-Using HARPS and HARPS-N spectrographs, astronomers have observed a nearby K-type star designated HD 176986, known to host two super-Earth exoplanets. The observations resulted in the discovery of another planet in the system at least several times more massive than Earth. The finding was detailed in a paper published January 28 in the Astronomy & Astrophysics journal.
+Relatedly, astronomers may have just pushed the upper size limit of what counts as a planet.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-big-planet-large-gas-giants.html' target='_blank'>How big can a planet be? With very large gas giants, it can be hard to tell</a></strong> — <em>2026-02-09 14:39:51</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/grants-2/' target='_blank'>Grants</a></strong> — <em>2026-02-10 16:56:47</em></summary>
 
-Gas giants are large planets mostly composed of helium and/or hydrogen. Although these planets have dense cores, they don't have hard surfaces. Jupiter and Saturn are the gas giants in our solar system, but there are many other gas giant exoplanets in our galaxy and some are many times larger than Jupiter.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/the-heart-of-a-giant-telescope-space-photo-of-the-day-for-feb-9-2026' target='_blank'>The heart of a giant telescope | Space photo of the day for Feb. 9, 2026</a></strong> — <em>2026-02-09 14:00:00</em></summary>
-
-There are a lot of moving pieces when it comes to building the world's largest telescope.
+Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested grant status information. Important Instructions: How to Fill Out the Form: Memorandum for NASA Grantee Community Guidance Regarding OMB Memorandum M-25-14 and Recent Temporary Restraining Orders Update […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/dont-miss-the-half-lit-moon-take-to-the-winter-sky-feb-9' target='_blank'>Don't miss the half-lit moon take to the winter sky tonight</a></strong> — <em>2026-02-09 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-samples-constrain-lunar-impact-flux.html' target='_blank'>Chang'e-6 samples constrain lunar impact flux and illuminate early impact history</a></strong> — <em>2026-02-10 16:00:01</em></summary>
 
-Early rises — and late night skywatchers —  will get the chance to spot a wealth of spectacular sights on the lunar surface.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/infant-galaxy-clusters-grew-faster-than-expected/' target='_blank'>Infant Galaxy Clusters Grew Faster Than Expected</a></strong> — <em>2026-02-09 13:00:00</em></summary>
-
-Astronomers have discovered three still-growing galaxy clusters in the early universe that point to a faster track of evolution than expected.
-The post Infant Galaxy Clusters Grew Faster Than Expected appeared first on Sky & Telescope.
+Scientists from the Institute of Geology and Geophysics of the Chinese Academy of Sciences (CAS), the CAS Aerospace Information Research Institute, and other institutions, have revised the decades-old lunar crater chronology model, using samples collected from the far side of the moon by China's Chang'e-6 mission and complementary remote sensing imagery.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/venus/venus-may-have-an-underground-tunnel-carved-by-volcano-eruptions' target='_blank'>Venus may have an underground tunnel carved by volcano eruptions</a></strong> — <em>2026-02-09 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/how-to-watch-predator-badlands-online' target='_blank'>'Predator: Badlands' decloaks on Hulu & Disney+ this week: Here’s how to watch</a></strong> — <em>2026-02-10 16:00:00</em></summary>
 
-Scientists analyzing decades-old NASA's Magellan data have identified only the second reported lava tube on Venus.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/news/live/annular-solar-eclipse-february-2026-live-updates-what-to-know' target='_blank'>Annular 'ring of fire' solar eclipse February 2026: Live updates</a></strong> — <em>2026-02-09 10:49:48</em></summary>
-
-The next solar eclipse will be on Feb. 17, 2026. Here's what you need to know.
+Thia and Dek arrive on Hulu/Disney+ just in time for a romantic Valentine's Day weekend.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-evidence-subsurface-lava-tube-venus.html' target='_blank'>First evidence of a subsurface lava tube on Venus</a></strong> — <em>2026-02-09 10:00:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-iss-delayed-weather-nasa.html' target='_blank'>Launch to ISS delayed again over weather: NASA</a></strong> — <em>2026-02-10 15:50:10</em></summary>
 
-Volcanic activity is not unique to Earth: traces of volcanic activity, such as lava tubes, have been found on Mars and the moon. Now, the University of Trento has demonstrated the existence of an empty lava tube even in the depths of Venus, a planet whose surface and geology have been largely shaped by volcanic processes.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-spacex-shifts-focus-mars-moon.html' target='_blank'>SpaceX shifts focus from Mars to moon, Musk says</a></strong> — <em>2026-02-09 09:33:25</em></summary>
-
-SpaceX is putting its longstanding focus of sending humans to Mars on the back burner to prioritize establishing a settlement on the moon, founder Elon Musk said Sunday.
+NASA is now aiming to launch four astronauts to the International Space Station (ISS) on Friday, in another delay over weather conditions, the U.S. agency announced Tuesday.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-astronaut-year-cuddly-rabbit-space.html' target='_blank'>US astronaut to take her 3-year-old's cuddly rabbit into space</a></strong> — <em>2026-02-09 09:20:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-discovery-pulsar-milky-center-enable.html' target='_blank'>Discovery of a possible pulsar in the Milky Way's center could enable unprecedented tests of General Relativity</a></strong> — <em>2026-02-10 15:50:04</em></summary>
 
-When the next mission to the International Space Station blasts off from Florida next week, a special keepsake will be hitching a ride: a small stuffed rabbit.
+Researchers from Columbia University and Breakthrough Listen, a scientific research program aimed at finding evidence of civilizations beyond Earth, have published new results from the Breakthrough Listen Galactic Center Survey, one of the most sensitive radio searches ever conducted for pulsars in the dynamically complex central region of the Milky Way. The study, led by recent Columbia Ph.D. graduate Karen I. Perez, was published in The Astrophysical Journal.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/oldest-moon-rocks-found-on-the-farside-of-the-moon/' target='_blank'>Oldest Moon Rocks Found on the Lunar Farside</a></strong> — <em>2026-02-10 15:41:10</em></summary>
+
+The 4-billion-year-old Moon rocks brought back from the farside of the Moon challenge ideas about what it was like in the early solar system. 
+The post Oldest Moon Rocks Found on the Lunar Farside appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-einstein-probe-black-hole-white.html' target='_blank'>A possible first-ever Einstein probe observation of a black hole tearing apart a white dwarf</a></strong> — <em>2026-02-10 15:27:44</em></summary>
+
+On July 2, 2025, the China-led Einstein Probe (EP) space telescope detected an exceptionally bright X-ray source whose brightness varied rapidly during a routine sky survey. Its unusual signal immediately set it apart from ordinary cosmic sources, triggering rapid follow-up observations by telescopes worldwide.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/' target='_blank'>NASA’s Hubble Captures Light Show Around Rapidly Dying Star</a></strong> — <em>2026-02-10 15:00:33</em></summary>
+
+This stunning image from NASA’s Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust — like a “yolk” nestled within a […]
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/02/Hubble_captures_light_show_around_rapidly_dying_star' target='_blank'>Hubble captures light show around rapidly dying star</a></strong> — <em>2026-02-10 15:00:00</em></summary>
+
+
+	Image:
+			The Egg Nebula
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/02/Hubble_captures_light_show_around_rapidly_dying_star' target='_blank'>Hubble captures light show around rapidly dying star</a></strong> — <em>2026-02-10 15:00:00</em></summary>
+
+
+	Image:
+			The Egg Nebula
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/ESA_awards_contracts_for_Ramses_mission_to_Apophis' target='_blank'>ESA awards contracts for Ramses mission to Apophis</a></strong> — <em>2026-02-10 15:00:00</em></summary>
+
+
+On 10 February 2026, the European Space Agency (ESA) signed a contract with OHB Italia for the development of the Rapid Apophis Mission for Space Safety (Ramses). Launching in 2028, Ramses will rendezvous with the asteroid Apophis before its rare close encounter with Earth. The mission will provide unique insight into the physical properties and behaviour of asteroids, and strengthen international collaboration and European capabilities in planetary defence.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/roman-space-telescope/core-survey-by-nasas-roman-mission-will-unveil-universes-dark-side/' target='_blank'>Core Survey by NASA’s Roman Mission Will Unveil Universe’s Dark Side</a></strong> — <em>2026-02-10 15:00:00</em></summary>
+
+The broadest planned survey by NASA’s upcoming Nancy Grace Roman Space Telescope will reveal hundreds of millions of galaxies scattered across the cosmos. After Roman launches as soon as this fall, scientists will use these sparkly beacons to study the universe’s shadowy underpinnings: dark matter and dark energy. “We set out to build the ultimate […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/italys-2026-winter-olympic-venues-from-space-space-photo-of-the-day-for-feb-10-2026' target='_blank'>Italy's 2026 Winter Olympic venues from space | Space photo of the day for Feb. 10, 2026</a></strong> — <em>2026-02-10 15:00:00</em></summary>
+
+ESA marked the opening of the 2026 Winter Olympics by capturing the venue from low-Earth orbit.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/who-are-the-astronauts-of-spacexs-crew-12-mission-to-the-iss' target='_blank'>Who are the astronauts of SpaceX's Crew-12 mission to the ISS?</a></strong> — <em>2026-02-10 14:00:00</em></summary>
+
+NASA and SpaceX are proceeding ahead of schedule with their next astronaut launch to the International Space Station, which is currently operating with a skeleton crew.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-biologic-dont-fully-mars-curiosity.html' target='_blank'>Non-biologic processes don't fully explain Mars organics collected by Curiosity, researchers say</a></strong> — <em>2026-02-10 13:46:06</em></summary>
+
+In a new study, researchers say that nonbiological sources they considered could not fully account for the abundance of organic compounds in a sample collected on Mars by NASA's Curiosity rover. The paper is published in the journal Astrobiology.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-giant-galaxies-billion-years-big.html' target='_blank'>How giant galaxies could form just 1.4 billion years after the Big Bang</a></strong> — <em>2026-02-10 13:44:03</em></summary>
+
+The existence of massive, elliptical galaxies in the early universe has puzzled astronomers for two decades. An international team led by Nikolaus Sulzenauer and Axel Weiß from the Max Planck Institute for Radio Astronomy (MPIfR) used data from the Atacama Large Millimeter/submillimeter Array (ALMA) to shed light on this open question of galaxy formation. They studied one of the most spectacular galaxy aggregations in great detail and published their results in the current issue of The Astrophysical Journal.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-pulsars-probe-dark.html' target='_blank'>Experiment relies on pulsars to probe dark matter waves</a></strong> — <em>2026-02-10 13:20:01</em></summary>
+
+Dark matter is a type of matter that is predicted to make up most of the matter in the universe, yet it is very difficult to detect using conventional experimental techniques, as it does not emit, absorb, or reflect light. While some past studies gathered indirect hints of its existence, dark matter has never been directly observed; thus, its composition remains a mystery.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-fermi-refine-orbital-parameters-gamma.html' target='_blank'>Fermi data help refine orbital parameters of a gamma-ray binary</a></strong> — <em>2026-02-10 13:10:01</em></summary>
+
+Using NASA's Fermi Gamma-ray Space Telescope, Chinese astronomers have observed a gamma-ray binary system known as PSR J2032+4127. Results of the new observations, published February 3 on the arXiv preprint server, shed more light on the orbital parameters of this binary, which could help us better understand its nature.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/did-the-viking-missions-discover-life-on-mars-50-years-ago-these-scientists-think-so' target='_blank'>Did the Viking missions discover life on Mars 50 years ago? These scientists think so</a></strong> — <em>2026-02-10 13:00:00</em></summary>
+
+The key to solving the mystery of the Viking results is the discovery of perchlorate on the Martian surface in 2008.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Intense_rainfall_brings_floods_across_Iberian_Peninsula' target='_blank'>Intense rainfall brings floods across Iberian Peninsula</a></strong> — <em>2026-02-10 12:45:00</em></summary>
+
+
+Satellite data have captured the intensity of rainfall over the Iberian Peninsula during three severe winter storms, and the extent of flooding that followed around the Tejo River and basin in Portugal.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/1-week-until-an-annular-solar-eclipse-turns-the-sun-into-a-ring-of-fire-over-antarctica' target='_blank'>1 week until an annular solar eclipse turns the sun into a 'ring of fire' over Antarctica</a></strong> — <em>2026-02-10 11:00:00</em></summary>
+
+The moon will pass directly in front of the sun on Feb. 17, setting the stage for a dramatic annular solar eclipse.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_first_launch_of_Ariane_6_with_four_boosters' target='_blank'>Watch live: first launch of Ariane 6 with four boosters</a></strong> — <em>2026-02-10 10:10:00</em></summary>
+
+
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-emotional-countdown-maiden-ariane-europe.html' target='_blank'>An emotional countdown to the maiden launch of the Ariane 64, Europe's most powerful rocket</a></strong> — <em>2026-02-10 09:50:02</em></summary>
+
+In a tightly controlled manufacturing hangar west of Paris, workers put the finishing touches on an enormous silver-colored engine. In just a few days, a similar machine will help propel the most powerful version of Europe's Ariane 6 rocket yet, flying for the first time with four boosters.
 
 </details>
 
