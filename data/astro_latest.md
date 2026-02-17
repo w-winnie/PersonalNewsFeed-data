@@ -1,109 +1,169 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Major Themes in Recent Astrophysics News
 
-#### Innovations in Exoplanet Research
-Recent advancements in exoplanet research are significantly enhancing our ability to analyze planetary atmospheres, crucial for assessing habitability. The proposed EXoplanet Climate Infrared TElescope (EXCITE) aims to utilize a balloon-based platform for cost-effective data collection, circumventing the high costs associated with flagship missions like the James Webb Space Telescope (JWST). Furthermore, a strategic collaboration between JWST and the upcoming Ariel mission is set to optimize atmospheric data collection starting in the early 2030s, highlighting a trend toward innovative and synergistic approaches in exoplanet studies.
+#### Exoplanets and the Chemistry of Life
+Recent investigations into exoplanetary systems have revealed critical insights into the rarity of Tatooine-like planets, which orbit two suns. Findings suggest that general relativity significantly influences the formation of such planets, potentially limiting their prevalence. Additionally, the detection of methanimine—a simple organic molecule—within a star-forming region 554 light-years away underscores the chemical processes that may lead to life, suggesting that the essential ingredients for life could be more ubiquitous in the universe than previously thought.
 
-Key Items:
-1. EXCITE Mission - https://phys.org/news/2026-02-balloon-mission-bar-exoplanet-science.html - A balloon-based mission aims to gather atmospheric data on exoplanets at a fraction of the cost of traditional missions.
-2. JWST and Ariel Collaboration - https://phys.org/news/2026-02-outlines-jwst-ariel-team-exoplanet.html - A new paper details how JWST and Ariel can work together to enhance our understanding of exoplanet atmospheres.
+Key items:
+1. "Why don't more Tatooine-like exoplanets exist in our Milky Way galaxy?" - https://www.space.com/astronomy/exoplanets/why-dont-more-tatooine-like-exoplanets-exist-in-our-milky-way-galaxy-astronomers-might-have-an-answer - This research offers a theoretical basis for the scarcity of habitable planets in binary systems.
+2. "Astronomers discover chemicals that could seed life in the core of a developing star" - https://www.space.com/astronomy/stars/astronomers-discover-chemicals-that-could-seed-life-in-the-core-of-a-developing-star - The identification of methanimine highlights the potential for life-sustaining chemistry in stellar nurseries.
 
-#### Understanding Cosmological Magnetic Fields
-A notable breakthrough in the understanding of cosmological magnetic fields has been made by researchers at McGill University and ETH Zurich. They propose a mechanism involving ultralight dark matter that could explain the origins of the uniform magnetic fields observed throughout the universe. This research not only addresses longstanding questions about magnetic field generation but also connects to broader discussions on dark matter's influence on cosmic structure and evolution, potentially reshaping our understanding of the universe.
+#### Cosmic Structures and Theoretical Physics
+Astrophysicists are advancing our understanding of the universe's large-scale structure, often referred to as its 'skeleton.' This research is crucial for elucidating the role of dark matter in cosmic evolution. Furthermore, new findings regarding wormholes suggest they may not exist as traditionally conceived, prompting a reevaluation of their implications in the context of quantum physics and spacetime.
 
-Key Items:
-1. Dark Matter and Magnetic Fields - https://phys.org/news/2026-02-dark-generation-cosmological-magnetic-fields.html - A new mechanism involving ultralight dark matter could explain the origins of cosmological magnetic fields.
-2. Hubble Tension and Magnetic Fields - https://phys.org/news/2026-02-hubble-tension-magnetic-fields-universe.html - Insights into magnetic fields may help resolve discrepancies in the measurements of the universe's expansion rate.
+Key items:
+1. "How astronomers are unveiling the 'skeleton' of the universe" - https://www.space.com/astronomy/dark-universe/how-astronomers-are-unveiling-the-skeleton-of-the-universe - This study enhances comprehension of dark matter's role in shaping the universe.
+2. "Wormholes may not exist – we've found they reveal something deeper about time and the universe" - https://www.space.com/astronomy/wormholes-may-not-exist-weve-found-they-reveal-something-deeper-about-time-and-the-universe - This research challenges established notions of wormholes and their significance in theoretical physics.
 
-#### Investigating Auroral Phenomena
-NASA's recent rocket launches from Alaska aim to explore the enigmatic black auroras, which remain less understood compared to their colorful counterparts. This mission focuses on the electrical dynamics that contribute to auroral phenomena, potentially yielding new insights into space weather and its interactions with Earth's atmosphere, which could have broader implications for understanding space weather's effects on technology and climate.
+#### Mars and Planetary Habitability
+New evidence suggests that early Mars was likely warm and wet rather than icy, which may have implications for its potential to have supported life. Concurrently, continuous observations of the binary pulsar PSR J1906+0746 are providing valuable data on relativistic effects, enhancing our understanding of gravity in extreme environments.
 
-Key Item:
-1. NASA's Aurora Mission - https://www.space.com/stargazing/auroras/nasa-launches-twin-rocket-missions-from-alaska-to-study-mysterious-black-auroras - Twin rocket launches aim to study the electrical circuitry of black auroras.
+Key items:
+1. "Early Mars was warm and wet not icy, suggests latest research" - https://phys.org/news/2026-02-early-mars-icy-latest.html - This finding could significantly alter perceptions of Martian habitability.
+2. "Long-term radio observations probe a relativistic binary pulsar system" - https://phys.org/news/2026-02-term-radio-probe-relativistic-binary.html - Insights from this pulsar are crucial for understanding relativistic physics in binary systems.
 
-### Overall Direction
-The current landscape in astrophysics is marked by innovative methodologies and collaborative efforts aimed at addressing complex questions in exoplanet research and cosmology. The integration of new technologies and interdisciplinary approaches is enhancing our understanding of both exoplanet atmospheres and fundamental cosmic phenomena. As researchers continue to unravel the mysteries surrounding dark matter and auroral dynamics, the field is poised for significant advancements that could reshape our understanding of the universe.
+### Conclusion
+The current landscape in astrophysics reflects a dynamic interplay between observational discoveries and theoretical advancements. Researchers are increasingly focused on unraveling the complexities of exoplanetary systems, cosmic structure, and planetary habitability, leading to a richer understanding of the universe and its potential for life. This momentum indicates a promising trajectory for future investigations that may redefine our understanding of cosmic phenomena and life's origins.
 
 ### Top Sources:
-1. The balloon mission raising the bar for exoplanet science - https://phys.org/news/2026-02-balloon-mission-bar-exoplanet-science.html - A cost-effective balloon mission aims to gather atmospheric data on exoplanets.
-2. Study outlines how JWST and Ariel could team up on exoplanet atmospheres - https://phys.org/news/2026-02-outlines-jwst-ariel-team-exoplanet.html - A collaboration between JWST and Ariel is set to optimize exoplanet atmosphere analysis.
-3. How a certain form of dark matter may lead to the generation of cosmological magnetic fields - https://phys.org/news/2026-02-dark-generation-cosmological-magnetic-fields.html - A novel mechanism involving dark matter could explain cosmological magnetic fields.
-4. The Hubble tension: How magnetic fields could help solve one of the universe's biggest mysteries - https://phys.org/news/2026-02-hubble-tension-magnetic-fields-universe.html - Insights into magnetic fields may aid in resolving the Hubble tension.
-5. NASA launches twin rocket missions from Alaska to study mysterious black auroras - https://www.space.com/stargazing/auroras/nasa-launches-twin-rocket-missions-from-alaska-to-study-mysterious-black-auroras - NASA's rockets aim to investigate the electrical dynamics of black auroras.
-6. Ice Volcano Eruption Makes Comet 29P/Schwassmann-Wachmann Shine - https://skyandtelescope.org/astronomy-news/ice-volcano-eruption-makes-comet-29p-schwassmann-wachmann-shine/ - An explosive outburst from a comet has made it visible through medium-sized telescopes.
-7. Four new astronauts arrive at the International Space Station to replace NASA's evacuated crew - https://phys.org/news/2026-02-astronauts-international-space-station-nasa.html - The ISS has returned to full strength with the arrival of new astronauts.
-8. Trump's Greenland grab is part of a new space race – and the stakes are getting higher - https://www.space.com/astronomy/earth/trumps-greenland-grab-is-part-of-a-new-space-race-and-the-stakes-are-getting-higher - Geopolitical tensions are influencing global space exploration dynamics.
-9. The 'Alien' and 'Predator' franchises are on the upswing, so where's the next 'Aliens vs. Predator' game? - https://www.space.com/entertainment/space-games/the-alien-and-predator-franchises-are-on-the-upswing-so-wheres-the-next-aliens-vs-predator-game - Discussion on the revival of popular sci-fi franchises.
-10. From Soyuz to the stars: A Roscosmos trivia quiz - https://www.space.com/space-exploration/launches-spacecraft/from-soyuz-to-the-stars-a-roscosmos-trivia-quiz - A quiz exploring the history and missions of Russia's space agency.
+1. Annular solar eclipse turns the sun into a dramatic 'ring of fire' today! Here's what you need to know - https://www.space.com/stargazing/solar-eclipses/annular-solar-eclipse-turns-the-sun-into-a-dramatic-ring-of-fire-today-heres-what-you-need-to-know - Overview of the annular solar eclipse occurring on February 17.
+2. Why don't more Tatooine-like exoplanets exist in our Milky Way galaxy? Astronomers might have an answer - https://www.space.com/astronomy/exoplanets/why-dont-more-tatooine-like-exoplanets-exist-in-our-milky-way-galaxy-astronomers-might-have-an-answer - Insights into the rarity of binary star systems with habitable planets.
+3. Astronomers discover chemicals that could seed life in the core of a developing star - https://www.space.com/astronomy/stars/astronomers-discover-chemicals-that-could-seed-life-in-the-core-of-a-developing-star - Discovery of methanimine in stellar nurseries.
+4. What cold-water geysers on Earth reveal about the habitability of ocean worlds - https://phys.org/news/2026-02-cold-geysers-earth-reveal-habitability.html - Earth-based analogs for studying extraterrestrial ocean worlds.
+5. Long-term radio observations probe a relativistic binary pulsar system - https://phys.org/news/2026-02-term-radio-probe-relativistic-binary.html - New data on the behavior of a binary pulsar system.
+6. Early Mars was warm and wet not icy, suggests latest research - https://phys.org/news/2026-02-early-mars-icy-latest.html - Findings that change views on Martian climate history.
+7. Wormholes may not exist – we've found they reveal something deeper about time and the universe - https://www.space.com/astronomy/wormholes-may-not-exist-weve-found-they-reveal-something-deeper-about-time-and-the-universe - Challenging traditional concepts of wormholes.
+8. How astronomers are unveiling the 'skeleton' of the universe - https://www.space.com/astronomy/dark-universe/how-astronomers-are-unveiling-the-skeleton-of-the-universe - Research on the faint structures shaping cosmic evolution.
+9. Comet C/2024 E1 Wierzchos makes its closest approach to Earth tomorrow: Here's what you need to know - https://www.space.com/stargazing/comet-c-2024-e1-wierzchos-makes-its-closest-approach-to-earth-tomorrow-heres-what-you-need-to-know - Information on the upcoming comet flyby.
+10. Universe may end in a “big crunch,” new dark energy data suggests - https://www.sciencedaily.com/releases/2026/02/260215225537.htm - New data indicating a potential reversal in cosmic expansion.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-02-balloon-mission-bar-exoplanet-science.html' target='_blank'>The balloon mission raising the bar for exoplanet science</a></strong> — <em>2026-02-16 01:00:05</em></summary>
+    <details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/annular-solar-eclipse-turns-the-sun-into-a-dramatic-ring-of-fire-today-heres-what-you-need-to-know' target='_blank'>Annular solar eclipse turns the sun into a dramatic 'ring of fire' today! Here's what you need to know</a></strong> — <em>2026-02-17 06:00:00</em></summary>
 
-The atmospheres of exoplanets have been a focal point of the field lately, with the James Webb Space Telescope taking a look at as many as it can manage. But time on the world's most powerful space telescope is valuable, and getting a complete picture of any such atmosphere is difficult without that significant time commitment. So a multidisciplinary team of researchers have come up with an alternative mission that is very specialized at capturing as much information as they can about exoplanet atmospheres, but also with a fraction of the budget of flagship missions like JWST. The mission, known as the EXoplanet Climate Infrared TElescope (EXCITE), has one feature the JWST doesn't though—a gondola.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-outlines-jwst-ariel-team-exoplanet.html' target='_blank'>Study outlines how JWST and Ariel could team up on exoplanet atmospheres</a></strong> — <em>2026-02-15 19:00:01</em></summary>
-
-Astronomers want to collect as much data as possible using as many systems as possible. Sometimes that requires coordination between instruments. The teams that run the James Webb Space Telescope (JWST) and the upcoming Atmospheric Remote-sensing Infrared Exoplanet Large-survey (Ariel) missions will have plenty of opportunity for that once both telescopes are online in the early 2030s. A new paper, available in pre-print on arXiv, from the Ariel-JWST Synergy Working Group details just how exactly the two systems can work together to better analyze exoplanets.
+Today (Feb. 17), the moon and sun will create a "ring of fire" during an annular solar eclipse. Here's what to expect.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-dark-generation-cosmological-magnetic-fields.html' target='_blank'>How a certain form of dark matter may lead to the generation of cosmological magnetic fields</a></strong> — <em>2026-02-15 17:00:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/why-dont-more-tatooine-like-exoplanets-exist-in-our-milky-way-galaxy-astronomers-might-have-an-answer' target='_blank'>Why don't more Tatooine-like exoplanets exist in our Milky Way galaxy? Astronomers might have an answer</a></strong> — <em>2026-02-16 23:00:00</em></summary>
 
-Tiny highly uniform magnetic fields are known to pervade the universe, influencing various cosmological processes. To date, however, the physical mechanisms underpinning the generation of these fields remain poorly understood. Recently, researchers at McGill University and ETH Zurich have described a novel mechanism that may lead to the generation of cosmological magnetic fields. This mechanism, outlined in a paper published in Physical Review Letters, involves a (pseudo-scalar) quantum field that may give rise to the existence of ultralight dark matter consisting of particles with extremely low mass that interact with ordinary matter only very weakly.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-hubble-tension-magnetic-fields-universe.html' target='_blank'>The Hubble tension: How magnetic fields could help solve one of the universe's biggest mysteries</a></strong> — <em>2026-02-15 16:30:01</em></summary>
-
-It's well established that the universe is expanding, but there's serious disagreement among scientists over how fast it's happening.
+Astronomers may finally understand why planets orbiting two suns, the real-world equivalents of the "Star Wars" planet Tatooine, are so scarce in our galaxy — and it has to do with general relativity.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/from-soyuz-to-the-stars-a-roscosmos-trivia-quiz' target='_blank'>From Soyuz to the stars: A Roscosmos trivia quiz</a></strong> — <em>2026-02-15 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-discover-chemicals-that-could-seed-life-in-the-core-of-a-developing-star' target='_blank'>Astronomers discover chemicals that could seed life in the core of a developing star</a></strong> — <em>2026-02-16 21:00:00</em></summary>
 
-Test your knowledge of Russia's storied space agency — from its Soviet‑era roots to its modern‑day missions — with a quiz that's equal parts history, hardware, and high‑stakes exploration.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/trumps-greenland-grab-is-part-of-a-new-space-race-and-the-stakes-are-getting-higher' target='_blank'>Trump's Greenland grab is part of a new space race – and the stakes are getting higher</a></strong> — <em>2026-02-15 15:00:00</em></summary>
-
-As global tensions rise, the island has become a geopolitical pressure gauge, revealing how the old international legal order is beginning to fray.
+An organic molecule called methanimine was found scattered throughout a dense clump of gas and dust 554 light-years away.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/the-alien-and-predator-franchises-are-on-the-upswing-so-wheres-the-next-aliens-vs-predator-game' target='_blank'>The 'Alien' and 'Predator' franchises are on the upswing, so where's the next 'Aliens vs. Predator' game?</a></strong> — <em>2026-02-15 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-cold-geysers-earth-reveal-habitability.html' target='_blank'>What cold-water geysers on Earth reveal about the habitability of ocean worlds</a></strong> — <em>2026-02-16 20:53:30</em></summary>
 
-As Disney and 20th Century Studios revive the Alien and Predator series, we think a new video game crossover should already be in the works.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/nasa-launches-twin-rocket-missions-from-alaska-to-study-mysterious-black-auroras' target='_blank'>NASA launches twin rocket missions from Alaska to study mysterious black auroras</a></strong> — <em>2026-02-15 13:00:00</em></summary>
-
-NASA launched two rockets from Alaska this week to learn more about the electrical "circuitry" within auroras.
+In the eastern Utah desert, carbon-dioxide-saturated water bubbles, sprays and foams from the ground. These cold-water geysers, sometimes called soda pop geysers, are a new and reliable Earth-based analog for scientists studying plume eruptions of ocean worlds in the outer solar system, according to new research led by Planetary Science Institute Senior Scientist Morgan Cable and published in Astrobiology.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-astronauts-international-space-station-nasa.html' target='_blank'>Four new astronauts arrive at the International Space Station to replace NASA's evacuated crew</a></strong> — <em>2026-02-15 12:20:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/comet-c-2024-e1-wierzchos-makes-its-closest-approach-to-earth-tomorrow-heres-what-you-need-to-know' target='_blank'>Comet C/2024 E1 Wierzchos makes its closest approach to Earth tomorrow: Here's what you need to know</a></strong> — <em>2026-02-16 19:00:00</em></summary>
 
-The International Space Station returned to full strength with Saturday's arrival of four new astronauts to replace colleagues who bailed early because of health concerns.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/amazons-new-stargate-show-raises-big-questions-for-the-beloved-sci-fi-universe' target='_blank'>Amazon's new 'Stargate' show raises big questions for the beloved sci-fi universe</a></strong> — <em>2026-02-15 11:00:00</em></summary>
-
-Following the announcement that Amazon has given a new 'Stargate' the go-ahead, franchise figureheads Martin Gero and Joseph Mallozzi shared some of the details.
+The comet is now racing away from the sun following a close flyby on Jan. 20.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/ice-volcano-eruption-makes-comet-29p-schwassmann-wachmann-shine/' target='_blank'>"Ice Volcano" Eruption Makes Comet 29P/Schwassmann-Wachmann Shine</a></strong> — <em>2026-02-15 07:34:37</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-tool-collision-earth-satellites.html' target='_blank'>New tool could reduce collision risk for Earth-observation satellites</a></strong> — <em>2026-02-16 17:29:31</em></summary>
 
-After a recent explosive outburst, Comet 29P/Schwassmann-Wachmann is bright enough to see in a medium-sized telescope.
-The post "Ice Volcano" Eruption Makes Comet 29P/Schwassmann-Wachmann Shine appeared first on Sky & Telescope.
+Researchers at The University of Manchester have developed a new way to design Earth-observation satellite missions that could help protect the space environment while continuing to deliver vital data for tackling global challenges, such as climate change, food production, supply chain vulnerabilities and environmental degradation.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/wormholes-may-not-exist-weve-found-they-reveal-something-deeper-about-time-and-the-universe' target='_blank'>Wormholes may not exist – we've found they reveal something deeper about time and the universe</a></strong> — <em>2026-02-16 17:00:00</em></summary>
+
+The puzzle Einstein and Rosen were addressing was never about space travel, but about how quantum fields behave in curved spacetime. I
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/dark-universe/how-astronomers-are-unveiling-the-skeleton-of-the-universe' target='_blank'>How astronomers are unveiling the 'skeleton' of the universe</a></strong> — <em>2026-02-16 16:00:00</em></summary>
+
+Faint structures play a crucial role in cosmic development, and scientists are only just beginning to grasp their full extent and role in shaping the universe.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-13-b1081-vsfb-ocisly-6-103-b1090-ccsfs-asfog' target='_blank'>Double delivery: SpaceX sends Starlink satellites into orbit on launches from California and Florida</a></strong> — <em>2026-02-16 15:46:50</em></summary>
+
+SpaceX Falcon 9 rockets carrying Starlink satellites launched on Feb. 14 and  Feb. 16, 2026 from Vandenberg Space Force Base, California and Cape Canaveral Space Force Station, Florida, respectively.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-alien-earth-havent.html' target='_blank'>If alien signals have already reached Earth, why haven't we seen them?</a></strong> — <em>2026-02-16 15:16:31</em></summary>
+
+For decades, scientists have searched the skies for signs of extraterrestrial technology. A study from EPFL asks a sharp question: if alien signals have already reached Earth without us noticing, what should we realistically expect to detect today?
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-early-mars-icy-latest.html' target='_blank'>Early Mars was warm and wet not icy, suggests latest research</a></strong> — <em>2026-02-16 15:08:42</em></summary>
+
+A recent study showed that Mars was warm and wet billions of years ago. The finding contrasts with another theory that this era was mainly cold and icy. The result has implications for the idea that life could have developed on the planet at this time.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/this-giant-metal-dome-will-hide-a-truly-colossal-telescope-mirror-space-photo-of-the-day-for-feb-16-2026' target='_blank'>This giant metal dome will hide a truly colossal telescope mirror | Space photo of the day for Feb. 16, 2026</a></strong> — <em>2026-02-16 15:08:18</em></summary>
+
+Straight to the dome.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-term-radio-probe-relativistic-binary.html' target='_blank'>Long-term radio observations probe a relativistic binary pulsar system</a></strong> — <em>2026-02-16 15:00:01</em></summary>
+
+Astronomers have analyzed the data from long-term radio observations of a binary pulsar known as PSR J1906+0746. Results of the new study, published February 5 on the arXiv pre-print server, deliver important information regarding the nature of this system.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/five-new-mandalorian-themed-sets-are-coming-soon-from-lego' target='_blank'>Five new Mandalorian-themed sets are coming soon from Lego</a></strong> — <em>2026-02-16 14:39:58</em></summary>
+
+With The Mandalorian & Grogu movie release getting ever closer, Lego has just announced five tie-in sets.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/science/particle-physics/scientists-hunt-for-origins-of-the-mysterious-sun-goddess-particle' target='_blank'>Scientists hunt for origins of the mysterious 'sun goddess' particle</a></strong> — <em>2026-02-16 14:00:00</em></summary>
+
+Scientists have used a novel new approach to discover the potential origins of the sun goddess particle Amaterasu, the second most energetic cosmic ray ever to be detected striking Earth.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-concept-3iatlas.html' target='_blank'>A new concept for catching up with 3I/ATLAS</a></strong> — <em>2026-02-16 13:50:31</em></summary>
+
+The arrival of 3I/ATLAS in our solar system spawned multiple proposals for a rendezvous mission to study it up close. As the third interstellar object (ISO) ever detected, the wealth of information direct studies could provide would be groundbreaking in many respects. However, the mission architecture for intercepting an interstellar comet poses numerous significant challenges for mission designers and planners. Chief among them is the technological readiness level (TRL) of the proposed propulsion systems, ranging from conventional rockets to directed-energy propulsion (DEP).
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/fully-unlocking-the-orbital-economy-california-company-will-fly-astronauts-to-the-space-station-in-2027' target='_blank'>'Fully unlocking the orbital economy': This California company will fly astronauts to the space station in 2027</a></strong> — <em>2026-02-16 13:00:00</em></summary>
+
+NASA has selected the California startup Vast to operate the sixth private astronaut mission to the International Space Station. Liftoff is targeted for summer 2027.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-southern-california-sky-lit-valentine.html' target='_blank'>Southern California sky is lit up by Valentine's Day SpaceX launch</a></strong> — <em>2026-02-16 11:40:03</em></summary>
+
+Southern Californians out on Saturday night for Valentine's Day took a break from staring longingly into each other's eyes to gaze at something else: a SpaceX rocket blazing across the early evening Southern California sky.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-nasa-private-company-vast-space.html' target='_blank'>NASA to let private company Vast visit space station for private mission in 2027</a></strong> — <em>2026-02-16 11:30:02</em></summary>
+
+NASA has let Axiom Space make four visits to the International Space Station and in January 2026 awarded it the right for the fifth visit next year, but on Feb. 12, the agency announced a new company would be allowed a private mission as well.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/what-time-is-the-annular-solar-eclipse-on-feb-17' target='_blank'>What time is the annular solar eclipse on Feb. 17?</a></strong> — <em>2026-02-16 11:00:00</em></summary>
+
+A 'ring of fire' eclipse is coming to Antarctica on Feb. 17.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/02/260215225537.htm' target='_blank'>Universe may end in a “big crunch,” new dark energy data suggests</a></strong> — <em>2026-02-16 08:26:44</em></summary>
+
+New data from major dark-energy observatories suggest the universe may not expand forever after all. A Cornell physicist calculates that the cosmos is heading toward a dramatic reversal: after reaching its maximum size in about 11 billion years, it could begin collapsing, ultimately ending in a “big crunch” roughly 20 billion years from now.
 
 </details>
 
