@@ -2,201 +2,264 @@
 
     ### Summary of Recent Developments in Astrophysics
 
-#### Breakthroughs in Galaxy Formation Understanding
-Recent findings are reshaping our comprehension of galaxy formation in the early universe. Notably, astronomers have identified a population of dusty, star-forming galaxies that emerged just a billion years after the Big Bang. This discovery serves as a crucial link between previously known bright galaxies and the early quiescent galaxies, suggesting a more complex evolution of cosmic structures than previously understood. Additionally, the James Webb Space Telescope (JWST) has observed the most distant jellyfish galaxy to date, providing valuable insights into the interactions and evolutionary paths of galaxies within clusters.
+#### Insights into Dark Matter and Galaxy Formation
+Recent observational studies have significantly advanced our understanding of dark matter and galaxy evolution. The James Webb Space Telescope (JWST) has provided striking images of a "cosmic jellyfish," revealing how galaxies may transform in the early universe. Concurrently, the Hubble Space Telescope, in collaboration with the Euclid and Subaru telescopes, has identified Candidate Dark Galaxy-2 (CDG-2), a galaxy predominantly composed of dark matter with minimal stellar presence. These findings indicate the complex interplay between dark matter and galaxy formation processes, suggesting that many galaxies may remain hidden from traditional observation methods.
 
 Key items:
-1. Astronomers discovered a population of dusty galaxies forming shortly after the Big Bang, providing a crucial link in galactic evolution. [Link](https://phys.org/news/2026-02-astronomers-links-galaxy-evolution.html)
-2. JWST captured the most distant jellyfish galaxy, offering insights into star formation and gas dynamics in early galaxies. [Link](https://phys.org/news/2026-02-jwst-distant-jellyfish-galaxy-date.html)
+1. James Webb Space Telescope's "cosmic jellyfish" images shed light on early galactic evolution - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-stunning-cosmic-jellyfish-solve-the-mysteries-of-galactic-evolution-photo.
+2. Hubble identifies a galaxy that may be 99% dark matter, offering new perspectives on galaxy formation - https://phys.org/news/2026-02-hubble-invisible-galaxy-dark.html.
+3. CDG-2's discovery highlights the prevalence of dark matter in the universe and its implications for cosmic structure - https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_Subaru_uncover_dark_galaxy.
 
-#### New Insights into Stellar Dynamics
-The discovery of a double white dwarf system in the globular cluster NGC 6397 has advanced our understanding of stellar evolution and the dynamics within dense stellar environments. This finding suggests intricate interactions among stars in clusters, which could yield important data on the formation of binary systems. Additionally, the detection of an ultra-fast pulsar near Sagittarius A*, the Milky Way's supermassive black hole, opens avenues for studying extreme gravitational effects on space-time.
-
-Key items:
-1. A double white dwarf system was discovered in NGC 6397, enhancing knowledge of stellar interactions in globular clusters. [Link](https://phys.org/news/2026-02-white-dwarf-nearby-stellar-cluster.html)
-2. An ultra-fast pulsar has been detected near Sagittarius A*, potentially offering insights into gravitational phenomena. [Link](https://www.sciencedaily.com/releases/2026/02/260217005751.htm)
-
-#### Evolving Perspectives on Cosmic Forces
-Explorations into dark energy are prompting a re-evaluation of its constancy, suggesting it may evolve over time, which could significantly alter cosmological models regarding the universe's expansion. Concurrently, studies of lunar tectonic activity have revealed geologically young features on the Moon, indicating active geological processes that could influence future lunar exploration missions.
+#### Advancements in Space Exploration Technology
+Technological innovations are enhancing the capabilities of space exploration, particularly for lunar and Martian missions. A proposed ultra-stable laser system on the Moon could revolutionize navigation and timekeeping for future lunar expeditions. Additionally, NASA's Perseverance rover has successfully integrated a new GPS technology, enabling it to determine its location with remarkable precision of 25 centimeters. These advancements not only improve operational efficiency but also lay the groundwork for more complex missions in our solar system.
 
 Key items:
-1. New research questions the constancy of dark energy, suggesting possible variations in cosmic expansion rates. [Link](https://phys.org/news/2026-02-dark-energy-evolving.html)
-2. Scientists have mapped tectonic activity on the Moon, revealing young geological features that could affect landing site selections. [Link](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
+1. A proposed lunar laser system aims to aid navigation and improve timekeeping for future lunar missions - https://phys.org/news/2026-02-super-stable-laser-moon-future.html.
+2. Perseverance rover's new GPS technology allows for precise location tracking on Mars - https://phys.org/news/2026-02-mars-gps-perseverance-centimeters.html.
 
 ### Conclusion
-The field of astrophysics is currently experiencing a transformative phase characterized by significant discoveries that deepen our understanding of galaxy formation, stellar dynamics, and the forces shaping the universe. The integration of advanced observational technologies, particularly the JWST, is pivotal in driving these insights. As researchers continue to unravel the complexities of cosmic phenomena, the implications for our understanding of the universe's evolution and structure are profound, potentially leading to a revised narrative of cosmic history. 
+The field of astrophysics is currently witnessing a dynamic intersection of groundbreaking discoveries and technological advancements. Observational efforts are unearthing the hidden complexities of dark matter and its influence on galaxy formation, while innovative technologies are enhancing our ability to explore celestial bodies with greater precision. As researchers continue to refine these tools and techniques, the potential for new insights into the universe's structure and evolution is expanding, promising a rich future for astrophysical exploration.
 
 ### Top Sources:
-1. Did a titanic moon crash create Saturn's iconic rings? - https://www.space.com/astronomy/saturn/did-a-titanic-moon-crash-create-saturns-iconic-rings - New insights into Saturn's ring formation linked to a moon collision.
-2. Astronomers may have just found one of the missing links in galaxy evolution - https://phys.org/news/2026-02-astronomers-links-galaxy-evolution.html - Discovery of early dusty galaxies sheds light on cosmic evolution.
-3. JWST spots most distant jellyfish galaxy to date - https://phys.org/news/2026-02-jwst-distant-jellyfish-galaxy-date.html - Observation of a jellyfish galaxy provides insights into early star formation.
-4. Double white dwarf system detected in a nearby stellar cluster - https://phys.org/news/2026-02-white-dwarf-nearby-stellar-cluster.html - Discovery enhances understanding of stellar dynamics in globular clusters.
-5. Ultra-fast pulsar found near the Milky Way’s supermassive black hole - https://www.sciencedaily.com/releases/2026/02/260217005751.htm - Potential insights into gravitational effects on space-time.
-6. Is dark energy actually evolving? - https://phys.org/news/2026-02-dark-energy-evolving.html - New research questions the constancy of dark energy.
-7. Scientists discover recent tectonic activity on the moon - https://phys.org/news/2026-02-scientists-tectonic-moon.html - Mapping of lunar features indicates active geological processes.
-8. NASA will fuel up its Artemis 2 moon rocket for the 2nd time on Feb. 19. Will it leak again? - https://www.space.com/space-exploration/artemis/nasa-will-fuel-up-its-artemis-2-moon-rocket-for-the-2nd-time-on-feb-19-will-it-leak-again - Preparations for Artemis 2 mission continue amidst challenges.
-9. UAE extends Mars probe mission until 2028 - https://phys.org/news/2026-02-uae-mars-probe-mission.html - Ongoing exploration efforts underscore the UAE's commitment to space science.
-10. A 'ring of fire' just appeared in the sky over Antarctica. Here's what happened during today's annular solar eclipse - https://www.space.com/stargazing/solar-eclipses/a-ring-of-fire-just-appeared-in-the-sky-over-antarctica-heres-what-happened-during-todays-annular-solar-eclipse - Coverage of a recent annular solar eclipse event.
+1. Northern Glow Spans Iceland and Canada - https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/ - A vivid aurora display observed during a minor geomagnetic storm.
+2. James Webb Space Telescope spots a stunning 'cosmic jellyfish' - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-stunning-cosmic-jellyfish-solve-the-mysteries-of-galactic-evolution-photo - Insight into early galactic evolution from JWST data.
+3. Hubble identifies a near-invisible galaxy that may be 99% dark matter - https://phys.org/news/2026-02-hubble-invisible-galaxy-dark.html - Discovery of a galaxy dominated by dark matter.
+4. A super stable laser on the moon could guide future lunar missions - https://phys.org/news/2026-02-super-stable-laser-moon-future.html - Proposal for a lunar laser to enhance navigation.
+5. New 'Mars GPS' lets Perseverance pinpoint its location within 25 centimeters - https://phys.org/news/2026-02-mars-gps-perseverance-centimeters.html - Enhanced navigation capabilities for Mars rover.
+6. Hubble, Euclid & Subaru uncover dark galaxy - https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_Subaru_uncover_dark_galaxy - Discovery of a galaxy with minimal star presence.
+7. Cosmic predators: How supermassive black holes slow star growth - https://phys.org/news/2026-02-cosmic-predators-supermassive-black-holes.html - Study on the impact of black holes on star formation.
+8. Scientists may have found a 'missing-link' black hole ripping up and devouring a star - https://www.space.com/astronomy/black-holes/scientists-may-have-found-a-missing-link-black-hole-ripping-up-and-devouring-a-star - Discovery of a tidal disruption event linked to an intermediate mass black hole.
+9. Araish spiral galaxy observations uncover a 26,700-light-year radio jet - https://phys.org/news/2026-02-araish-spiral-galaxy-uncover-year.html - Multi-wavelength observations of a nearby galaxy.
+10. Eclipse research finds turbulent times in the sun's corona - https://phys.org/news/2026-02-eclipse-turbulent-sun-corona.html - New insights into solar corona dynamics from eclipse observations.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/' target='_blank'>A Second Cyclone Slams Madagascar</a></strong> — <em>2026-02-18 05:01:00</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/' target='_blank'>Northern Glow Spans Iceland and Canada</a></strong> — <em>2026-02-19 05:00:00</em></summary>
 
-Widespread flooding affected tens of thousands of people after cyclones Fytia and Gezani drenched the island.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/' target='_blank'>A Second Cyclone Slams Madagascar</a></strong> — <em>2026-02-18 05:01:00</em></summary>
-
-Widespread flooding affected tens of thousands of people after cyclones Fytia and Gezani drenched the island.
+A vivid display of the aurora lit up skies over the Denmark Strait and eastern Canada during a minor geomagnetic storm in February 2026.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4804-4811-kicking-off-the-final-phase-of-boxwork-exploration/' target='_blank'>Curiosity Blog Sols 4804-4811: Kicking Off the Final Phase of Boxwork Exploration</a></strong> — <em>2026-02-18 00:44:49</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/' target='_blank'>Northern Glow Spans Iceland and Canada</a></strong> — <em>2026-02-19 05:00:00</em></summary>
 
-Written by Abigail Fraeman, Curiosity Deputy Project Scientist Earth planning date: Friday, Feb. 13, 2026 Curiosity spent this week at Gale crater completing the last few activities associated with the “Nevado Sajama 2” drill before kicking off our final phase of the boxwork exploration campaign. As we’ve explored the boxwork region, the science team has […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/saturn/did-a-titanic-moon-crash-create-saturns-iconic-rings' target='_blank'>Did a titanic moon crash create Saturn's iconic rings?</a></strong> — <em>2026-02-17 22:00:00</em></summary>
-
-A massive upheaval in the Saturnian system could have also led to the moon Hyperion.
+A vivid display of the aurora lit up skies over the Denmark Strait and eastern Canada during a minor geomagnetic storm in February 2026.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-resources/photometry-measuring-the-stars/' target='_blank'>Photometry: Measuring the Stars</a></strong> — <em>2026-02-17 21:11:15</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-stunning-cosmic-jellyfish-solve-the-mysteries-of-galactic-evolution-photo' target='_blank'>James Webb Space Telescope spots a stunning 'cosmic jellyfish' solve the mysteries of galactic evolution (photo)</a></strong> — <em>2026-02-18 22:00:00</em></summary>
 
-Here's how you can contribute to the science of astronomy.
-The post Photometry: Measuring the Stars appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/1st-trailer-for-the-mandalorian-and-grogu-teases-of-clone-wars-bounty-hunter-embo-and-a-whole-lot-of-hutts' target='_blank'>1st trailer for 'The Mandalorian and Grogu' teases 'Clone Wars' bounty hunter Embo and a whole lot of Hutts</a></strong> — <em>2026-02-17 21:04:23</em></summary>
-
-"Gangsters. War criminals. We'll take out every bad guy in your deck of cards."
+"This data provides us with rare insight into how galaxies were transformed in the early universe."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-astronomers-links-galaxy-evolution.html' target='_blank'>Astronomers may have just found one of the missing links in galaxy evolution</a></strong> — <em>2026-02-17 21:03:39</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/' target='_blank'>Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer</a></strong> — <em>2026-02-18 21:05:58</em></summary>
 
-A team of 48 astronomers from 14 countries, led by the University of Massachusetts Amherst, has discovered a population of dusty, star-forming galaxies at the far edges of the universe that formed only a billion years after the Big Bang, believed to have occurred 13.7 billion years ago. The galaxies may represent a snapshot in the galactic life cycle, linking recently discovered ultradistant bright galaxies formed 13.3 billion years ago with early "quiescent" (dead) galaxies that stopped forming stars about two billion years after the Big Bang.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/planets-constellations-and-more-heres-what-to-look-out-for-around-the-new-moon-on-feb-17' target='_blank'>Planets, constellations and more: Here's what to look out for around the new moon on Feb. 17</a></strong> — <em>2026-02-17 20:00:00</em></summary>
-
-Grab your telescope and join us on a sightseeing tour, before the moon returns to spoil the fun!
+The CSDA Program added three digital elevation and digital terrain products from Vantor’s Precision3D Product Line to the Satellite Data Explorer.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/predator-badlands-director-dan-trachtenberg-talks-hidden-easter-eggs-deleted-scenes-and-if-hes-sticking-around-for-more-sequels-interview' target='_blank'>'Predator: Badlands' director Dan Trachtenberg talks hidden Easter eggs, deleted scenes, and if he's sticking around for more sequels (interview)</a></strong> — <em>2026-02-17 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/good-luck-have-fun-dont-die-feels-like-12-monkeys-meets-shaun-of-the-dead-and-a-whole-lot-of-ai-dread' target='_blank'>'Good Luck, Have Fun, Don't Die' feels like '12 Monkeys' meets 'Shaun of the Dead' and a whole lot of AI dread (review)</a></strong> — <em>2026-02-18 21:00:00</em></summary>
 
-As Predator: Badlands decloaks on streaming and physical media, we've sat down for a quick spoiler-filled chat with its director.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/stormy-snowy-winter-for-hokkaido/' target='_blank'>Stormy, Snowy Winter for Hokkaido</a></strong> — <em>2026-02-17 17:26:32</em></summary>
-
-On February 5, 2026, the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite acquired this image of snow-covered landscapes across Hokkaido. With more than 31 active volcanoes, the island features several large caldera lakes, including at least five that are visible in the image. (Calderas are large depressions formed by volcanic eruptions.) In the east, forested windbreaks around Nakashibetsu form […]
+Sam Rockwell rocks as a mad time traveler saving the world from a rogue AI in Gore Verbinski's new film "Good Luck, Have Fun, Don't Die."
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-will-fuel-up-its-artemis-2-moon-rocket-for-the-2nd-time-on-feb-19-will-it-leak-again' target='_blank'>NASA will fuel up its Artemis 2 moon rocket for the 2nd time on Feb. 19. Will it leak again?</a></strong> — <em>2026-02-17 17:08:33</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/' target='_blank'>Vantor Archive Imagery Added to Satellite Data Explorer</a></strong> — <em>2026-02-18 20:54:31</em></summary>
 
-NASA will try again to fuel up its Artemis 2 moon rocket on Feb. 19. If all goes well, the crewed mission could launch as soon as March 6.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/ames/nasa-advances-high-altitude-traffic-management/' target='_blank'>NASA Advances High-Altitude Traffic Management</a></strong> — <em>2026-02-17 16:36:37</em></summary>
-
-High-altitude flight is getting increasing attention from sectors ranging from telecommunications to emergency response. To make that airspace more accessible, NASA is developing an air traffic management system covering those altitudes and supplementing its work with real-time data from a research balloon in Earth’s stratosphere.  Aircraft at high altitudes – 50,000 feet or higher, or roughly 10,000 to 20,000 feet above most commercial traffic – offer new […]
+The CSDA Program has added imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/ames/nasa-advances-high-altitude-traffic-management/' target='_blank'>NASA Advances High-Altitude Traffic Management</a></strong> — <em>2026-02-17 16:36:37</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/' target='_blank'>CSDA Releases New Data Acquisition Request System</a></strong> — <em>2026-02-18 20:42:16</em></summary>
 
-High-altitude flight is getting increasing attention from sectors ranging from telecommunications to emergency response. To make that airspace more accessible, NASA is developing an air traffic management system covering those altitudes and supplementing its work with real-time data from a research balloon in Earth’s stratosphere.  Aircraft at high altitudes – 50,000 feet or higher, or roughly 10,000 to 20,000 feet above most commercial traffic – offer new […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-jwst-distant-jellyfish-galaxy-date.html' target='_blank'>JWST spots most distant jellyfish galaxy to date</a></strong> — <em>2026-02-17 16:24:44</em></summary>
-
-Astrophysicists from the University of Waterloo have observed a new jellyfish galaxy, the most distant one of its kind ever captured. Jellyfish galaxies are named for the long, tentacle-like streams that trail behind them. They move quickly through their hot, dense galaxy cluster, and the gas within the cluster acts like a strong wind pushing the jellyfish galaxy's own gas out the back, forming trails. The technical term for this process is ram-pressure stripping. The Waterloo scientists found this galaxy in deep space data captured by the James Webb Space Telescope (JWST). It is at z = 1.156, meaning we're seeing it as it was 8.5 billion years ago, when the universe was much younger.
+The CSDA Program’s Data Acquisition Request System lets authorized users submit proposals for yet-to-be-collected data from CSDA’s commercial partners.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-dark-energy-evolving.html' target='_blank'>Is dark energy actually evolving?</a></strong> — <em>2026-02-17 15:57:34</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/' target='_blank'>CSDA Program Announces Eight New Data Agreements</a></strong> — <em>2026-02-18 20:23:53</em></summary>
 
-Dark energy is one of those cosmological features that we are still learning about. While we can't see it directly, we can most famously observe its effects on the universe—primarily how it is causing the expansion of the universe to speed up. But recently, physicists have begun to question even that narrative, pointing to results that show the expansion isn't happening at the same rate our math would have predicted.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-scientists-tectonic-moon.html' target='_blank'>Scientists discover recent tectonic activity on the moon</a></strong> — <em>2026-02-17 15:40:01</em></summary>
-
-Scientists have produced the first global map and analysis of small mare ridges (SMRs) on the moon, a characteristic geological feature of tectonic activity. Published in The Planetary Science Journal Dec. 24, 2025, the analysis performed by scientists at the National Air and Space Museum's Center for Earth and Planetary Studies and colleagues reveals for the first time that SMRs are geologically young and are widespread across the lunar maria—the vast, dark plains on the moon's surface. The team's discovery of how SMRs form introduces a new set of potential moonquake sources that could affect future site selections for lunar landings.
+The CSDA Program announced eight new agreements that will give users more access to multispectral and synthetic aperture radar data.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/chinese-astronauts-celebrate-lunar-new-year-2026-by-filming-music-video-on-tiangong-space-station' target='_blank'>Chinese astronauts filmmusic video in space to celebrate Lunar New Year 2026</a></strong> — <em>2026-02-17 15:39:52</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-hubble-invisible-galaxy-dark.html' target='_blank'>Hubble identifies a near-invisible galaxy that may be 99% dark matter</a></strong> — <em>2026-02-18 20:00:49</em></summary>
 
-China's Shenzhou 21 crew rang in the Year of the Horse with an impressive celebration aboard the nation's Tiangong Space Station that included filming a music video.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-uae-mars-probe-mission.html' target='_blank'>UAE extends Mars probe mission until 2028</a></strong> — <em>2026-02-17 15:30:01</em></summary>
-
-The United Arab Emirates announced on Tuesday that it would extend its Mars probe mission, now in its fifth year, for an additional three, underlining the oil-rich state's space ambitions.
+In the vast tapestry of the universe, most galaxies shine brightly across cosmic time and space. Yet a rare class of galaxies remains nearly invisible—low-surface-brightness galaxies dominated by dark matter and containing only a sparse scattering of faint stars.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/lasers-beam-artificial-stars-above-chile-space-photo-of-the-day-for-feb-17-2026' target='_blank'>Lasers beam 'artificial stars' above Chile | Space photo of the day for Feb. 17, 2026</a></strong> — <em>2026-02-17 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-super-stable-laser-moon-future.html' target='_blank'>A super stable laser on the moon could guide future lunar missions and improve our timekeeping</a></strong> — <em>2026-02-18 19:40:03</em></summary>
 
-Pew pew pew.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/a-ring-of-fire-just-appeared-in-the-sky-over-antarctica-heres-what-happened-during-todays-annular-solar-eclipse' target='_blank'>A 'ring of fire' just appeared in the sky over Antarctica. Here's what happened during today's annular solar eclipse</a></strong> — <em>2026-02-17 14:05:45</em></summary>
-
-An annular eclipse swept over a remote corridor of Antarctica on Feb. 17.
+Scientists are proposing to build a laser in a crater on the moon to help future lunar missions land safely in the dark and find their way around. This ultra-stable light source could also help us keep time more accurately, as they explain in a paper available on the arXiv preprint server.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/from-ariane-to-exomars-the-ultimate-esa-trivia-challenge' target='_blank'>From Ariane to ExoMars: The ultimate ESA trivia challenge</a></strong> — <em>2026-02-17 14:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/missions/explorer/notes-from-the-field/' target='_blank'>Notes from the Field</a></strong> — <em>2026-02-18 19:23:57</em></summary>
 
-Test your knowledge of Europe's boldest missions, brilliant spacecraft, and groundbreaking discoveries as you dive into a trivia challenge dedicated to the European Space Agency.
+Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/watch-the-young-moon-greet-mercury-at-sunset/' target='_blank'>Watch the Young Moon Greet Mercury at Sunset</a></strong> — <em>2026-02-17 13:26:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/' target='_blank'>42 Years of Measuring the Sun, the Earth and the Energy in Between</a></strong> — <em>2026-02-18 19:23:36</em></summary>
+
+By Denise Lineberry On Jan. 31, 1958, Explorer 1 became the first satellite launched by the United States. Its primary science instrument, a cosmic ray detector, was designed to measure the radiation environment in Earth orbit. Though its final transmission was in May 1958, it continued to revolve around Earth more than 58,000 times. As […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/explorer/the-sky-belongs-to-all-of-us/' target='_blank'>The Sky Belongs to All of Us</a></strong> — <em>2026-02-18 19:23:12</em></summary>
+
+By Hashima Hasan How did a little girl born in India soon after its independence from the British Empire, become a program scientist for NASA’s Hubble Space Telescope, and the first female program scientist for the James Webb Space Telescope, Stratospheric Observatory for Infrared Astronomy (SOFIA), Gravity Probe B, and other astrophysics flight missions? The […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/explorer/measuring-the-big-bang-with-the-cobe-satellite/' target='_blank'>Measuring the Big Bang with the COBE satellite</a></strong> — <em>2026-02-18 19:22:41</em></summary>
+
+By John Mather The Cosmic Background Explorer satellite (COBE) went up on a Delta rocket on Nov. 18, 1989, into a polar sun-synchronous orbit 900 km up. Our team at NASA Goddard Space Flight Center (GSFC), Ball Aerospace, the Jet Propulsion Laboratory (JPL) and universities built it to look at the cosmic microwave and infrared […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/explorer/peering-homeward-1972/' target='_blank'>Peering Homeward, 1972</a></strong> — <em>2026-02-18 19:21:22</em></summary>
+
+By Laura Rocchio On July 23, 1972 the first civilian satellite designed to image Earth’s land surfaces was launched from Vandenberg Air Force Base in California. On board the satellite, originally named the Earth Resources Technology Satellite (ERTS), but later known as Landsat 1, were two sensors. The primary sensor, called the Return Beam Vidicon […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/see-the-moons-shadow-darken-antarctica-in-epic-satellite-imagery-of-the-feb-17-solar-eclipse-video' target='_blank'>See the moon's shadow darken Antarctica in epic satellite imagery of the Feb. 17 solar eclipse (video)</a></strong> — <em>2026-02-18 19:18:37</em></summary>
+
+Plus NOAA's GOES-19 satellite spies the lunar disk crossing the face of our parent star.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-resume-rocket-landings-bahamas-after-starship-mishap-debris' target='_blank'>SpaceX will resume landing rockets in The Bahamas after raining debris on the country last year</a></strong> — <em>2026-02-18 19:00:00</em></summary>
+
+The Bahamas has given SpaceX permission to resume rocket landings in the country, which were paused last year after a Starship test flight explosion caused a debris shower.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-artemis-ii-wet-dress-rehearsal/' target='_blank'>NASA to Provide Coverage of Artemis II Wet Dress Rehearsal</a></strong> — <em>2026-02-18 18:07:29</em></summary>
+
+As NASA continues preparations for the Artemis II test flight, the agency will provide coverage Thursday, Feb. 19, of its next wet dress rehearsal, a fueling test of the SLS (Space Launch System) rocket, and hold a news conference on Friday, Feb. 20. Teams are counting down to the opening of a simulated launch window at 8:30 p.m. EST on Feb. […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-mars-gps-perseverance-centimeters.html' target='_blank'>New 'Mars GPS' lets Perseverance pinpoint its location within 25 centimeters</a></strong> — <em>2026-02-18 18:02:25</em></summary>
+
+Imagine you're all alone, driving along in a rocky, unforgiving desert with no roads, no map, no GPS, and no more than one phone call a day for someone to inform you exactly where you are. That's what NASA's Perseverance rover has been experiencing since landing on Mars five years ago. Though it carries time-tested tools for determining its general location, the rover has needed operators on Earth to tell it precisely where it is—until now.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/new-fear-unlocked-runaway-black-holes' target='_blank'>New fear unlocked: runaway black holes</a></strong> — <em>2026-02-18 18:00:00</em></summary>
+
+If a pair of black holes coalesce into one, much of that vast energy can be released in a few seconds.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/watch-the-young-moon-greet-mercury-at-sunset/' target='_blank'>Watch the Young Moon Greet Mercury at Sunset</a></strong> — <em>2026-02-18 17:37:17</em></summary>
 
 On February 18th, the willowy crescent has a close shave with Mercury, so close that it occults the planet from some U.S. cities.
 The post Watch the Young Moon Greet Mercury at Sunset appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-white-dwarf-nearby-stellar-cluster.html' target='_blank'>Double white dwarf system detected in a nearby stellar cluster</a></strong> — <em>2026-02-17 13:10:01</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/we-have-visitors-interstellar-material-from-nearby-debris-disks/' target='_blank'>We Have Visitors: Interstellar Material from Nearby Debris Disks</a></strong> — <em>2026-02-18 17:28:33</em></summary>
 
-Using the Very Large Telescope (VLT), astronomers have discovered a compact binary system consisting of two white dwarfs in the center of a nearby globular cluster designated NGC 6397. The finding was presented in a paper published February 9 on the arXiv preprint server .
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/River_deltas_are_sinking_faster_than_the_sea_is_rising' target='_blank'>River deltas are sinking faster than the sea is rising</a></strong> — <em>2026-02-17 13:00:00</em></summary>
-
-
-Earth’s river deltas, home to about 5% of the global population and some of the world’s major cities, are experiencing subsidence, which exacerbates the risks from sea-level rise. The Copernicus Sentinel-1 mission has captured a decade's worth of data showing land sinking faster than previously thought.
+Traversing the galaxy from places yet known, a few interstellar objects have taken a quick dip into our solar system. Astronomers look to nearby planet-forming stellar systems as possible launching posts.
+The post We Have Visitors: Interstellar Material from Nearby Debris Disks appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/02/260217005751.htm' target='_blank'>Ultra-fast pulsar found near the Milky Way’s supermassive black hole</a></strong> — <em>2026-02-17 11:15:42</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-satellites-earth-orbit-track-catastrophe.html' target='_blank'>Too many satellites? Earth's orbit is on track for a catastrophe—but we can stop it</a></strong> — <em>2026-02-18 17:14:37</em></summary>
 
-Scientists scanning the heart of the Milky Way have spotted a tantalizing signal: a possible ultra-fast pulsar spinning every 8.19 milliseconds near Sagittarius A*, the supermassive black hole at our galaxy’s core. Pulsars act like incredibly precise cosmic clocks, and finding one in this extreme environment could open a rare window into how space-time behaves under intense gravity.
+On January 30, 2026, SpaceX filed an application with the US Federal Communications Commission for a megaconstellation of up to 1 million satellites to power data centers in space.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/the-artemis-1-moon-mission-had-a-heat-shield-issue-heres-why-nasa-doesnt-think-it-will-happen-again-on-artemis-2' target='_blank'>The Artemis 1 moon mission had a heat shield issue. Here’s why NASA doesn’t think it will happen again on Artemis 2</a></strong> — <em>2026-02-17 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/general/i-am-artemis-katie-oriti/' target='_blank'>I Am Artemis: Katie Oriti</a></strong> — <em>2026-02-18 16:30:00</em></summary>
 
-The Orion capsule's heat shield had issues during the uncrewed Artemis 1 moon mission in late 2022. Here are the steps NASA has taken to prevent them from recurring on Artemis 2.
+Listen to this audio excerpt from Katie Oriti, Orion European Service Module Integration Office manager: Growing up in rural America, Katie Oriti could only dream of working for NASA. Not because she wasn’t inspired by the dark, star-filled skies of her hometown Shelby, Ohio, but because it felt out of reach. “I think NASA was […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-eclipse-turbulent-sun-corona.html' target='_blank'>Eclipse research finds turbulent times in the sun's corona</a></strong> — <em>2026-02-18 16:20:01</em></summary>
+
+Researchers at the University of Hawaiʻi have uncovered new clues about how energy moves through the sun's outer atmosphere, using one of nature's rarest events as their window: total solar eclipses. Drawing on more than a decade of eclipse observations, a team led by Shadia Habbal at the Institute for Astronomy has, for the first time, clearly identified turbulent structures in the sun's corona and shown that they can survive far from the solar surface.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-resources/astrophotography-primer-for-pixinsight/' target='_blank'>Astrophotography: Primer for PixInsight</a></strong> — <em>2026-02-18 15:50:03</em></summary>
+
+Master the basics of the most popular astronomical image-processing software.
+The post Astrophotography: Primer for PixInsight appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-araish-spiral-galaxy-uncover-year.html' target='_blank'>Araish spiral galaxy observations uncover a 26,700-light-year radio jet</a></strong> — <em>2026-02-18 15:40:03</em></summary>
+
+An international team of astronomers has performed multi-wavelength observations of the nearby Araish galaxy to investigate the origin of its radio emission. As a result, they detected an extended radio jet of this galaxy. The finding was reported February 11 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_Subaru_uncover_dark_galaxy' target='_blank'>Hubble, Euclid & Subaru uncover dark galaxy</a></strong> — <em>2026-02-18 15:00:00</em></summary>
+
+
+Employing NASA/ESA Hubble Space Telescope in combination with ESA Euclid and ground-based NAOJ Subaru Telescope, astronomers identified a galaxy that appears to be almost entirely dominated by dark matter with only a smattering of stars. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light of only about 1 million Suns.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb-18-2026' target='_blank'>SpaceX Falcon 9 rocket plume blossoms over Florida | Space photo of the day for Feb. 18, 2026</a></strong> — <em>2026-02-18 15:00:00</em></summary>
+
+The NASA/SpaceX Crew-12 mission launched four astronauts on a journey to the International Space Station.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/best-premium-skywatching-gear-you-should-consider' target='_blank'>Best premium skywatching gear you should consider in 2026</a></strong> — <em>2026-02-18 15:00:00</em></summary>
+
+This premium stargazing kit will help you take your stargazing experience to the next level.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/observing/useful-projects-for-a-lunar-eclipse/' target='_blank'>Useful Projects for a Lunar Eclipse</a></strong> — <em>2026-02-18 14:20:00</em></summary>
+
+Here’s all you need to know to help measure the size of Earth’s shadow during the next lunar eclipse.
+The post Useful Projects for a Lunar Eclipse appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-cosmic-predators-supermassive-black-holes.html' target='_blank'>Cosmic predators: How supermassive black holes slow star growth in nearby galaxies</a></strong> — <em>2026-02-18 14:04:01</em></summary>
+
+Intense radiation emitted by active supermassive black holes—thought to reside at the center of most, if not all, galaxies—can slow star growth not just in their host galaxy, but also in galaxies millions of light-years away, according to a study led by Yongda Zhu, a postdoctoral researcher at the University of Arizona Department of Astronomy and Steward Observatory.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Revealed_10_new_insights_in_climate_science' target='_blank'>Revealed: 10 new insights in climate science</a></strong> — <em>2026-02-18 13:00:00</em></summary>
+
+
+Each year, the world’s leading climate scientists evaluate the most critical evidence on how our planet is changing. Their assessments draw heavily on data from Earth-observing satellites – and the latest report delivers a stark warning: the planet’s energy balance is drifting further out of alignment, ocean warming is now accelerating, and the land’s capacity to absorb carbon is declining, along with other troubling trends.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/scientists-may-have-found-a-missing-link-black-hole-ripping-up-and-devouring-a-star' target='_blank'>Scientists may have found a 'missing-link' black hole ripping up and devouring a star</a></strong> — <em>2026-02-18 13:00:00</em></summary>
+
+An unusual tidal disruption event spotted by astronomers may be the result of an elusive intermediate mass black hole ripping apart a star.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/elon-musk-wants-to-put-a-satellite-catapult-on-the-moon-its-not-a-new-idea' target='_blank'>Elon Musk wants to put a satellite catapult on the moon. It's not a new idea</a></strong> — <em>2026-02-18 11:00:00</em></summary>
+
+Elon Musk isn't the first person to propose the use of mass drivers on the moon. He's following in the footsteps of space visionary Gerard O'Neill, who floated the idea back in 1974.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/these-are-the-best-third-party-lenses-wed-recommend-for-astrophotography' target='_blank'>These are the best third-party camera lenses we recommend for astrophotography in 2026</a></strong> — <em>2026-02-18 10:47:56</em></summary>
+
+Should you buy a named-brand camera lens or go third-party?
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-nasa-fuel-leaks-countdown-artemis.html' target='_blank'>NASA hopes fuel leaks are fixed as it launches another countdown test for the Artemis II moonshot</a></strong> — <em>2026-02-18 09:20:06</em></summary>
+
+NASA began another practice launch countdown Tuesday for its first moonshot in decades with astronauts after making repairs to fix dangerous fuel leaks that already have bumped the flight into March.
 
 </details>
 
