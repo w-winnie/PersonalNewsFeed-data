@@ -2,119 +2,107 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Efficiency in AI Training and Deployment
-Recent innovations are significantly enhancing the efficiency of training and deploying AI models. A novel approach developed by MIT leverages idle computing time to double the training speeds of large language models (LLMs) without compromising accuracy. This advancement could lower the resource barriers for developing state-of-the-art AI systems, democratizing access to advanced technologies.
+#### 1. Enhanced Model Training Techniques
+Recent innovations in AI model training are underscoring the efficacy of reinforcement fine-tuning (RFT), which allows models to adapt based on user feedback. Amazon's implementation of RFT in its Nova models demonstrates how this approach can facilitate continuous learning, particularly in dynamic environments like customer service and code generation. This shift suggests a growing emphasis on creating AI systems that are not only reactive but also proactive, improving their performance through ongoing user interaction.
 
-Key Items:
-- New method could increase LLM training efficiency - https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226 - MIT's approach doubles training speeds for LLMs.
-- Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker - https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/ - Discusses optimizations for serving multiple models efficiently.
+Key items:
+- Reinforcement Fine-Tuning for Amazon Nova - https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/ - Explores how RFT enhances AI learning through user feedback.
+- CORPGEN Advances AI Agents for Real Work - https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/ - Discusses the evolution of AI agents to handle complex real-world tasks.
 
-#### 2. Advancements in Mathematical Problem Solving
-AI's ability to tackle complex mathematical challenges is advancing rapidly, as demonstrated by Epoch AI's FrontierMath benchmark. Models like GPT-5.2 and Aletheia are solving intricate mathematical problems with increasing proficiency, suggesting a shift in the landscape of mathematical reasoning and the need for new evaluation benchmarks.
+#### 2. Innovations in AI Infrastructure
+The operationalization of AI continues to advance, with AWS releasing significant updates to its Large Model Inference (LMI) container. These updates focus on performance enhancements and streamlined deployment processes, reflecting a broader trend towards simplifying the integration of large language models (LLMs) into existing systems. As organizations increasingly adopt AI solutions, robust infrastructure becomes essential for supporting diverse model architectures effectively.
 
-Key Items:
-- AI Is Acing Math Exams Faster Than Scientists Write Them - https://spectrum.ieee.org/ai-math-benchmarks - Highlights the rapid progress of AI in solving advanced math problems.
-- The First Proof challenge - https://spectrum.ieee.org/ai-math-benchmarks - Proposes a new set of difficult math questions to evaluate AI's capabilities.
+Key items:
+- Large Model Inference Container Updates - https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/ - Highlights performance improvements and expanded model support for LLMs.
+- Designing Data and AI Systems That Hold Up in Production - https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/ - Offers insights on building resilient AI systems for operational demands.
 
-#### 3. Interdisciplinary Applications of AI
-AI is increasingly being integrated with other scientific domains, leading to innovative applications. The PhysiOpt system combines generative AI with physics simulations to create practical items, while AI-driven methodologies in cell biology aim to provide comprehensive insights into cellular mechanisms, potentially revolutionizing research in both fields.
+#### 3. Advances in Image Generation and Processing
+The field of image generation is witnessing rapid advancements, exemplified by DeepMind's Nano Banana 2, which combines high-level world knowledge with enhanced speed for real-time applications. Additionally, tools like Gemini facilitate sophisticated image editing and object detection, indicating a growing sophistication in visual AI capabilities. These developments have far-reaching implications for sectors that rely on visual content, such as media and entertainment.
 
-Key Items:
-- Mixing generative AI with physics - https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225 - Integrates physics simulations to enhance generative design.
-- AI to help researchers see the bigger picture in cell biology - https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225 - Aims to improve understanding of disease mechanisms.
+Key items:
+- Nano Banana 2 - https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/ - Introduces a new model that enhances image generation capabilities.
+- Detecting and Editing Visual Objects with Gemini - https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/ - Discusses AI techniques for advanced image editing.
 
 ### Conclusion
-The current AI landscape is characterized by a strong focus on enhancing efficiency in training and deployment, significant strides in mathematical problem-solving, and innovative interdisciplinary applications. As these trends evolve, they promise to reshape not only the capabilities of AI systems but also their applicability across diverse scientific domains. The momentum in AI research suggests a transformative period ahead, with implications that extend beyond traditional boundaries.
+The current AI landscape is characterized by substantial advancements in model training methodologies, infrastructure improvements for deployment, and enhanced image processing capabilities. These trends indicate a move towards more adaptive, efficient, and practical AI systems that can address complex real-world challenges. As these technologies continue to evolve, they promise to drive productivity across various domains while also necessitating careful consideration of implementation challenges and ethical implications.
 
 ### Top Sources:
-1. New method could increase LLM training efficiency - https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226 - MIT's approach doubles training speeds for LLMs.
-2. Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker - https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/ - Discusses optimizations for serving multiple models efficiently.
-3. AI Is Acing Math Exams Faster Than Scientists Write Them - https://spectrum.ieee.org/ai-math-benchmarks - Highlights the rapid progress of AI in solving advanced math problems.
-4. The First Proof challenge - https://spectrum.ieee.org/ai-math-benchmarks - Proposes a new set of difficult math questions to evaluate AI's capabilities.
-5. Mixing generative AI with physics - https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225 - Integrates physics simulations to enhance generative design.
-6. AI to help researchers see the bigger picture in cell biology - https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225 - Aims to improve understanding of disease mechanisms.
-7. Breaking the Host Memory Bottleneck - https://towardsdatascience.com/breaking-the-host-memory-bottleneck/ - Discusses improvements in distributed training scalability.
-8. Making Softmax More Efficient with NVIDIA Blackwell Ultra - https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/ - Explores advancements in LLM architectures.
-9. Scaling Feature Engineering Pipelines with Feast and Ray - https://towardsdatascience.com/scaling-feature-engineering-pipelines-with-feast-and-ray/ - Discusses production ML systems using feature stores.
-10. Building intelligent event agents using Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/ - Describes deployment of personalized event assistants.
+1. Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback - https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/ - Explores the benefits of RFT in AI applications.
+2. Large model inference container – latest capabilities and performance enhancements - https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/ - Details updates to AWS's LMI container.
+3. CORPGEN advances AI agents for real work - https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/ - Examines the integration of AI agents in workplace settings.
+4. Designing Data and AI Systems That Hold Up in Production - https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/ - Provides insights into resilient AI system architecture.
+5. Nano Banana 2: Combining Pro capabilities with lightning-fast speed - https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/ - Introduces a new image generation model with enhanced features.
+6. Detecting and Editing Visual Objects with Gemini - https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/ - Guides on AI-driven image editing techniques.
+7. A Generalizable MARL-LP Approach for Scheduling in Logistics - https://towardsdatascience.com/generalizable-marl-lp-approach-for-scheduling-in-logistics/ - Discusses a hybrid solution for logistics scheduling.
+8. Learnings from COBOL modernization in the real world - https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/ - Discusses the dual approach needed for COBOL modernization.
+9. Take a Deep Dive into Filtering in DAX - https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/ - Explores the intricacies of filtering in data expressions.
+10. Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting - https://openai.com/index/pacific-northwest-national-laboratory - Introduces a new benchmark for AI in federal permitting processes.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226' target='_blank'>New method could increase LLM training efficiency</a></strong> — <em>2026-02-26 05:00:00</em></summary>
+    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/' target='_blank'>Learnings from COBOL modernization in the real world</a></strong> — <em>2026-02-26 18:16:43</em></summary>
 
-By leveraging idle computing time, researchers can double the speed of model training while preserving accuracy.
-
-</details>
-
-<details><summary><strong><a href='https://vectorinstitute.ai/remarkable-2026-vector-institute-ai-research-poster-session/?utm_source=rss&utm_medium=rss&utm_campaign=remarkable-2026-vector-institute-ai-research-poster-session' target='_blank'>Remarkable 2026 Poster Session: 60 research projects shaping AI’s future</a></strong> — <em>2026-02-25 21:09:29</em></summary>
-
-Vector Institute’s third annual Remarkable 2026 conference brought together over 1,500 researchers and industry leaders in person and online on February 19-20 to explore how AI research translates into real-world […]
-The post Remarkable 2026 Poster Session: 60 research projects shaping AI’s future appeared first on Vector Institute for Artificial Intelligence.
+Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/' target='_blank'>Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock</a></strong> — <em>2026-02-25 20:56:13</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/' target='_blank'>Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback</a></strong> — <em>2026-02-26 17:48:37</em></summary>
 
-In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/scaling-feature-engineering-pipelines-with-feast-and-ray/' target='_blank'>Scaling Feature Engineering Pipelines with Feast and Ray</a></strong> — <em>2026-02-25 20:42:25</em></summary>
-
-Utilizing feature stores like Feast and distributed compute frameworks like Ray in production machine learning systems
-The post Scaling Feature Engineering Pipelines with Feast and Ray appeared first on Towards Data Science.
+In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluation rather than imitation. We'll cover how RFT works, when to use it versus supervised fine-tuning, real-world applications from code generation to customer service, and implementation options ranging from fully managed Amazon Bedrock to multi-turn agentic workflows with Nova Forge. You'll also learn practical guidance on data preparation, reward function design, and best practices for achieving optimal results.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/' target='_blank'>Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases</a></strong> — <em>2026-02-25 19:51:08</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/' target='_blank'>Large model inference container – latest capabilities and performance enhancements</a></strong> — <em>2026-02-26 17:45:59</em></summary>
 
-This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee preferences and builds personalized experiences over time, while Amazon Bedrock AgentCore handles the heavy lifting of production deployment: Amazon Bedrock AgentCore Memory for maintaining both conversation context and long-term preferences without custom storage solutions, Amazon Bedrock AgentCore Identity for secure multi-IDP authentication, and Amazon Bedrock AgentCore Runtime for serverless scaling and session isolation. We will also use Amazon Bedrock Knowledge Bases for managed RAG and event data retrieval.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225' target='_blank'>Mixing generative AI with physics to create personal items that work in the real world</a></strong> — <em>2026-02-25 19:40:00</em></summary>
-
-To help generative AI models create durable, real-world accessories and decor, the PhysiOpt system runs physics simulations and makes subtle tweaks to its 3D blueprints.
+AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/breaking-the-host-memory-bottleneck/' target='_blank'>Breaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performance</a></strong> — <em>2026-02-25 18:43:18</em></summary>
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/' target='_blank'>CORPGEN advances AI agents for real work</a></strong> — <em>2026-02-26 17:06:34</em></summary>
 
-Engineering RDMA-like performance over cloud host NICs using libfabric, DMA-BUF, and HCCL to restore distributed training scalability 
-The post Breaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performance appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/' target='_blank'>Making Softmax More Efficient with NVIDIA Blackwell Ultra</a></strong> — <em>2026-02-25 17:00:00</em></summary>
-
-LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query...
+By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For AI agents to be genuinely useful in that environment, they will need to operate the same way, but today’s best models are evaluated one […]
+The post CORPGEN advances AI agents for real work appeared first on Microsoft Research.
 
 </details>
 
-<details><summary><strong><a href='https://spectrum.ieee.org/ai-math-benchmarks' target='_blank'>AI Is Acing Math Exams Faster Than Scientists Write Them</a></strong> — <em>2026-02-25 16:00:02</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/' target='_blank'>Designing Data and AI Systems That Hold Up in Production</a></strong> — <em>2026-02-26 16:30:00</em></summary>
 
-Mathematics is often regarded as the ideal domain for measuring AI progress effectively. Math’s step-by-step logic is easy to track, and its definitive automatically verifiable answers remove any human or subjective factors. But AI systems are improving at such a pace that math benchmarks are struggling to keep up.Way back in November 2024, non-profit research organization Epoch AI quietly released FrontierMath. A standardized, rigorous benchmark, Frontier Math was designed to measure the mathematical reasoning capabilities of the latest AI tools.“It’s a bunch of really hard math problems,” explains Greg Burnham, Epoch AI Senior Researcher. “Originally, it was 300 problems that we now call tiers 1–3, but having seen AI capabilities really speed up, there was a feeling that we had to run to stay ahead, so now there’s a special challenge set of extra carefully constructed problems that we call tier 4.”To a rough approximation, tiers 1–4 go from advanced undergraduate through to early postdoc level mathematics. When introduced, state-of-the-art AI models were unable to solve more than 2% of the problems FrontierMath contained. Fast forward to today and the best publicly available AI models, such as GPT-5.2 and Claude Opus 4.6, are solving over 40% of FrontierMath’s 300 tiers 1–3 problems, and over 30% of the 50 tier 4 problems.AI takes on PhD level mathematicsAnd this dizzying pace of advancement is showing no signs of abating. For example, just recently Google DeepMind announced that Aletheia, an experimental AI system derived from Gemini Deep Think, achieved publishable PhD level research results. Though obscure mathematically—calculating certain structure constants in arithmetic geometry called eigenweights—the result is significant in terms of AI development.“They’re claiming it was essentially autonomous, meaning a human wasn’t guiding the work, and it’s publishable,” Burnham says. “It’s definitely at the lower end of the spectrum of work that would get a mathematician excited, but it’s new—it’s something we truly haven’t really seen before.”To place this achievement in context, every FrontierMath problem has a known answer that a human has derived. Though a human could probably have achieved Aletheia’s result “if they sat down and steeled themselves for a week,” says Burnham, no human had ever done so.Aletheia’s results and other recent achievements by AI mathematicians point to new, tougher benchmarks being needed to understand AI capabilities, and fast, because existing ones will soon become irrelevant. “There are easier math benchmarks that are already obsolete, several generations of them,” says Burnham. “FrontierMath will probably saturate [meaning state-of-the-art AI models score 100%] within the next two years; could be faster.”The First Proof challengeTo begin to address this problem, on February 6, a group of 11 highly distinguished mathematicians proposed the First Proof challenge, a set of 10 extremely difficult math questions which arose naturally in the authors’ research processes, and whose proofs are roughly five pages or less and had not been shared with anyone. The First Proof challenge was a preliminary effort to assess the capabilities of AI systems in solving research-level math questions on their own.Generating serious buzz in the math community, professional and amateur mathematicians, and teams including OpenAI, all stepped up to the challenge. But by the time the authors posted the proofs on February 14, no one had submitted correct solutions to all 10 problems.In fact, far from it. The authors themselves only solved two of the 10 problems using Gemini 3.0 Deep Think and ChatGPT 5.2 Pro. And most outside submissions fared little better, apart from OpenAI and a small Aletheia team at Google DeepMind. With “limited human supervision” OpenAI’s most advanced internal AI system solved five of the 10 problems, with Aletheia achieving similar outcomes—results met with a spectrum of emotions by different members of the mathematics community, from awe to disappointment. The team behind First Proof plans an even tougher second round on March 14.A new frontier for AI“I think First Proof is terrific: it’s as close as you could realistically get to putting an AI system in the shoes of a mathematician,” says Burnham. Though he admires how First Proof tests AI’s mathematical utility for a wide range of mathematics and mathematicians, Epoch AI has its own new approach to testing—FrontierMath: Open Problems. Uniquely, the pilot benchmark consists of 16 open problems (with more to follow) from research mathematics that professional mathematicians have tried and failed to solve. Since Open Problems’ release on January 27, none have been solved by an AI.“With Open Problems, we’ve tried to make it more challenging,” says Burnham. “The baseline on its own would be publishable, at least in a specialty journal.” What’s more, each question is designed so that it can be automatically graded. “This is a bit counterintuitive,” Burnham adds. “No one knows the answers, but we have a computer program that will be able to judge whether the answer is right or not.”Burnham sees First Proof and Open Problems as being complementary. “I would say understanding AI capabilities is a more-the-merrier situation,” he adds. “AI has gotten to the point where it’s, in some ways, better than most PhD students, so we need to pose problems where the answer would be at least moderately interesting to some human mathematicians, not because AI was doing it, but because it’s mathematics that human mathematicians care about.”
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/aliasing-in-audio-easily-explained-from-wagon-wheels-to-waveforms/' target='_blank'>Aliasing in Audio, Easily Explained: From Wagon Wheels to Waveforms</a></strong> — <em>2026-02-25 13:30:00</em></summary>
-
-Understanding the foundational distortion of digital audio from first principles, with worked examples and visual intuition
-The post Aliasing in Audio, Easily Explained: From Wagon Wheels to Waveforms appeared first on Towards Data Science.
+A system-level perspective on architecture, agents, and responsible scale
+The post Designing Data and AI Systems That Hold Up in Production appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-define-the-modeling-scope-of-an-internal-credit-risk-model/' target='_blank'>How to Define the Modeling Scope of an Internal Credit Risk Model</a></strong> — <em>2026-02-25 12:00:00</em></summary>
+<details><summary><strong><a href='https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/' target='_blank'>Nano Banana 2: Combining Pro capabilities with lightning-fast speed</a></strong> — <em>2026-02-26 16:01:50</em></summary>
 
-Dataset construction for Internal Ratings-Based (IRB) Probability of Default (PD) models
-The post How to Define the Modeling Scope of an Internal Credit Risk Model appeared first on Towards Data Science.
+Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225' target='_blank'>AI to help researchers see the bigger picture in cell biology</a></strong> — <em>2026-02-25 10:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/generalizable-marl-lp-approach-for-scheduling-in-logistics/' target='_blank'>A Generalizable MARL-LP Approach for Scheduling in Logistics</a></strong> — <em>2026-02-26 15:00:00</em></summary>
 
-By providing holistic information on a cell, an AI-driven method could help      scientists better understand disease mechanisms and plan experiments.
+Part 1. Hybrid Solution for Dynamic Vehicle Routing — Context and Architecture
+The post A Generalizable MARL-LP Approach for Scheduling in Logistics appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/' target='_blank'>Detecting and Editing Visual Objects with Gemini</a></strong> — <em>2026-02-26 13:30:00</em></summary>
+
+ A practical guide to identifying, restoring, and transforming elements within your images
+The post Detecting and Editing Visual Objects with Gemini appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/' target='_blank'>Take a Deep Dive into Filtering in DAX</a></strong> — <em>2026-02-26 12:00:00</em></summary>
+
+Have you ever wondered what happens when you apply a filter in a DAX expression? Well, Today I will take you on a deep dive into this fascinating topic, with examples to help you learn something new and surprising.
+The post Take a Deep Dive into Filtering in DAX appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/pacific-northwest-national-laboratory' target='_blank'>Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting</a></strong> — <em>2026-02-26 10:00:00</em></summary>
+
+OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.
 
 </details>
 
