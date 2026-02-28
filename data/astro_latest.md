@@ -1,177 +1,219 @@
 # Astro Daily Summary
 
-    ### Recent Breakthroughs in Astrophysics
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Unveiling Cosmic Explosions
-Recent advancements in observational astrophysics have led to the detection of afterglows from gamma-ray bursts (GRBs) that were not initially observed. This capability allows astronomers to glean insights into the mechanics of these powerful cosmic events, which are among the most energetic in the universe. The findings, set to be published in The Astrophysical Journal, underscore the importance of post-explosion observations in refining our understanding of GRB dynamics.
-
-Key Items:
-1. The study highlights how the shock front from a GRB interacts with surrounding materials, offering clues about the explosion's characteristics.
-2. This research could lead to enhanced models of GRB mechanisms and their evolutionary paths over time.
-
-#### Stellar Transformations: Hypergiants and Supernovae
-A significant observation has been made of a massive star, 1,540 times the mass of the Sun, transitioning into a hypergiant state. This rare transformation raises critical questions regarding its eventual fate as a potential supernova. Understanding the processes that govern such transformations is essential for comprehending the lifecycle of massive stars and their impact on the interstellar medium.
+#### 1. Lunar Science and Exploration
+Recent findings in lunar research are enhancing our understanding of the Moon's geological and magnetic history. A new analysis of Apollo moon rocks indicates that the Moon may have once possessed a stronger magnetic field than previously believed, which could have significant implications for theories regarding its formation and evolution. Additionally, NASA's Artemis program is being updated to include an extra mission aimed at improving safety and reducing the time between crewed lunar landings, reflecting a proactive approach to future exploration.
 
 Key Items:
-1. The rapid changes in the star's state may illuminate the processes leading to supernova events.
-2. These observations contribute to a broader understanding of how massive stars influence their environments through explosive deaths.
+- Apollo moon rocks may have finally solved an old lunar mystery - https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery - New analysis reveals insights into the lunar magnetic field's history.
+- NASA revamps Artemis moon landing program to reduce flight gaps and risk - https://phys.org/news/2026-02-nasa-revamps-artemis-moon-flight.html - NASA adds an extra mission to enhance safety before crewed landings.
 
-#### Advancements in Transient Phenomena Tracking
-The launch of Fink, a novel software tool, marks a significant leap in the real-time tracking of transient celestial events. Developed by CNRS engineers, Fink processes data from the Vera C. Rubin Observatory, enabling astronomers to identify and classify millions of transient phenomena shortly after detection. This advancement is poised to transform time-domain astronomy.
+#### 2. Planetary System Evolution
+A recent study focusing on a rare "teenage" planetary system has provided critical insights into the evolutionary processes of planetary systems. By examining this intermediate stage, researchers are beginning to fill a gap in our understanding of how planetary systems develop from formation to maturity. This work is vital for comprehending the lifecycle of planetary systems, including our own, and may influence future models of planetary formation.
 
 Key Items:
-1. Fink enhances the precision and speed of observing fleeting astronomical events, paving the way for new discoveries about the universe's dynamic nature.
-2. The ability to process data in real time represents a substantial step forward in the field.
+- Assessment of rare 'teenage' planetary system deepens understanding of cosmic evolution - https://phys.org/news/2026-02-rare-teenage-planetary-deepens-cosmic.html - Study bridges knowledge gaps in planetary system evolution.
+
+#### 3. Advancements in Space Technology
+Innovative technologies are emerging to support sustainable and efficient space exploration. A study has shown that using 3D printing with simulated lunar regolith could enable the construction of durable structures on the Moon, essential for future lunar habitats. Furthermore, NASA's successful deployment of a 3D-printed spring on a commercial spacecraft demonstrates the practical applications of additive manufacturing in reducing costs and simplifying space missions.
+
+Key Items:
+- Using moon dirt with 3D printing to build future lunar colonies - https://phys.org/news/2026-02-moon-dirt-3d-future-lunar.html - 3D printing with lunar regolith could support sustainable missions.
+- 3D-printed spring deploys on small commercial spacecraft - https://phys.org/news/2026-02-3d-deploys-small-commercial-spacecraft.html - NASA demonstrates additive manufacturing in space technology.
 
 ### Conclusion
-The current landscape of astrophysics is marked by substantial advancements in observational techniques and theoretical frameworks. From capturing the echoes of cosmic explosions to monitoring stellar transformations and enhancing transient event tracking, these developments signify a vibrant era of exploration. As technological capabilities evolve, astronomers are increasingly equipped to deepen their understanding of the universe's most enigmatic phenomena.
+The current trajectory in astrophysics is characterized by significant advancements in lunar exploration, planetary science, and technological innovation. Researchers are not only uncovering new insights about celestial bodies but also developing practical solutions that could enhance future missions. This evolving landscape promises to deepen our understanding of the universe while improving our capabilities for exploration and habitation beyond Earth.
 
 ### Top Sources:
-1. A cosmic explosion with the force of a billion suns went unseen—until we caught its echo - https://phys.org/news/2026-02-cosmic-explosion-billion-suns-unseen.html - Research reveals detection of gamma-ray burst afterglow, enhancing understanding of cosmic explosions.
-2. Astronomers just watched a star 1,540 times the size of our sun transform into a hypergiant. Will it go supernova? - https://www.space.com/astronomy/stars/astronomers-just-watched-a-star-1-540-times-the-size-of-our-sun-transform-into-a-hypergiant-will-it-go-supernova - Observation of a massive star transitioning to hypergiant state raises supernova questions.
-3. Getting closer to the stars: Fink, a French tool for tracking transient phenomena across the observable universe - https://phys.org/news/2026-02-closer-stars-fink-french-tool.html - New software enhances real-time tracking of astronomical transients.
-4. James Webb Space Telescope performs brain surgery on mysterious 'Exposed Cranium Nebula' - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-performs-brain-surgery-on-mysterious-exposed-cranium-nebula - JWST observations shed light on the formation of a unique nebula.
-5. Apollo rocks reveal the Moon had brief bursts of super-strong magnetism - https://www.sciencedaily.com/releases/2026/02/260226042445.htm - New analysis resolves a long-standing mystery about the Moon's magnetic field.
-6. 20 billion galaxies: New survey of the sky will reveal the universe in unprecedented detail - https://phys.org/news/2026-02-billion-galaxies-survey-sky-reveal.html - Upcoming survey aims to map billions of galaxies, enhancing cosmic understanding.
-7. Russian astronomers observe the eruptive behavior of a young star - https://phys.org/news/2026-02-russian-astronomers-eruptive-behavior-young.html - New observations provide insights into the nature of a young star's eruptions.
-8. Rare 'ring of fire' eclipse seen by few - https://www.space.com/stargazing/solar-eclipses/rare-ring-of-fire-eclipse-seen-by-few-space-photo-of-the-day-for-feb-26-2026 - Unique solar eclipse event observed in Antarctica.
-9. February's 'rare planetary alignment' peaks this week - https://www.space.com/stargazing/februarys-rare-planetary-alignment-peaks-this-week-heres-what-to-look-for-in-the-planet-parade - A rare alignment of planets captivates skywatchers.
-10. Why are there so many 'space snowmen' in our solar system? New study offers clues - https://www.space.com/astronomy/solar-system/why-are-there-so-many-space-snowmen-in-our-solar-system-new-study-offers-clues - Study explores the formation of icy objects resembling snowmen in the solar system.
+1. Apollo moon rocks may have finally solved an old lunar mystery - https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery - New analysis reveals insights into the lunar magnetic field's history.
+2. NASA revamps Artemis moon landing program to reduce flight gaps and risk - https://phys.org/news/2026-02-nasa-revamps-artemis-moon-flight.html - NASA adds an extra mission to enhance safety before crewed landings.
+3. Assessment of rare 'teenage' planetary system deepens understanding of cosmic evolution - https://phys.org/news/2026-02-rare-teenage-planetary-deepens-cosmic.html - Study bridges knowledge gaps in planetary system evolution.
+4. Using moon dirt with 3D printing to build future lunar colonies - https://phys.org/news/2026-02-moon-dirt-3d-future-lunar.html - 3D printing with lunar regolith could support sustainable missions.
+5. 3D-printed spring deploys on small commercial spacecraft - https://phys.org/news/2026-02-3d-deploys-small-commercial-spacecraft.html - NASA demonstrates additive manufacturing in space technology.
+6. James Webb reveals a barred spiral galaxy shockingly early in the Universe - https://www.sciencedaily.com/releases/2026/02/260227071931.htm - Discovery of a galaxy formed just 2 billion years after the Big Bang.
+7. Curiosity rover finds clues to Mars' watery past in rocky 'spiderwebs' - https://www.space.com/space-exploration/mars-rovers/curiosity-rover-finds-clues-to-mars-watery-past-in-rocky-spiderwebs - New findings suggest ancient groundwater shaped Martian geology.
+8. Image: First glimpse of comet 3I/ATLAS from Juice science camera - https://phys.org/news/2026-02-image-glimpse-comet-3iatlas-juice.html - ESA's Juice mission captures stunning images of an interstellar comet.
+9. SpaceX Aims to Launch 1 Million AI Data Center Satellites - https://skyandtelescope.org/astronomy-news/spacex-aims-to-launch-1-million-ai-data-center-satellites/ - Potential implications for space debris and dark skies.
+10. Total lunar eclipse on March 3 will be the last until New Year's Eve 2028 - https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-on-march-3-will-be-the-last-until-new-years-eve-2028 - A significant astronomical event for skywatchers.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://skyandtelescope.org/press-releases/get-ready-for-the-march-3-2026-predawn-total-lunar-eclipse/' target='_blank'>Get Ready for the March 3, 2026, Predawn Total Lunar Eclipse</a></strong> — <em>2026-02-27 06:21:03</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-110-b1902-ccsfs-17-26-b1093-vsfb-6-108-b1069-ccsfs' target='_blank'>February finale: SpaceX wraps up month with three Starlink launches this week</a></strong> — <em>2026-02-27 23:27:33</em></summary>
 
-A total eclipse of the Moon will be visible before dawn this Tuesday, March 3rd, from western North America. The eclipse happens on Tuesday evening for Australia and East Asia.
-The post Get Ready for the March 3, 2026, Predawn Total Lunar Eclipse appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-cosmic-explosion-billion-suns-unseen.html' target='_blank'>A cosmic explosion with the force of a billion suns went unseen—until we caught its echo</a></strong> — <em>2026-02-26 22:00:03</em></summary>
-
-Some of the universe's most extreme explosions leave behind almost no trace. The original explosion is unseen, but our observations can capture the long-lived echo it leaves behind as the shock front plows into its surrounding environment. In new research accepted for publication in The Astrophysical Journal, we have discovered what may be the clearest example yet of one of these hidden explosions: the radio afterglow of a powerful gamma-ray burst whose initial blast went unnoticed.
+Two Falcon 9 launches from Florida and one from California deployed 83 Starlink satellites into low Earth orbit, wrapping up February 2026 for the SpaceX network.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-just-watched-a-star-1-540-times-the-size-of-our-sun-transform-into-a-hypergiant-will-it-go-supernova' target='_blank'>Astronomers just watched a star 1,540 times the size of our sun transform into a hypergiant. Will it go supernova?</a></strong> — <em>2026-02-26 22:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery' target='_blank'>Apollo moon rocks may have finally solved an old lunar mystery</a></strong> — <em>2026-02-27 22:00:00</em></summary>
 
-One of our universe's biggest stars has dramatically turned into a rare, yellow 'hypergiant' star, and astronomers aren't sure when it will go supernova.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/us-space-force-pauses-national-security-launches-on-ula-vulcan-rocket-due-to-booster-glitch' target='_blank'>US Space Force pauses national security launches on ULA Vulcan rocket due to booster glitch</a></strong> — <em>2026-02-26 21:00:00</em></summary>
-
-The U.S. Space Force is putting an indefinite halt on all national security missions aboard United Launch Alliance's Vulcan Centaur, following a repeat anomaly with the rocket's side boosters.
+A new analysis of Apollo moon samples reveals insight into the history of the lunar magnetic field.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-closer-stars-fink-french-tool.html' target='_blank'>Getting closer to the stars: Fink, a French tool for tracking transient phenomena across the observable universe</a></strong> — <em>2026-02-26 19:50:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/nostrovia-we-finally-got-our-1st-look-at-apple-tvs-star-city-the-soviet-for-all-mankind-spinoff' target='_blank'>Nostrovia! We finally got our 1st look at Apple TV's 'Star City,' the Soviet 'For All Mankind' spinoff</a></strong> — <em>2026-02-27 21:00:00</em></summary>
 
-Thanks to Fink, a software package created by two CNRS engineers, it is now possible to track millions of transient celestial phenomena observed in the sky by the Vera C. Rubin Observatory in Chile, in real time and with unprecedented precision. Minutes after each image is taken, Fink receives, processes, enriches, and cross-references the data with existing datasets. This allows even the faintest variations in detected light to be characterized with remarkable accuracy. The data is then stored, classified, and shared with users—scientists and astronomy enthusiasts—in a concise and targeted manner.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/nasa-shakes-up-leadership-of-human-spaceflight-program-in-wake-of-critical-starliner-report' target='_blank'>NASA shakes up leadership of human spaceflight program in wake of critical Starliner report</a></strong> — <em>2026-02-26 19:30:00</em></summary>
-
-NASA has replaced two bigwigs in its human spaceflight program, just a week after releasing a report criticizing how the agency handled the first crewed flight of Boeing's Starliner astronaut taxi.
+See how the space race evolved from the other side in this new sci-fi series coming in May
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/mars-and-earth-look-set-for-war-in-the-1st-full-for-all-mankind-season-5-trailer-video' target='_blank'>Mars and Earth look set for war in the 1st full 'For All Mankind' season 5 trailer (video)</a></strong> — <em>2026-02-26 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/aerospace/the-us-air-forces-latest-x-plane-looks-like-a-missile-that-shoots-other-missiles' target='_blank'>The US Air Force's latest X-plane looks like a missile  —  that shoots other missiles</a></strong> — <em>2026-02-27 20:00:00</em></summary>
 
-'Change happens when a few determined individuals make it happen'
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/lego-star-wars-venator-class-attack-cruiser-review' target='_blank'>Lego Star Wars Venator-Class Attack Cruiser review</a></strong> — <em>2026-02-26 18:00:00</em></summary>
-
-The mid-sized Venator-Class Attack Cruiser is one of our favorite Star Wars Lego sets.
+The U.S. military is developing a new experimental aircraft known as the X-68A and looks a lot like a cruise missile that is also capable of launching its own missiles.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/februarys-rare-planetary-alignment-peaks-this-week-heres-what-to-look-for-in-the-planet-parade' target='_blank'>February's 'rare planetary alignment' peaks this week — here's what to look for in the planet parade</a></strong> — <em>2026-02-26 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-rare-teenage-planetary-deepens-cosmic.html' target='_blank'>Assessment of rare 'teenage' planetary system deepens understanding of cosmic evolution</a></strong> — <em>2026-02-27 19:30:01</em></summary>
 
-We truly hope it doesn't rain on your parade.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/dawn-delight-total-lunar-eclipse-on-march-3rd/' target='_blank'>Dawn Delight: Total Lunar Eclipse on March 3rd</a></strong> — <em>2026-02-26 16:43:42</em></summary>
-
-March opens with a spectacular total lunar eclipse. Our guide will help you make the most of it.
-The post Dawn Delight: Total Lunar Eclipse on March 3rd appeared first on Sky & Telescope.
+Planetary systems such as our solar system take hundreds of millions of years to evolve. Since humanity has only existed for a sliver of that time, astronomers have only observed planetary systems at birth or, more often, long after they have settled into adulthood. There is an information gap about what happens in the middle.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-image-intermediate-spiral-galaxy-ngc.html' target='_blank'>Image: Intermediate spiral galaxy NGC 941</a></strong> — <em>2026-02-26 16:20:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/if-godzilla-attacked-could-we-survive-we-asked-the-experts' target='_blank'>If Godzilla attacked, could we survive? We asked the experts</a></strong> — <em>2026-02-27 19:00:00</em></summary>
 
-NGC 941 is located approximately 55 million light-years away in the constellation Cetus. This faint galaxy is classified as an intermediate spiral, exhibiting characteristics between a barred spiral with a central bar and an unbarred spiral.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/02/260226042445.htm' target='_blank'>Apollo rocks reveal the Moon had brief bursts of super-strong magnetism</a></strong> — <em>2026-02-26 16:03:17</em></summary>
-
-Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.
+Let's say Godzilla exists and walks among us like in Monarch: Legacy of Monsters. Could humans actually stop him, or even survive? We spoke to the experts to find out.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/rare-ring-of-fire-eclipse-seen-by-few-space-photo-of-the-day-for-feb-26-2026' target='_blank'>Rare 'ring of fire' eclipse seen by few | Space photo of the day for Feb. 26, 2026</a></strong> — <em>2026-02-26 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-cancels-artemis-3-astronaut-moon-landing-this-is-just-not-the-right-pathway-forward' target='_blank'>NASA's Artemis 3 astronauts won't land on the moon after all. 'This is just not the right pathway forward.'</a></strong> — <em>2026-02-27 18:40:30</em></summary>
 
-A 'ring of fire' solar eclipse glowed over Antarctica, witnessed by only a handful of researchers at Concordia Research Station.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-billion-galaxies-survey-sky-reveal.html' target='_blank'>20 billion galaxies: New survey of the sky will reveal the universe in unprecedented detail</a></strong> — <em>2026-02-26 15:50:01</em></summary>
-
-When you look up at the night sky, it appears unchanging. But if you look deep enough you will find that the sky is in fact constantly shifting. Satellites, asteroids and interstellar objects pass by. Stars not only shine brightly, they can suddenly burst with energy or explode in bright supernovae.
+NASA is changing its plans to return astronauts to the moon, and redrawing the architecture for how the Artemis missions will look moving forward.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-02-space-atmosphere-crematorium-satellites.html' target='_blank'>A new space race could turn our atmosphere into a 'crematorium for satellites'</a></strong> — <em>2026-02-26 15:40:08</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-nasa-revamps-artemis-moon-flight.html' target='_blank'>NASA revamps Artemis moon landing program to reduce flight gaps and risk</a></strong> — <em>2026-02-27 17:58:01</em></summary>
 
-When we look up at the night sky and see a satellite glide past, we might not consider climate change or the ozone layer. Space may feel separate from the environmental systems that sustain life on Earth. But increasingly, the way we build, launch and dispose of satellites is starting to change that.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-02-russian-astronomers-eruptive-behavior-young.html' target='_blank'>Russian astronomers observe the eruptive behavior of a young star</a></strong> — <em>2026-02-26 15:20:01</em></summary>
-
-Russian astronomers from Moscow State University have performed photometric, polarimetric, and spectroscopic observations of a young star designated IRAS 21204+4913. Results of the new observations, which were published February 16 on the arXiv preprint server, reveal the eruptive behavior of this star and shed more light on its nature.
+NASA said Friday it's adding an extra moon mission by Artemis astronauts before attempting a high-risk lunar landing with a crew.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/one-fire-star-projector-review' target='_blank'>One Fire star projector review: A great projector for kids</a></strong> — <em>2026-02-26 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-moon-dirt-3d-future-lunar.html' target='_blank'>Using moon dirt with 3D printing to build future lunar colonies</a></strong> — <em>2026-02-27 17:20:01</em></summary>
 
-Cute and simple to use, the One Fire Star Projector is the perfect addition to any child’s bedroom.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/starfleet-academys-latest-episode-reminds-us-why-the-doctor-is-one-of-star-treks-greatest-ever-characters' target='_blank'>'Starfleet Academy''s latest episode reminds us why the Doctor is one of 'Star Trek's greatest ever characters</a></strong> — <em>2026-02-26 14:30:00</em></summary>
-
-Few sci-fi characters have exceeded their original programming quite like Voyager's Emergency Medical Hologram.
+Simulated lunar dirt can be turned into extremely durable structures, potentially paving the way to more sustainable and cost-effective space missions, a new study suggests. Using a special laser 3D printing method, researchers melted fake lunar soil—a synthetic version of the fine dusty material on the moon surface, called regolith simulant—into layers and fused it with a base surface to manufacture small, heat-resistant objects.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/what-gear-do-you-need-to-see-februarys-planetary-parade-2026' target='_blank'>What gear do you need to see February’s 'planetary parade’ in 2026?</a></strong> — <em>2026-02-26 14:21:40</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/02/260227071931.htm' target='_blank'>James Webb reveals a barred spiral galaxy shockingly early in the Universe</a></strong> — <em>2026-02-27 17:15:06</em></summary>
 
-Here’s how to use optics to get the most from February's planetary parade.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/lunar-eclipses/7-easy-tips-for-photographing-the-blood-moon-total-lunar-eclipse-on-march-3' target='_blank'>7 easy tips for photographing the 'blood moon' total lunar eclipse on March 3</a></strong> — <em>2026-02-26 14:00:00</em></summary>
-
-Tips for capturing the total lunar eclipse on March 3, 2026, from knowing what to expect and finding clear skies to using mirrorless cameras and smartphones
+Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-performs-brain-surgery-on-mysterious-exposed-cranium-nebula' target='_blank'>James Webb Space Telescope performs brain surgery on mysterious 'Exposed Cranium Nebula'</a></strong> — <em>2026-02-26 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-02-mars-soil-block-earth-microbes.html' target='_blank'>Could Mars soil block Earth microbes? 'Water bears' offer a clue</a></strong> — <em>2026-02-27 17:00:01</em></summary>
 
-The nebula is possibly being produced by a type of unstable star called a Wolf–Rayet star.
+Tardigrades, commonly known as water bears, may be better suited by a new name: Tardiguardians of the Galaxy. Unlike the fictional ragtag team of unenthusiastic heroes, the microscopic animals are providing real insight into how humans could adapt extraterrestrial resources to support space exploration, as well as whether such resources could help protect against the Earthly contaminants that humans might shed.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/solar-system/why-are-there-so-many-space-snowmen-in-our-solar-system-new-study-offers-clues' target='_blank'>Why are there so many 'space snowmen' in our solar system? New study offers clues</a></strong> — <em>2026-02-26 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/lego-star-wars-at-at-review' target='_blank'>Lego Star Wars AT-AT 75440 review</a></strong> — <em>2026-02-27 17:00:00</em></summary>
 
-In the distant reaches of the solar system are many icy objects that resemble snowmen. Now, a new study reveals the simple way in which these mysterious objects might form.
+One of 2026's must-have Lego Star Wars sets — the excellent mid-sized AT-AT model.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-on-march-3-will-be-the-last-until-new-years-eve-2028' target='_blank'>The total lunar eclipse on March 3 will be the last until New Year's Eve 2028</a></strong> — <em>2026-02-27 17:00:00</em></summary>
+
+After this 'blood moon,' our natural satellite will not fully disappear into Earth's shadow again for nearly three years — until a rare trifecta of total lunar eclipses in 2028–29 ends the drought.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-image-glimpse-comet-3iatlas-juice.html' target='_blank'>Image: First glimpse of comet 3I/ATLAS from Juice science camera</a></strong> — <em>2026-02-27 16:00:06</em></summary>
+
+This striking image from the science camera on ESA's Jupiter Icy Moons Explorer (Juice) shows interstellar comet 3I/ATLAS spewing dust and gas. The tiny nucleus of the comet (not visible) is surrounded by a bright halo of gas known as the coma. A long tail stretches away from the comet, and we see hints of rays, jets, streams, and filaments.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-3d-deploys-small-commercial-spacecraft.html' target='_blank'>3D-printed spring deploys on small commercial spacecraft</a></strong> — <em>2026-02-27 15:20:02</em></summary>
+
+With a simple motion, a jack-in-the-box-like spring designed at NASA's Jet Propulsion Laboratory showed the potential of additive manufacturing, also known as 3D printing, to cut costs and complexity for futuristic space antennas. Called JPL Additive Compliant Canister (JACC), the spring deployed on the small commercial spacecraft Proteus Space's Mercury One on Feb. 3, 2026. An onboard camera captured a video of the spring popping out of its container as the spacecraft passed over the Pacific Ocean in low-Earth orbit.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-video-landsat-picture.html' target='_blank'>Video: Landsat 9: More than just a picture</a></strong> — <em>2026-02-27 15:10:02</em></summary>
+
+For over 50 years, the Landsat program has provided the longest continuous satellite record of Earth's land surface from space. Landsat 9, launched in 2021, is the latest mission in this remarkable legacy—building on decades of Earth observation with upgraded technology, including enhanced radiometric resolution, improved signal-to-noise performance, and polar night thermal imaging.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/02/In-flight_call_with_ESA_astronaut_Sophie_Adenot' target='_blank'>In-flight call with ESA astronaut Sophie Adenot</a></strong> — <em>2026-02-27 15:00:00</em></summary>
+
+
+	Video: 
+			00:19:11
+				On 26 February, ESA astronaut Sophie Adenot conducted her first in-flight call with selected French media.Access the related broadcast quality video material. 
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/herhoter-galaxy-star-projector-review' target='_blank'>Herhoter Galaxy star projector review</a></strong> — <em>2026-02-27 15:00:00</em></summary>
+
+With a small form factor and a seriously low price, the Herhoter Galaxy star projector is a great buy for anyone wanting nebula projections on a budget.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-rocket-rolls-back-to-the-shop-space-photo-of-the-day-feb-27-2026' target='_blank'>Artemis 2 moon rocket rolls back to the shop | Space photo of the day Feb. 27, 2026</a></strong> — <em>2026-02-27 15:00:00</em></summary>
+
+NASA brought its mega moon rocket back into the shop for repairs on Feb. 25, 2026, just as the sun was setting over the Florida Space Coast.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-02-stardust-massive-binary-stars-emit.html' target='_blank'>A study in stardust: Massive binary stars emit tiny carbon particles</a></strong> — <em>2026-02-27 14:40:01</em></summary>
+
+Yale junior Donglin Wu leads a new study showing that some of the biggest stars in the universe shed some of the smallest dust particles. It's fitting that Wu's first major scientific journal article as lead author focuses on stardust—tiny solid grains that form from stellar winds, drift into interstellar space, and may eventually become parts of new planets.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_February_2026' target='_blank'>Week in images: 23-27 February 2026</a></strong> — <em>2026-02-27 14:15:00</em></summary>
+
+
+Week in images: 23-27 February 2026
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/mars-rovers/curiosity-rover-finds-clues-to-mars-watery-past-in-rocky-spiderwebs' target='_blank'>Curiosity rover finds clues to Mars' watery past in rocky 'spiderwebs'</a></strong> — <em>2026-02-27 14:00:00</em></summary>
+
+The web-like features are believed to be sculpted by ancient groundwater, offering new clues about the Red Planet's watery past.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-captures-rare-6-planet-parade-spanning-nearly-180-degrees-of-sky' target='_blank'>Astrophotographer captures rare 6-planet parade spanning nearly 180 degrees of sky</a></strong> — <em>2026-02-27 13:00:00</em></summary>
+
+A U.K. astrophotographer had to put together some clever equipment tricks to show six of the seven planets in a rare 'parade' over the south of England.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/spacex-aims-to-launch-1-million-ai-data-center-satellites/' target='_blank'>SpaceX Aims to Launch 1 Million AI Data Center Satellites</a></strong> — <em>2026-02-27 13:00:00</em></summary>
+
+Experts are concerned that the satellites could ruin dark skies, pollute the atmosphere, and worsen space debris. The public has a limited time to comment.
+The post SpaceX Aims to Launch 1 Million AI Data Center Satellites appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-mission-shouldnt-launch-until-late-2026-new-analysis-of-solar-superflares-suggests' target='_blank'>Artemis 2 moon mission shouldn't launch until late 2026, new analysis of solar superflares suggests</a></strong> — <em>2026-02-27 11:00:00</em></summary>
+
+A new method of predicting when a superflare will erupt from the sun suggests that we are in the middle of such a period now — and that could be bad news for the Artemis 2 astronauts.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-february-27-march-8/' target='_blank'>This Week's Sky at a Glance, February 27 – March 8</a></strong> — <em>2026-02-27 10:19:00</em></summary>
+
+Jupiter forms a T with the Moon, Pollux, and Castor on Friday February 27th. Low in the western twilight, Saturn and Venus close in on each other. And can you catch the total lunar eclipse on the morning of March 3rd?
+The post This Week's Sky at a Glance, February 27 – March 8 appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/best-optics-that-you-will-use-long-after-the-total-lunar-eclipse' target='_blank'>Best optics that you will use long after the total lunar eclipse</a></strong> — <em>2026-02-27 10:00:00</em></summary>
+
+Get a great view of the "blood moon" with these optics and level up your stargazing for the future.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Terra_Nova_Bay_Antarctica' target='_blank'>Earth from Space: Terra Nova Bay, Antarctica</a></strong> — <em>2026-02-27 09:00:00</em></summary>
+
+
+	Image:
+			The Copernicus Sentinel-2 mission captures the icy landscape of Terra Nova Bay in East Antarctica.
 
 </details>
 
