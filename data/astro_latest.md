@@ -1,257 +1,185 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Space Exploration
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Neutrino Research and Cosmic Origins
-Recent advancements in neutrino research have provided crucial insights into the matter-antimatter asymmetry of the universe. An international collaboration, leveraging data from two major neutrino experiments, has shown that neutrinos and their antiparticles exhibit slight differences in behavior, which may help explain the predominance of matter over antimatter following the Big Bang. This finding is significant for our understanding of fundamental particle physics and the universe's early evolution, potentially reshaping theories about cosmic structure formation.
+#### Insights into Cosmic Ray Acceleration
+Recent advancements from the Tibet ASγ Experiment have shed light on the mechanisms of cosmic ray acceleration in the Milky Way. The team has successfully measured magnetohydrodynamic (MHD) turbulence in the gamma-ray halo surrounding the Geminga pulsar wind nebula at energies exceeding 100 TeV. This breakthrough is pivotal as it enhances our understanding of cosmic ray interactions with magnetic fields, which could lead to refined models of cosmic ray propagation and acceleration within our galaxy.
 
-Key Items:
-1. Neutrino Experiments - https://www.sciencedaily.com/releases/2026/03/260303145703.htm - Evidence from neutrino studies may clarify the survival of matter post-Big Bang.
-2. HETDEX Mapping - https://phys.org/news/2026-03-hetdex-reveal-vast-sea-early.html - A 3D map of light from early galaxies enhances our understanding of cosmic structure formation.
+- The identification of MHD turbulence around Geminga signifies a major step in understanding cosmic ray origins and their acceleration processes. (Source: https://phys.org/news/2026-03-geminga-tev-cutoff-cosmic-ray.html)
 
-#### Observational Breakthroughs with Telescopes
-The collaboration between the Hubble Space Telescope and ESA's Euclid mission has produced new images of the Cat's Eye Nebula, revealing intricate details that deepen our understanding of planetary nebulae and stellar evolution. Meanwhile, the James Webb Space Telescope's recent identification of a distant "jellyfish galaxy" offers new perspectives on star formation processes in the early universe, showcasing the capabilities of advanced observational technologies.
+#### New Exoplanet Discoveries
+The detection of TOI-5734 b, a hot sub-Neptune exoplanet roughly twice the size of Earth, further enriches the catalog of known exoplanets identified by the Transiting Exoplanet Survey Satellite (TESS). This discovery highlights the diversity of planetary systems and provides a unique opportunity to investigate the atmospheric properties and potential habitability of such planets, which could have implications for the search for extraterrestrial life.
 
-Key Items:
-1. Cat's Eye Nebula - https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/ - New images from Hubble and Euclid deepen our understanding of stellar remnants.
-2. Jellyfish Galaxy Discovery - https://www.sciencedaily.com/releases/2026/03/260303050635.htm - Webb's observation of a galaxy with tentacle-like structures suggests violent star formation in the early universe.
+- The significant size and mass of TOI-5734 b allow for in-depth studies of its atmosphere, potentially informing future explorations of similar exoplanets. (Source: https://phys.org/news/2026-03-astronomers-toi-hot-neptune-earth.html)
 
-#### Advances in Space Missions and Technologies
-NASA's Artemis program is making strides toward its first crewed lunar mission in over 50 years, with repairs to the Artemis 2 rocket progressing for an anticipated April launch. Concurrently, the Vera C. Rubin Observatory has initiated its Legacy Survey of Space and Time, which is set to revolutionize our ability to detect supernovae and asteroids, thereby enhancing our understanding of cosmic phenomena.
+#### Innovations in Astronomical Observations
+The Vera Rubin Observatory has reached a milestone by issuing approximately 800,000 alerts to astronomers each night, marking a transformative phase in real-time astronomical monitoring. This unprecedented data output is set to enhance the detection and study of transient astronomical events such as supernovae and asteroid movements, significantly advancing dynamic research methodologies in astronomy.
 
-Key Items:
-1. Artemis 2 Launch - https://www.space.com/space-exploration/artemis/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch - NASA is on schedule for a historic crewed moon mission.
-2. Rubin Observatory's Survey - https://phys.org/news/2026-03-worldbiggest-astronomy-camera-universe.html - The observatory's survey will transform our understanding of the universe.
+- The observatory's capabilities promise to facilitate quicker identification of critical cosmic events, potentially reshaping our understanding of cosmic phenomena. (Source: https://skyandtelescope.org/astronomy-news/rubin-observatory-sends-800000-alerts-to-astronomers-per-night/)
 
 ### Conclusion
-The current landscape of astrophysics is characterized by significant breakthroughs in both theoretical understanding and observational capabilities. The interplay between advancements in neutrino research, detailed observations of cosmic structures, and ambitious space missions is fostering a deeper comprehension of the universe's origins and evolution. As projects like Artemis and the Legacy Survey unfold, they promise to unveil new cosmic phenomena and enhance our grasp of fundamental astrophysical processes.
+The current trajectory in astrophysics is marked by significant advancements in the understanding of cosmic rays, the discovery of diverse exoplanets, and revolutionary observational technologies. These developments not only deepen our comprehension of fundamental astrophysical processes but also open new avenues for exploration that may address profound questions regarding life beyond Earth and the intricate dynamics of the universe. As observational tools and methodologies continue to evolve, the pace of discovery is anticipated to accelerate, heralding a promising future for the field.
 
 ### Top Sources:
-1. Searching for Selenite - https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/ - Oklahoma's Salt Plains attracts enthusiasts for unique gypsum crystals.
-2. Hubble and Euclid zoom into cosmic eye - https://phys.org/news/2026-03-hubble-euclid-cosmic-eye.html - New images of the Cat's Eye Nebula showcase its complex structure.
-3. Neutrinos could explain why matter survived the Big Bang - https://www.sciencedaily.com/releases/2026/03/260303145703.htm - Neutrino behavior may clarify matter's survival post-Big Bang.
-4. Four decades of data give unique insight into the sun's inner life - https://phys.org/news/2026-03-decades-unique-insight-sun-life.html - Long-term solar data reveals subtle internal changes.
-5. NASA repairs Artemis 2 rocket, continues eyeing April moon launch - https://www.space.com/space-exploration/artemis/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch - Artemis 2 prepares for a historic crewed mission.
-6. World's biggest astronomy camera seeks to answer pressing questions about the universe - https://phys.org/news/2026-03-world-biggest-astronomy-camera-universe.html - Vera C. Rubin Observatory begins its ten-year survey.
-7. James Webb spots a galaxy with tentacles in deep space - https://www.sciencedaily.com/releases/2026/03/260303050635.htm - Webb captures a distant galaxy with unusual star formation.
-8. Life forms can planet hop on asteroid debris—and survive - https://phys.org/news/2026-03-life-planet-asteroid-debris-survive.html - Study shows bacteria can survive interplanetary journeys.
-9. Asteroid Ryugu samples offer new insights into early solar system magnetism - https://phys.org/news/2026-03-asteroid-ryugu-samples-insights-early.html - Ryugu samples provide clues about solar system evolution.
-10. AI Reveals New Galaxies in James Webb Space Telescope Images - https://skyandtelescope.org/astronomy-news/ai-reveals-new-galaxies-in-james-webb-space-telescope-images/ - AI enhances galaxy detection in Webb's images.
+1. What Geminga's 100 TeV cutoff may mean for cosmic-ray acceleration in the Milky Way - https://phys.org/news/2026-03-geminga-tev-cutoff-cosmic-ray.html - New insights into cosmic ray behavior around Geminga pulsar.
+2. Astronomers discover TOI-5734 b, a hot sub-Neptune twice Earth's size - https://phys.org/news/2026-03-astronomers-toi-hot-neptune-earth.html - Discovery of a new exoplanet expanding our understanding of planetary diversity.
+3. Rubin Observatory Sends 800,000 Alerts to Astronomers — Per Night - https://skyandtelescope.org/astronomy-news/rubin-observatory-sends-800000-alerts-to-astronomers-per-night/ - Increased alert system capabilities for monitoring cosmic events.
+4. Auroras on Jupiter's giant moon Ganymede look like Earth's northern lights, NASA spacecraft reveals - https://www.space.com/astronomy/jupiter/auroras-on-jupiters-giant-moon-ganymede-look-like-earths-northern-lights-nasa-spacecraft-reveals - Discovery of auroras on Ganymede mirroring Earth's phenomena.
+5. Spectacular spiral galaxy revealed by James Webb Space Telescope - https://www.space.com/astronomy/james-webb-space-telescope/spectacular-spiral-galaxy-revealed-by-james-webb-space-telescope-space-photo-of-the-day-for-march-4-2026 - JWST captures detailed images of a distant spiral galaxy.
+6. SWOT satellite takes stock of world's river water - https://phys.org/news/2026-03-swot-satellite-stock-world-river.html - New insights into Earth's river dynamics from satellite data.
+7. JWST reveals surprising secrets in Jupiter's northern lights - https://phys.org/news/2026-03-jwst-reveals-secrets-jupiter-northern.html - New findings on temperature structures in Jupiter's auroras.
+8. Mars Express orbiter captures craters on planet's Arabia Terra - https://phys.org/news/2026-03-mars-orbiter-captures-craters-planet.html - ESA's Mars mission provides detailed imagery of Martian craters.
+9. Most compact quadruple star system yet fits within an area the size of Jupiter's orbit - https://phys.org/news/2026-03-compact-quadruple-star-area-size.html - Discovery of a unique quadruple star system.
+10. Antarctica has lost 5,000 square miles of 'grounded ice' in the last 30 years - https://www.space.com/science/climate-change/antarctica-has-lost-5-000-square-miles-of-grounded-ice-in-the-last-30-years-satellite-images-reveal - Satellite observations reveal significant ice loss in Antarctica.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/' target='_blank'>Searching for Selenite</a></strong> — <em>2026-03-04 05:01:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-03-geminga-tev-cutoff-cosmic-ray.html' target='_blank'>What Geminga's 100 TeV cutoff may mean for cosmic-ray acceleration in the Milky Way</a></strong> — <em>2026-03-05 00:30:01</em></summary>
 
-Oklahoma’s Salt Plains National Wildlife Refuge attracts rare and diverse species—and enthusiasts looking for a distinct type of crystallized gypsum.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-hubble-euclid-cosmic-eye.html' target='_blank'>Hubble and Euclid zoom into cosmic eye</a></strong> — <em>2026-03-04 02:30:01</em></summary>
-
-For this month's ESA/Hubble Picture of the Month, NASA/ESA's Hubble Space Telescope is joined by ESA's Euclid to create a new view of the most visually intricate remnants of a dying star: the Cat's Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula in the constellation Draco has captivated astronomers for decades with its elaborate and multilayered structure. Observations with ESA's Gaia mission place the nebula at a distance of about 4,300 light-years.
+For the first time, the Tibet ASγ Experiment has successfully measured magnetohydrodynamic (MHD) turbulence on scales below one parsec (approximately 3.3 light-years) within the gamma-ray halo surrounding the Geminga pulsar wind nebula (PWN). This observation extends to the highest energies, above 100 tera-electron volts (TeV), providing new insights into the behavior of cosmic rays and magnetic fields within the Milky Way.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-space-wont-vulcan-rockets-booster.html' target='_blank'>Space Force won't launch Vulcan rockets until booster problem solved</a></strong> — <em>2026-03-04 01:40:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-nasa-source-artemis-ii-problem.html' target='_blank'>NASA finds source of Artemis II problem that forced rollback from the launch pad</a></strong> — <em>2026-03-05 00:20:02</em></summary>
 
-United Launch Alliance was hoping to ramp up its new Vulcan rocket launches this year, but won't be launching any national security missions until it solves a recurring issue of booster nozzles burning off the rocket on launch.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260303145703.htm' target='_blank'>Neutrinos could explain why matter survived the Big Bang</a></strong> — <em>2026-03-04 00:59:36</em></summary>
-
-An international team combining two major neutrino experiments has uncovered stronger evidence that neutrinos and antimatter don’t behave as perfect mirror images. That subtle difference may hold the key to why the universe didn’t vanish in a flash of self-destruction after the Big Bang.
+NASA announced it had found the source of a helium flow blockage that forced it to roll the Artemis II rocket back from the launch pad at Kennedy Space Center and delay its lunar fly-by mission until at least April.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-decades-unique-insight-sun-life.html' target='_blank'>Four decades of data give unique insight into the sun's inner life</a></strong> — <em>2026-03-04 00:00:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-the-colorful-origins-of-the-rainbow-warp-effect' target='_blank'>60 years of 'Star Trek': The colorful origins of the rainbow warp effect</a></strong> — <em>2026-03-04 23:00:00</em></summary>
 
-Scientists have analyzed more than 40 years of astronomical data to uncover evidence that the sun's internal structure subtly changes from one solar cycle minimum to the next. Publishing their findings in Monthly Notices of the Royal Astronomical Society, researchers from the University of Birmingham and Yale University reveal that even small differences in solar magnetic activity produce detectable changes inside the sun.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch' target='_blank'>NASA repairs Artemis 2 rocket, continues eyeing April moon launch</a></strong> — <em>2026-03-03 23:23:39</em></summary>
-
-NASA has repaired its Artemis 2 rocket, apparently keeping things on track for a possible April launch of the first crewed moon mission in more than 50 years.
+'Starfleet Academy' sports a cool 60th anniversary intro honoring this colorful optical effect.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general/' target='_blank'>La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general</a></strong> — <em>2026-03-03 22:34:27</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/war-of-the-worlds-in-reverse-mars-dirt-could-help-fight-off-a-microbial-invasion-from-earth' target='_blank'>'War of the Worlds' in reverse? Mars dirt could help fight off a microbial invasion from Earth</a></strong> — <em>2026-03-04 21:00:00</em></summary>
 
-Read this story in English here. A fin de lograr el objetivo nacional de llevar astronautas estadounidenses a la superficie de la Luna y mantener la superioridad de Estados Unidos en exploración y descubrimientos, la NASA anunció el 27 de febrero que aumentará la frecuencia de sus misiones con el programa Artemis, estandarizará la configuración del […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/lessons-from-the-martian-how-astronaut-poop-could-help-us-settle-the-red-planet' target='_blank'>Lessons from 'The Martian': How astronaut poop could help us settle the Red Planet</a></strong> — <em>2026-03-03 22:00:00</em></summary>
-
-By fertilizing inorganic regolith with organic human waste that has been processed through bioreactors, future astronauts living on Mars could be able to create their own organic soil.
+Tests conducted with tardigrades suggest that there is something in Martian dirt that dramatically reduces biological activity.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/' target='_blank'>NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture</a></strong> — <em>2026-03-03 21:50:18</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-female-astronauts-clotting-day-weightlessness.html' target='_blank'>Female astronauts face clotting risks, five-day weightlessness simulation suggests</a></strong> — <em>2026-03-04 20:40:07</em></summary>
 
-Lee esta historia en español aquí. To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/mission-hayabusa-test-your-jaxa-iq' target='_blank'>Mission Hayabusa: Test your JAXA IQ</a></strong> — <em>2026-03-03 21:16:35</em></summary>
-
-Test your knowledge of Japan's boldest leaps into the cosmos with a quiz that explores JAXA's missions, milestones, and the science shaping humanity's future among the stars.
+Just a few days in simulated microgravity can subtly change the way women's blood clots, sparking bigger questions about health monitoring protocols for astronauts who can spend six months or more in orbit, say Simon Fraser University researchers. First reported in 2020, an International Space Station mission detected an unexpected blood clot in a female astronaut's jugular vein. To date, space-health research has had more male participants, but with the number of female astronauts on the rise, a new SFU–European Space Agency study examined how microgravity affects blood clotting specifically in women.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-space-national-power-private.html' target='_blank'>A Plan B for space? On the risks of concentrating national space power in private hands</a></strong> — <em>2026-03-03 21:10:07</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/jupiter/auroras-on-jupiters-giant-moon-ganymede-look-like-earths-northern-lights-nasa-spacecraft-reveals' target='_blank'>Auroras on Jupiter's giant moon Ganymede look like Earth's northern lights, NASA spacecraft reveals</a></strong> — <em>2026-03-04 19:00:00</em></summary>
 
-Private companies are no longer peripheral participants in U.S. space activities. They provide key services, including launching and deploying satellites, transporting cargo and astronauts to the International Space Station, and even sending landers to the moon.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/' target='_blank'>Artemis II: What’s on the Menu?</a></strong> — <em>2026-03-03 21:00:25</em></summary>
-
-The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space […]
+Ganymede's auroras splinter into small, bright patches — structures that mirror features seen in Earth's own auroral displays.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-world-biggest-astronomy-camera-universe.html' target='_blank'>World's biggest astronomy camera seeks to answer pressing questions about the universe</a></strong> — <em>2026-03-03 21:00:07</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-swot-satellite-stock-world-river.html' target='_blank'>SWOT satellite takes stock of world's river water</a></strong> — <em>2026-03-04 18:00:06</em></summary>
 
-The Vera C. Rubin Observatory has started releasing its first discoveries: including supernovae, variable stars and asteroids, which will from now on be discovered at an astonishing rate as it begins its Legacy Survey of Space and Time, a ten-year survey probing the deepest reaches of the universe.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/masters-of-the-universe-release-date-plot-cast-and-everything-we-know-about-he-mans-big-screen-return' target='_blank'>'Masters of the Universe': Release date, plot, cast, and everything we know about He-Man's big screen return</a></strong> — <em>2026-03-03 21:00:00</em></summary>
-
-He-Man prepares to renew hostilities with Skeletor in a live-action reboot of the toy-inspired cartoon. But does he still have the power?
+In a first, a space mission led by NASA and France has tracked Earth's rivers swelling and shrinking from month to month over the course of a year and found significantly less of a swing than previous model-based estimates. A record drought in the Amazon likely influenced the tally made by the Surface Water and Ocean Topography (SWOT) satellite. The findings also reveal new details about the underwater topography of the world's river channels.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-rcw-nebula-cosmic-hawk-baby.html' target='_blank'>The RCW 36 nebula: A cosmic hawk and its baby stars</a></strong> — <em>2026-03-03 20:40:07</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog' target='_blank'>SpaceX Starlink launch creates gorgeous 'jellyfish' in predawn Florida skies (video, photos)</a></strong> — <em>2026-03-04 17:33:09</em></summary>
 
-This image, taken with ESO's Very Large Telescope (VLT), seems to have captured a cosmic hawk as it spans its wings. While the dark clouds in the middle of the image make up the head and body of the bird of prey, the filaments extending away from the body to the left and right compose its wings. Below it is a mesmerizing blue nebula with massive newly born stars, whose intense radiation make the gas around them glow brightly.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-hetdex-reveal-vast-sea-early.html' target='_blank'>HETDEX data reveal a vast 'sea of light' between early galaxies</a></strong> — <em>2026-03-03 19:40:03</em></summary>
-
-Astronomers with the Hobby-Eberly Telescope Dark Energy Experiment (HETDEX) have used data from the project to make the largest, most accurate 3D map yet of the light emitted by excited hydrogen in the early universe, 9 billion to 11 billion years ago. This specific form of light, called Lyman alpha, is emitted in large quantities when hydrogen atoms are exposed to a star's energy. That makes it a great tool for finding bright galaxies in this far-off time, which experienced a rash of star creation. However, the locations of fainter galaxies and gas, which also emit Lyman alpha, have remained largely unknown.
+A SpaceX Falcon 9 rocket carrying 29 Starlink satellites launched from Cape Canaveral Space Force Station in Florida on Wednesday (March 4), creating a sky show for early risers.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/' target='_blank'>Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork</a></strong> — <em>2026-03-03 18:40:37</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-compact-quadruple-star-area-size.html' target='_blank'>Most compact quadruple star system yet fits within an area the size of Jupiter's orbit</a></strong> — <em>2026-03-04 17:20:03</em></summary>
 
-Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/' target='_blank'>NASA Invites Proposals to Lease Land Parcels at Sandusky Facility</a></strong> — <em>2026-03-03 18:29:23</em></summary>
-
-NASA’s Glenn Research Center is seeking proposals to lease select land parcels at its Neil Armstrong Test Facility in Sandusky, Ohio. Proposals are due by 5 p.m. EST on July 2, 2026. The parcels are part of an area of land that currently serves as a buffer for ongoing NASA operations. The solicitation includes the […]
+Astronomers have reported observations of a rare star system consisting of one star orbiting a system of three more tightly bound stars. This quadruple star system is described in a new study, published in Nature Communications, as the most compact quadruple star system observed to date, with all four stars fitting into an area the size of Jupiter's orbit.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-life-planet-asteroid-debris-survive.html' target='_blank'>Life forms can planet hop on asteroid debris—and survive</a></strong> — <em>2026-03-03 18:20:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/science/climate-change/antarctica-has-lost-5-000-square-miles-of-grounded-ice-in-the-last-30-years-satellite-images-reveal' target='_blank'>Antarctica has lost 5,000 square miles of 'grounded ice' in the last 30 years, satellite images reveal</a></strong> — <em>2026-03-04 17:00:00</em></summary>
 
-Tiny life forms tucked into debris from an asteroid hit could catapult to other planets—including Earth—and survive, a new Johns Hopkins University study finds. The work demonstrates that a certain hardy bacterium easily withstands extreme pressure comparable to an ejection from Mars after an asteroid hit, as well as the inhospitable conditions it would face during the ensuing interplanetary journey.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/japan-startup-space-one-kairos-third-launch' target='_blank'>3rd time’s the charm? Watch private Japanese rocket try to reach orbit today</a></strong> — <em>2026-03-03 18:00:00</em></summary>
-
-The Japanese company Space One will launch its Kairos rocket for the third time ever today (March 3), and you can watch it live. Kairos failed on its two previous liftoffs.
+Antarctica has lost nearly 5,000 square miles of "grounded ice" in 30 years, as warming ocean waters drive retreat in vulnerable regions, a new study finds.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/spiral-galaxy-is-a-stunning-cosmic-wheel-in-head-turning-image-space-photo-of-the-day-for-march-3-2026' target='_blank'>Spiral galaxy is a stunning cosmic wheel in head-turning image | Space photo of the day for March 3, 2026</a></strong> — <em>2026-03-03 17:23:16</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/rubin-observatory-sends-800000-alerts-to-astronomers-per-night/' target='_blank'>Rubin Observatory Sends 800,000 Alerts to Astronomers — Per Night</a></strong> — <em>2026-03-04 16:38:55</em></summary>
 
-The galaxy NGC 941 was imaged by the Subaru Telescope at the summit of Maunakea, Hawai'i.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/this-record-breaking-quadruple-star-system-is-so-jam-packed-it-could-fit-between-jupiter-and-our-sun' target='_blank'>This record-breaking quadruple star system is so jam-packed it could fit between Jupiter and our sun</a></strong> — <em>2026-03-03 17:12:21</em></summary>
-
-"TIC 120362137 is currently the most compact known 3+1-type quadruple star system."
+The Vera Rubin Observatory is seeing 800,000 astronomical alerts per night — and that number will only increase.
+The post Rubin Observatory Sends 800,000 Alerts to Astronomers — Per Night appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-million-kilometer-journey-space-australia.html' target='_blank'>A 690-million-kilometer journey through space ends for Australia's SpIRIT mission</a></strong> — <em>2026-03-03 16:30:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-mars-orbiter-captures-craters-planet.html' target='_blank'>Mars Express orbiter captures craters on planet's Arabia Terra</a></strong> — <em>2026-03-04 15:00:07</em></summary>
 
-After more than 25 months of successful operations in space, the SpIRIT mission has ended, marking a major milestone for Australia's growing space capability. Led by the University of Melbourne, in collaboration with the Italian Space Agency, the Space Industry Responsive Intelligent Thermal (SpIRIT) nanosatellite exceeded its original two-year design life.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-asteroid-ryugu-samples-insights-early.html' target='_blank'>Asteroid Ryugu samples offer new insights into early solar system magnetism</a></strong> — <em>2026-03-03 16:20:06</em></summary>
-
-To uncover the history of our solar system, it is necessary to study the dynamic evolution of the ancient solar nebula materials. These materials interacted and coevolved with the weak but widespread magnetic field of the solar nebula, which was generated by the weakly ionized nebular gas in the protoplanetary disk. During the formation or alteration, the magnetization of these materials can become locked in for billions of years, a phenomenon known as natural remanent magnetization (NRM). NRM measurements of primordial astromaterials can therefore provide critical information on the spatiotemporal evolution of the early solar system.
+Craters, craters, and yet more craters: this snapshot from ESA's Mars Express is packed full of them, each as fascinating as the last.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/ai-reveals-new-galaxies-in-james-webb-space-telescope-images/' target='_blank'>AI Reveals New Galaxies in James Webb Space Telescope Images</a></strong> — <em>2026-03-03 16:15:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/russia-fixes-launch-pad-damaged-by-thanksgiving-astronaut-launch-to-the-international-space-station' target='_blank'>Russia fixes launch pad damaged by Thanksgiving astronaut launch to the International Space Station</a></strong> — <em>2026-03-04 15:00:00</em></summary>
 
-Known as ASTERIS, the AI network removes noise from images to reveal features a full magnitude fainter than before.
-The post AI Reveals New Galaxies in James Webb Space Telescope Images appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/the-helldivers-2-annual-report-is-in-and-you-have-a-lot-of-friendly-fire-to-explain' target='_blank'>The 'Helldivers 2' annual report is in, and you have a lot of friendly fire to explain</a></strong> — <em>2026-03-03 16:00:00</em></summary>
-
-Glory to Super Earth!
+Russia has fixed Site 31 at Baikonur Cosmodrome, the only pad supporting the nation's human spaceflight missions. It had been out of commission since late November.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/the-worlds-1st-private-space-telescope-just-spotted-its-1st-star-heres-what-it-saw' target='_blank'>The world's 1st private space telescope just spotted its 1st star. Here's what it saw.</a></strong> — <em>2026-03-03 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/spectacular-spiral-galaxy-revealed-by-james-webb-space-telescope-space-photo-of-the-day-for-march-4-2026' target='_blank'>Spectacular spiral galaxy revealed by James Webb Space Telescope | Space photo of the day for March 4, 2026</a></strong> — <em>2026-03-04 14:55:44</em></summary>
 
-The world's first commercial space telescope has released its first image as it begins its journey to help track nearby stars that might host habitable exoplanets.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/' target='_blank'>Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula</a></strong> — <em>2026-03-03 14:00:09</em></summary>
-
-This new NASA/ESA Hubble Space Telescope image features one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula lies in the constellation Draco and has captivated astronomers for decades with its elaborate and multilayered structure. Observations with ESA’s Gaia mission place the nebula at 4,400 light-years away. […]
+The James Webb Space Telescope captured a stunning spiral galaxy 65 million light-years away, revealing glowing dust clouds and stellar nurseries.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye' target='_blank'>Hubble & Euclid zoom into cosmic eye</a></strong> — <em>2026-03-03 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-artemis-ii-menu.html' target='_blank'>Artemis II: What's on the menu?</a></strong> — <em>2026-03-04 14:50:05</em></summary>
 
-
-For this month’s ESA/Hubble Picture of the Month, NASA/ESA's Hubble Space Telescope is joined by ESA’s Euclid to create a new view of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye' target='_blank'>Hubble & Euclid zoom into cosmic eye</a></strong> — <em>2026-03-03 14:00:00</em></summary>
-
-
-For this month’s ESA/Hubble Picture of the Month, NASA/ESA's Hubble Space Telescope is joined by ESA’s Euclid to create a new view of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.
+The food flying aboard Artemis II is designed to support crew health and performance during the mission around the moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA's Orion spacecraft. Food selections are developed in coordination with space food experts and the crew to balance calorie needs, hydration, and nutrient intake while accommodating individual crew preferences.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/rare-glass-from-6-million-year-old-meteorite-strike-found-in-brazil-but-the-crater-is-still-missing' target='_blank'>Rare glass from 6-million-year-old meteorite strike found in Brazil — but the crater is still missing</a></strong> — <em>2026-03-03 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-jwst-reveals-secrets-jupiter-northern.html' target='_blank'>JWST reveals surprising secrets in Jupiter's northern lights</a></strong> — <em>2026-03-04 14:20:01</em></summary>
 
-There are only a few known fields of tektites in the entire world, and scientists just found another in Brazil.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260303050635.htm' target='_blank'>James Webb spots a galaxy with tentacles in deep space</a></strong> — <em>2026-03-03 13:25:27</em></summary>
-
-Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds through a dense galaxy cluster. The galaxy appears as it was 8.5 billion years ago, revealing that the early universe may have been far more violent than scientists expected.
+An international team of scientists, led by a Ph.D. researcher from Northumbria University, has made further discoveries about a spectacular feature of Jupiter's northern lights, revealing a never-before-seen temperature structure and dramatic density changes within the top of the giant planet's atmosphere.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/lunar-eclipses/totality-is-over-feast-your-eyes-on-the-1st-photos-of-the-blood-moon-total-lunar-eclipse-2026' target='_blank'>Totality is over — Feast your eyes on the 1st photos of the blood moon total lunar eclipse 2026</a></strong> — <em>2026-03-03 12:03:39</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/did-these-spruce-trees-really-predict-a-solar-eclipse-scientists-are-split' target='_blank'>Did these spruce trees really 'predict' a solar eclipse? Scientists are split</a></strong> — <em>2026-03-04 14:00:00</em></summary>
 
-Tonight's blood moon was the last that will be seen over North America until New Year's Eve 2028.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss' target='_blank'>Antarctica retreat study signals future ice loss</a></strong> — <em>2026-03-03 08:25:00</em></summary>
-
-
-The ice along Antarctica’s ‘grounding lines’ has been largely stable over the past 30 years – but ice has retreated by more than 40 km in some areas, a new study based on satellite data finds.
+Science is messy business. Finding the truth is easier said than done.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Self-repairing_spacecraft_could_change_future_missions' target='_blank'>Self-repairing spacecraft could change future missions</a></strong> — <em>2026-03-03 07:51:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-astronomers-toi-hot-neptune-earth.html' target='_blank'>Astronomers discover TOI-5734 b, a hot sub-Neptune twice Earth's size</a></strong> — <em>2026-03-04 13:00:03</em></summary>
+
+Using the Transiting Exoplanet Survey Satellite (TESS) and High Accuracy Radial velocity Planet Searcher for the Northern Hemisphere (HARPS-N), an international team of astronomers has discovered a hot sub-Neptune exoplanet orbiting a nearby star. The newfound alien world, designated TOI-5734 b, is about two times larger and nine times more massive than Earth. The discovery was presented in a research paper published February 20 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon' target='_blank'>NASA is overhauling its Artemis program. What does that mean for humanity's return to the moon?</a></strong> — <em>2026-03-04 13:00:00</em></summary>
+
+In a major shakeup of the Artemis program, NASA is adding more missions to its timeline to land astronauts on the moon in 2028.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/the-best-image-stabilized-binoculars-models-from-canon-nikon-and-fujifilm' target='_blank'>The best image stabilized binoculars 2026: Our guide to models from Canon, Nikon and Fujifilm.</a></strong> — <em>2026-03-04 13:00:00</em></summary>
+
+Our guide to the best image stabilized binoculars can set you on your way to a great stargazing experience.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-blogs/stargazing-why-we-look-up/why-we-look-up-cosmic-mayflies/' target='_blank'>Why We Look Up: Cosmic Mayflies</a></strong> — <em>2026-03-04 13:00:00</em></summary>
+
+We live our lives in a blink of universal time.
+The post Why We Look Up: Cosmic Mayflies appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-2026-dazzles-in-incredible-photos-from-around-the-world' target='_blank'>The total lunar eclipse 2026 dazzles in incredible photos from around the world</a></strong> — <em>2026-03-04 11:06:50</em></summary>
+
+From city skylines to remote dark skies, skywatchers worldwide captured the total lunar eclipse 2026 in all its crimson glory.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Counting_craters' target='_blank'>Counting craters</a></strong> — <em>2026-03-04 10:00:00</em></summary>
 
 
+Craters, craters, and yet more craters: this snapshot from ESA’s Mars Express is packed full of them, each as fascinating as the last.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Counting_craters' target='_blank'>Counting craters</a></strong> — <em>2026-03-04 10:00:00</em></summary>
+
+
+Craters, craters, and yet more craters: this snapshot from ESA’s Mars Express is packed full of them, each as fascinating as the last.
 
 </details>
 
