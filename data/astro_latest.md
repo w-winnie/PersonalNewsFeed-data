@@ -1,200 +1,266 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Recent Developments in Astrophysics and Space Exploration
 
-#### Advancements in Gravitational Wave Astronomy
-The field of gravitational wave astronomy is experiencing a transformative phase as recent collaborations among LIGO, KAGRA, and Virgo have doubled the catalog of detected events. This expansion not only increases the number of known black hole and neutron star collisions but also enriches our understanding of the extreme conditions under which these phenomena occur. The enhanced dataset is expected to facilitate deeper insights into gravitational physics and the fundamental structure of spacetime, potentially influencing future theoretical frameworks.
+**Advancements in Planetary Defense**  
+NASA's DART mission has achieved a landmark success by successfully altering the trajectory of the asteroid Dimorphos through a kinetic impact. This mission represents humanity's first operational attempt at asteroid deflection, confirming that such techniques could be utilized to avert potential asteroid threats to Earth. The data gathered enhances our understanding of impact dynamics and has significant implications for future planetary defense strategies, marking a pivotal moment in our ability to protect our planet from cosmic hazards.
 
-Key items:
-1. **Doubling of Gravitational Wave Catalog** - https://www.space.com/astronomy/black-holes/the-universe-is-humming-with-ripples-in-spacetime-scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions - New detections have significantly increased the number of known gravitational wave events.
-2. **Gravitational Waves Reveal Galactic Structures** - https://phys.org/news/2026-03-gravitational-reveal-hidden-galactic-centers.html - Gravitational-wave data has uncovered dense structures around supermassive black holes, providing insights into galactic formation.
+**Lunar Exploration and Future Missions**  
+Geological studies of the Moon's Rimae Bode region have identified promising landing sites for China's forthcoming crewed lunar mission. This research underscores the region's diverse geological features, which may yield insights into the Moon's volcanic history. As China prepares for a potential landing in the next few years, these findings are crucial for both national and international lunar exploration efforts, highlighting the scientific value of returning humans to the Moon and the collaborative nature of contemporary space exploration.
 
-#### Stellar Rotation and Evolution Insights
-Recent research from Nagoya University has upended long-standing theories about stellar rotation, particularly for sun-like stars. The study reveals that these stars maintain consistent rotation patterns throughout their lifetimes, rather than transitioning to faster equatorial rotation as they age. This finding has significant implications for stellar evolution models and our understanding of how stars influence their surrounding planetary systems.
+**Insights into Asteroids and Comet Composition**  
+Recent studies have revealed that asteroids function as time capsules, offering critical information about the early solar system. Notably, research on the interstellar comet 3I/ATLAS indicates it possesses a high concentration of methanol, suggesting that such comets may contain organic materials essential for understanding the origins of life. These discoveries enhance our comprehension of celestial bodies and their role in planetary formation, contributing to broader discussions about the building blocks of life in the universe.
 
-Key items:
-1. **Stellar Rotation Patterns** - https://phys.org/news/2026-03-stars-sun-rotation-pattern-life.html - New simulations show that stars may retain their rotation patterns throughout their lives, overturning 45 years of theoretical predictions.
+**Multi-Wavelength Observations of Cosmic Phenomena**  
+A comprehensive multi-wavelength study of the gamma-ray blazar S5 1044+71 has unveiled a three-year activity cycle, enhancing our understanding of these energetic objects and their cosmic influence. This research reflects a growing trend in astrophysics towards employing diverse observational techniques to gain deeper insights into complex phenomena, showcasing the interconnectedness of various astrophysical processes.
 
-#### Solar Activity's Impact on Mars
-Mars has become a focal point of observational studies following the detection of a solar superstorm by orbiters from ESA. This significant event provides critical data on how solar activity interacts with the Martian atmosphere, which is essential for future human exploration and understanding the planet's climate history. The timing of these observations was fortuitous, allowing for a unique glimpse into solar impacts on Mars.
+Overall, the field of astrophysics and space exploration is experiencing significant advancements, particularly in planetary defense, lunar exploration, and the study of celestial bodies. These developments not only deepen our understanding of the universe but also prepare us for future challenges and opportunities in space exploration.
 
-Key items:
-1. **Mars Superstorm Observed** - https://www.space.com/astronomy/mars/mars-orbiters-witness-solar-superstorm-striking-the-red-planet-the-timing-was-extremely-lucky - Mars orbiters captured data on a significant solar storm, enhancing our understanding of solar impacts on the Martian environment.
-
-### Conclusion
-The current landscape of astrophysics is marked by significant advancements that challenge existing paradigms and enhance our understanding of cosmic phenomena. From the burgeoning field of gravitational wave detection to revelations about stellar behavior and the effects of solar activity on Mars, these developments are paving the way for deeper insights into the universe. The integration of observational data with theoretical models is increasingly shaping research directions, fostering a collaborative approach to unraveling the complexities of the cosmos.
-
-### Top Sources:
-1. Will Proba-3 phone home? European solar-eclipse satellite goes dark - https://www.space.com/space-exploration/missions/will-proba-3-phone-home-european-solar-eclipse-satellite-goes-dark - Proba-3's future is uncertain after an anomaly.
-2. The universe is humming with ripples in spacetime: Scientists just doubled our catalog of black hole and neutron star collisions - https://www.space.com/astronomy/black-holes/the-universe-is-humming-with-ripples-in-spacetime-scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions - New gravitational wave detections enhance our understanding of cosmic events.
-3. Lunar Impact from Asteroid 2024 YR4 Ruled Out - https://skyandtelescope.org/astronomy-news/lunar-impact-from-asteroid-2024-yr4-ruled-out/ - New JWST images confirm asteroid will miss the Moon.
-4. Stars like our sun may maintain the same rotation pattern for life, contrary to 45 years of theoretical predictions - https://phys.org/news/2026-03-stars-sun-rotation-pattern-life.html - New simulations challenge previous theories about stellar rotation.
-5. What's inside neutron stars? New model could sharpen gravitational-wave 'tide' clues - https://phys.org/news/2026-03-neutron-stars-sharpen-gravitational-tide.html - Research aims to uncover the internal structure of neutron stars through gravitational waves.
-6. Mars orbiters witness solar superstorm striking the Red Planet: 'The timing was extremely lucky' - https://www.space.com/astronomy/mars/mars-orbiters-witness-solar-superstorm-striking-the-red-planet-the-timing-was-extremely-lucky - Mars orbiters observe significant solar activity impacting the planet.
-7. Stunning Mars image highlights one of Red Planet's oldest cratered regions - https://www.space.com/astronomy/mars/stunning-mars-image-highlights-one-of-red-planets-oldest-cratered-regions - New images provide insights into Mars' geological history.
-8. NASA rules out asteroid smashup on the moon in 2032 - https://phys.org/news/2026-03-nasa-asteroid-smashup-moon.html - NASA confirms asteroid will not impact the Moon.
-9. Gravitational waves reveal hidden structure of galactic centers - https://phys.org/news/2026-03-gravitational-reveal-hidden-galactic-centers.html - Gravitational waves provide insights into the environments around supermassive black holes.
-10. Can we observe Earth-like exoplanets from our own planet? - https://phys.org/news/2026-03-earth-exoplanets-planet.html - Challenges and advancements in detecting Earth-like exoplanets.
+Top Sources:
+1. SpaceX launches 15,000-pound TV satellite to orbit on its 30th mission of the year - https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-15-000-pound-tv-satellite-to-orbit-on-its-30th-mission-of-the-year-photos - SpaceX successfully launches a heavy TV satellite, marking its 30th mission of the year.
+2. NASA’s DART asteroid smash shows we could deflect a future threat - https://www.sciencedaily.com/releases/2026/03/260307213238.htm - DART mission alters an asteroid's trajectory, proving a viable planetary defense strategy.
+3. Evaluating landing sites for China's manned moon mission - https://phys.org/news/2026-03-sites-china-moon-mission.html - Research identifies potential landing sites for China's lunar crewed mission.
+4. How do we know what asteroids are made out of? - https://phys.org/news/2026-03-asteroids.html - Insights into the composition of asteroids and their significance for understanding the solar system.
+5. An interstellar comet packed with alcohol? What ALMA found in 3I/ATLAS - https://phys.org/news/2026-03-interstellar-comet-alcohol-alma-3iatlas.html - Discovery of high methanol content in comet 3I/ATLAS suggests rich organic materials.
+6. Multi-wavelength observations track bright gamma-ray blazar's three-year cycle - https://phys.org/news/2026-03-multi-wavelength-track-bright-gamma.html - Comprehensive study of S5 1044+71 reveals its activity cycle.
+7. Shades of a Lunar Eclipse - https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/ - Satellite images show variations in moonlight during a total lunar eclipse.
+8. Nearby red dwarf star hosts at least four planets—with one in the habitable zone - https://phys.org/news/2026-03-nearby-red-dwarf-star-hosts.html - Confirmation of additional planets around GJ 887, including one in the habitable zone.
+9. ESA analyzing fireball over Europe on 8 March 2026 - https://phys.org/news/2026-03-esa-fireball-europe.html - Investigation of a bright fireball observed across several European countries.
+10. Webb Studies Cranium Nebula - https://www.nasa.gov/image-article/webb-studies-cranium-nebula/ - The James Webb Space Telescope captures detailed images of the “Exposed Cranium” nebula.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/missions/will-proba-3-phone-home-european-solar-eclipse-satellite-goes-dark' target='_blank'>Will Proba-3 phone home? European solar-eclipse satellite goes dark</a></strong> — <em>2026-03-06 22:00:00</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-15-000-pound-tv-satellite-to-orbit-on-its-30th-mission-of-the-year-photos' target='_blank'>SpaceX launches 15,000-pound TV satellite to orbit on its 30th mission of the year (photos)</a></strong> — <em>2026-03-10 05:43:42</em></summary>
 
-One of Europe's two Proba-3 spacecraft suffered an anomaly last month, putting the future of the solar eclipse-creating mission in doubt.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/the-universe-is-humming-with-ripples-in-spacetime-scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions' target='_blank'>The universe is humming with ripples in spacetime: Scientists just doubled our catalog of black hole and neutron star collisions</a></strong> — <em>2026-03-06 21:00:00</em></summary>
-
-The catalog of gravitational waves "heard" by LIGO, KAGRA and Virgo has doubled with detections of spacetime ripples.
+A SpaceX Falcon 9 rocket launched the 15,000-pound EchoStar XXV TV satellite to orbit from Florida's Space Coast just after midnight on Tuesday (March 10).
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/lunar-impact-from-asteroid-2024-yr4-ruled-out/' target='_blank'>Lunar Impact from Asteroid 2024 YR4 Ruled Out</a></strong> — <em>2026-03-06 20:35:56</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/' target='_blank'>Shades of a Lunar Eclipse</a></strong> — <em>2026-03-10 04:01:00</em></summary>
 
-The latest JWST images, along with archival images taken before the asteroid was even discovered, combine to refine its trajectory.
-The post Lunar Impact from Asteroid 2024 YR4 Ruled Out appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-stars-sun-rotation-pattern-life.html' target='_blank'>Stars like our sun may maintain the same rotation pattern for life, contrary to 45 years of theoretical predictions</a></strong> — <em>2026-03-06 20:20:03</em></summary>
-
-Researchers at Nagoya University in Japan have conducted the most detailed simulation of the interior of stars and disproved a theory scientists have believed for 45 years: that stars switch their rotation patterns as they age, with poles rotating faster than the equator in older stars. Scientists have now found that this switch may not occur. Stars maintain solar-type rotation, spinning fast at the equator and slow at the poles throughout their lifetime. The findings are published in Nature Astronomy.
+A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-neutron-stars-sharpen-gravitational-tide.html' target='_blank'>What's inside neutron stars? New model could sharpen gravitational-wave 'tide' clues</a></strong> — <em>2026-03-06 19:20:03</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/' target='_blank'>Shades of a Lunar Eclipse</a></strong> — <em>2026-03-10 04:01:00</em></summary>
 
-Neutron stars harbor some of the most extreme environments in the universe: their densities soar to several times those of atomic nuclei, and they possess some of the strongest gravitational fields of any known objects, surpassed only by black holes. First observed in the 1960s, much of the internal composition of neutron stars is still unknown. Scientists are beginning to look to gravitational waves emitted by binary neutron‐star inspirals—pairs of mutually orbiting neutron stars—as possible sources of information about their interiors.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/mars-orbiters-witness-solar-superstorm-striking-the-red-planet-the-timing-was-extremely-lucky' target='_blank'>Mars orbiters witness solar superstorm striking the Red Planet: 'The timing was extremely lucky'</a></strong> — <em>2026-03-06 19:02:56</em></summary>
-
-The ESA's Mars Express and ExoMars Trace Gas Orbiter spacecraft watched as a superstorm that ravaged Earth also struck the Red Planet.
+A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/20-percent-off-lego-marvel-iron-spider-man-bust-has-never-been-cheaper' target='_blank'>20% off at Amazon, this super-cool Lego Marvel Iron Spider-Man Bust has never been cheaper</a></strong> — <em>2026-03-06 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260307213238.htm' target='_blank'>NASA’s DART asteroid smash shows we could deflect a future threat</a></strong> — <em>2026-03-10 01:12:54</em></summary>
 
-Can't wait for Spider-Man: Brand New Day? Make the wait a little less painful, with 20% off this seriously super Lego Marvel Iron Spider-Man Bust.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-earth-exoplanets-planet.html' target='_blank'>Can we observe Earth-like exoplanets from our own planet?</a></strong> — <em>2026-03-06 17:40:04</em></summary>
-
-Finding Earth-like planets orbiting sun-like stars and identifying signs of life such as oxygen or water is a major goal in astronomy and a key interest for the public. Addressing this challenge speaks directly to one of humanity's most fundamental questions: Are we alone in the universe? However, these planets are about 10 billion times dimmer than their stars in visible light, making direct detection extremely challenging.
+When NASA’s DART spacecraft deliberately crashed into the asteroid moonlet Dimorphos, it did more than change the asteroid’s local orbit — it slightly shifted the path of the entire asteroid pair around the Sun. The impact blasted debris into space, doubling the force of the spacecraft’s hit and nudging the system’s solar orbit by a tiny but measurable amount. It marks the first time humans have altered the trajectory of a celestial object around the Sun. The result strengthens the case for using spacecraft impacts as a future planetary defense strategy.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-wants-to-accelerate-its-artemis-missions-to-the-moon-it-will-need-to-drop-some-big-hardware-to-do-it' target='_blank'>NASA wants to accelerate its Artemis missions to the moon. It will need to drop some big hardware to do it.</a></strong> — <em>2026-03-06 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-sites-china-moon-mission.html' target='_blank'>Evaluating landing sites for China's manned moon mission</a></strong> — <em>2026-03-09 23:20:03</em></summary>
 
-A big restructuring of NASA's plans to land astronauts on the moon is adding missions and speeding up the timeline, but some hardware might have to be cut loose in the process.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-gravitational-reveal-hidden-galactic-centers.html' target='_blank'>Gravitational waves reveal hidden structure of galactic centers</a></strong> — <em>2026-03-06 16:40:01</em></summary>
-
-A new study published in Nature Astronomy indicates that the dense, star- and dark-matter–rich environments around supermassive black hole binaries pack on the order of a million solar masses into each cubic parsec. The team used gravitational-wave data from pulsar timing arrays to probe galactic centers that are otherwise impossible to observe directly.
+Observations of the Rimae Bode region on the moon reveal five distinct types of terrain and identify several potential landing sites for China's first crewed mission, according to research titled "Geology of Rimae Bode region as priority site candidate for China's first crewed lunar mission." The work is published in Nature Astronomy.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/the-marathon-collectors-edition-nails-the-assignment-as-bungies-sci-fi-shooter-finally-launches' target='_blank'>The Marathon Collector’s Edition nails the assignment as Bungie's sci-fi shooter finally launches</a></strong> — <em>2026-03-06 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-asteroids.html' target='_blank'>How do we know what asteroids are made out of?</a></strong> — <em>2026-03-09 22:50:05</em></summary>
 
-As Bungie’s extraction shooter welcomes players to Tau Ceti IV, we’ve taken a good look at its hefty collector’s edition.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/cosmic-hawk-spreads-its-wings-space-photo-of-the-day-for-march-6-2026' target='_blank'>Cosmic Hawk spreads its wings| Space photo of the day for March 6, 2026</a></strong> — <em>2026-03-06 15:47:52</em></summary>
-
-The Milky Way nebula RCW 36 resembles a stunning cosmic bird of prey in an incredible Very Large Telescope image.
+Asteroids are some of the oldest objects in the solar system: leftovers from the chaotic time when planets were assembling from dust and rock. They're time capsules, preserving clues about what the early solar system was like, and, ultimately, what the building blocks of planets are.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/celestron-starsense-explorer-lt-70az-telescope-review' target='_blank'>Celestron StarSense Explorer LT 70AZ beginner telescope review</a></strong> — <em>2026-03-06 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/incoming-1-300-pound-nasa-satellite-will-crash-to-earth-on-march-10' target='_blank'>Incoming! 1,300-pound NASA satellite will crash to Earth on March 10</a></strong> — <em>2026-03-09 22:00:00</em></summary>
 
-This Celestron StarSense Explorer LT 70AZ is best for observing planets and the moon.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/did-earth-life-actually-begin-on-mars-asteroid-impacts-could-let-microbes-planet-hop-study-suggests' target='_blank'>Did Earth life actually begin on Mars? Asteroid impacts could let microbes planet-hop, study suggests</a></strong> — <em>2026-03-06 15:00:00</em></summary>
-
-"Life might actually survive being ejected from one planet and moving to another."
+NASA's Van Allen Probe A will crash to Earth on Tuesday (March 10) after nearly 14 years in orbit, according to the Space Force's current best estimate. But don't panic; you'll probably be fine.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-nasa-asteroid-smashup-moon.html' target='_blank'>NASA rules out asteroid smashup on the moon in 2032</a></strong> — <em>2026-03-06 14:46:34</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-terraforming-mars-isnt-climate-problem.html' target='_blank'>Terraforming Mars isn't a climate problem—it's an industrial nightmare</a></strong> — <em>2026-03-09 20:30:01</em></summary>
 
-Here's one less thing to worry about—or to look forward to: NASA has ruled out any chance that an asteroid called 2024 YR4 will hit the moon in 2032. Last year, the uncertainty surrounding the space rock's orbital path held out a slight chance of impact, but fresh observations from NASA's James Webb Space Telescope confirm that it'll be a miss.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_March_2026' target='_blank'>Week in images: 02-06 March 2026</a></strong> — <em>2026-03-06 14:15:00</em></summary>
-
-
-Week in images: 02-06 March 2026
-Discover our week through the lens
+Even when the idea of terraforming Mars was originally put forward, the idea was daunting. Changing the environment of an entire planet is not something to do easily. Over the following decades, plenty of scientists and engineers have looked at the problem, and most have come to the same conclusion—we're not going to be able to make Mars anything like Earth anytime soon. A new paper available in pre-print on arXiv from Slava Turyshev of NASA's Jet Propulsion Laboratory is a good explainer as to why.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/nightfox-whisker-night-vision-binoculars-review' target='_blank'>Nightfox Whisker night vision binoculars review</a></strong> — <em>2026-03-06 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/jupiter-appears-to-change-direction-in-the-evening-sky-on-march-10-heres-why' target='_blank'>Jupiter appears to change direction in the evening sky on March 10: Here's why</a></strong> — <em>2026-03-09 20:00:00</em></summary>
 
-Are the Nightfox Whisker the best Nightfox night vision binoculars yet?
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/crush-the-rebels-for-less-with-money-off-this-menacing-mid-sized-lego-star-wars-at-at' target='_blank'>Crush the Rebels for less with money off this menacing, mid-sized Lego Star Wars AT-AT</a></strong> — <em>2026-03-06 13:50:41</em></summary>
-
-This Lego Star Wars AT-AT walker only debuted in January 2026 and you can already save 5% on this shelf-sized but still seriously impressive set.
+The change is subtle and happens over many nights.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/stunning-mars-image-highlights-one-of-red-planets-oldest-cratered-regions' target='_blank'>Stunning Mars image highlights one of Red Planet's oldest cratered regions</a></strong> — <em>2026-03-06 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/' target='_blank'>NASA’s Van Allen Probe A to Re-Enter Atmosphere</a></strong> — <em>2026-03-09 19:55:37</em></summary>
 
-Newly released Mars images offer a detailed look at one of the Red Planet's oldest, most heavily cratered regions, a landscape shaped by billions of years of impacts, volcanism and erosion.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/enjoy-for-all-mankind-spinoff-series-star-city-anywhere-with-these-vpn-deals-save-74-percent-off-and-a-bonus-free-usd50-amazon-voucher' target='_blank'>Enjoy 'For All Mankind' spinoff series 'Star City' anywhere with these VPN deals — save 74% off and a bonus free $50 Amazon voucher</a></strong> — <em>2026-03-06 12:16:15</em></summary>
-
-NordVPN comes recommended as the best VPN service, and offers online security and convenience, now with a $415 discount and a $50 Amazon voucher.
+NASA’s Van Allen Probe A is expected to re-enter Earth’s atmosphere almost 14 years after launch. From 2012 to 2019, the spacecraft and its twin, Van Allen Probe B, flew through the Van Allen belts, rings of charged particles trapped by Earth’s magnetic field, to understand how particles were gained and lost. The belts shield Earth from cosmic radiation, solar storms, and the constantly streaming […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/japan-htv-x-depart-international-space-station-first-mission' target='_blank'>Japan's 1st HTV-X cargo craft leaves the International Space Station (photo)</a></strong> — <em>2026-03-06 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/armd/iasp/sfd/about-sfd/' target='_blank'>About Subsonic Flight Demonstrator (SFD) Project</a></strong> — <em>2026-03-09 19:00:00</em></summary>
 
-Japan's new HTV-X cargo spacecraft departed the International Space Station today (March 6) after a four-month stay.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-march-6-15/' target='_blank'>This Week's Sky at a Glance, March 6 – 15</a></strong> — <em>2026-03-06 09:44:00</em></summary>
-
-Bright Jupiter highlights the Gemini stick-figure twins standing on either side of it. Down below, the Winter Triangle balances on its Sirius point.
-The post This Week's Sky at a Glance, March 6 – 15 appeared first on Sky & Telescope.
+The purpose of the Subsonic Flight Demonstrator (SFD) project is to engage with industry and other government organizations to identify, select, and mature key airframe technologies, such as new wing designs, that have a high probability of transition to the next generation single-aisle seat class airliner.  Moving technologies from a research environment to a production environment […]
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Dhaka_Bangladesh' target='_blank'>Earth from Space: Dhaka, Bangladesh</a></strong> — <em>2026-03-06 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/' target='_blank'>About Flight Demonstrations and Capabilities (FDC) Project</a></strong> — <em>2026-03-09 18:30:00</em></summary>
 
-
-	Image:
-			These two views from Copernicus Sentinel-2 reveal the landscape transformation in the area around Dhaka, the capital of Bangladesh.
+The FDC project conducts complex integrated small-scale flight research to validate the benefits of new technologies. By modifying aircraft from FDC’s support fleet, the project enables aggressive, success-oriented flight campaign schedules. While many technologies are at mid-levels of technology readiness, the FDC project supports all phases of technology maturation.   FDC’s support aircraft fleet enables safety chase and in-flight experimental measurements for a variety of […]
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/About_Us/Diversity_and_Inclusiveness/Meet_ESA_s_newest_female_leadership' target='_blank'>Meet ESA’s newest female leadership</a></strong> — <em>2026-03-06 08:30:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-nearby-red-dwarf-star-hosts.html' target='_blank'>Nearby red dwarf star hosts at least four planets—with one in the habitable zone</a></strong> — <em>2026-03-09 18:20:01</em></summary>
 
-
-This year for International Women’s Day, we showcase some of the women from the European Space Agency’s most recent female leadership recruits: Céline Begon, Christine Boelsche, Céline Folsché and Ildiko Raczne Szoke.
+In 2020, a study confirmed that two planets orbited the nearby red dwarf, GJ 887. Now, astronomers have confirmed the existence of two additional planets orbiting GJ 887 in a new study published in Astronomy and Astrophysics. The new study suggests that one of these newly confirmed planets is in the habitable zone.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Space_in_Member_States/United_Kingdom/New_AI_Hub_to_empower_space-enabled_connectivity' target='_blank'>New AI Hub to empower space-enabled connectivity</a></strong> — <em>2026-03-06 08:25:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/learning-resources/what-is-pi-grades-5-8/' target='_blank'>What Is Pi? (Grades 5-8)</a></strong> — <em>2026-03-09 18:10:28</em></summary>
+
+This article is for students grades 5-8. What is Pi? Pi is a number. You might know it as 3.14 or the symbol π. But it’s way more than that! What Makes Pi Special? Pi is an irrational number. That means it goes on forever and it never repeats its sequence of numbers. Pi has […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-armstrong-director-brad-flick-to-retire-after-40-years-of-service/' target='_blank'>NASA Armstrong Director Brad Flick to Retire After 40 Years of Service</a></strong> — <em>2026-03-09 18:07:59</em></summary>
+
+On Monday, NASA announced Bradley Flick, director of NASA’s Armstrong Flight Research Center in Edwards, California, will retire Thursday, March 19, after a nearly 40-year career advancing aeronautics and flight research. Flick began his NASA journey in 1986 as a flight systems engineer and rose through the ranks to lead the center. His career spanned […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-1st-trailer-for-hbos-lanterns-drops-with-no-green-no-aliens-and-a-boatload-of-f-bombs' target='_blank'>The 1st trailer for HBO's 'Lanterns' drops with no green, no aliens, and a boatload of f-bombs</a></strong> — <em>2026-03-09 18:00:00</em></summary>
+
+'Don't get too hung up on the jewelry, junior, you're just a f***ing substitute teacher.'
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-energy-neutrino-begun-journey-blazars.html' target='_blank'>Record-energy neutrino may have begun its journey in blazars</a></strong> — <em>2026-03-09 17:20:03</em></summary>
+
+Three years ago, in the waters of the Mediterranean Sea, the passage of an "ultra-energetic" cosmic neutrino was observed—the most energetic ever detected. The event drew international attention from the scientific community as well as from the media and the public, not least because the origin of this particle—whose energy exceeded that of previously observed neutrinos by more than an order of magnitude—is unknown.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/la-nasa-compartira-informacion-actualizada-sobre-la-evaluacion-de-aptitud-para-el-vuelo-de-artemis-ii/' target='_blank'>La NASA compartirá información actualizada sobre la evaluación de aptitud para el vuelo de Artemis II</a></strong> — <em>2026-03-09 16:34:54</em></summary>
+
+Read this media advisory in English here. La NASA ofrecerá una rueda de prensa a las 3 p.m. EDT (hora del este) del jueves 12 de marzo para dar a conocer el progreso de la misión tripulada Artemis II alrededor de la Luna. La rueda de prensa tendrá lugar en el Centro Espacial Kennedy de la […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/china-first-astronaut-moon-landing-mission-rimae-bode' target='_blank'>China's 1st moon astronauts could land in Rimae Bode, a 'geological museum' on the lunar near side</a></strong> — <em>2026-03-09 16:01:00</em></summary>
+
+A new study highlights the volcanic Rimae Bode region as a scientifically promising destination for China's first crewed moon landing mission, which the nation wants to achieve by 2030.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/' target='_blank'>NASA to Share Artemis II Flight Readiness Review Update</a></strong> — <em>2026-03-09 15:57:36</em></summary>
+
+NASA will host a news conference at 3 p.m. EDT, Thursday, March 12, to highlight progress toward the Artemis II crewed mission around the Moon. The media briefing will take place from the agency’s Kennedy Space Center in Florida after the conclusion of an Artemis II Flight Readiness Review. The news conference will stream live […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/' target='_blank'>NASA to Share Artemis II Flight Readiness Review Update</a></strong> — <em>2026-03-09 15:57:36</em></summary>
+
+NASA will host a news conference at 3 p.m. EDT, Thursday, March 12, to highlight progress toward the Artemis II crewed mission around the Moon. The media briefing will take place from the agency’s Kennedy Space Center in Florida after the conclusion of an Artemis II Flight Readiness Review. The news conference will stream live […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nesc/flammability-testing-configuration-and-approach-of-barrier-materialassemblies-designed-for-space-flight-applications/' target='_blank'>TB 26-03 Flammability Testing Configuration and Approach of Barrier MaterialAssemblies Designed for Space Flight Applications</a></strong> — <em>2026-03-09 15:50:56</em></summary>
+
+The NASA Engineering and Safety Center (NESC) partnered with Materials and Processes and Flammability subject matter experts from the Johnson Space Center, White Sands Test Facility, and the Marshall Space Flight Center to design and develop a test for evaluating the effectiveness of material assemblies to serve as a barrier between a potential cabin ignition […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/webb-studies-cranium-nebula/' target='_blank'>Webb Studies Cranium Nebula</a></strong> — <em>2026-03-09 15:09:37</em></summary>
+
+Nebula PMR 1 is a cloud of gas and dust that bears an uncanny resemblance to a brain in a transparent skull, inspiring its nickname, the “Exposed Cranium” nebula. Webb captured its unusual features in both near- and mid-infrared light. The nebula was first revealed in infrared light by a predecessor to Webb, NASA’s now-retired Spitzer Space […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-3/' target='_blank'>NASA Astronauts to Answer Questions from Students in New York</a></strong> — <em>2026-03-09 15:06:15</em></summary>
+
+Students in New York will hear from NASA astronauts Jack Hathaway and Chris Williams as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 12:05 p.m. EDT Wednesday, March 11, and will stream live on the agency’s Learn With NASA YouTube channel. […]
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/dwarf-galaxy-has-too-many-satellites/' target='_blank'>Dwarf Galaxy Has "Too Many" Satellites</a></strong> — <em>2026-03-09 14:30:24</em></summary>
+
+While small galaxies are expected to have even smaller satellite galaxies, astronomers have found a surprising number of tiny companions around one dwarf galaxy.
+The post Dwarf Galaxy Has "Too Many" Satellites appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home' target='_blank'>Spectacular fireball over Europe sends meteorite crashing through roof of German home</a></strong> — <em>2026-03-09 14:23:05</em></summary>
+
+A meteorite has crashed through the roof of a house after thousands observed a stunning fireball streak across the sky in western Europe.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-esa-fireball-europe.html' target='_blank'>ESA analyzing fireball over Europe on 8 March 2026</a></strong> — <em>2026-03-09 14:10:15</em></summary>
+
+At approximately 18:55 CET (17:55 UTC) on Sunday, March 8, 2026, a very bright fireball moving from the southwest to the northeast was observed by many people in Belgium, France, Germany, Luxembourg, and the Netherlands.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-multi-wavelength-track-bright-gamma.html' target='_blank'>Multi-wavelength observations track bright gamma-ray blazar's three-year cycle</a></strong> — <em>2026-03-09 14:00:03</em></summary>
+
+By analyzing the data from various space observatories and ground-based telescopes, European astronomers have performed a multiwavelength study of a bright gamma-ray blazar known as S5 1044+71. The new study, published Feb. 26 on the arXiv pre-print server, delivers a comprehensive view of this blazar, which could help us better understand its nature.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/smart-telescope-buying-made-easy-your-guide-to-unistellar-zwo-celestron-dwarflab-and-vaonis' target='_blank'>Smart telescope buying made easy: Your guide to Unistellar, ZWO, Celestron, Dwarflab, and Vaonis</a></strong> — <em>2026-03-09 14:00:00</em></summary>
+
+Our expert gives you a rundown of the main smart telescope brands and models.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/spacexs-ship-39-is-so-cool-in-starship-v3-test-space-photo-of-the-day-for-march-9-2026' target='_blank'>SpaceX's Ship 39 is so cool in Starship V3 test| Space photo of the day for March 9, 2026</a></strong> — <em>2026-03-09 14:00:00</em></summary>
+
+SpaceX engineers tested Ship 39's propellant system, leading to some stunning images.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-interstellar-comet-alcohol-alma-3iatlas.html' target='_blank'>An interstellar comet packed with alcohol? What ALMA found in 3I/ATLAS</a></strong> — <em>2026-03-09 13:20:03</em></summary>
+
+Comet 3I/ATLAS continues to make astonishing headlines, thanks to new findings from astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA). This new research reveals that 3I/ATLAS is packed with an unusually large amount of the organic molecule methanol—more than almost all known comets in our own solar system.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/future-spacecraft-could-fix-their-own-damage-using-self-healing-materials' target='_blank'>Future spacecraft could fix their own damage using 'self-healing' materials</a></strong> — <em>2026-03-09 13:00:00</em></summary>
+
+Spacecraft of the future may be able to detect and repair their own structural damage in orbit, a capability that could make long-duration missions and reusable launch vehicles more resilient.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/project-hail-marys-final-teaser-trailer-is-amaze-amaze-amaze' target='_blank'>'Project Hail Mary''s final teaser trailer is 'Amaze! Amaze! Amaze!'</a></strong> — <em>2026-03-09 13:00:00</em></summary>
+
+'I really wanted this incredible friendship to be true to the book.'
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport' target='_blank'>Smile arrives at Europe’s Spaceport</a></strong> — <em>2026-03-09 11:00:00</em></summary>
 
 
-New AI Hub to empower space-enabled connectivity
+The Smile spacecraft has arrived at Europe’s Spaceport in French Guiana. During the coming weeks, the spacecraft will go through final preparations for its launch on a Vega-C rocket between 8 April and 7 May.
 
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport' target='_blank'>Smile arrives at Europe’s Spaceport</a></strong> — <em>2026-03-09 11:00:00</em></summary>
+
+
+The Smile spacecraft has arrived at Europe’s Spaceport in French Guiana. During the coming weeks, the spacecraft will go through final preparations for its launch on a Vega-C rocket between 8 April and 7 May.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026' target='_blank'>ESA analysing fireball over Europe on 8 March 2026</a></strong> — <em>2026-03-09 10:40:00</em></summary>
+
+
+At approximately 18:55 CET (17:55 UTC) on Sunday 8 March 2026, a very bright fireball moving from the southwest to the northeast was observed by many people in Belgium, France, Germany, Luxembourg, and the Netherlands.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/congress-wants-the-international-space-station-to-keep-flying-until-2032-heres-why' target='_blank'>Congress wants the International Space Station to keep flying until 2032. Here's why</a></strong> — <em>2026-03-09 10:00:00</em></summary>
+
+Congress is pushing to extend the International Space Station's life by two years, to give commercial outposts more time to step into its shoes.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Operations/She_flies_satellites._One_day_I_can_too.' target='_blank'>"She flies satellites. One day, I can too."</a></strong> — <em>2026-03-09 07:30:00</em></summary>
+
+
+At ESA’s European Space Operations Centre (ESOC), teams work around the clock to fly spacecraft across the Solar System and monitor Earth from orbit. Among them are women leading spacecraft operations, managing teams and helping shape the culture of ESA’s mission control.
 
 </details>
 
