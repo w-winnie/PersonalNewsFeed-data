@@ -2,265 +2,247 @@
 
     ### Recent Developments in Astrophysics and Space Exploration
 
-**Advancements in Planetary Defense**  
-NASA's DART mission has achieved a landmark success by successfully altering the trajectory of the asteroid Dimorphos through a kinetic impact. This mission represents humanity's first operational attempt at asteroid deflection, confirming that such techniques could be utilized to avert potential asteroid threats to Earth. The data gathered enhances our understanding of impact dynamics and has significant implications for future planetary defense strategies, marking a pivotal moment in our ability to protect our planet from cosmic hazards.
+#### Advances in Astrobiology and Planetary Science
+Recent findings in astrobiology highlight the potential for life in extreme environments and inform future exploration strategies. A unique Antarctic lake, Lake Unter-See, has been discovered to contain high levels of dissolved oxygen and microbial reefs, suggesting that similar extraterrestrial environments could support life. Moreover, research on lunar dust has revealed its jagged properties may actually enhance astronaut mobility on the Moon, countering previous concerns about its abrasive nature. These discoveries are essential for guiding both the search for extraterrestrial life and the design of upcoming lunar missions.
 
-**Lunar Exploration and Future Missions**  
-Geological studies of the Moon's Rimae Bode region have identified promising landing sites for China's forthcoming crewed lunar mission. This research underscores the region's diverse geological features, which may yield insights into the Moon's volcanic history. As China prepares for a potential landing in the next few years, these findings are crucial for both national and international lunar exploration efforts, highlighting the scientific value of returning humans to the Moon and the collaborative nature of contemporary space exploration.
+Key Items:
+1. Lake Unter-See hosts unique microbial reefs, hinting at life-supporting conditions in extreme environments - https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/.
+2. Lunar dust's properties may aid astronaut mobility on the Moon, as per research from Beihang University - https://phys.org/news/2026-03-jagged-moon-future-astronauts.html.
 
-**Insights into Asteroids and Comet Composition**  
-Recent studies have revealed that asteroids function as time capsules, offering critical information about the early solar system. Notably, research on the interstellar comet 3I/ATLAS indicates it possesses a high concentration of methanol, suggesting that such comets may contain organic materials essential for understanding the origins of life. These discoveries enhance our comprehension of celestial bodies and their role in planetary formation, contributing to broader discussions about the building blocks of life in the universe.
+#### Breakthroughs in Astrophysics: Cosmic Events and Materials
+Astrophysical research has yielded significant insights into cosmic phenomena, particularly through the study of neutron star collisions. An unprecedented observation of ultradense star collisions in a gas-rich galaxy has the potential to address longstanding questions about stellar evolution. Additionally, the cosmic burst GRB 230906A from colliding galaxies provides new information on the formation of heavy elements, further enriching our understanding of the universe's chemical makeup. These findings underscore the dynamic nature of cosmic processes and their implications for the evolution of matter.
 
-**Multi-Wavelength Observations of Cosmic Phenomena**  
-A comprehensive multi-wavelength study of the gamma-ray blazar S5 1044+71 has unveiled a three-year activity cycle, enhancing our understanding of these energetic objects and their cosmic influence. This research reflects a growing trend in astrophysics towards employing diverse observational techniques to gain deeper insights into complex phenomena, showcasing the interconnectedness of various astrophysical processes.
+Key Items:
+1. NASA's missions have identified an unprecedented star collision in a gas-rich galaxy - https://phys.org/news/2026-03-nasa-extreme-star-collision.html.
+2. The cosmic burst GRB 230906A sheds light on the origins of heavy elements in the universe - https://phys.org/news/2026-03-strange-cosmic-colliding-galaxies-heavy.html.
 
-Overall, the field of astrophysics and space exploration is experiencing significant advancements, particularly in planetary defense, lunar exploration, and the study of celestial bodies. These developments not only deepen our understanding of the universe but also prepare us for future challenges and opportunities in space exploration.
+#### Innovations in Space Technology
+Technological advancements are enhancing the safety and efficiency of space missions. Researchers at MIT are developing boron nitride nanotubes as a radiation shield for spacecraft, which could significantly improve astronaut safety during missions. Concurrently, NASA is testing a new refueling technology that aims to lower costs and extend the operational lifespan of planetary landers. These innovations reflect a growing commitment to sustainable and safe space exploration, crucial for future missions to the Moon and beyond.
 
-Top Sources:
-1. SpaceX launches 15,000-pound TV satellite to orbit on its 30th mission of the year - https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-15-000-pound-tv-satellite-to-orbit-on-its-30th-mission-of-the-year-photos - SpaceX successfully launches a heavy TV satellite, marking its 30th mission of the year.
-2. NASA’s DART asteroid smash shows we could deflect a future threat - https://www.sciencedaily.com/releases/2026/03/260307213238.htm - DART mission alters an asteroid's trajectory, proving a viable planetary defense strategy.
-3. Evaluating landing sites for China's manned moon mission - https://phys.org/news/2026-03-sites-china-moon-mission.html - Research identifies potential landing sites for China's lunar crewed mission.
-4. How do we know what asteroids are made out of? - https://phys.org/news/2026-03-asteroids.html - Insights into the composition of asteroids and their significance for understanding the solar system.
-5. An interstellar comet packed with alcohol? What ALMA found in 3I/ATLAS - https://phys.org/news/2026-03-interstellar-comet-alcohol-alma-3iatlas.html - Discovery of high methanol content in comet 3I/ATLAS suggests rich organic materials.
-6. Multi-wavelength observations track bright gamma-ray blazar's three-year cycle - https://phys.org/news/2026-03-multi-wavelength-track-bright-gamma.html - Comprehensive study of S5 1044+71 reveals its activity cycle.
-7. Shades of a Lunar Eclipse - https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/ - Satellite images show variations in moonlight during a total lunar eclipse.
-8. Nearby red dwarf star hosts at least four planets—with one in the habitable zone - https://phys.org/news/2026-03-nearby-red-dwarf-star-hosts.html - Confirmation of additional planets around GJ 887, including one in the habitable zone.
-9. ESA analyzing fireball over Europe on 8 March 2026 - https://phys.org/news/2026-03-esa-fireball-europe.html - Investigation of a bright fireball observed across several European countries.
-10. Webb Studies Cranium Nebula - https://www.nasa.gov/image-article/webb-studies-cranium-nebula/ - The James Webb Space Telescope captures detailed images of the “Exposed Cranium” nebula.
+Key Items:
+1. New materials developed for spaceflight could block ionizing radiation - https://news.mit.edu/2026/palak-patel-finding-nanoscale-solution-safer-spaceflight-0311.
+2. NASA's CryoFILL project aims to revolutionize lander refueling, enhancing mission capabilities - https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/.
+
+### Conclusion
+The current landscape of astrophysics and space exploration is characterized by significant scientific discoveries and technological advancements. Researchers are deepening our understanding of extreme environments and cosmic phenomena while developing practical solutions to enhance the safety and sustainability of future missions. This intersection of knowledge and innovation is vital as we prepare for ambitious explorations beyond Earth, fostering a mood of optimism and curiosity in the field.
+
+### Top Sources:
+1. Curiosity Blog, Sols 4825-4831: Exploring the Borderlands - https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/ - Curiosity rover explores unique terrain on Mars.
+2. A Most Unusual Lake - https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/ - Antarctic lake reveals life-supporting conditions.
+3. Finding a nanoscale solution to safer spaceflight - https://news.mit.edu/2026/palak-patel-finding-nanoscale-solution-safer-spaceflight-0311 - New materials could protect astronauts from radiation.
+4. How jagged moon dust could support future astronauts - https://phys.org/news/2026-03-jagged-moon-future-astronauts.html - Lunar dust properties may aid in astronaut mobility.
+5. Jupiter's moons leave cold 'footprints' in the planet's auroras - https://www.space.com/astronomy/jupiter/jupiters-moons-leave-cold-footprints-in-the-planets-auroras-james-webb-space-telescope-finds - New insights into Jupiter's auroras from JWST.
+6. Asteroid Didymos's Orbit Altered by Impact on its Moon - https://skyandtelescope.org/astronomy-news/asteroid-didymoss-orbit-altered-by-impact-on-its-moon/ - DART mission successfully alters asteroid's trajectory.
+7. NASA finds extreme star collision in unlikely spot - https://phys.org/news/2026-03-nasa-extreme-star-collision.html - Unique star collision observed in a gas-rich environment.
+8. Strange cosmic burst from colliding galaxies shines light on heavy elements - https://phys.org/news/2026-03-strange-cosmic-colliding-galaxies-heavy.html - Cosmic burst reveals origins of heavy elements.
+9. Ice to Fuel: NASA Tests Technology for Refueling Landers - https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/ - New refueling technology could enhance mission capabilities.
+10. New exoplanet survey method finds high rates of closely orbiting planets - https://phys.org/news/2026-03-exoplanet-survey-method-high-orbiting.html - Innovative method detects more exoplanets.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-15-000-pound-tv-satellite-to-orbit-on-its-30th-mission-of-the-year-photos' target='_blank'>SpaceX launches 15,000-pound TV satellite to orbit on its 30th mission of the year (photos)</a></strong> — <em>2026-03-10 05:43:42</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/' target='_blank'>Curiosity Blog, Sols 4825-4831: Exploring the Borderlands</a></strong> — <em>2026-03-11 05:24:17</em></summary>
 
-A SpaceX Falcon 9 rocket launched the 15,000-pound EchoStar XXV TV satellite to orbit from Florida's Space Coast just after midnight on Tuesday (March 10).
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/' target='_blank'>Shades of a Lunar Eclipse</a></strong> — <em>2026-03-10 04:01:00</em></summary>
-
-A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.
+Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, March 6, 2026 Curiosity is in the last stage of its exploration of the spiderweb-like boxwork unit. This stage consists of exploring the eastern and southern borders of this terrain. There were two multi-sol plans assembled this week. The previous plan […]
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/' target='_blank'>Shades of a Lunar Eclipse</a></strong> — <em>2026-03-10 04:01:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/' target='_blank'>A Most Unusual Lake</a></strong> — <em>2026-03-11 04:01:00</em></summary>
 
-A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260307213238.htm' target='_blank'>NASA’s DART asteroid smash shows we could deflect a future threat</a></strong> — <em>2026-03-10 01:12:54</em></summary>
-
-When NASA’s DART spacecraft deliberately crashed into the asteroid moonlet Dimorphos, it did more than change the asteroid’s local orbit — it slightly shifted the path of the entire asteroid pair around the Sun. The impact blasted debris into space, doubling the force of the spacecraft’s hit and nudging the system’s solar orbit by a tiny but measurable amount. It marks the first time humans have altered the trajectory of a celestial object around the Sun. The result strengthens the case for using spacecraft impacts as a future planetary defense strategy.
+Lake Unter-See in Antarctica, sealed beneath thick ice, contains unusually high levels of dissolved oxygen and cone-shaped microbial reefs resembling some of Earth’s oldest fossils.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-sites-china-moon-mission.html' target='_blank'>Evaluating landing sites for China's manned moon mission</a></strong> — <em>2026-03-09 23:20:03</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2026/palak-patel-finding-nanoscale-solution-safer-spaceflight-0311' target='_blank'>Finding a nanoscale solution to safer spaceflight</a></strong> — <em>2026-03-11 04:00:00</em></summary>
 
-Observations of the Rimae Bode region on the moon reveal five distinct types of terrain and identify several potential landing sites for China's first crewed mission, according to research titled "Geology of Rimae Bode region as priority site candidate for China's first crewed lunar mission." The work is published in Nature Astronomy.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-asteroids.html' target='_blank'>How do we know what asteroids are made out of?</a></strong> — <em>2026-03-09 22:50:05</em></summary>
-
-Asteroids are some of the oldest objects in the solar system: leftovers from the chaotic time when planets were assembling from dust and rock. They're time capsules, preserving clues about what the early solar system was like, and, ultimately, what the building blocks of planets are.
+Using boron nitride nanotubes, mechanical engineering doctoral student Palak Patel develops materials for space that block dangerous ionizing radiation.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/incoming-1-300-pound-nasa-satellite-will-crash-to-earth-on-march-10' target='_blank'>Incoming! 1,300-pound NASA satellite will crash to Earth on March 10</a></strong> — <em>2026-03-09 22:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/' target='_blank'>About Subsonic Vehicle Technologies and Tools Project</a></strong> — <em>2026-03-11 02:32:09</em></summary>
 
-NASA's Van Allen Probe A will crash to Earth on Tuesday (March 10) after nearly 14 years in orbit, according to the Space Force's current best estimate. But don't panic; you'll probably be fine.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-terraforming-mars-isnt-climate-problem.html' target='_blank'>Terraforming Mars isn't a climate problem—it's an industrial nightmare</a></strong> — <em>2026-03-09 20:30:01</em></summary>
-
-Even when the idea of terraforming Mars was originally put forward, the idea was daunting. Changing the environment of an entire planet is not something to do easily. Over the following decades, plenty of scientists and engineers have looked at the problem, and most have come to the same conclusion—we're not going to be able to make Mars anything like Earth anytime soon. A new paper available in pre-print on arXiv from Slava Turyshev of NASA's Jet Propulsion Laboratory is a good explainer as to why.
+Project Overview NASA’s Subsonic Vehicle Technologies and Tools (SVTT) project develops technologies and tools for various types of aircraft that fly in different speed regimes, including next-generation vertical take-off and landing and fixed-wing subsonic aircraft. The research advances knowledge, technologies, and concepts that enable major steps to lowering operating costs of the next-generation single-aisle aircraft. […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/jupiter-appears-to-change-direction-in-the-evening-sky-on-march-10-heres-why' target='_blank'>Jupiter appears to change direction in the evening sky on March 10: Here's why</a></strong> — <em>2026-03-09 20:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-jagged-moon-future-astronauts.html' target='_blank'>How jagged moon dust could support future astronauts</a></strong> — <em>2026-03-11 00:10:03</em></summary>
 
-The change is subtle and happens over many nights.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/' target='_blank'>NASA’s Van Allen Probe A to Re-Enter Atmosphere</a></strong> — <em>2026-03-09 19:55:37</em></summary>
-
-NASA’s Van Allen Probe A is expected to re-enter Earth’s atmosphere almost 14 years after launch. From 2012 to 2019, the spacecraft and its twin, Van Allen Probe B, flew through the Van Allen belts, rings of charged particles trapped by Earth’s magnetic field, to understand how particles were gained and lost. The belts shield Earth from cosmic radiation, solar storms, and the constantly streaming […]
+Lunar dust can be a pain—but it's also literally the ground we will have to traverse if we are ever to have a permanent human settlement on the moon. In that specific use case, its clingy, jagged, staticky properties can actually be an advantage, according to a new paper recently published in Research from scientists at Beihang University, who analyzed the mechanical properties of samples returned by the Chang'e 6 mission to the far side of the moon.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/directorates/armd/iasp/sfd/about-sfd/' target='_blank'>About Subsonic Flight Demonstrator (SFD) Project</a></strong> — <em>2026-03-09 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/jupiter/jupiters-moons-leave-cold-footprints-in-the-planets-auroras-james-webb-space-telescope-finds' target='_blank'>Jupiter's moons leave cold 'footprints' in the planet's auroras, James Webb Space Telescope finds</a></strong> — <em>2026-03-10 22:00:00</em></summary>
 
-The purpose of the Subsonic Flight Demonstrator (SFD) project is to engage with industry and other government organizations to identify, select, and mature key airframe technologies, such as new wing designs, that have a high probability of transition to the next generation single-aisle seat class airliner.  Moving technologies from a research environment to a production environment […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/' target='_blank'>About Flight Demonstrations and Capabilities (FDC) Project</a></strong> — <em>2026-03-09 18:30:00</em></summary>
-
-The FDC project conducts complex integrated small-scale flight research to validate the benefits of new technologies. By modifying aircraft from FDC’s support fleet, the project enables aggressive, success-oriented flight campaign schedules. While many technologies are at mid-levels of technology readiness, the FDC project supports all phases of technology maturation.   FDC’s support aircraft fleet enables safety chase and in-flight experimental measurements for a variety of […]
+Never-before-seen temperature and ion density measurements reveal that the effect of Jupiter's moons on its aurora are more complicated than scientists thought.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-nearby-red-dwarf-star-hosts.html' target='_blank'>Nearby red dwarf star hosts at least four planets—with one in the habitable zone</a></strong> — <em>2026-03-09 18:20:01</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/asteroid-didymoss-orbit-altered-by-impact-on-its-moon/' target='_blank'>Asteroid Didymos's Orbit Altered by Impact on its Moon</a></strong> — <em>2026-03-10 20:46:00</em></summary>
 
-In 2020, a study confirmed that two planets orbited the nearby red dwarf, GJ 887. Now, astronomers have confirmed the existence of two additional planets orbiting GJ 887 in a new study published in Astronomy and Astrophysics. The new study suggests that one of these newly confirmed planets is in the habitable zone.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/learning-resources/what-is-pi-grades-5-8/' target='_blank'>What Is Pi? (Grades 5-8)</a></strong> — <em>2026-03-09 18:10:28</em></summary>
-
-This article is for students grades 5-8. What is Pi? Pi is a number. You might know it as 3.14 or the symbol π. But it’s way more than that! What Makes Pi Special? Pi is an irrational number. That means it goes on forever and it never repeats its sequence of numbers. Pi has […]
+Dozens on amateur astronomers helped measure the minuscule difference in Didymos’s trajectory around the Sun, after NASA’s DART mission impacted its moon.
+The post Asteroid Didymos's Orbit Altered by Impact on its Moon appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-armstrong-director-brad-flick-to-retire-after-40-years-of-service/' target='_blank'>NASA Armstrong Director Brad Flick to Retire After 40 Years of Service</a></strong> — <em>2026-03-09 18:07:59</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-nasa-extreme-star-collision.html' target='_blank'>NASA finds extreme star collision in unlikely spot</a></strong> — <em>2026-03-10 20:40:04</em></summary>
 
-On Monday, NASA announced Bradley Flick, director of NASA’s Armstrong Flight Research Center in Edwards, California, will retire Thursday, March 19, after a nearly 40-year career advancing aeronautics and flight research. Flick began his NASA journey in 1986 as a flight systems engineer and rose through the ranks to lead the center. His career spanned […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-1st-trailer-for-hbos-lanterns-drops-with-no-green-no-aliens-and-a-boatload-of-f-bombs' target='_blank'>The 1st trailer for HBO's 'Lanterns' drops with no green, no aliens, and a boatload of f-bombs</a></strong> — <em>2026-03-09 18:00:00</em></summary>
-
-'Don't get too hung up on the jewelry, junior, you're just a f***ing substitute teacher.'
+A fleet of NASA missions has likely uncovered a collision between two ultradense stars in a tiny galaxy buried in a huge stream of gas. Astronomers have never seen this type of explosive event in an environment like this before—and it may help solve two outstanding cosmic mysteries. A paper describing these results is forthcoming in The Astrophysical Journal Letters and currently available on the arXiv preprint server.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-energy-neutrino-begun-journey-blazars.html' target='_blank'>Record-energy neutrino may have begun its journey in blazars</a></strong> — <em>2026-03-09 17:20:03</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310' target='_blank'>How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and ecology</a></strong> — <em>2026-03-10 20:25:00</em></summary>
 
-Three years ago, in the waters of the Mediterranean Sea, the passage of an "ultra-energetic" cosmic neutrino was observed—the most energetic ever detected. The event drew international attention from the scientific community as well as from the media and the public, not least because the origin of this particle—whose energy exceeded that of previously observed neutrinos by more than an order of magnitude—is unknown.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/la-nasa-compartira-informacion-actualizada-sobre-la-evaluacion-de-aptitud-para-el-vuelo-de-artemis-ii/' target='_blank'>La NASA compartirá información actualizada sobre la evaluación de aptitud para el vuelo de Artemis II</a></strong> — <em>2026-03-09 16:34:54</em></summary>
-
-Read this media advisory in English here. La NASA ofrecerá una rueda de prensa a las 3 p.m. EDT (hora del este) del jueves 12 de marzo para dar a conocer el progreso de la misión tripulada Artemis II alrededor de la Luna. La rueda de prensa tendrá lugar en el Centro Espacial Kennedy de la […]
+From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/china-first-astronaut-moon-landing-mission-rimae-bode' target='_blank'>China's 1st moon astronauts could land in Rimae Bode, a 'geological museum' on the lunar near side</a></strong> — <em>2026-03-09 16:01:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/war-machines-alan-ritchson-and-director-patrick-hughes-on-why-they-filmed-the-action-flick-like-a-horror-movie-interview' target='_blank'>'War Machine's' Alan Ritchson and director Patrick Hughes on why they filmed the action flick 'like a horror movie' (interview)</a></strong> — <em>2026-03-10 20:00:00</em></summary>
 
-A new study highlights the volcanic Rimae Bode region as a scientifically promising destination for China's first crewed moon landing mission, which the nation wants to achieve by 2030.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/' target='_blank'>NASA to Share Artemis II Flight Readiness Review Update</a></strong> — <em>2026-03-09 15:57:36</em></summary>
-
-NASA will host a news conference at 3 p.m. EDT, Thursday, March 12, to highlight progress toward the Artemis II crewed mission around the Moon. The media briefing will take place from the agency’s Kennedy Space Center in Florida after the conclusion of an Artemis II Flight Readiness Review. The news conference will stream live […]
+'I just wanted to make a film that was completely non-stop from start to end.'
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/' target='_blank'>NASA to Share Artemis II Flight Readiness Review Update</a></strong> — <em>2026-03-09 15:57:36</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nesc/insights-into-spallation-mechanisms-of-thermal-protection-system-materials-from-mass-spectrometry-and-hymets-testing/' target='_blank'>Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing</a></strong> — <em>2026-03-10 19:43:07</em></summary>
 
-NASA will host a news conference at 3 p.m. EDT, Thursday, March 12, to highlight progress toward the Artemis II crewed mission around the Moon. The media briefing will take place from the agency’s Kennedy Space Center in Florida after the conclusion of an Artemis II Flight Readiness Review. The news conference will stream live […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nesc/flammability-testing-configuration-and-approach-of-barrier-materialassemblies-designed-for-space-flight-applications/' target='_blank'>TB 26-03 Flammability Testing Configuration and Approach of Barrier MaterialAssemblies Designed for Space Flight Applications</a></strong> — <em>2026-03-09 15:50:56</em></summary>
-
-The NASA Engineering and Safety Center (NESC) partnered with Materials and Processes and Flammability subject matter experts from the Johnson Space Center, White Sands Test Facility, and the Marshall Space Flight Center to design and develop a test for evaluating the effectiveness of material assemblies to serve as a barrier between a potential cabin ignition […]
+Download PDF: Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing An effort was undertaken to investigate the mechanisms responsible for internal pressure build up within thermal protection system (TPS) materials subjected to high-enthalpy environments. Understanding how gases evolve, migrate, and interact with the microstructure of a TPS is essential for […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/webb-studies-cranium-nebula/' target='_blank'>Webb Studies Cranium Nebula</a></strong> — <em>2026-03-09 15:09:37</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-upper-limit-planetary-belt-intensity.html' target='_blank'>A new model defines an upper limit to planetary radiation belt intensity</a></strong> — <em>2026-03-10 19:40:05</em></summary>
 
-Nebula PMR 1 is a cloud of gas and dust that bears an uncanny resemblance to a brain in a transparent skull, inspiring its nickname, the “Exposed Cranium” nebula. Webb captured its unusual features in both near- and mid-infrared light. The nebula was first revealed in infrared light by a predecessor to Webb, NASA’s now-retired Spitzer Space […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-3/' target='_blank'>NASA Astronauts to Answer Questions from Students in New York</a></strong> — <em>2026-03-09 15:06:15</em></summary>
-
-Students in New York will hear from NASA astronauts Jack Hathaway and Chris Williams as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 12:05 p.m. EDT Wednesday, March 11, and will stream live on the agency’s Learn With NASA YouTube channel. […]
+We all know that stars radiate light and much more. But radiation belts can also surround many other celestial bodies, such as planets. These belts do not generate particles themselves—the belts receive them from nearby stars—but they accelerate the speed of particles in a way that has remained elusive.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/dwarf-galaxy-has-too-many-satellites/' target='_blank'>Dwarf Galaxy Has "Too Many" Satellites</a></strong> — <em>2026-03-09 14:30:24</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/march-2026-satellite-puzzler/' target='_blank'>March 2026 Satellite Puzzler</a></strong> — <em>2026-03-10 19:12:01</em></summary>
 
-While small galaxies are expected to have even smaller satellite galaxies, astronomers have found a surprising number of tiny companions around one dwarf galaxy.
-The post Dwarf Galaxy Has "Too Many" Satellites appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home' target='_blank'>Spectacular fireball over Europe sends meteorite crashing through roof of German home</a></strong> — <em>2026-03-09 14:23:05</em></summary>
-
-A meteorite has crashed through the roof of a house after thousands observed a stunning fireball streak across the sky in western Europe.
+Your challenge is to tell us the location of the satellite image and why it is interesting.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-esa-fireball-europe.html' target='_blank'>ESA analyzing fireball over Europe on 8 March 2026</a></strong> — <em>2026-03-09 14:10:15</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nesc/computational-modeling-of-failure-at-the-fabric-weave-level-in-reentry-parachute-energy-modulators/' target='_blank'>Computational Modeling of Failure at the Fabric Weave Level in Reentry Parachute Energy Modulators</a></strong> — <em>2026-03-10 19:06:18</em></summary>
 
-At approximately 18:55 CET (17:55 UTC) on Sunday, March 8, 2026, a very bright fireball moving from the southwest to the northeast was observed by many people in Belgium, France, Germany, Luxembourg, and the Netherlands.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-multi-wavelength-track-bright-gamma.html' target='_blank'>Multi-wavelength observations track bright gamma-ray blazar's three-year cycle</a></strong> — <em>2026-03-09 14:00:03</em></summary>
-
-By analyzing the data from various space observatories and ground-based telescopes, European astronomers have performed a multiwavelength study of a bright gamma-ray blazar known as S5 1044+71. The new study, published Feb. 26 on the arXiv pre-print server, delivers a comprehensive view of this blazar, which could help us better understand its nature.
+Download PDF: Computational Modeling of Failure at the Fabric Weave Level in Reentry Parachute Energy Modulators Energy modulators (EM) are textile mechanical devices designed to dissipate snatch loads that occur when parachutes are deployed. Although critical for mitigating shock loads, recent flight testing has shown increasing variability in EM behavior, raising concerns about their performance predictability and […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/smart-telescope-buying-made-easy-your-guide-to-unistellar-zwo-celestron-dwarflab-and-vaonis' target='_blank'>Smart telescope buying made easy: Your guide to Unistellar, ZWO, Celestron, Dwarflab, and Vaonis</a></strong> — <em>2026-03-09 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-exoplanet-survey-method-high-orbiting.html' target='_blank'>New exoplanet survey method finds high rates of closely orbiting planets</a></strong> — <em>2026-03-10 19:00:09</em></summary>
 
-Our expert gives you a rundown of the main smart telescope brands and models.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/spacexs-ship-39-is-so-cool-in-starship-v3-test-space-photo-of-the-day-for-march-9-2026' target='_blank'>SpaceX's Ship 39 is so cool in Starship V3 test| Space photo of the day for March 9, 2026</a></strong> — <em>2026-03-09 14:00:00</em></summary>
-
-SpaceX engineers tested Ship 39's propellant system, leading to some stunning images.
+Up until now, exoplanet surveys have mostly focused on nearby, bright stars that are sun-like or are red dwarfs, which are known to frequently host planets. While astronomers have discovered thousands of planets this way, a new study, published in the Monthly Notices of the Royal Astronomical Society, seems to have found a more efficient way of detecting planets that orbit close to their stars.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-interstellar-comet-alcohol-alma-3iatlas.html' target='_blank'>An interstellar comet packed with alcohol? What ALMA found in 3I/ATLAS</a></strong> — <em>2026-03-09 13:20:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-astrophysicists-valuable-metals-space-colliding.html' target='_blank'>Astrophysicists trace the origin of valuable metals in space, from colliding stars to merging galaxies</a></strong> — <em>2026-03-10 19:00:03</em></summary>
 
-Comet 3I/ATLAS continues to make astonishing headlines, thanks to new findings from astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA). This new research reveals that 3I/ATLAS is packed with an unusually large amount of the organic molecule methanol—more than almost all known comets in our own solar system.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/future-spacecraft-could-fix-their-own-damage-using-self-healing-materials' target='_blank'>Future spacecraft could fix their own damage using 'self-healing' materials</a></strong> — <em>2026-03-09 13:00:00</em></summary>
-
-Spacecraft of the future may be able to detect and repair their own structural damage in orbit, a capability that could make long-duration missions and reusable launch vehicles more resilient.
+Billions of light years away in a remote part of the universe, two neutron stars—the ultradense remnants of dead stars—collided. The catastrophic cosmic event sent light and particles, including a sudden flash of gamma rays, streaming through the universe. These gamma rays traveled for 8.5 billion years before reaching Earth.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/project-hail-marys-final-teaser-trailer-is-amaze-amaze-amaze' target='_blank'>'Project Hail Mary''s final teaser trailer is 'Amaze! Amaze! Amaze!'</a></strong> — <em>2026-03-09 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/the-moon-hits-its-third-quarter-phase-tomorrow-heres-what-you-need-to-know' target='_blank'>The moon hits its third quarter phase tomorrow! Here's what you need to know</a></strong> — <em>2026-03-10 19:00:00</em></summary>
 
-'I really wanted this incredible friendship to be true to the book.'
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport' target='_blank'>Smile arrives at Europe’s Spaceport</a></strong> — <em>2026-03-09 11:00:00</em></summary>
-
-
-The Smile spacecraft has arrived at Europe’s Spaceport in French Guiana. During the coming weeks, the spacecraft will go through final preparations for its launch on a Vega-C rocket between 8 April and 7 May.
+A spot of early morning astronomy anyone?
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport' target='_blank'>Smile arrives at Europe’s Spaceport</a></strong> — <em>2026-03-09 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/' target='_blank'>Ice to Fuel: NASA Tests Technology for Refueling Landers</a></strong> — <em>2026-03-10 18:40:00</em></summary>
 
-
-The Smile spacecraft has arrived at Europe’s Spaceport in French Guiana. During the coming weeks, the spacecraft will go through final preparations for its launch on a Vega-C rocket between 8 April and 7 May.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026' target='_blank'>ESA analysing fireball over Europe on 8 March 2026</a></strong> — <em>2026-03-09 10:40:00</em></summary>
-
-
-At approximately 18:55 CET (17:55 UTC) on Sunday 8 March 2026, a very bright fireball moving from the southwest to the northeast was observed by many people in Belgium, France, Germany, Luxembourg, and the Netherlands.
+The farther the destination, the more fuel a rocket needs. The more fuel the rocket carries, the heavier the spacecraft. The heavier the spacecraft, the more fuel it requires to launch. Experts at NASA’s Glenn Research Center in Cleveland are testing technology that could solve this problem.  The CryoFILL (Cryogenic Fluid In-Situ Liquefaction for Landers) project could transform the way NASA fuels future space exploration missions, reducing costs and extending the duration of planetary surface operations.   “If […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/congress-wants-the-international-space-station-to-keep-flying-until-2032-heres-why' target='_blank'>Congress wants the International Space Station to keep flying until 2032. Here's why</a></strong> — <em>2026-03-09 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/' target='_blank'>Ice to Fuel: NASA Tests Technology for Refueling Landers</a></strong> — <em>2026-03-10 18:40:00</em></summary>
 
-Congress is pushing to extend the International Space Station's life by two years, to give commercial outposts more time to step into its shoes.
+The farther the destination, the more fuel a rocket needs. The more fuel the rocket carries, the heavier the spacecraft. The heavier the spacecraft, the more fuel it requires to launch. Experts at NASA’s Glenn Research Center in Cleveland are testing technology that could solve this problem.  The CryoFILL (Cryogenic Fluid In-Situ Liquefaction for Landers) project could transform the way NASA fuels future space exploration missions, reducing costs and extending the duration of planetary surface operations.   “If […]
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Operations/She_flies_satellites._One_day_I_can_too.' target='_blank'>"She flies satellites. One day, I can too."</a></strong> — <em>2026-03-09 07:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/easter-comet-could-be-visible-in-daytime-skies-this-april-if-it-survives-a-fiery-dive-past-the-sun' target='_blank'>'Easter comet' could be visible in daytime skies this April — if it survives a fiery dive past the sun</a></strong> — <em>2026-03-10 18:00:00</em></summary>
 
+A newly discovered comet is rapidly brightening and could become visible from Earth — if it survives an extreme close encounter with the sun on April 4.
 
-At ESA’s European Space Operations Centre (ESOC), teams work around the clock to fly spacecraft across the Solar System and monitor Earth from orbit. Among them are women leading spacecraft operations, managing teams and helping shape the culture of ESA’s mission control.
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/' target='_blank'>Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters</a></strong> — <em>2026-03-10 16:47:09</em></summary>
+
+This article is from the 2025 Technical Update. The human factors TDT looks for and creates opportunities to influence design to leverage human strengths and to protect people and missions. The human factors team has experts with knowledge of human performance in all aspects of NASA missions as well as from other safety-critical industries. The […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-european-space-agency-probing-fireball.html' target='_blank'>European Space Agency probing fireball that hit German home</a></strong> — <em>2026-03-10 16:30:02</em></summary>
+
+The European Space Agency said it is investigating a fireball that streaked across the skies of Europe on the weekend before reportedly punching a football-sized hole in the roof of a German home.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/' target='_blank'>Webinar 3/25: NASA CSDA Vendor Focus – Satellogic</a></strong> — <em>2026-03-10 16:21:25</em></summary>
+
+Join us March 25 at 2:00 p.m. EDT to learn more about the data offered by CSDA program vendor Satellogic.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/nesc/copv-damage-tolerance-life-demonstration-guidelines/' target='_blank'>COPV Damage Tolerance Life Demonstration Guidelines</a></strong> — <em>2026-03-10 16:19:10</em></summary>
+
+This article is from the 2025 Technical Update. The NESC has invested significant time and resources to better understand composite overwrapped pressure vessels (COPV) performance and more importantly, how these complex, high-pressure storage systems can fail. These vessels, which store high pressure propulsion and life-support system fluids on launch vehicles and spacecraft, are ubiquitous at NASA, and failures have […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-selects-new-upper-stage-for-sls-moon-rocket-amid-artemis-shakeup' target='_blank'>NASA just picked a new upper stage for its SLS moon rocket amid Artemis shakeup</a></strong> — <em>2026-03-10 16:00:00</em></summary>
+
+NASA has wasted no time in selecting the vehicle that will replace the upper stage on its new plans for a standardized Space Launch System rocket.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-nasa-van-allen-probe-atmosphere.html' target='_blank'>NASA's Van Allen Probe A to re-enter atmosphere</a></strong> — <em>2026-03-10 14:40:01</em></summary>
+
+NASA's Van Allen Probe A is expected to reenter Earth's atmosphere almost 14 years after launch. From 2012 to 2019, the spacecraft and its twin, Van Allen Probe B, flew through the Van Allen belts, rings of charged particles trapped by Earth's magnetic field, to understand how particles were gained and lost. The belts shield Earth from cosmic radiation, solar storms, and the constantly streaming solar wind that are harmful to humans and can damage technology, so understanding them is important.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/a-star-dies-in-the-cats-eye-space-photo-of-the-day-for-march-10-2026' target='_blank'>A star dies in the Cat's Eye | Space photo of the day for March 10, 2026</a></strong> — <em>2026-03-10 14:21:20</em></summary>
+
+The Hubble and Euclid space telescopes caught a stunning portrait of a dying star at the heart of the Cat's Eye Nebula.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-strange-cosmic-colliding-galaxies-heavy.html' target='_blank'>Strange cosmic burst from colliding galaxies shines light on heavy elements</a></strong> — <em>2026-03-10 14:00:09</em></summary>
+
+A recently detected flash of energy appears to have emanated from the wreckage of colliding galaxies, according to an international team of astronomers led by Penn State scientists. The burst, known as GRB 230906A, was likely caused by the collision of two neutron stars hundreds of millions of years ago and is now shedding light on how the universe creates some of its heaviest elements.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/shoot-the-stars-the-best-gear-for-night-sky-photography' target='_blank'>Shoot the stars: The best gear for night sky photography</a></strong> — <em>2026-03-10 14:00:00</em></summary>
+
+Here are five ways to capture the night sky.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/lux-aeterna-funding-fully-reusable-satellite-delphi' target='_blank'>'The future of the space economy': Colorado startup Lux Aeterna raises $10 million to develop reusable satellites</a></strong> — <em>2026-03-10 13:00:00</em></summary>
+
+The Colorado company Lux Aeterna wants to help open up the space economy with a fleet of fully reusable satellites, and it just raised to some money to help make that happen.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-is-about-4-weeks-away-from-launching-its-most-powerful-starship-yet-elon-musk-says' target='_blank'>SpaceX is 'about 4 weeks' away from launching its most powerful Starship yet, Elon Musk says</a></strong> — <em>2026-03-10 12:00:00</em></summary>
+
+SpaceX is gearing up for the 12th test launch of its Starship rocket, which could liftoff in about 4 weeks, according to Elon Musk. It will be the first mission of the bigger, more powerful Starship "V3."
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260309225228.htm' target='_blank'>Scientists may have discovered a brand-new mineral on Mars</a></strong> — <em>2026-03-10 10:23:47</em></summary>
+
+Scientists studying Mars may have uncovered a brand-new mineral hidden in the planet’s ancient sulfate deposits. By combining laboratory experiments with orbital data, researchers identified an unusual iron sulfate—ferric hydroxysulfate—forming in layered deposits near the massive Valles Marineris canyon system. The mineral likely formed when sulfate-rich deposits left behind by ancient water were later heated by volcanic or geothermal activity, transforming their chemistry.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260309225236.htm' target='_blank'>Cosmic voids look empty but they may be tearing the universe apart</a></strong> — <em>2026-03-10 10:10:26</em></summary>
+
+Cosmic voids may seem like the emptiest places in the universe, stripped of matter, radiation, and even dark matter. But they’re far from nothing. Even in these vast empty regions, the fundamental quantum fields that fill all of space remain, carrying a small but real amount of energy known as vacuum energy, or dark energy. While this energy is overwhelmed by matter in galaxies and clusters, in the deep emptiness of cosmic voids it becomes dominant.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/asteroid-comet-missions/nasas-asteroid-smashing-spacecraft-managed-to-alter-target-space-rocks-orbit-around-the-sun' target='_blank'>NASA's asteroid-smashing DART spacecraft hit so hard, it changed its target space rocks' orbit around the sun</a></strong> — <em>2026-03-10 10:00:00</em></summary>
+
+The mission without a doubt proves that we could deflect a hazardous asteroid away from Earth — so long as we discover it in the nick of time.
 
 </details>
 
