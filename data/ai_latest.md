@@ -2,134 +2,86 @@
 
     ### Major Themes in Recent AI Developments
 
-**1. Predictive Analytics in Healthcare**  
-Recent advancements in AI are revolutionizing healthcare, particularly through predictive analytics. A collaboration between MIT, Mass General Brigham, and Harvard Medical School has led to the development of a deep-learning model capable of forecasting heart failure prognosis up to a year in advance. By analyzing patient data to identify risk factors, this model promises to enhance patient management and treatment strategies, potentially leading to timely interventions and improved health outcomes. Such predictive capabilities could transform how healthcare providers allocate resources and engage with patients.
+#### 1. Advancements in Large Language Model Efficiency
+Recent innovations in inference techniques are driving significant improvements in the efficiency of large language models (LLMs). Notably, the introduction of P-EAGLE, which employs Parallel Speculative Decoding within the vLLM framework, has demonstrated marked reductions in latency and resource consumption. This is crucial for real-time applications, allowing developers to integrate LLMs more seamlessly into various systems.
 
-**2. Operational Enhancements in AI Infrastructure**  
-Amazon's recent updates to its Bedrock platform highlight the importance of operational efficiency in AI applications. The introduction of new CloudWatch metrics, including TimeToFirstToken and EstimatedTPMQuotaUsage, aims to enhance visibility and management of inference workloads. Additionally, the integration of a deterministic policy enforcement layer in Amazon's AgentCore ensures AI agents comply with business rules while accessing tools and data. These enhancements reflect a broader trend towards creating robust operational frameworks that can support complex AI applications effectively.
+Key Items:
+- P-EAGLE: A method that enhances LLM inference speed and performance metrics in practical applications. (Source: AWS)
+- Prompt Caching: A strategy that minimizes costs and latency for LLM calls, improving user interaction efficiency. (Source: Towards Data Science)
 
-**3. Personalized User Experiences Through AI**  
-Airbnb's latest recommendation model exemplifies the growing trend of personalization in digital platforms. By utilizing a transformer-based architecture, this model integrates diverse user signals to enhance destination recommendations during the trip planning phase. The ability to predict user intent based on long-term interests and contextual factors not only improves user engagement but also drives bookings, illustrating the potential for AI to create more tailored and meaningful interactions in the travel industry.
+#### 2. Evolving Training Techniques for Vision Language Models
+The methodologies for training vision language models (VLMs) are advancing, particularly in adapting text-centric models to interpret visual data. This involves fine-tuning processes that highlight the necessity for high-quality datasets and innovative training strategies, ultimately enhancing VLMs' ability to process and understand multimodal inputs.
 
-**4. AI-Driven Computational Physics**  
-NVIDIA's introduction of the Warp framework marks a significant step in integrating AI with computational physics. This framework allows for the development of accelerated, differentiable physics code, facilitating more efficient simulations in engineering applications. The move towards AI-driven workflows signifies a broader trend of merging physical modeling with machine learning, enhancing both accuracy and speed in computational tasks.
+Key Items:
+- Training VLMs from Scratch: An exploration of the comprehensive processes required to adapt language models for visual inputs. (Source: Towards Data Science)
+- NVIDIA Cosmos: A project aimed at generating high-fidelity, physics-aware synthetic data for training advanced AI systems, including robotics and autonomous vehicles. (Source: NVIDIA)
 
-### Conclusion  
-The current landscape of AI research and development is characterized by significant advancements in predictive analytics, operational efficiency, personalized experiences, and the integration of AI into traditional fields like engineering. These developments underscore the transformative potential of AI across various industries, emphasizing the importance of creating systems that enhance decision-making and operational capabilities. As the field evolves, the focus remains on fostering innovations that are not only effective but also ethical and user-centric.
+#### 3. Personalized AI Systems for Enhanced User Experience
+The trend towards personalization in AI applications is gaining momentum, with new models designed to optimize user experiences across various domains. The implementation of a two-tower embedding variant for restaurant ranking exemplifies how tailored approaches can significantly enhance recommendation systems.
+
+Key Items:
+- Two-Tower Embedding: A novel technique that improves restaurant discovery by effectively managing popularity rankings. (Source: Towards Data Science)
+- Hybrid Search for Agentic RAG: A study on developing adaptable retrieval-augmented generation systems to meet diverse user needs. (Source: Towards Data Science)
+
+### Conclusion
+The current trajectory of AI research emphasizes efficiency and personalization, with significant strides in large language model inference, training methodologies for vision language models, and tailored recommendation systems. These advancements are poised to make AI more practical and user-friendly across various applications, indicating a robust and dynamic landscape that is increasingly focused on real-world applicability and user engagement.
 
 ### Top Sources:
-1. Can AI help predict which heart-failure patients will worsen within a year? - https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312 - MIT researchers develop a deep-learning model for predicting heart failure prognosis.
-2. Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption - https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/ - Amazon introduces metrics to enhance operational management of AI workloads.
-3. Secure AI agents with Policy in Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/ - New policy enforcement features for AI agents in Amazon's Bedrock platform.
-4. Recommending Travel Destinations to Help Users Explore - https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4 - Airbnb's new recommendation model aids users in trip planning.
-5. Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp - https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/ - NVIDIA introduces Warp for AI-driven computational physics.
-6. Systematic debugging for AI agents: Introducing the AgentRx framework - https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/ - Microsoft Research presents a framework for debugging AI agents.
-7. Multimodal embeddings at scale: AI data lake for media and entertainment workloads - https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/ - Amazon showcases a scalable video search system using AI.
-8. Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation - https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/ - Techniques for adapting speech recognition models for specific domains.
-9. Protecting cities with AI-driven flash flood forecasting - https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/ - Google Research explores AI applications in environmental sustainability.
-10. Introducing Groundsource: Turning news reports into data with Gemini - https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/ - Google develops a tool for transforming news into actionable data.
+1. P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM - https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/ - New technique for accelerating LLM inference.
+2. Why Care About Prompt Caching in LLMs? - https://towardsdatascience.com/why-care-about-promp-caching-in-llms/ - Insights on optimizing LLM call costs and latency.
+3. How Vision Language Models Are Trained from “Scratch” - https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/ - Detailed overview of training VLMs.
+4. Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models - https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/ - Discusses high-fidelity training data for AI-driven robots.
+5. Personalized Restaurant Ranking with a Two-Tower Embedding Variant - https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/ - Overview of a new model for restaurant recommendations.
+6. A Tale of Two Variances: Why NumPy and Pandas Give Different Answers - https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/ - Analysis of statistical discrepancies in data analysis tools.
+7. How to Build Agentic RAG with Hybrid Search - https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/ - Guide on creating robust retrieval-augmented generation systems.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312' target='_blank'>Can AI help predict which heart-failure patients will worsen within a year?</a></strong> — <em>2026-03-12 21:30:00</em></summary>
+    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/' target='_blank'>P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM</a></strong> — <em>2026-03-13 19:27:04</em></summary>
 
-Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/' target='_blank'>Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption</a></strong> — <em>2026-03-12 21:20:17</em></summary>
-
-Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these work and how to set alarms, establish baselines, and proactively manage capacity using them.
+In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpoints.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/' target='_blank'>Secure AI agents with Policy in Amazon Bedrock AgentCore</a></strong> — <em>2026-03-12 21:16:50</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/why-care-about-promp-caching-in-llms/' target='_blank'>Why Care About Prompt Caching in LLMs?</a></strong> — <em>2026-03-13 17:09:47</em></summary>
 
-In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the agent's own reasoning. You will learn how to turn natural language descriptions of your business rules into Cedar policies, then use those policies to enforce fine-grained, identity-aware controls so that agents only access the tools and data that their users are authorized to use. You will also see how to apply Policy through AgentCore Gateway, intercepting and evaluating every agent-to-tool request at runtime.
-
-</details>
-
-<details><summary><strong><a href='https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4' target='_blank'>Recommending Travel Destinations to Help Users Explore</a></strong> — <em>2026-03-12 18:55:19</em></summary>
-
-How we built a destination recommendation model that helps users spark inspiration and narrow down choices to make journeys smoother.By: Weiwei Guo, Bin Xu, Sundara Rajan Srinivasavaradhan, Jie Tang, Xiaowei Liu, Bharathi Thangamani, Liwei He, Huiji Gao, Tracy Yu, Hui Gao, Stephanie Moyerman, Sanjeev KatariyaAirbnb users in the trip planning stage may not have a clear idea of travel destinations, travel dates, or other preferences. They exhibit different behaviors compared to users who have a clear itinerary in mind. More exploratory users visit the Airbnb platform less often and are less likely to book listings in the near future; they’re more likely to search for a broad area such as “France” looking for inspiration. We believe that by helping users in the exploration stage, we can spark inspiration, reduce decision friction, and drive improvements in engagement and conversions.In this blog post, we describe how we help users in the exploration stage by recommending travel destinations. There are multiple unique challenges in modeling destination intent: for example, how to effectively integrate diverse signals (users’ long term interests vs. short term interests), how to balance dormant user behavior vs. active user behavior, and how to encode rich geolocation knowledge.To address these challenges, we developed a framework that predicts users’ destination intent based on their actions on the Airbnb platform. While the framework is inspired by language modeling, we introduce several key adaptations in training data creation, model architecture, and loss function to tailor it to the destination recommendation problem in the travel domain. Lastly, we present two applications, autosuggest and abandoned search email notifications, that help users explore destination possibilities and facilitate booking decisions.Model architectureTravel destination is one of the primary aspects users explore during trip planning, as it largely determines subsequent decisions such as travel timing, budget, and accommodation preferences. User travel destination preferences are driven by a combination of historical behavior, contextual signals, and temporal factors, etc. For instance, users who previously booked listings in Hawaii may exhibit a preference for beach or tropical destinations, while seasonal context (e.g., summer) may shift their intent toward cooler locations.In our model, we generalize the destination prediction based on historical user preference data. (Users are able to opt out of this personalization.) As shown in Figure 1, we treat each user action as a token, inspired by language modeling. We use transformers to model sequences of user actions as recorded in various sources: booking history, view history, and search history. Each action is represented by the sum of embeddings of city / region / days to today. We also use contextual information, such as the current time, to capture seasonality. This setup enables the model to summarize user’s short-term interests (views, searches), and long-term interests (bookings), and make a holistic prediction of destination intent.Figure 1: model architecture.Balancing active users and dormant usersAt Airbnb, we need to make predictions not only for “active users,” but also for “dormant users”. They exhibit different behaviors, for example:Active users: User A recently issued a search in the California Bay Area last week. She is currently looking for more affordable listings in the Bay Area.Dormant users: User B made several bookings in 2025, and hasn’t returned to Airbnb since then. He is currently exploring ideas for a summer vacation in 2026.Motivated by these two different types of goals, we design the training data shown in Figure 2. For each booking, we create 14 training examples in total. There are two parts:Seven training examples for active users, from 1, 2, 3…7 days before the booking date. For these 7 examples, we use the up-to-date booking/view/search data. This is to mimic the late booking stage when users have a rough idea where to go.Seven training examples for dormant users, randomly sampled from 8 to 365 days before the booking. For these 7 examples, we only use booking data, to mimic the early planning stage when users don’t have a concrete idea and haven’t come to Airbnb.Figure 2: T is the date for the latest booking. The arrows at the bottom show the training examples used for the planning stage; the arrows in the upper-right corner illustrate the training examples used for the booking stage.Improving location understandingAt Airbnb, we have rich geolocation information about cities and their relationships. For example, the California Bay Area contains many closely related cities; a user interested in staying in San Francisco may also consider nearby cities such as San Jose. For the purposes of destination recommendation, the Bay Area can be viewed as a broader “region” that encompasses multiple cities.To incorporate this information into our framework, we use multi-task learning. Specifically, we add multiple prediction heads at the final layer of the model, each corresponding to a different prediction task. As shown in Figure 1, the model is trained to predict both the region-level and the city-level destination. By jointly learning these tasks and encouraging consistency between region and city predictions, the model learns richer geolocation representations of cities.ApplicationsWe deployed the resulting model in two features of the Airbnb platform. The first is autosuggest. When users click on the search bar, multiple city recommendations are presented. Online A/B testing shows significant booking gains in regions where English is not the primary language; further analysis indicates that these recommendations benefit not only users who have not yet decided on a destination, but also users who are open to booking more affordable listings in neighboring cities.The second application is abandoned search email notifications. When a user abandons a search on Airbnb, we send follow-up emails featuring listings from areas predicted by the destination recommendation model. This helps drive bookings by encouraging users to explore alternative listings within the recommended destinations and re-engaging them to complete a booking on Airbnb.ConclusionIn this post, we described a destination recommendation framework designed to support users in the exploration stage of trip planning, when intent is often ambiguous and preferences are still forming. Our framework includes several key innovations: modeling multiple sequences of user actions to balance short-term and long-term interests, designing training data to accommodate both active and dormant user behaviors, and using multi-task learning to incorporate rich geolocation information. Deployed in autosuggest and abandoned search email notifications, the model helps users discover relevant destination alternatives and drives measurable booking gains. Looking ahead, this framework provides a solid foundation for modeling other preferences, such as travel times and price preferences, enabling broader and deeper personalization across the travel planning journey.If this type of work interests you, check out some of our open roles.AcknowledgmentsWe would like to especially thank the following people for their great collaboration throughout this project: Kidai Kwon, Phanindra Ganti, Kedar Bellare, Malay Haldar, Soumyadip Banerjee, Michael Kinoti, Yi Li, Amisha Patel, Rachel Zhao, Zhentao Sun, Wei Jiang, Jackie Liu, Ying Xiao, Hongzhao Huang, Chen Qian, Haiyang Han, Pengyu Hou, Haichun Chen, Sherry Chen, Pavan Tapadia, Stephen Simburg, Clarence Quah, Chris Tarello, Eric Kostenbauder, Linda Yu, Gary Chang.Recommending Travel Destinations to Help Users Explore was originally published in The Airbnb Tech Blog on Medium, where people are continuing the conversation by highlighting and responding to this story.
+Optimizing the cost and latency of your LLM calls with Prompt Caching
+The post Why Care About Prompt Caching in LLMs? appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/' target='_blank'>Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp</a></strong> — <em>2026-03-12 17:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/' target='_blank'>How Vision Language Models Are Trained from “Scratch”</a></strong> — <em>2026-03-13 16:30:00</em></summary>
 
-Computer-aided engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/' target='_blank'>Systematic debugging for AI agents: Introducing the AgentRx framework</a></strong> — <em>2026-03-12 16:38:45</em></summary>
-
-As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]
-The post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.
+A deep dive into exactly how text-only language models are finetuned to *see* images
+The post How Vision Language Models Are Trained from “Scratch” appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/' target='_blank'>Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes</a></strong> — <em>2026-03-12 16:30:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/' target='_blank'>Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models</a></strong> — <em>2026-03-13 16:00:47</em></summary>
 
-Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/' target='_blank'>Exploratory Data Analysis for Credit Scoring with Python</a></strong> — <em>2026-03-12 16:30:00</em></summary>
-
-Understanding default risk through statistical analysis of borrower and loan characteristics.
-The post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.
+The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/build-next-gen-physical-ai-with-edge%e2%80%91first-llms-for-autonomous-vehicles-and-robotics/' target='_blank'>Build Next-Gen Physical AI with Edge‑First LLMs for Autonomous Vehicles and Robotics</a></strong> — <em>2026-03-12 16:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/' target='_blank'>Personalized Restaurant Ranking with a Two-Tower Embedding Variant</a></strong> — <em>2026-03-13 15:00:00</em></summary>
 
-Physical AI is rapidly evolving, from next-generation software-defined autonomous vehicles (AVs) to humanoid robots. The challenge is no longer how to run a...
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/' target='_blank'>Multimodal embeddings at scale: AI data lake for media and entertainment workloads</a></strong> — <em>2026-03-12 15:59:35</em></summary>
-
-This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.
+How a lightweight two-tower model improved restaurant discovery when popularity ranking failed
+The post Personalized Restaurant Ranking with a Two-Tower Embedding Variant appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/' target='_blank'>Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation</a></strong> — <em>2026-03-12 15:57:22</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/' target='_blank'>A Tale of Two Variances: Why NumPy and Pandas Give Different Answers</a></strong> — <em>2026-03-13 13:30:00</em></summary>
 
-In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2. Using synthetic speech data to achieve superior transcription results for specialised applications, we'll walk through an end-to-end workflow that combines AWS infrastructure with the following popular open-source frameworks.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/solving-the-human-training-data-problem/' target='_blank'>Solving the Human Training Data Problem</a></strong> — <em>2026-03-12 15:00:00</em></summary>
-
-How AI has completely transformed the way I study as a graduate student
-The post Solving the Human Training Data Problem appeared first on Towards Data Science.
+Imagine you are analyzing a small dataset: You want to calculate some summary statistics to get an idea of the distribution of this data, so you use numpy to calculate the mean and variance. Your output Looks like this: Great! Now you have an idea of the distribution of your data. However, your colleague comes […]
+The post A Tale of Two Variances: Why NumPy and Pandas Give Different Answers appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/649627-2/' target='_blank'>Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction</a></strong> — <em>2026-03-12 13:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/' target='_blank'>How to Build Agentic RAG with Hybrid Search</a></strong> — <em>2026-03-13 12:00:00</em></summary>
 
-Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy.
-The post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/' target='_blank'>Protecting cities with AI-driven flash flood forecasting</a></strong> — <em>2026-03-12 13:03:15</em></summary>
-
-Climate & Sustainability
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/' target='_blank'>I Finally Built My First AI App (And It Wasn’t What I Expected)</a></strong> — <em>2026-03-12 12:00:00</em></summary>
-
-A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure
-The post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/' target='_blank'>Introducing Groundsource: Turning news reports into data with Gemini</a></strong> — <em>2026-03-12 10:42:00</em></summary>
-
-Climate & Sustainability
+Learn how to build a powerful agentic RAG system
+The post How to Build Agentic RAG with Hybrid Search appeared first on Towards Data Science.
 
 </details>
 
