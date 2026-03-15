@@ -1,261 +1,95 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Space Exploration
+    ### Recent Developments in Astro: Key Themes
 
-#### Stellar Migration and Solar System Origins
-Recent studies indicate that the Sun may have migrated from the Milky Way's center, a movement that could have played a crucial role in the development of life on Earth. This theory is bolstered by the discovery of numerous twin stars, which share similar migratory paths, suggesting that stellar movements significantly influence planetary systems. This new understanding challenges traditional views of solar system formation and raises intriguing questions about the conditions necessary for life elsewhere in the galaxy.
-
-Key Items:
-1. **Sun's Journey** - Evidence suggests that the Sun's migration impacted the emergence of life on Earth. [Source](https://www.sciencedaily.com/releases/2026/03/260313062543.htm)
-2. **Twin Stars Discovery** - The identification of twin stars enhances our understanding of stellar migration and its implications for habitability.
-
-#### Advancements in Space Missions
-The Dragonfly mission, designed to explore Titan, Saturn's largest moon, has reached a critical phase of rotorcraft integration and testing. This innovative mission aims to investigate Titan's rich chemistry and assess its potential for prebiotic conditions. Successful testing is vital for ensuring that the lander can operate effectively in Titan's harsh environment, marking a significant milestone ahead of its planned launch in 2028.
+#### Advancements in Mars Exploration
+Recent missions to Mars are enhancing our understanding of the planet's atmospheric history and potential for past habitability. NASA's ESCAPADE mission, launched in March 2026, consists of twin spacecraft designed to study the interaction between solar wind and Mars' magnetic field. This research is pivotal for uncovering how Mars transitioned from a more hospitable environment to its current state. Meanwhile, the Curiosity rover continues to analyze geological formations, specifically "boxwork" structures that suggest historical water activity. These findings are crucial as they not only inform us about Mars’ past climate but also help plan for future human exploration.
 
 Key Items:
-1. **Dragonfly Mission** - The rotorcraft lander is currently undergoing integration and testing, crucial for its upcoming launch. [Source](https://phys.org/news/2026-03-dragonfly-mission-rotorcraft-stage.html)
-2. **Plato Exoplanet Mission** - The European Space Agency's Plato spacecraft is preparing for its mission to discover Earth-like exoplanets through rigorous space-like testing. [Source](https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests)
+1. NASA's ESCAPADE mission launched to study Mars' atmosphere and solar wind interactions - https://www.sciencedaily.com/releases/2026/03/260314030452.htm.
+2. Curiosity rover investigates unique spiderweb-like ridges linked to past water activity - https://www.sciencedaily.com/releases/2026/03/260314030449.htm.
 
-#### Gravitational Waves and Neutron Star Collisions
-The detection of gravitational waves from a black hole merger, coupled with a gamma-ray burst, highlights the intersection of gravitational wave astronomy and high-energy astrophysics. This event provides valuable insights into the dynamics of black hole mergers and their associated emissions, marking a significant advancement in multi-messenger astronomy and enhancing our understanding of cosmic phenomena.
+#### Discoveries in Cosmic Chemistry
+The James Webb Space Telescope (JWST) has made a groundbreaking discovery by detecting dry ice in the planetary nebula NGC 6302, marking the first observation of this compound in such an environment. This finding not only broadens our understanding of the chemical processes occurring in planetary nebulae but also suggests that complex organic molecules may be more prevalent in the universe than previously assumed. The detection of dry ice could have significant implications for the study of cosmic chemistry and the search for life-supporting compounds in various celestial environments.
 
-Key Items:
-1. **Black Hole Merger** - A recent merger of two black holes has been linked to a gamma-ray burst, providing new data on these cosmic events. [Source](https://phys.org/news/2026-03-solar-mass-black-hole-merger.html)
-2. **Neutron Star Collision** - A gamma-ray burst traced back to a neutron star collision reveals new dynamics in previously unexplored cosmic regions. [Source](https://www.space.com/astronomy/stars/hubble-and-nasa-space-telescopes-track-game-changing-gamma-ray-burst-back-to-neutron-star-collision-in-forbidden-region-of-the-universe)
+Key Item:
+1. First detection of dry ice in a planetary nebula by the James Webb Space Telescope - https://phys.org/news/2026-03-dry-ice-planetary-nebula.html.
 
 ### Conclusion
-The current landscape of astrophysics is characterized by transformative discoveries related to stellar migration, advancements in space exploration missions, and breakthroughs in multi-messenger astronomy. These developments not only deepen our understanding of cosmic phenomena but also set the stage for future explorations that may address fundamental questions about the universe and the origins of life. The integration of innovative technologies and collaborative research efforts continues to propel the field forward, promising exciting insights in the coming years.
+The current trajectory of astrophysical research is characterized by significant strides in understanding planetary dynamics and chemical processes in space. The focus on Mars is particularly relevant as scientists seek to unravel the planet's potential for past life, while discoveries in planetary nebulae highlight the complexity of cosmic chemistry. These advancements not only deepen our comprehension of celestial phenomena but also lay the groundwork for future explorations and the ongoing quest for extraterrestrial life.
 
 ### Top Sources:
-1. Our Sun may have escaped the Milky Way’s center with thousands of twin stars - https://www.sciencedaily.com/releases/2026/03/260313062543.htm - Evidence suggests the Sun's migration influenced the emergence of life.
-2. Dragonfly mission begins rotorcraft integration, testing stage - https://phys.org/news/2026-03-dragonfly-mission-rotorcraft-stage.html - Integration and testing for Titan exploration are underway.
-3. A 100-solar-mass black hole merger ripples spacetime, and may flash in gamma rays - https://phys.org/news/2026-03-solar-mass-black-hole-merger.html - Gravitational waves detected from a black hole merger linked to a gamma-ray burst.
-4. Hubble and NASA space telescopes track 'game-changing' gamma-ray burst back to neutron star collision in 'forbidden' region of the universe - https://www.space.com/astronomy/stars/hubble-and-nasa-space-telescopes-track-game-changing-gamma-ray-burst-back-to-neutron-star-collision-in-forbidden-region-of-the-universe - Gamma-ray burst traced to a neutron star collision reveals new cosmic dynamics.
-5. Plato readies for space-like tests - https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests - The Plato mission is undergoing critical tests before its launch.
-6. Extra Extra! Extra Data Stream Added to the Daily Minor Planet! - https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/ - Citizen science project expands its data sources for minor planet tracking.
-7. NASA begins building nuclear-powered Dragonfly drone for 2028 launch to Saturn moon Titan - https://www.space.com/space-exploration/missions/nasa-begins-building-nuclear-powered-dragonfly-drone-for-2028-launch-to-saturn-moon-titan - The Dragonfly mission will explore Titan's surface chemistry.
-8. Volunteers Find Oddly High Solar Flare Rates - https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/ - New insights into solar flares from citizen science contributions.
-9. Safer space travel: Scientists create a cosmic ray simulator - https://phys.org/news/2026-03-safer-space-scientists-cosmic-ray.html - A new simulator addresses the risks posed by cosmic rays to space travelers.
-10. Northern lights may be visible in 9 US states tonight - https://www.space.com/stargazing/auroras/northern-lights-visible-9-states-tonight-march-13 - A solar wind stream is expected to produce visible auroras across the U.S.
+1. NASA launches twin spacecraft to solve the mystery of Mars’ lost atmosphere - https://www.sciencedaily.com/releases/2026/03/260314030452.htm - NASA's ESCAPADE mission aims to study Mars' atmospheric loss.
+2. NASA’s Curiosity rover investigates strange spiderweb ridges on Mars - https://www.sciencedaily.com/releases/2026/03/260314030449.htm - Curiosity analyzes formations indicating past water activity on Mars.
+3. Dry ice detected in a planetary nebula for the first time - https://phys.org/news/2026-03-dry-ice-planetary-nebula.html - JWST observes dry ice in NGC 6302, expanding our understanding of cosmic chemistry.
+4. Two days, two coasts, two more SpaceX Starlink batches launched - https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-31-b1071-vsfb-ocisly-group-10-48-b1095-ccsfs-jrti - SpaceX continues to expand its satellite internet constellation.
+5. This Week In Space podcast: Episode 201 — Born to Explore - https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-201-born-to-explore - Discussion on space exploration and its impact.
+6. Why are some stars always visible while others come and go with the seasons? - https://www.space.com/astronomy/stars/why-are-some-stars-always-visible-while-others-come-and-go-with-the-seasons - Explains the visibility of stars in the night sky.
+7. Galaxy season: Spring brings deep space wonder to the northern hemisphere night sky - https://www.space.com/stargazing/galaxy-season-spring-brings-deep-space-wonder-to-the-northern-hemisphere-night-sky - Highlights observable galaxies during spring.
+8. Arizona's Meteor Crater is still revealing new secrets 50,000 years later - https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later - Ongoing research at Meteor Crater enhances our understanding of impact events.
+9. Get cleaner photos of the night sky by using these tips to clean your camera lens without scratching it - https://www.space.com/stargazing/skywatching-kit/how-to-clean-your-camera-lens-without-scratching-it - Practical tips for astrophotography enthusiasts.
+10. Boys from the Dwarf: Looking back at 'Red Dwarf', the sci-fi show that had a huge impact on my childhood - https://www.space.com/entertainment/space-movies-shows/boys-from-the-dwarf-looking-back-at-red-dwarf-the-sci-fi-show-that-had-a-huge-impact-on-my-childhood - Reflections on the cultural impact of a sci-fi classic.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260313062543.htm' target='_blank'>Our Sun may have escaped the Milky Way’s center with thousands of twin stars</a></strong> — <em>2026-03-13 22:49:09</em></summary>
+    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260314030452.htm' target='_blank'>NASA launches twin spacecraft to solve the mystery of Mars’ lost atmosphere</a></strong> — <em>2026-03-15 02:31:40</em></summary>
 
-Scientists have uncovered evidence that our Sun may have traveled across the Milky Way as part of a massive migration of Sun-like stars billions of years ago. The journey may have carried the solar system away from the galaxy’s crowded center into a calmer region where life could eventually emerge.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-dragonfly-mission-rotorcraft-stage.html' target='_blank'>Dragonfly mission begins rotorcraft integration, testing stage</a></strong> — <em>2026-03-13 22:40:01</em></summary>
-
-Dragonfly integration and testing—the activities involved in assembling the mission's rotorcraft lander and testing it for the rigors of launch and extreme conditions of space—is officially underway in clean rooms and control rooms at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland.
+Mars didn’t always look like the barren world we see today. Over billions of years, the Sun’s solar wind stripped away much of its atmosphere, helping transform it from a warmer, wetter planet into a frozen desert. NASA’s twin-spacecraft ESCAPADE mission aims to watch this process in action by measuring how the solar wind interacts with Mars’ fragile magnetic environment. The findings could reveal how Mars lost its habitability—and help prepare humans for future missions there.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/' target='_blank'>Volunteers Find Oddly High Solar Flare Rates</a></strong> — <em>2026-03-13 22:07:28</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260314030449.htm' target='_blank'>NASA’s Curiosity rover investigates strange spiderweb ridges on Mars</a></strong> — <em>2026-03-15 01:08:34</em></summary>
 
-Patches of the Sun’s surface often show strong magnetic fields. These fields can emerge within a matter of hours, and can decay slowly or quickly, sometimes over days, weeks, or even months. Thanks to a new study about these long-lived active regions, we now know much more about the patches where these strong magnetic fields […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/' target='_blank'>Extra Extra! Extra Data Stream Added to the Daily Minor Planet!</a></strong> — <em>2026-03-13 21:42:20</em></summary>
-
-The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s […]
+NASA’s Curiosity rover is investigating strange spiderweb-like ridges on Mars that may reveal a hidden chapter of the planet’s watery history. These “boxwork” formations likely formed when groundwater flowed through cracks in the rock, leaving minerals that hardened into ridges while surrounding material eroded away. New chemical analyses of drilled rock samples show minerals linked to water activity.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-solar-mass-black-hole-merger.html' target='_blank'>A 100-solar-mass black hole merger ripples spacetime, and may flash in gamma rays</a></strong> — <em>2026-03-13 21:20:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-31-b1071-vsfb-ocisly-group-10-48-b1095-ccsfs-jrti' target='_blank'>Two days, two coasts, two more SpaceX Starlink batches launched</a></strong> — <em>2026-03-14 17:11:43</em></summary>
 
-An international team from China and Italy has reported a possible cosmic encore to the landmark 2017 multi-messenger discovery. In November 2024, the LIGO-Virgo-KAGRA observatories detected gravitational waves from a binary black hole merger, designated S241125n. Remarkably, just seconds later, satellites recorded a short gamma-ray burst (GRB) from the same region of the sky.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/hubble-and-nasa-space-telescopes-track-game-changing-gamma-ray-burst-back-to-neutron-star-collision-in-forbidden-region-of-the-universe' target='_blank'>Hubble and NASA space telescopes track 'game-changing' gamma-ray burst back to neutron star collision in 'forbidden' region of the universe</a></strong> — <em>2026-03-13 21:00:00</em></summary>
-
-Astronomers have tracked a powerful blast of radiation back to its source, finding a neutron star collision within colliding galaxies.
+Two SpaceX Falcon 9 rockets carrying Starlink satellites were launched from Vandenberg Space Force Base in California and Cape Canaveral Space Force Station in Florida on March 13 and 14, 2026.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/sci-fi-shooter-marathon-comes-to-life-in-hilarious-marketing-prank-video' target='_blank'>Sci-fi shooter 'Marathon' comes to life in hilarious marketing prank (video)</a></strong> — <em>2026-03-13 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-201-born-to-explore' target='_blank'>This Week In Space podcast: Episode 201 — Born to Explore</a></strong> — <em>2026-03-14 16:01:15</em></summary>
 
-It's just a prank, bro!
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/' target='_blank'>NASA Selects Finalists in Student Aircraft Maintenance Competition</a></strong> — <em>2026-03-13 19:17:49</em></summary>
-
-NASA has selected eight student teams as finalists in the 2026 Gateways to Blue Skies Competition, giving them the resources to help address a critical challenge for U.S. aviation: maintenance.  Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated aircraft running for longer. With Gateways to Blue Skies, NASA taps into student innovation to address some of the biggest […]
+On Episode 201 of This Week In Space, Rod Pyle and Tariq Malik are joined by Jay Gallentine to talk about former Jet Propulsion Laboratory (JPL) manager John Casani.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/' target='_blank'>NASA Selects Finalists in Student Aircraft Maintenance Competition</a></strong> — <em>2026-03-13 19:17:49</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-dry-ice-planetary-nebula.html' target='_blank'>Dry ice detected in a planetary nebula for the first time</a></strong> — <em>2026-03-14 16:00:02</em></summary>
 
-NASA has selected eight student teams as finalists in the 2026 Gateways to Blue Skies Competition, giving them the resources to help address a critical challenge for U.S. aviation: maintenance.  Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated aircraft running for longer. With Gateways to Blue Skies, NASA taps into student innovation to address some of the biggest […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/venus/russia-aims-to-reclaim-soviet-space-glory-with-2036-launch-of-ambitious-venus-mission' target='_blank'>Russia aims to reclaim Soviet space glory with 2036 launch of ambitious Venus mission</a></strong> — <em>2026-03-13 19:00:00</em></summary>
-
-Russia plans to launch the Venera-D mission to Venus in 2036, continuing the Soviet Union's legacy of exploring there in the 1960s, 1970s and 1980s.
+An international team of astronomers has employed the James Webb Space Telescope (JWST) to observe a complex planetary nebula known as NGC 6302. The observations, detailed in a paper published Feb. 25 on the arXiv pre-print server, resulted in the discovery of dry (carbon dioxide) ice in this nebula. This is the first time dry ice has been detected in a planetary nebula.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-isnt-rocky-world-orbiting-red.html' target='_blank'>This isn't just another rocky world orbiting a red dwarf—this one's special</a></strong> — <em>2026-03-13 18:00:05</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/how-to-clean-your-camera-lens-without-scratching-it' target='_blank'>Get cleaner photos of the night sky by using these tips to clean your camera lens without scratching it</a></strong> — <em>2026-03-14 15:00:00</em></summary>
 
-Astronomers have found an exoplanet that could serve as a benchmark in future studies. It's a rocky planet orbiting an M-type star, and though these planets are plentiful, this one could serve as a benchmark for understanding other M-dwarf exoplanets and their atmospheres. According to the authors of a new study, this new exoplanet could serve as "a reference system for highly irradiated rocky planets."
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/disclosure-day-release-date-plot-cast-and-everything-else-we-know-about-spielbergs-sci-fi-return' target='_blank'>'Disclosure Day': Release date, plot, cast, & everything else we know about Spielberg's sci-fi return</a></strong> — <em>2026-03-13 18:00:00</em></summary>
-
-Steven Spielberg returns to sci-fi with a somber UFO invasion flick this summer
+Follow these tips for cleaning the different parts of your camera lens, without risking damage.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/' target='_blank'>NASA Armstrong to Host Partnership Days April 15-16</a></strong> — <em>2026-03-13 17:33:41</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/boys-from-the-dwarf-looking-back-at-red-dwarf-the-sci-fi-show-that-had-a-huge-impact-on-my-childhood' target='_blank'>Boys from the Dwarf: Looking back at 'Red Dwarf', the sci-fi show that had a huge impact on my childhood</a></strong> — <em>2026-03-14 14:00:00</em></summary>
 
-NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership Days, scheduled for Wednesday and Thursday, April 15 and 16, at the center. The event offers a unique opportunity to explore collaboration with NASA on cutting-edge research and development in areas such as aerospace, autonomy, sustainability, and […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/' target='_blank'>NASA Armstrong to Host Partnership Days April 15-16</a></strong> — <em>2026-03-13 17:33:41</em></summary>
-
-NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership Days, scheduled for Wednesday and Thursday, April 15 and 16, at the center. The event offers a unique opportunity to explore collaboration with NASA on cutting-edge research and development in areas such as aerospace, autonomy, sustainability, and […]
+Red Dwarf's scouse technician Dave Lister was the last human alive, a down-on-his-luck slobbish space-hero long before Peter Quill guarded the galaxy.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/' target='_blank'>USBR Crack the Case Challenge</a></strong> — <em>2026-03-13 17:13:49</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/why-are-some-stars-always-visible-while-others-come-and-go-with-the-seasons' target='_blank'>Why are some stars always visible while others come and go with the seasons?</a></strong> — <em>2026-03-14 13:00:00</em></summary>
 
-NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. This three-phase challenge invites geophysicists, sensing specialists, nondestructive testing experts, and creative problem-solvers (including AI/ML practitioners) from […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/' target='_blank'>NASA Volunteers Study Biofilm Adaptability in Space</a></strong> — <em>2026-03-13 17:08:49</em></summary>
-
-Biofilms are communities of microorganisms that stick to one another and also adhere to a nearby surface. They are intricately associated with life on Earth, enabling functions essential to human and plant systems.
+So, why is it that Orion is not always visible in the night sky, and certainly not in the same location month after month, while the Big Dipper always is?
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/' target='_blank'>USBR Halt the Hitchhiker: Invasive Species Challenge</a></strong> — <em>2026-03-13 17:03:49</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/galaxy-season-spring-brings-deep-space-wonder-to-the-northern-hemisphere-night-sky' target='_blank'>Galaxy season: Spring brings deep space wonder to the northern hemisphere night sky</a></strong> — <em>2026-03-14 12:00:00</em></summary>
 
-NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Bureau of Reclamation (Reclamation) is sponsoring a 3-phase prize challenge (managed by yet2) for innovative solutions […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/good-morning-moon/' target='_blank'>Good Morning, Moon</a></strong> — <em>2026-03-13 16:19:57</em></summary>
-
-Early morning sunlight illuminates the western wall of this unnamed crater, leaving deep shadows on the ground and in the interior. The image was taken on August 30, 2023, by LROC (Lunar Reconnaissance Orbiter Camera). LROC is a system of three cameras and one of the seven instruments aboard NASA’s LRO (Lunar Reconnaissance Orbiter) mission, […]
+Spring skies reveal some of the best galaxies visible to backyard telescopes.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/the-march-full-moon-glows-red-through-saharan-dust-in-eerie-composite-view' target='_blank'>The March full moon glows red through Saharan dust in eerie composite view</a></strong> — <em>2026-03-13 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later' target='_blank'>Arizona's Meteor Crater is still revealing new secrets 50,000 years later</a></strong> — <em>2026-03-14 10:00:00</em></summary>
 
-Saharan dust and atmospheric filtering combined to give the moon a dramatic red hue.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/' target='_blank'>Agenda diaria de la misión a la Luna de Artemis II de la NASA</a></strong> — <em>2026-03-13 15:40:17</em></summary>
-
-Read this web article in English here. Unos ocho minutos después del despegue de Artemis II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10 días […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/' target='_blank'>NASA’s Artemis II Moon Mission Daily Agenda</a></strong> — <em>2026-03-13 15:21:40</em></summary>
-
-About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/' target='_blank'>NASA’s Artemis II Moon Mission Daily Agenda</a></strong> — <em>2026-03-13 15:21:40</em></summary>
-
-About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-safer-space-scientists-cosmic-ray.html' target='_blank'>Safer space travel: Scientists create a cosmic ray simulator</a></strong> — <em>2026-03-13 15:20:03</em></summary>
-
-Cosmic rays are one of the greatest challenges for space travel and pose a considerable risk to humans and materials. For the first time on European soil, an international research team in collaboration with the European Space Agency (ESA) has succeeded in providing a simulator for galactic cosmic rays at the GSI/FAIR accelerator facility in Darmstadt, Germany. The results have been published in two articles in the journal Life Sciences in Space Research.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/webb/artifacts-from-nasas-webb-parker-solar-probe-on-view-at-smithsonian/' target='_blank'>Artifacts From NASA’s Webb, Parker Solar Probe on View at Smithsonian</a></strong> — <em>2026-03-13 15:06:07</em></summary>
-
-A testing replica of the “backbone” of NASA’s James Webb Space Telescope and a full-scale model of the agency’s Parker Solar Probe are now on permanent display at the Smithsonian’s National Air and Space Museum, Steven F. Udvar-Hazy Center in Chantilly, Virginia. “From touching the Sun with Parker Solar Probe to creating humanity’s most powerful […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/best-model-rocket-sets-for-beginners' target='_blank'>Best model rocket sets for beginners</a></strong> — <em>2026-03-13 15:00:00</em></summary>
-
-Here are some of the best model rocket kits for those counting down to their first blast off.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days' target='_blank'>Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets</a></strong> — <em>2026-03-13 14:28:17</em></summary>
-
-Artemis 2's launch may have been pushed back but you build your own adventure with these Lego Ideas and Lego Technic Artemis Space Launch System sets, up to 20% off in Amazon UK's Big Spring Deal sales.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_March_2026' target='_blank'>Week in images: 09-13 March 2026</a></strong> — <em>2026-03-13 14:10:00</em></summary>
-
-
-Week in images: 09-13 March 2026
-Discover our week through the lens
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/satellite-spies-an-erupting-volcano-space-photo-of-the-day-for-march-13-2026' target='_blank'>Satellite spies an erupting volcano | Space photo of the day for March 13, 2026</a></strong> — <em>2026-03-13 14:00:00</em></summary>
-
-A new NASA satellite image has captured a rare view of an erupting volcano, revealing its bright red lava flow as seen from space.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/missions/nasa-begins-building-nuclear-powered-dragonfly-drone-for-2028-launch-to-saturn-moon-titan' target='_blank'>NASA begins building nuclear-powered Dragonfly drone for 2028 launch to Saturn moon Titan</a></strong> — <em>2026-03-13 13:00:00</em></summary>
-
-Dragonfly will explore the giant Saturn moon Titan by air, helping scientists learn about the proto-ingredients of life on the satellite's hazy surface.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-visible-9-states-tonight-march-13' target='_blank'>Northern lights may be visible in 9 US states tonight</a></strong> — <em>2026-03-13 12:35:48</em></summary>
-
-Auroras may be visible from Alaska to Maine tonight and tomorrow as a speedy solar wind stream is due to arrive.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/how-risky-is-the-artemis-2-astronaut-launch-to-the-moon-nasa-would-rather-not-say' target='_blank'>How risky is the Artemis 2 astronaut launch to the moon? NASA would rather not say</a></strong> — <em>2026-03-13 12:00:00</em></summary>
-
-NASA's Artemis 2 mission, which will launch astronauts to the moon for the first time in more than 50 years, comes with undeniable risk. But quantifying that risk is a tall order.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests' target='_blank'>Plato readies for space-like tests</a></strong> — <em>2026-03-13 10:00:00</em></summary>
-
-
-	Image:
-			The European Space Agency’s mission to discover Earth-like exoplanets, Plato, is now sealed in the Large Space Simulator (LSS) chamber at ESA’s Test Centre for a series of vital tests under space‑like conditions.Engineers placed Plato in the LSS on 18 February, and since the beginning of March the spacecraft has been experiencing the extreme temperatures and vacuum of space. This photo captures the satellite standing in the centre of the simulator, moments before the chamber was bolted closed.The picture was taken from the top opening of the LSS and gives us a direct view of Plato’s 26 ultrasensitive cameras. These are the special eyes that the mission will use to monitor more than 150 000 bright stars at the same time, hunting for terrestrial planets orbiting Sun-like stars.The mission is expected to be ready for launch by the end of the year. Liftoff on an Ariane 6 is planned by Arianespace for January 2027.But before launching a spacecraft, it is crucial to operate it and check all its functionalities in a space-like environment. The LSS offers just that.A cylindrical container standing 15 m high and 10 m wide, the LSS is Europe's largest cryovacuum chamber. Equipped with a high-performance pump, the enclosure achieves a pressure a billion times lower than the sea-level atmospheric pressure, while liquid nitrogen circulating around its casing reproduces the extreme low temperatures of space.
-Exposed to a grid of powerful heating elements (so-called ‘calrods’) that simulate the heat of the Sun, the backside of the spacecraft – with solar panels and sunshield – reaches a toasty 160 °C. At the same time, thanks to the sunshield and excellent insulation, the cameras and the optical bench facing the dark, cold part of the chamber are kept very cool at around –80 °C, as if facing deep space. Plato will reemerge from the space simulator at the end of March.[Image description: Photo taken looking down into a black‑walled cylinder, at the bottom of which sits a large satellite with black panels and golden surfaces. On top of the spacecraft, we see the blue, shiny lenses of 26 large cameras. The cameras are mounted on a five‑stepped platform and arranged in four rows of six cameras, plus a top row with two cameras.]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/spacexs-1-million-orbiting-ai-data-centers-could-ruin-astronomy-scientists-say' target='_blank'>SpaceX plan for 1 million orbiting AI data centers could ruin astronomy, scientists say</a></strong> — <em>2026-03-13 10:00:00</em></summary>
-
-SpaceX's plan to launch one million orbiting data centers to space worries astronomers, who say the satellite streaks caused by the proposed constellation would severely impair observations.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-march-13-22/' target='_blank'>This Week's Sky at a Glance, March 13 – 22</a></strong> — <em>2026-03-13 09:09:00</em></summary>
-
-A rare, near perfect young-Moon challenge awaits North Americans after sunset on March 19th. Jupiter rules the evening from on high in central Gemini.
-The post This Week's Sky at a Glance, March 13 – 22 appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Maritime_highways_in_the_OEresund_Strait' target='_blank'>Earth from Space: Maritime highways in the Øresund Strait</a></strong> — <em>2026-03-13 09:00:00</em></summary>
-
-
-	Image:
-			This image from the Copernicus Sentinel-1 mission shows us the maritime traffic passing through the Øresund Strait in 2025.
+Arizona's Meteor Crater remains 'the perfect natural laboratory' for studying what happens when meteors strike Earth, scientists say.
 
 </details>
 
