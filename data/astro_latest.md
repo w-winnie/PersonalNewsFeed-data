@@ -1,249 +1,247 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Planetary Science
+    ### Major Themes in Recent Astrophysical Developments
 
-#### Unveiling Unusual Exoplanets
-Recent discoveries using the James Webb Space Telescope (JWST) have introduced a new class of exoplanets that challenge traditional classification systems. The exoplanet L 98-59 d features a low density and is believed to harbor a vast ocean of molten rock beneath its surface, trapping sulfur-rich gases in its atmosphere. This finding suggests a greater diversity among exoplanets than previously recognized, prompting scientists to reconsider existing categorization frameworks based on physical and chemical characteristics.
+#### Insights into Early Stellar Populations
+Recent findings in astrophysics have shed light on the formation and evolution of early stars, enhancing our understanding of cosmic history. The discovery of an iron-deficient second-generation star offers valuable insights into the processes that shaped the early universe and the chemical enrichment that followed. This research emphasizes the importance of ancient stars in the context of stellar nucleosynthesis and the lifecycle of matter in the cosmos.
 
-Key items illustrating this theme include:
-1. The JWST's discovery of L 98-59 d, showcasing unique atmospheric compositions that complicate our understanding of planetary formation.
-2. Ongoing discussions about reclassifying exoplanets to reflect their diverse characteristics.
+Key items:
+1. **Rare Ancient Star Found** - Researchers have identified a second-generation star with low iron content, suggesting it formed from primordial gas enriched by the first stars, potentially reshaping our understanding of stellar evolution. [Link](https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe)
+2. **Giant Planets vs. Brown Dwarfs** - A recent study provides evidence that giant planets spin faster than brown dwarfs, which could serve as a distinguishing characteristic between these two types of celestial bodies. [Link](https://phys.org/news/2026-03-clearest-evidence-giant-planets-faster.html)
 
-#### Insights into Planet Formation
-A collaborative study from the University of Bern and ETH Zurich has provided experimental evidence supporting the theory of shear-flow instability, a critical mechanism in the aggregation of dust into planetesimals. Conducted in parabolic flights to simulate zero gravity, this research enhances our understanding of planet formation and addresses fundamental questions about the evolution of dust into larger celestial bodies, potentially refining models of planetary system architectures.
+#### Cometary Dynamics and Observational Breakthroughs
+The dynamic behavior of comets continues to intrigue astronomers, as evidenced by NASA's Hubble Space Telescope capturing the fragmentation of Comet K1. This rare event provides a unique opportunity to study the physical and chemical processes that govern cometary evolution, enhancing our understanding of these icy bodies as they approach the Sun.
 
-Key items include:
-1. Experimental results demonstrating shear-flow instability under conditions similar to those found in protoplanetary disks.
-2. The implications for more accurate predictions regarding the formation and structure of planetary systems.
+Key items:
+1. **Hubble Observes Comet Breakup** - Hubble has documented Comet K1 breaking apart into at least four fragments, presenting a rare observational opportunity to analyze the comet's structure and evolution in real-time. [Link](https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up)
 
-#### Asteroids as Clues to Life's Origins
-Recent analyses of samples from the asteroid Ryugu have confirmed the presence of all five nucleobases essential for DNA, suggesting that the building blocks of life may be more prevalent in the solar system than previously thought. This discovery aligns with findings from asteroid Bennu, indicating that asteroids could have played a significant role in delivering life's fundamental components to Earth.
+#### Innovations in Space Exploration
+Technological advancements in space exploration are crucial for future missions, with significant developments occurring in both infrastructure and launch capabilities. NASA's preparation for a new solar array on the International Space Station (ISS) and SpaceX's testing of its next-generation Starship highlight ongoing efforts to enhance space mission capabilities.
 
-Key items include:
-1. The confirmation of adenine, guanine, cytosine, thymine, and uracil in Ryugu samples, reinforcing the notion of asteroids as carriers of life's building blocks.
-2. Broader implications for astrobiology and the ongoing search for extraterrestrial life.
+Key items:
+1. **ISS Solar Array Preparation** - NASA astronauts have completed preparations for a new solar array installation on the ISS, which will increase the station's energy output and support its ongoing scientific missions. [Link](https://www.space.com/space-exploration/international-space-station/astronauts-complete-prep-for-new-iss-solar-array-on-1st-nasa-spacewalk-in-10-months)
+2. **SpaceX Starship Test** - SpaceX has successfully conducted a static fire test of its V3 Starship, marking a significant milestone toward its anticipated launch and potentially revolutionizing future space travel. [Link](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-v3-starship-for-1st-time-ahead-of-april-launch-photos)
 
 ### Conclusion
-The current landscape in astrophysics and planetary science is marked by significant advancements in our understanding of exoplanets, the mechanisms of planet formation, and the potential origins of life. With cutting-edge tools like the JWST and ongoing sample return missions, researchers are uncovering complexities that challenge established theories and expand our perspectives on the cosmos. This momentum suggests a vibrant future for discoveries that could reshape our understanding of planetary systems and life in the universe.
+The current landscape of astrophysics is characterized by significant advancements in our understanding of cosmic history, particularly regarding early stellar populations and cometary dynamics. Concurrently, technological innovations in space exploration are poised to enhance future missions, reflecting a robust and evolving field. This interplay between observational discoveries and technological progress is likely to drive further research and exploration initiatives, fostering deeper insights into the universe. 
 
 ### Top Sources:
-1. JWST reveals a strange sulfur world unlike any planet we know - https://www.sciencedaily.com/releases/2026/03/260317190802.htm - Astronomers identify a new exoplanet type with unique atmospheric characteristics.
-2. From dust to planets: Parabolic flight reveal a turbulent path - https://phys.org/news/2026-03-planets-parabolic-flight-reveal-turbulent.html - Study provides experimental evidence for dust aggregation processes in zero gravity.
-3. Asteroid Ryugu Also Contains Life’s Building Blocks - https://skyandtelescope.org/astronomy-news/asteroid-ryugu-also-contains-lifes-building-blocks/ - Samples from Ryugu confirm the presence of essential nucleobases for DNA.
-4. Asteroid Bennu's rugged surface baffled NASA—now, we finally know why - https://phys.org/news/2026-03-asteroid-bennu-rugged-surface-baffled.html - New insights into Bennu's unexpected geological features.
-5. Solving Asteroid Bennu’s Mysteries - https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/ - X-ray scans reveal internal structures of Bennu, shedding light on its composition.
-6. New study complicates the search for alien oxygen - https://phys.org/news/2026-03-complicates-alien-oxygen.html - Research highlights the complexity of interpreting oxygen signals in exoplanet atmospheres.
-7. NASA will roll Artemis 2 moon rocket back to the launch pad on March 20 - https://www.space.com/space-exploration/artemis/nasa-will-roll-artemis-2-moon-rocket-back-to-the-launch-pad-on-march-20 - Updates on NASA's upcoming crewed lunar mission preparations.
-8. X-ray spacecraft watches monster black hole wake up and fire cosmic bullets at starburst galaxy - https://www.space.com/astronomy/black-holes/x-ray-spacecraft-watches-monster-black-hole-wake-up-and-fire-cosmic-bullets-at-starburst-galaxy - Observations of black hole activity provide insights into galactic evolution.
-9. Large craters offer clues to the origin of asteroid 16 Psyche - https://phys.org/news/2026-03-large-craters-clues-asteroid-psyche.html - Research into Psyche's craters helps unravel its formation history.
-10. Aurora alert! Powerful geomagnetic storm could spark northern lights as far south as Illinois on March 19 - https://www.space.com/stargazing/auroras/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-on-march-19 - Upcoming geomagnetic activity may lead to widespread auroral displays.
+1. Rare Ancient Star Found - https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe - Discovery of an iron-deficient second-generation star.
+2. Hubble Observes Comet Breakup - https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up - Hubble captures a comet fragmenting in real-time.
+3. ISS Solar Array Preparation - https://www.space.com/space-exploration/international-space-station/astronauts-complete-prep-for-new-iss-solar-array-on-1st-nasa-spacewalk-in-10-months - Astronauts prepare for new solar array installation.
+4. SpaceX Starship Test - https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-v3-starship-for-1st-time-ahead-of-april-launch-photos - SpaceX conducts a static fire test for its next-gen Starship.
+5. Giant Planets vs. Brown Dwarfs - https://phys.org/news/2026-03-clearest-evidence-giant-planets-faster.html - Study reveals differences in spin rates between giant planets and brown dwarfs.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/watch-live-today-nasa-astronauts-conducting-spacewalk-delayed-by-iss-medical-evacuation' target='_blank'>Watch live today: NASA astronauts conducting spacewalk delayed by ISS medical evacuation</a></strong> — <em>2026-03-18 04:05:00</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/' target='_blank'>Australia’s “Red Centre” Turns Green</a></strong> — <em>2026-03-19 04:00:00</em></summary>
 
-Two NASA astronauts will conduct a spacewalk today (March 18) that was delayed by the first-ever medical evacuation of the ISS, and you can watch the action live.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/' target='_blank'>Wave of Dust Rolls Through Texas</a></strong> — <em>2026-03-18 04:01:00</em></summary>
-
-An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high plains.
+Abundant rainfall in February and March 2026 transformed the desert landscape of Central Australia.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/' target='_blank'>Wave of Dust Rolls Through Texas</a></strong> — <em>2026-03-18 04:01:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe' target='_blank'>'At the edge of what we thought possible': Astronomers find extremely rare star from ancient universe</a></strong> — <em>2026-03-18 21:00:00</em></summary>
 
-An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high plains.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260317190802.htm' target='_blank'>JWST reveals a strange sulfur world unlike any planet we know</a></strong> — <em>2026-03-17 23:13:24</em></summary>
-
-Astronomers have identified a strange new kind of exoplanet that challenges how scientists classify worlds beyond our Solar System. The planet, L 98-59 d, appears to contain a vast ocean of molten rock beneath its surface that traps large amounts of sulfur deep inside. Observations from the James Webb Space Telescope revealed unusual sulfur-rich gases in its atmosphere and a surprisingly low density for its size.
+"Cosmic archaeologists" have discovered an iron-deficient second-generation star, which provides evidence of how ancient stars enriched their successors.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-planets-parabolic-flight-reveal-turbulent.html' target='_blank'>From dust to planets: Parabolic flight reveal a turbulent path</a></strong> — <em>2026-03-17 21:40:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/astronauts-complete-prep-for-new-iss-solar-array-on-1st-nasa-spacewalk-in-10-months' target='_blank'>Astronauts complete prep for new ISS solar array on 1st NASA spacewalk in 10 months</a></strong> — <em>2026-03-18 20:31:16</em></summary>
 
-How does fine dust aggregate into building blocks that ultimately form entire planets like our Earth? A research team led by the University of Bern, with the participation of ETH Zurich, the University of Zurich and the National Center of Competence in Research (NCCR) PlanetS has provided the first experimental evidence—obtained during parabolic flights in zero gravity—that a key physical process, known as shear-flow instability, actually occurs under conditions similar to those in planet formation regions. The study thus addresses an important gap in our understanding of the very first steps of planet formation.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/x-ray-spacecraft-watches-monster-black-hole-wake-up-and-fire-cosmic-bullets-at-starburst-galaxy' target='_blank'>X-ray spacecraft watches monster black hole wake up and fire cosmic bullets at starburst galaxy</a></strong> — <em>2026-03-17 21:00:00</em></summary>
-
-The research could shed light on how black holes vomit out matter and how this influences their home galaxies.
+NASA astronauts Jessica Meir and Chris Williams prepared the International Space Station for the addition a new solar array during a spacewalk on Wednesday, March 18, 2026.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/' target='_blank'>NASA’s X-59 Prepares for Second Flight</a></strong> — <em>2026-03-17 20:55:48</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/how-to-watch-invincible-season-4-online-and-from-anywhere' target='_blank'>How to watch 'Invincible' Season 4 online and from anywhere</a></strong> — <em>2026-03-18 20:00:00</em></summary>
 
-NASA’s X-59 experimental aircraft is preparing for its second flight, a step that will set the pace for more flight testing in 2026.  Over the coming months, NASA will take the quiet supersonic jet faster and higher, while validating safety and performance, a process known as envelope expansion.  NASA test pilot Jim “Clue” Less will be at the X-59’s […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/' target='_blank'>NASA’s X-59 Prepares for Second Flight</a></strong> — <em>2026-03-17 20:55:48</em></summary>
-
-NASA’s X-59 experimental aircraft is preparing for its second flight, a step that will set the pace for more flight testing in 2026.  Over the coming months, NASA will take the quiet supersonic jet faster and higher, while validating safety and performance, a process known as envelope expansion.  NASA test pilot Jim “Clue” Less will be at the X-59’s […]
+Prime Video's brutally brilliant animated superhero series returns today!
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-physicists-sun-magnetic-kilometers-surface.html' target='_blank'>Physicists trace the sun's magnetic engine, 200,000 kilometers below its surface</a></strong> — <em>2026-03-17 20:00:09</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-dim-stars-brightly.html' target='_blank'>How two dim stars came together to shine brightly</a></strong> — <em>2026-03-18 19:40:02</em></summary>
 
-Every eleven years, the sun's magnetic field flips. Sunspots—dark, cooler regions on the sun's surface that mark intense magnetic activity and often trigger solar eruptions—appear at mid-latitudes and migrate toward the star's equator in a butterfly-shape pattern before fading as the cycle resets. While this spectacle on the star's surface has long been visible to astronomers, where this powerful cycle begins inside the star has remained hidden until now.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/dune-part-three-teaser-five-talking-points-from-denis-villeneuves-return-to-arrakis' target='_blank'>Dune: Part Three teaser: Five talking points from Denis Villeneuve's return to Arrakis</a></strong> — <em>2026-03-17 20:00:00</em></summary>
-
-Paul Atreides' kids, a Duncan Idaho comeback (kinda), and Robert Pattinson's creepy new role.
+Brown dwarfs get a bad rap in the stellar world, often labeled as "failed stars" for their inability to sustain nuclear fusion at their cores. The mass of these objects falls between planets and stars, ranging from 13 to 80 times the mass of Jupiter. Because they aren't massive enough to sustain fusion, they are far fainter and cooler than their stellar comrades.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/' target='_blank'>Dim Delights in Cancer</a></strong> — <em>2026-03-17 19:41:48</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-v3-starship-for-1st-time-ahead-of-april-launch-photos' target='_blank'>SpaceX fires up next-gen 'V3' Starship for 1st time ahead of April launch (photos)</a></strong> — <em>2026-03-18 19:35:58</em></summary>
 
-Cancer the Crab is a dim constellation, yet it contains one of the most beautiful and easy-to-spot star clusters in our sky: the Beehive Cluster. Cancer also possesses one of the most studied exoplanets: the superhot super-Earth, 55 Cancri e. Find Cancer’s dim stars by looking in between the brighter neighboring constellations of Gemini and […]
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/asteroid-ryugu-also-contains-lifes-building-blocks/' target='_blank'>Asteroid Ryugu Also Contains Life’s Building Blocks</a></strong> — <em>2026-03-17 19:28:39</em></summary>
-
-Samples returned from Ryugu contain all five nucleobases, just like from asteroid Bennu. The find suggests life’s ingredients could have come from outside Earth.
-The post Asteroid Ryugu Also Contains Life’s Building Blocks appeared first on Sky & Telescope.
+SpaceX conducted a static fire test with the first stage of its V3 Starship on Monday (March 16), a milestone moment for this bigger, more powerful megarocket variant.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-asteroid-bennu-rugged-surface-baffled.html' target='_blank'>Asteroid Bennu's rugged surface baffled NASA—now, we finally know why</a></strong> — <em>2026-03-17 19:00:07</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/' target='_blank'>Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!</a></strong> — <em>2026-03-18 19:16:35</em></summary>
 
-In one of the biggest surprises of NASA's OSIRIS-REx mission, its target asteroid, Bennu, turned out to be a jagged, rugged world covered in large boulders, with few of the smooth patches that earlier observations from Earth-based instruments had indicated.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/where-are-all-the-aliens-maybe-they-just-dont-want-to-talk-to-us' target='_blank'>Where are all the aliens? Maybe they just don't want to talk to us</a></strong> — <em>2026-03-17 19:00:00</em></summary>
-
-A civilization capable of interstellar travel may also be one that has moved beyond conquest, excess and ecological self-destruction — and it therefore may not want to talk to us.
+Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning date: Friday, March 13, 2026 We are in our final phase of the boxwork campaign, investigating the contacts between the boxwork unit and the layered sulfate unit. As my colleague Bill reported here, last week we crossed […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-meteor-falling-cleveland-states.html' target='_blank'>Suspected meteor falling over Cleveland could be seen several states away</a></strong> — <em>2026-03-17 18:30:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/starfield-is-finally-coming-to-ps5-alongside-dlc-that-adds-new-quests-and-the-ability-to-fly-between-planets' target='_blank'>'Starfield' is finally coming to PS5, alongside DLC that adds new quests and the ability to fly between planets</a></strong> — <em>2026-03-18 19:00:00</em></summary>
 
-A suspected meteor that fell over the Cleveland area on Tuesday shook homes and startled residents who heard a boom that some compared to an explosion.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/ryugu-asteroid-sample-contains-all-five-key-components-of-dna-scientists-find' target='_blank'>Ryugu asteroid sample contains all five key components of DNA, scientists find</a></strong> — <em>2026-03-17 18:00:00</em></summary>
-
-A sample collected by the Hayabusa 2 spacecraft from the spinning top-like asteroid contained the nucleobases adenine, guanine, cytosine, thymine, and uracil.
+Rejoice, PlayStation gamers! "Starfield" is finally making the hyperspace journey to PS5 alongside some major game updates for everyone.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/expressvpn-is-at-its-lowest-ever-price-get-82-percent-off-and-enjoy-season-5-of-for-all-mankind-and-spinoff-series-star-city-with-uninterrupted-viewing-from-anywhere' target='_blank'>ExpressVPN is at its lowest ever price, get 82% off, and enjoy Season 5 of 'For All Mankind' and spinoff series 'Star City' with uninterrupted viewing from anywhere</a></strong> — <em>2026-03-17 17:45:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-nasa-hubble-unexpectedly-comet.html' target='_blank'>NASA's Hubble unexpectedly catches comet breaking up</a></strong> — <em>2026-03-18 18:20:01</em></summary>
 
-ExpressVPN is rated as the easiest VPN to use and one of the most secure VPN services around, now with a $300 discount and four months free, it also adds incredible value to its repertoire.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-hypothesis-cell-membranes-titan.html' target='_blank'>Experiment challenges hypothesis of cell-like membranes on Titan</a></strong> — <em>2026-03-17 17:20:01</em></summary>
-
-New experimental results have cast doubt on earlier proposals suggesting that spherical, cell-like membranes could form in the methane lakes of Saturn's largest moon. Through results published in Science Advances, Tuan Vu and Robert Hodyss at NASA's Jet Propulsion Laboratory suggest that exobiologists will likely need to explore alternative routes when considering the possibility of life on Titan.
+In a happy twist of fate, NASA's Hubble Space Telescope witnessed a comet in the act of breaking apart. The chance of that happening while Hubble watched is extraordinarily minuscule. The findings are published in the journal Icarus.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-10-000th-active-starlink-satellite-into-low-earth-orbit' target='_blank'>SpaceX launches 10,000th active Starlink satellite in low Earth orbit (video)</a></strong> — <em>2026-03-17 16:37:43</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/chinese-astronaut-conducts-record-tying-6th-spacewalk-outside-tiangong-space-station-video' target='_blank'>Chinese astronaut conducts record-tying 6th spacewalk outside Tiangong space station (video)</a></strong> — <em>2026-03-18 18:00:00</em></summary>
 
-SpaceX launched two Falcon 9 rockets on March 17, each carrying Starlink satellites into low Earth orbit. The company now has more than 10,000 active satellites in its constellation.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom' target='_blank'>Rare daytime fireball spotted from orbit as residents report powerful sonic boom</a></strong> — <em>2026-03-17 16:33:48</em></summary>
-
-No major meteor showers are active at this time.
+Zhang Lu matched Chen Dong's tally of six spacewalks as he and crewmate Wu Fei completed a seven-hour excursion outside China's space station.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-complicates-alien-oxygen.html' target='_blank'>New study complicates the search for alien oxygen</a></strong> — <em>2026-03-17 16:10:06</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-common-fireballs-streaking-sky.html' target='_blank'>How common are fireballs streaking across the sky?</a></strong> — <em>2026-03-18 17:30:03</em></summary>
 
-Oxygen has been the most important gas in our search for life among the cosmos thus far. On Earth, we have it in abundance because it is produced by biological synthesis. But that might not be the case on other planets, so even if we do find a very clear high oxygen signal in the atmosphere of an exoplanet, it might not be a clear indication that life exists there. A new paper, available in pre-print on arXiv, by Margaret Turcotte Seavey and a team of researchers from institutions like the NASA Goddard Space Flight Center and Johns Hopkins University, adds some additional context to what else might be going on in those atmospheres. In particular, they note that if there's even a little bit of water vapor, it can make a big difference in whether a lifeless rock looks like a living, thriving world.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-astronomers-period-radio-transient-unknown.html' target='_blank'>Astronomers discover long-period radio transient of unknown origin</a></strong> — <em>2026-03-17 16:00:11</em></summary>
-
-Using the Australian SKA Pathfinder (ASKAP), astronomers have discovered a new long-period radio transient source, which received the designation ASKAP J142431.2–612611 (ASKAP J1424 for short). The newfound transient has a period of approximately 36 minutes and its nature is unknown. The finding was reported in a paper published March 9 on the arXiv preprint server.
+The Earth is under assault. Space rocks are constantly hurtling toward us, slamming into the atmosphere and often exploding into fireballs that both delight and alarm.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/satellite-watches-wall-of-dust-roll-through-texas-space-photo-of-the-day-for-march-17-2026' target='_blank'>Satellite watches wall of dust roll through Texas | Space photo of the day for March 17, 2026</a></strong> — <em>2026-03-17 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-young-galaxies-grew-magnetic-fields.html' target='_blank'>How young galaxies grew magnetic fields faster than expected</a></strong> — <em>2026-03-18 17:00:01</em></summary>
 
-The dust storm created travel complications and other issues for Texans.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/' target='_blank'>Solving Asteroid Bennu’s Mysteries</a></strong> — <em>2026-03-17 14:40:29</em></summary>
-
-These X-ray computed tomography (XCT) scans released on March 17, 2026, give us a glimpse inside asteroid Bennu. They show the most common types of crack networks observed in Bennu samples; these networks solved a mystery that baffled NASA for years. When NASA’s OSIRIS-REx spacecraft first approached asteroid Bennu in 2018, scientists expected to see smooth, sandy beach-like surfaces. Instead, they […]
+How fast can a galaxy build ordered magnetic fields spanning thousands of light-years? Existing theories say several billion years, but observations of galaxies in our universe imply shorter timescales. In a study published in the Physical Review Letters and highlighted in the Physics magazine, scientists propose an explanation that resolves this contradiction. They say that the collapse of plasma clouds during the formation of galaxies could significantly accelerate the growth of these magnetic fields.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-will-roll-artemis-2-moon-rocket-back-to-the-launch-pad-on-march-20' target='_blank'>NASA will roll Artemis 2 moon rocket back to the launch pad on March 20</a></strong> — <em>2026-03-17 14:12:12</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/firefly-is-getting-an-animated-series-featuring-the-original-cast-and-were-all-shiny-with-anticipation' target='_blank'>'Firefly' is getting an animated series featuring the original cast, and we're all shiny with anticipation</a></strong> — <em>2026-03-18 17:00:00</em></summary>
 
-NASA has pushed the rollout of its next moon rocket to March 20, but is still targeting April 1 for the launch of its first crewed mission to the moon in more than half a century.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/star-wars-maul-shadow-lord-cuts-into-disney-with-a-brutal-2nd-trailer-full-of-inquisitors-video' target='_blank'>'Star Wars: Maul – Shadow Lord' cuts into Disney+ with a brutal 2nd trailer full of Inquisitors (video)</a></strong> — <em>2026-03-17 14:00:00</em></summary>
-
-"At last we will have revenge."
+Calling all Browncoats! The original cast of the cult space western will return to voice their cartoon counterparts.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-on-march-19' target='_blank'>Aurora alert! Powerful geomagnetic storm could spark northern lights as far south as Illinois on March 19</a></strong> — <em>2026-03-17 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-astronomers-exotrojans-extreme-pulsar.html' target='_blank'>Astronomers search for 'exotrojans' hiding in extreme pulsar systems</a></strong> — <em>2026-03-18 16:10:06</em></summary>
 
-Aurora chasers, keep your eyes on the skies later this week as an incoming coronal mass ejection could spark favorable conditions for widespread northern lights displays.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/osiris-rex/asteroid-bennus-rugged-surface-baffled-nasa-we-finally-know-why/' target='_blank'>Asteroid Bennu’s Rugged Surface Baffled NASA, We Finally Know Why</a></strong> — <em>2026-03-17 12:49:40</em></summary>
-
-In one of the biggest surprises of NASA’s OSIRIS-REx mission, its target asteroid, Bennu, turned out to be a jagged, rugged world covered in large boulders, with few of the smooth patches of sandy or pebbly material scientists had expected based on observations with Earth-based instruments. Bennu’s looks were quite deceiving, and until now, scientists struggled to figure out why.
+Greek mythology has given a name to a great many objects in our solar system. But perhaps one of the least well understood are the Trojans, named after the people of Troy featured in "The Iliad." When astronomers refer to them, they are normally talking about a group of more than 10,000 confirmed asteroids orbiting at the Lagrange points both in front of and behind Jupiter on its orbit around the sun.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/hail-yeah-nasa-researchers-use-volunteer-observations-for-hail-estimates/' target='_blank'>Hail Yeah! NASA Researchers Use Volunteer Observations for Hail Estimates</a></strong> — <em>2026-03-17 12:28:29</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-colliding-creation-carbon-coated-grains.html' target='_blank'>Colliding dust and the sparks of creation: Carbon-coated grains provide new clue to life's early energy</a></strong> — <em>2026-03-18 16:00:15</em></summary>
 
-The bigger the hailstone, the more damage it can cause. But scientists find that predicting hailstone size can be challenging. How quickly does hail melt as it falls?
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Space_Safety/Hera/Hera_on_course_for_asteroid_rendezvous' target='_blank'>Hera on course for asteroid rendezvous</a></strong> — <em>2026-03-17 12:00:00</em></summary>
-
-
-A successful deep-space manoeuvre has put ESA’s Hera spacecraft on course for its rendezvous with the Didymos binary asteroid system later this year.
+Two microscopic grains collide and produce a tiny spark. This phenomenon may have provided the energy to kick off life on Earth. But if these solid particles have the same composition, what factor causes the charge to flow in a given direction? In a study published in Nature, physicists from the Institute of Science and Technology Austria (ISTA) identify the key factor as environmental carbon-based molecules that adhere to the materials' surface.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/16-time-travel-methods-from-sci-fi-to-help-you-traverse-the-space-time-continuum' target='_blank'>16 time-travel methods from sci-fi to help you traverse the space-time continuum</a></strong> — <em>2026-03-17 12:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/one-of-the-youngest-visible-moons-of-the-year-appears-alongside-venus-on-march-19' target='_blank'>One of the youngest visible moons of the year appears alongside Venus on March 19</a></strong> — <em>2026-03-18 16:00:00</em></summary>
 
-From phone boxes and flux capacitors to black holes and hot tubs, sci-fi has created plenty of ways to explore the fourth dimension.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260317064440.htm' target='_blank'>This massive crater could expose the heart of a lost planet</a></strong> — <em>2026-03-17 11:19:15</em></summary>
-
-A mysterious metal-rich asteroid called Psyche has been baffling scientists for over two centuries, and its true origin remains one of the biggest unanswered questions in planetary science. Is it the exposed core of a failed planet, or a chaotic mix of rock and metal forged through countless violent collisions? To find out, researchers simulated how a massive crater near Psyche’s north pole formed, revealing that the asteroid’s internal “porosity” — how much empty space it contains — may hold the key to its secrets.
+Look west after sunset on March 19 to try spotting a razor-thin crescent moon less than 24 hours old with brilliant Venus lighting the way.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-large-craters-clues-asteroid-psyche.html' target='_blank'>Large craters offer clues to the origin of asteroid 16 Psyche</a></strong> — <em>2026-03-17 11:00:02</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/latest-news-on-kreutz-sungrazing-comet-c-2026-a1-maps/' target='_blank'>Latest News on the Kreutz Sungrazing Comet C/2026 A1 MAPS</a></strong> — <em>2026-03-18 15:43:03</em></summary>
 
-Even 200 years after asteroid 16 Psyche was discovered, astronomers continue to puzzle over its formation. Psyche is the 10th-most massive asteroid in the main belt between Mars and Jupiter, and the largest known metallic asteroid, at 140 miles in diameter.
+As the comet prepares for its perilous perihelion passage, we look at what to expect.
+The post Latest News on the Kreutz Sungrazing Comet C/2026 A1 MAPS appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-wants-to-defend-earth-against-dangerous-asteroids-heres-how' target='_blank'>Jeff Bezos' Blue Origin wants to defend Earth against dangerous asteroids. Here's how</a></strong> — <em>2026-03-17 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-dim-cancer-constellation.html' target='_blank'>Dim delights in the Cancer constellation</a></strong> — <em>2026-03-18 15:40:01</em></summary>
 
-Blue Origin and NASA's Jet Propulsion Laboratory are teaming up to design an asteroid-defense spacecraft that will deploy a variety of deflection technologies.
+Cancer the Crab is a dim constellation, yet it contains one of the most beautiful and easy-to-spot star clusters in our sky: the Beehive Cluster. Cancer also possesses one of the most studied exoplanets: the superhot super-Earth, 55 Cancri e.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/lava-flows-down-mayon/' target='_blank'>Lava Flows Down Mayon</a></strong> — <em>2026-03-18 15:19:59</em></summary>
+
+The OLI (Operational Land Imager) on Landsat 8 acquired this rare, relatively clear image of  Mayon, the most active volcano in the Philippines, on Feb. 26, 2026. The natural-color scene is overlaid with infrared observations to highlight the lava’s heat signature. On that day, the Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported volcanic earthquakes, rockfalls, and hot clouds of ash […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/general/from-service-to-space-systems-a-pathways-journey-to-nasa/' target='_blank'>From Service to Space Systems: A Pathways Journey to NASA</a></strong> — <em>2026-03-18 15:06:08</em></summary>
+
+For Corey Elmore, the path to NASA’s Kennedy Space Center did not begin in engineering. It began in service. Today he serves as a NASA Pathways engineering intern in the Technical Processes and Tools Branch (KSC-NE-TA) at Kennedy Space Center. Through the Pathways program, he is gaining hands-on experience supporting the engineering environments, technical tools […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-16-us-states-tonight-as-several-cmes-race-toward-earth' target='_blank'>Northern lights may be visible in 16 US states tonight as several CMEs race toward Earth</a></strong> — <em>2026-03-18 14:56:43</em></summary>
+
+Auroras may be visible from Alaska to Illinois tonight as several coronal mass ejections are forecast to impact within the next couple of days.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-fiber-optic-cables-moonquakes.html' target='_blank'>Using fiber-optic cables to detect moonquakes</a></strong> — <em>2026-03-18 14:40:01</em></summary>
+
+Two recent studies suggest that fiber-optic cables laid directly on the moon's surface could potentially detect moonquakes, offering a simpler way to gather seismic data to support future human and robotic exploration.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/' target='_blank'>Widely Attended Gatherings (WAGs) Determinations</a></strong> — <em>2026-03-18 14:08:31</em></summary>
+
+2026 Maryland Space Business Roundtable (MSBR) 3.26.26 SIA_27th Annual Leadership Dinner 3.23.26 2026 Artemis Suppliers Conference 3.23-25.26 Ansys Government Initiatives Event_AGI 3.19.26 Homeland Security Week 3.17-18.26 Amazon Smithsonian and Space for Humanity Event 3.16.26 HLSR_NASA Night at the Rodeo 3.7.26 WIF Leadership Luncheon 3.4.26 2026 National Space Club Florida Committee Monthly Luncheon Space Policy Institute […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/' target='_blank'>NASA’s Hubble Unexpectedly Catches Comet Breaking Up</a></strong> — <em>2026-03-18 14:00:36</em></summary>
+
+In a happy twist of fate, NASA’s Hubble Space Telescope just witnessed a comet in the act of breaking apart. The chance of that happening while Hubble watched is extraordinarily minuscule. The findings published Wednesday in the journal Icarus. The comet K1, whose full name is C/2025 K1 (ATLAS)—not to be confused with interstellar comet […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-clearest-evidence-giant-planets-faster.html' target='_blank'>Clearest evidence yet that giant planets spin faster than their cosmic lookalikes</a></strong> — <em>2026-03-18 14:00:02</em></summary>
+
+For decades, astronomers have struggled to differentiate giant planets from brown dwarfs, a class of objects more massive than planets but too small to ignite nuclear fusion like true stars. Through a telescope, these cosmic lookalikes can have overlapping brightness, temperatures, and even atmospheric fingerprints. The striking similarity leaves astronomers unsure if they have observed an oversized planet or an undersized star. Now, a Northwestern University-led team has uncovered a crucial clue that separates the two: how fast they spin.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up' target='_blank'>Hubble unexpectedly catches comet breaking up</a></strong> — <em>2026-03-18 14:00:00</em></summary>
+
+
+Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubble viewed the comet are extraordinarily miniscule.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up' target='_blank'>Hubble unexpectedly catches comet breaking up</a></strong> — <em>2026-03-18 14:00:00</em></summary>
+
+
+Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubble viewed the comet are extraordinarily miniscule.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/aerospace/x-59-gets-ready-for-2nd-test-flight-space-photo-of-the-day-for-march-18-2026' target='_blank'>X-59 gets ready for 2nd test flight | Space photo of the day for March 18, 2026</a></strong> — <em>2026-03-18 14:00:00</em></summary>
+
+NASA's X-59 jet looks ready to fly into the sunset in this new image taken before its second test flight.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/new-moon-of-march-2026-brings-stunning-views-of-jupiter-venus-zodiacal-light-and-more' target='_blank'>New moon of March 2026 brings stunning views of Jupiter, Venus, zodiacal light and more</a></strong> — <em>2026-03-18 13:02:40</em></summary>
+
+Winter constellations shine defiantly in the face of spring as galaxy season and zodiacal light beckon.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/rainfall-rivers-and-seas-how-earth-can-prepare-us-to-explore-saturns-moon-titan' target='_blank'>Rainfall, rivers and seas: How Earth can prepare us to explore Saturn's moon Titan</a></strong> — <em>2026-03-18 12:00:00</em></summary>
+
+Titan, Saturn's largest moon, happens to share some truly remarkable geophysical and geological processes with our home planet.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/watch-star-trek-starfleet-academy-for-79-percent-cheaper-on-paramount-plus-streaming-deal' target='_blank'>Missed Star Trek: Starfleet Academy or just want to binge-watch again? Get this Ferengi-approved Paramount Plus streaming deal, 79% cheaper for two months</a></strong> — <em>2026-03-18 11:52:12</em></summary>
+
+Have you been holding off on Star Trek: Starfleet Academy till you can binge-watch it? Stream every episode, plus every other Trek show and movie, for just $2.99-a-month ad-free on Paramount Plus.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/beyond-artemis-2-nasa-pursuing-a-more-achievable-path-back-to-the-moon' target='_blank'>Beyond Artemis 2: NASA pursuing a 'more achievable' path back to the moon</a></strong> — <em>2026-03-18 10:00:00</em></summary>
+
+As NASA gears up for the launch of Artemis 2, the agency is revising its moon landing strategy, aiming to make future missions more achievable and sustainable.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_January-March' target='_blank'>ESA Impact: our story so far this year</a></strong> — <em>2026-03-18 09:57:00</em></summary>
+
+
+ESA Impact: our story so far this year
+
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/OHB_Sweden_to_build_Sterna_weather_constellation' target='_blank'>OHB Sweden to build Sterna weather constellation</a></strong> — <em>2026-03-18 09:00:00</em></summary>
+
+
+Thanks to the success of the Arctic Weather Satellite prototype and Eumetsat’s recent greenlight to develop a full constellation of similar satellites called Sterna, the European Space Agency has awarded OHB Sweden with the contract to build 20 satellites.This marks a major step toward better monitoring rapidly evolving weather, improving forecasts of severe events in vulnerable regions such as the Mediterranean, and closing critical data gaps over the Arctic – the fastest-warming region on Earth and a key driver of Europe’s weather systems.
 
 </details>
 
