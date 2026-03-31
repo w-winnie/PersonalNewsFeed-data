@@ -1,303 +1,297 @@
 # Astro Daily Summary
 
-    ### Theme 1: Lunar Exploration Advancements
+    ### Major Themes in Recent Astrophysics Developments
 
-The Artemis program is making significant progress toward returning humans to the Moon, with the Artemis II mission set to launch on April 1, 2026. This mission will be the first crewed flight to lunar orbit in over half a century, marking a pivotal moment in human space exploration. Preparations are underway at Kennedy Space Center, where the crew has recently arrived. Concurrently, NASA is enhancing its lunar science initiatives by selecting scientists to develop a research plan focused on the lunar south pole and partnering with Intuitive Machines for payload deliveries, which will deepen our understanding of lunar resources.
-
-Key Items:
-1. Artemis II astronauts have arrived at Kennedy Space Center, gearing up for their mission set to launch on April 1, 2026. - https://www.space.com/space-exploration/artemis/artemis-2-astronauts-arrive-at-kennedy-space-center-ahead-of-nasas-historic-launch-around-the-moon
-2. NASA has awarded Intuitive Machines $180.4 million for lunar payload delivery, including five NASA-funded instruments. - https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/
-3. Ten scientists have been chosen to shape the lunar surface science plan for Artemis missions, focusing on critical observations and sample collection. - https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/
-
-### Theme 2: Insights from the James Webb Space Telescope (JWST)
-
-Recent findings from the James Webb Space Telescope (JWST) have shed light on the atmospheric dynamics of Saturn, resolving a decades-old mystery regarding its varying spin rates. By studying the interactions within Saturn's auroras, researchers have identified a self-sustaining feedback loop that affects the planet's rotation. This discovery not only enhances our understanding of Saturn's atmospheric processes but also provides insights into the magnetic field dynamics of gas giants.
+#### Enhancements in Earth Observation Capabilities
+Recent advancements in Earth observation technology are significantly enhancing our ability to monitor and respond to environmental changes. Italy's IRIDE program has successfully launched eight new satellites, bringing its total to 24. This expansion will improve the monitoring of natural disasters, urban development, and climate change effects, reflecting a growing trend of utilizing satellite data for Earth-centric applications. Such capabilities are vital for informed decision-making in climate policy and disaster management.
 
 Key Items:
-1. JWST has clarified why Saturn appears to spin at different speeds, revealing the role of its auroras in driving this phenomenon. - https://phys.org/news/2026-03-jwst-decades-mystery-saturn.html
+1. Eight more satellites added to IRIDE space programme - https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme - Expands Italy's satellite capabilities for Earth observation.
+2. NISAR's View of Mount Rainier - https://phys.org/news/2026-03-image-nisar-view-mount-rainier.html - Demonstrates advanced imaging capabilities of Earth satellites.
+3. Smile mission to observe Earth's magnetosphere - https://www.esa.int/ESA_Multimedia/Videos/2026/03/What_is_Smile_about_to_discover - Aims to reveal new insights into solar interactions with Earth.
+
+#### New Insights into Cosmic Events
+Astrophysicists are uncovering new understandings of cosmic phenomena, particularly regarding black holes and gamma-ray bursts. The James Webb Space Telescope recently detected GRB 250702B, a gamma-ray burst that lasted unusually long, challenging existing models of such events. Additionally, research indicates that supermassive black holes can inhibit star formation in nearby galaxies, suggesting complex interactions that could reshape our understanding of galaxy evolution.
+
+Key Items:
+1. Webb telescope spots mysterious explosion - https://www.sciencedaily.com/releases/2026/03/260330001156.htm - Challenges existing theories about gamma-ray bursts.
+2. Monster black holes influencing star formation - https://www.sciencedaily.com/releases/2026/03/260330001145.htm - Reveals the impact of quasars on galaxy evolution.
+3. Rare 'triple-double' radio galaxy discovered - https://phys.org/news/2026-03-rare-triple-radio-galaxy-meerkat.html - Highlights unique cosmic structures and their implications.
+
+#### Milestones in Human Space Exploration
+NASA's Artemis II mission is set to mark a significant milestone in human space exploration as it prepares to send astronauts around the Moon for the first time in over 50 years. This mission aims to establish a sustained human presence on the Moon, moving beyond one-off missions. Such a focus on infrastructure and repeat operations reflects a broader trend in space exploration, emphasizing long-term goals and the potential for future lunar bases.
+
+Key Items:
+1. Heat shield safety concerns for Artemis II - https://phys.org/news/2026-03-shield-safety-stakes-nasa-artemis.html - Highlights challenges in ensuring mission safety.
+2. Huge solar flare poses no threat to Artemis II - https://www.space.com/space-exploration/artemis/huge-solar-flare-no-threat-to-artemis-2-astronaut-launch-to-the-moon-nasa-says - Assures mission safety amid solar activity.
+3. NASA's plans for a Moon base by the 2030s - https://phys.org/news/2026-03-nasa-base-moon-2030s-longterm.html - Outlines future goals for lunar exploration.
 
 ### Conclusion
-
-The field of astrophysics is currently characterized by significant advancements in both lunar exploration and planetary science. The Artemis program is on track to redefine humanity's presence on the Moon, while JWST continues to unravel complex phenomena within our solar system. These developments not only expand our scientific understanding but also lay the groundwork for future exploration and potential habitation beyond Earth, indicating a vibrant period of discovery and innovation in space science.
+The current landscape of astrophysics and space exploration is characterized by significant technological advancements, deeper insights into cosmic phenomena, and a strategic shift towards sustained human presence beyond Earth. As missions like Artemis II approach, the focus on long-term infrastructure and the interplay between cosmic events and galaxy evolution highlight the dynamic nature of this field. The integration of satellite technology for Earth observation further emphasizes the multifaceted applications of space science in addressing both terrestrial and extraterrestrial challenges.
 
 ### Top Sources:
-1. Artemis 2 astronauts arrive at Kennedy Space Center ahead of NASA's historic launch around the moon - https://www.space.com/space-exploration/artemis/artemis-2-astronauts-arrive-at-kennedy-space-center-ahead-of-nasas-historic-launch-around-the-moon - Crew preparations for the first crewed lunar mission in decades.
-2. NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon - https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/ - Partnership to enhance lunar exploration with critical payloads.
-3. NASA Names Scientists to Support Lunar South Pole Science - https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/ - Selection of scientists to guide lunar research efforts.
-4. JWST solves decades-long mystery about why Saturn appears to change its spin - https://phys.org/news/2026-03-jwst-decades-mystery-saturn.html - New insights into Saturn's atmospheric processes.
-5. NASA's ambitious 'decade of Venus' exploration may bank on 1 probe: 'Not everything can move forward' - https://www.space.com/space-exploration/missions/nasas-ambitious-decade-of-venus-exploration-may-bank-on-1-probe-not-everything-can-move-forward - Budget constraints affecting Venus mission plans.
-6. Scientists discover “alien space weather stations” that could reveal habitable planets - https://www.sciencedaily.com/releases/2026/03/260326075618.htm - New findings on M dwarf stars and their potential for hosting life.
-7. Mars dust storms blast water into space - https://www.sciencedaily.com/releases/2026/03/260326075606.htm - Evidence of water loss from Mars due to dust storms.
-8. Fireball sightings are surging across the US — here's what's really going on - https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on - Analysis of increasing reports of meteoric activity.
-9. NASA is developing the '1st nuclear powered interplanetary spacecraft.' What about the Voyager probes? - https://www.space.com/space-exploration/nasa-is-developing-the-1st-nuclear-powered-interplanetary-spacecraft-what-about-the-voyager-probes - Exploration of nuclear propulsion technologies.
-10. Hubble image: IC 486—where spiral arms and star formation meet - https://phys.org/news/2026-03-hubble-image-ic-spiral-arms.html - New Hubble observations of a distant barred spiral galaxy.
+1. Eight more satellites added to IRIDE space programme - https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme - Expands Italy's satellite capabilities for Earth observation.
+2. NISAR's View of Mount Rainier - https://phys.org/news/2026-03-image-nisar-view-mount-rainier.html - Demonstrates advanced imaging capabilities of Earth satellites.
+3. Smile mission to observe Earth's magnetosphere - https://www.esa.int/ESA_Multimedia/Videos/2026/03/What_is_Smile_about_to_discover - Aims to reveal new insights into solar interactions with Earth.
+4. Webb telescope spots mysterious explosion - https://www.sciencedaily.com/releases/2026/03/260330001156.htm - Challenges existing theories about gamma-ray bursts.
+5. Monster black holes influencing star formation - https://www.sciencedaily.com/releases/2026/03/260330001145.htm - Reveals the impact of quasars on galaxy evolution.
+6. Rare 'triple-double' radio galaxy discovered - https://phys.org/news/2026-03-rare-triple-radio-galaxy-meerkat.html - Highlights unique cosmic structures and their implications.
+7. Heat shield safety concerns for Artemis II - https://phys.org/news/2026-03-shield-safety-stakes-nasa-artemis.html - Highlights challenges in ensuring mission safety.
+8. Huge solar flare poses no threat to Artemis II - https://www.space.com/space-exploration/artemis/huge-solar-flare-no-threat-to-artemis-2-astronaut-launch-to-the-moon-nasa-says - Assures mission safety amid solar activity.
+9. NASA's plans for a Moon base by the 2030s - https://phys.org/news/2026-03-nasa-base-moon-2030s-longterm.html - Outlines future goals for lunar exploration.
+10. A surprising new idea about how the Big Bang may have happened - https://www.sciencedaily.com/releases/2026/03/260330001137.htm - Proposes a new framework for understanding the universe's origins.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/' target='_blank'>I Am Artemis: Erik Richards</a></strong> — <em>2026-03-27 21:30:40</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme' target='_blank'>Eight more satellites added to IRIDE space programme</a></strong> — <em>2026-03-31 07:00:00</em></summary>
 
-Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting NASA’s first crewed Artemis mission to the Moon and back is the culmination of a career spent helping spacecraft communicate with Earth.  Like many kids who grew up at the height of the Space Shuttle Program, Richards dreamed of spaceflight — a dream that eventually took him from the remote McMurdo Station in Antarctica to […]
 
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/' target='_blank'>I Am Artemis: Erik Richards</a></strong> — <em>2026-03-27 21:30:40</em></summary>
-
-Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting NASA’s first crewed Artemis mission to the Moon and back is the culmination of a career spent helping spacecraft communicate with Earth.  Like many kids who grew up at the height of the Space Shuttle Program, Richards dreamed of spaceflight — a dream that eventually took him from the remote McMurdo Station in Antarctica to […]
+Eight satellites have been added to Italy’s IRIDE Earth observation programme, following launch on board a Falcon-9 rocket. The successful launch brings the total number of satellites in orbit for the Italian programme to 24.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/' target='_blank'>I Am Artemis: Erik Richards</a></strong> — <em>2026-03-27 21:30:40</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/' target='_blank'>Fires Tear Through Nebraska Grasslands</a></strong> — <em>2026-03-31 04:01:00</em></summary>
 
-Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting NASA’s first crewed Artemis mission to the Moon and back is the culmination of a career spent helping spacecraft communicate with Earth.  Like many kids who grew up at the height of the Space Shuttle Program, Richards dreamed of spaceflight — a dream that eventually took him from the remote McMurdo Station in Antarctica to […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/' target='_blank'>NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon</a></strong> — <em>2026-03-27 21:12:52</em></summary>
-
-NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads — five of them NASA’s — is expected to increase understanding of the chemical composition […]
+Dry, warm, and windy conditions across the U.S. Great Plains led to extreme fire activity in March 2026.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/' target='_blank'>NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon</a></strong> — <em>2026-03-27 21:12:52</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/' target='_blank'>Fires Tear Through Nebraska Grasslands</a></strong> — <em>2026-03-31 04:01:00</em></summary>
 
-NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads — five of them NASA’s — is expected to increase understanding of the chemical composition […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-astronauts-arrive-at-kennedy-space-center-ahead-of-nasas-historic-launch-around-the-moon' target='_blank'>Artemis 2 astronauts arrive at Kennedy Space Center ahead of NASA's historic launch around the moon</a></strong> — <em>2026-03-27 20:36:51</em></summary>
-
-The Astronauts for NASA's Artemis 2 mission to fly around the moon have arrived at the Kennedy Space Center in Florida, just five days before their historic mission is scheduled to lift off.
+Dry, warm, and windy conditions across the U.S. Great Plains led to extreme fire activity in March 2026.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-launch-what-time' target='_blank'>What time is NASA's Artemis 2 moon launch on April 1?</a></strong> — <em>2026-03-27 20:30:40</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-legged-robot-resource-prospecting-moon.html' target='_blank'>Legged robot could accelerate resource prospecting on the moon and the search for life on Mars</a></strong> — <em>2026-03-31 04:00:01</em></summary>
 
-NASA's long-anticipated Artemis 2 mission — the first crewed flight to the moon in more than half a century — could lift off as soon as April 1. Here's how you can watch it live.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/' target='_blank'>NASA’s Environment and Energy “Blue Marble” Awards Categories</a></strong> — <em>2026-03-27 19:27:09</em></summary>
-
-Category I: NASA Environmental Quality Award Recognizes excellence in environmental management and planning, including stewardship of natural and cultural resources. This category highlights achievements in compliance, conservation, remediation, communication, and environmental information management, and the development of strong stakeholder partnerships. Category II: NASA Award for Excellence in Project or Program Execution Honors efforts that reduce […]
+Planetary surface missions currently operate cautiously. On Mars, communication delays between Earth and rovers (typically between four and 22 minutes), as well as data transfer constraints due to uplink and downlink limitations, force scientists to plan operations in advance. Rovers are designed for energy efficiency and safety, and to move slowly across hazardous terrain.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/still-waiting-for-ahsoka-season-2-make-the-wait-easier-with-20-percent-off-this-lego-star-wars-ahsoka-tano-jedi-interceptor' target='_blank'>Still waiting for Ahsoka Season 2? Make the wait easier with 20% off this Lego Star Wars Ahsoka Tano Jedi Interceptor</a></strong> — <em>2026-03-27 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260330001137.htm' target='_blank'>A surprising new idea about how the Big Bang may have happened</a></strong> — <em>2026-03-31 03:27:02</em></summary>
 
-While you wait for Star Wars: Ahsoka Season 2, step back through time with Ahsoka's Clone Wars-era ship, now $9 off at Walmart.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/having-babies-in-space-may-be-harder-than-expected' target='_blank'>Can humans have babies in space? It may be harder than expected</a></strong> — <em>2026-03-27 19:00:00</em></summary>
-
-Sperm struggles to find its way to an egg in microgravity, suggesting mammalian reproduction in space may not be possible.
+Scientists at the University of Waterloo have uncovered a bold new way to explain how the universe began—one that could reshape our understanding of the Big Bang. Instead of relying on patched-together theories, their approach shows that the universe’s explosive early growth may arise naturally from a deeper framework called quantum gravity.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/nisars-view-of-mount-rainier/' target='_blank'>NISAR’s View of Mount Rainier</a></strong> — <em>2026-03-27 18:32:40</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-solar.html' target='_blank'>How the solar wind really works</a></strong> — <em>2026-03-31 01:30:01</em></summary>
 
-Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount Rainier. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from the […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/' target='_blank'>NISAR Views Mount St. Helens</a></strong> — <em>2026-03-27 18:29:54</em></summary>
-
-Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from […]
+The sun, our nearest star, never stops breathing. Every second of every day, it exhales a vast stream of charged particles that sweeps outward through the solar system at hundreds of kilometers per second. We call it the solar wind, and while that name conjures something gentle and constant, the reality is considerably more turbulent.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/' target='_blank'>NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch</a></strong> — <em>2026-03-27 18:00:08</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-mars-worlds-dwarfs-air-millions.html' target='_blank'>Mars-like worlds near M-dwarfs may lose air in millions of years</a></strong> — <em>2026-03-31 00:50:02</em></summary>
 
-Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company’s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth’s atmosphere, and foster capabilities […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/' target='_blank'>NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch</a></strong> — <em>2026-03-27 18:00:08</em></summary>
-
-Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company’s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth’s atmosphere, and foster capabilities […]
+The criteria for finding an Earth-like planet unofficially comes down to two things: water and the habitable zone. But a phenomenon known as atmospheric escape often "escapes" the minds of many astronomy fans, and it turns out that atmospheric escape is one of the key characteristics for finding an Earth-like world. Although extensive research has been conducted on how the planet Mars might have lost its atmosphere, and potentially the ability to sustain life, how would the atmosphere enveloping a Mars-like exoplanet respond to stars different from our own?
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/' target='_blank'>NASA Names Scientists to Support Lunar South Pole Science</a></strong> — <em>2026-03-27 17:50:06</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-spaceflight-captures-audiences-centers-people.html' target='_blank'>Spaceflight captures audiences when it centers on people because human space travel is hazardous</a></strong> — <em>2026-03-31 00:30:01</em></summary>
 
-NASA has selected 10 participating scientists to help shape a science plan for astronauts to complete on the lunar surface under the Artemis program – including deploying scientific instruments, making critical observations of the landing site, and collecting Moon rocks. “Congratulations to the scientists selected to participate in this important Artemis lunar surface science team,” […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/' target='_blank'>NASA Names Scientists to Support Lunar South Pole Science</a></strong> — <em>2026-03-27 17:50:06</em></summary>
-
-NASA has selected 10 participating scientists to help shape a science plan for astronauts to complete on the lunar surface under the Artemis program – including deploying scientific instruments, making critical observations of the landing site, and collecting Moon rocks. “Congratulations to the scientists selected to participate in this important Artemis lunar surface science team,” […]
+The central premise of the blockbuster film "Project Hail Mary" is a long-shot mission with a familiar goal: Save humanity from extinction. While the details of the threat facing humanity are new to this story, moviegoers are used to binging on popcorn while watching a heroic quest to save Earth from certain doom. And like so many popular movies of this genre, from "Armageddon" to "Interstellar," the hero's journey involves a seemingly impossible mission into space.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/' target='_blank'>I Am Artemis: Michael Guzman</a></strong> — <em>2026-03-27 17:40:08</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/huge-solar-flare-no-threat-to-artemis-2-astronaut-launch-to-the-moon-nasa-says' target='_blank'>Huge solar flare no threat to Artemis 2 astronaut launch to the moon, NASA says</a></strong> — <em>2026-03-30 23:31:46</em></summary>
 
-Listen to this audio excerpt from Michael Guzman, Artemis II main propulsion systems engineer: A clue to what Mike Guzman, main propulsion systems engineer at NASA’s Kennedy Space Center in Florida, loves most can be found in the signature of his work email: a complex string of equations for rocket thrust, specific impulse, and the […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/' target='_blank'>I Am Artemis: Michael Guzman</a></strong> — <em>2026-03-27 17:40:08</em></summary>
-
-Listen to this audio excerpt from Michael Guzman, Artemis II main propulsion systems engineer: A clue to what Mike Guzman, main propulsion systems engineer at NASA’s Kennedy Space Center in Florida, loves most can be found in the signature of his work email: a complex string of equations for rocket thrust, specific impulse, and the […]
+A massive X1.4 solar flare won't endanger NASA's four Artemis 2 astronauts on their way to the moon.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-suddenly-couldnt-space-nasa-astronaut.html' target='_blank'>He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery</a></strong> — <em>2026-03-27 17:40:02</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-shield-safety-stakes-nasa-artemis.html' target='_blank'>Heat shield safety concerns raise stakes for NASA's Artemis II moon mission</a></strong> — <em>2026-03-30 23:30:01</em></summary>
 
-The astronaut who prompted NASA's first medical evacuation earlier this year said Friday that doctors still don't know why he suddenly fell sick at the International Space Station.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-jwst-decades-mystery-saturn.html' target='_blank'>JWST solves decades-long mystery about why Saturn appears to change its spin</a></strong> — <em>2026-03-27 17:20:01</em></summary>
-
-Researchers at Northumbria University have used the most powerful space telescope ever built to answer one of the longest-standing puzzles in planetary science—why does Saturn appear to spin at a different speed depending on how you measure it? The findings, published in the Journal of Geophysical Research: Space Physics, reveal for the first time the complex patterns of heat and electrically charged particles in Saturn's aurora, and show that the entire system is driven by a self-sustaining feedback loop powered by the planet's own northern lights.
+The astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen are preparing to launch into space on a trajectory that will make them the first humans to travel to the moon in over half a century.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/general/nextstep-3-e-network-extension-for-user-continuity-and-sustainability-nexus-ka-band-backward-compatible-relay-broad/' target='_blank'>NextSTEP-3 E: Network Extension for User Continuity and Sustainability (NEXUS) Ka-Band Backward-Compatible Relay Broad</a></strong> — <em>2026-03-27 17:04:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-image-nisar-view-mount-rainier.html' target='_blank'>Image: NISAR's View of Mount Rainier</a></strong> — <em>2026-03-30 23:20:06</em></summary>
 
-Synopsis | 03/23/26 https://sam.gov/workspace/contract/opp/e33cd0cc61064a6497a55fca8e9b30c6/view NASA intends to release a BAA under Next Space Technologies for Exploration Partnerships (NextSTEP-3), Appendix E, for Project NEXUS, Ka-band Backward- Compatible Relay. As the aging Tracking and Data Relay Satellite System (TDRS) declines, NASA’s objective is to acquire an end-to-end Ka-band relay service, including space, ground, launch, integration, and operations […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on' target='_blank'>Fireball sightings are surging across the US — here's what's really going on</a></strong> — <em>2026-03-27 17:00:00</em></summary>
-
-With bright meteors sighted over Ohio, Texas, and Europe, you might wonder what's going on. Is meteor activity really increasing, or is there just a surge in reporting?
+This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington's Mount Rainier. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR's L-band SAR instrument is able to peer through the clouds at the surface below.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/saturn/are-saturns-rings-made-of-a-lost-shattered-moon-new-evidence-arises-for-the-case' target='_blank'>Are Saturn's rings made of a lost, shattered moon? New evidence arises for the case</a></strong> — <em>2026-03-27 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-nasa-base-moon-2030s-longterm.html' target='_blank'>NASA wants to build a base on the Moon by the 2030s, How and why it plans to build up to a long‑term lunar presence</a></strong> — <em>2026-03-30 22:40:05</em></summary>
 
-New simulations suggest Saturn's rings formed from a shattered moon called Chrysalis, offering clues to the planet's tilt and surprisingly young rings.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/artemis-ii-crews-suits/' target='_blank'>Artemis II Crew’s Suits</a></strong> — <em>2026-03-27 15:21:21</em></summary>
-
-The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, […]
+The next U.S. trip to the moon isn't about planting a flag. It's about learning how to live and work there. NASA has just reset its Artemis program, marking a clear strategic shift: Space exploration is moving away from a race to achieve milestones and toward a system built on repeated operations, a sustained presence and lunar infrastructure that could become part of the technology networks we rely on here on Earth.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/artemis-ii-crews-suits/' target='_blank'>Artemis II Crew’s Suits</a></strong> — <em>2026-03-27 15:21:21</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-betray-galaxy.html' target='_blank'>How plants could betray themselves across the galaxy</a></strong> — <em>2026-03-30 22:00:01</em></summary>
 
-The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/for-all-mankind-season-5-release-date-and-how-to-watch-apple-tvs-alt-history-space-show' target='_blank'>'For All Mankind' season 5: Release date & how to watch Apple TV's alt-history space show</a></strong> — <em>2026-03-27 15:00:00</em></summary>
-
-'We will not back down! It's high time we bring Mars back under control.'
+Here's a thought experiment. Imagine looking at Earth from a distant star system, armed with a powerful telescope capable of capturing its reflected light. Could you tell the planet was alive? The answer, remarkably, might be yes and the clue would come from the color of the plants.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-hubble-image-ic-spiral-arms.html' target='_blank'>Hubble image: IC 486—where spiral arms and star formation meet</a></strong> — <em>2026-03-27 14:50:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/record-breaking-space-laser-erupts-from-merging-galaxies-8-billion-light-years-away' target='_blank'>Record-breaking 'space laser' erupts from merging galaxies 8 billion light-years away</a></strong> — <em>2026-03-30 22:00:00</em></summary>
 
-A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this new NASA/ESA Hubble Space Telescope Picture of the Month image. IC 486 lies right on the edge of the constellation Gemini (the Twins), about 380 million light-years from Earth. Classified as a barred spiral galaxy, it features a bright central bar-shaped structure from which its spiral arms unfurl, wrapping around the core in a smooth, almost ring-like pattern.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_March_2026' target='_blank'>Week in images: 23-27 March 2026</a></strong> — <em>2026-03-27 14:10:00</em></summary>
-
-
-Week in images: 23-27 March 2026
-Discover our week through the lens
+Astronomers have spotted the most distant and brightest "space laser" ever seen, and it's blasting from a galaxy collision that occurred when the universe was half its current age.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch' target='_blank'>Watch live: First Celeste launch</a></strong> — <em>2026-03-27 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/25-years-ago-invader-zim-arrived-but-it-was-too-far-ahead-of-its-time' target='_blank'>25 years ago, 'Invader Zim' arrived, but it was too far ahead of its time</a></strong> — <em>2026-03-30 21:00:00</em></summary>
 
-
-Update: Rocket Lab has announced the next launch attempt for its Electron rocket carrying ESA's first two Celeste satellites is 28 March at 10:14 CET. On 28 March, the first two satellites of the Celeste LEO-PNT in-orbit demonstration mission will lift off aboard Rocket Lab’s Electron rocket from the company’s Māhia Launch Complex in New Zealand.Coverage will start 9:53 CET with live commentary. The rocket is scheduled for liftoff at 10:14, with a launch window of about an hour.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/new-portrait-of-the-oldest-known-supernova-space-photo-of-the-day-for-march-27-2026' target='_blank'>New portrait of the oldest-known supernova | Space photo of the day for March 27, 2026</a></strong> — <em>2026-03-27 14:00:00</em></summary>
-
-A NASA X-ray telescope has captured a breathtaking portrait of a supernova remnant, revealing unseen features of the exploded star.
+"You dare agree with me? Prepare to meet your horrible doom!"
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/missions/nasas-ambitious-decade-of-venus-exploration-may-bank-on-1-probe-not-everything-can-move-forward' target='_blank'>NASA's ambitious 'decade of Venus' exploration may bank on 1 probe: 'Not everything can move forward'</a></strong> — <em>2026-03-27 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-hera-aces-massive-didymos.html' target='_blank'>Hera aces a massive engine burn on its way to Didymos</a></strong> — <em>2026-03-30 20:40:07</em></summary>
 
-NASA may not be able to move forward with all three of its planned Venus missions as budget pressures force difficult trade-offs across its planetary science portfolio.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-03-northern-dark-twin-wild-card.html' target='_blank'>The northern lights' dark twin is a wild card for the power grid</a></strong> — <em>2026-03-27 12:40:09</em></summary>
-
-Scientists are working to understand how magnetic currents from the sun spread beneath Earth's crust when the northern lights dance across the sky. Their goal is to tame its "dark twin" and prevent damage to our power grid.
+In September 2022, humanity crashed a spacecraft into an asteroid—on purpose. The objective of NASA's Double Asteroid Redirection Test (DART) was to see if we could intentionally modify the orbit of Dimorphos, the small moonlet orbiting the larger asteroid Didymos. According to all accounts, the mission worked spectacularly, but it was a one-way trip, so our ability to see what happened to the binary asteroid system has so far been limited to ground-based telescopes. That wasn't good enough for the planetary defense community, so they planned a follow-up mission called Hera, which, according to a recent press release from its operator, the European Space Agency (ESA), just successfully completed its most dramatic deep-space orbital maneuver.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/03/How_Europe_will_power_the_journey_to_the_Moon_and_back' target='_blank'>How Europe will power the journey to the Moon and back</a></strong> — <em>2026-03-27 12:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-may-be-nearly-12-billion-years-old-so-ancient-its-star-system-may-no-longer-exist' target='_blank'>Interstellar comet 3I/ATLAS may be nearly 12 billion years old — so ancient its star system may no longer exist</a></strong> — <em>2026-03-30 20:00:00</em></summary>
+
+Our solar system's famous "invader" might be as old as the Milky Way itself.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/darth-maul-was-originally-going-to-be-the-villain-of-the-star-wars-sequels-heres-why-that-would-have-been-a-bad-idea' target='_blank'>Darth Maul was originally going to be the villain of the 'Star Wars' sequels; here's why that would have been a bad idea</a></strong> — <em>2026-03-30 19:00:00</em></summary>
+
+George Lucas had dreams of Darth Maul as the big bad of his sequel trilogy; here's why that would have been a bad idea.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-scientists-harness-plasma-clumps-stellar.html' target='_blank'>Scientists harness plasma clumps trapped in stellar magnetospheres to assess habitability around M dwarf stars</a></strong> — <em>2026-03-30 18:50:01</em></summary>
+
+How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie's Luke Bouma is exploring a new way to probe this critical question—using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He presented his work at the American Astronomical Society meeting (AAS 247) held in Phoenix in January.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-titanium-apollo-uncover-moon-early.html' target='_blank'>Measuring titanium in Apollo rock to uncover moon's early chemistry</a></strong> — <em>2026-03-30 18:40:02</em></summary>
+
+Earth and the moon may look very different today, but they formed under similar conditions in space. In fact, a dominant hypothesis says that the early Earth was hit by a Mars-sized object, and it was this giant impact that spun off material to form the moon. But unlike Earth, the moon lacks plate tectonics and an atmosphere capable of reshaping its surface and recycling elements such as oxygen over billions of years.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/' target='_blank'>Sendoff for Artemis II Crew</a></strong> — <em>2026-03-30 18:18:27</em></summary>
+
+From left to right, NASA astronauts Andre Douglas, Victor Glover, and Christina Koch, CSA (Canadian Space Agency) astronauts Jenni Gibbons, NASA astronaut Reid Wiseman, and CSA astronaut Jeremy Hansen pose for a photo before the Artemis II crew proceed to a media event on March 27, 2026. Douglas and Gibbons are the backup crew members […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/' target='_blank'>Sendoff for Artemis II Crew</a></strong> — <em>2026-03-30 18:18:27</em></summary>
+
+From left to right, NASA astronauts Andre Douglas, Victor Glover, and Christina Koch, CSA (Canadian Space Agency) astronauts Jenni Gibbons, NASA astronaut Reid Wiseman, and CSA astronaut Jeremy Hansen pose for a photo before the Artemis II crew proceed to a media event on March 27, 2026. Douglas and Gibbons are the backup crew members […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/how-many-people-will-flock-to-florida-for-the-artemis-2-moonshot-since-this-is-such-a-historic-milestone-launch-its-difficult-to-predict-visitation-numbers' target='_blank'>Heading to Florida for NASA's Artemis 2 moon launch? Here's what to know before you go</a></strong> — <em>2026-03-30 18:00:00</em></summary>
+
+A lot of people are coming to Florida for the historic Artemis 2 moon launch, so they'll need to budget extra time to see the astronauts fly.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-earth-material-exclusively-solar-planetary.html' target='_blank'>Earth formed from material exclusively from the inner solar system, planetary scientists show</a></strong> — <em>2026-03-30 17:00:03</em></summary>
+
+Planetary scientists have long debated where the material that formed Earth comes from. Despite its location in the inner solar system, they consider it likely that 6–40% of this material must have come from the outer solar system, i.e., beyond Jupiter. For a long time, material from the outer solar system was considered necessary to bring volatile components such as water to Earth. Accordingly, there must also have been an exchange of material between the outer and inner solar systems during the formation of Earth. But is that really true?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/best-moon-movies' target='_blank'>Best moon movies: 12 lunar adventures to watch ahead of NASA's Artemis 2 launch</a></strong> — <em>2026-03-30 17:00:00</em></summary>
+
+From 'Destination Moon' to 'Apollo 13,' here’s a full spectrum of lunar-set films to count down.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-henrietta-spectrograph-probe-alien-atmospheres.html' target='_blank'>New Henrietta spectrograph to probe alien atmospheres</a></strong> — <em>2026-03-30 16:00:01</em></summary>
+
+Finding life beyond our solar system goes beyond measuring an exoplanet's size, as rocky, Earth-sized worlds might not have the conditions for life as we know it. While exoplanets can be directly imaged by blocking their star's glare, these images are fuzzy and lack resolution to provide enough details about the habitability. Therefore, astronomers are limited to studying an exoplanet's atmosphere, and this has proven to be quite beneficial in teaching scientists about an exoplanet's formation and evolution, and whether it contains the necessary ingredients for life as we know it.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/moon-menu-heres-what-the-artemis-2-astronauts-will-eat-during-their-historic-mission-video' target='_blank'>Moon menu: Here's what the Artemis 2 astronauts will eat during their historic mission (video)</a></strong> — <em>2026-03-30 16:00:00</em></summary>
+
+The Artemis 2 astronauts will spend about 10 days flying to and from the moon, so they'll need to find creative ways to dine in a small space.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/white-dwarf-discovered-gobbling-material-from-gamma-cassiopeia/' target='_blank'>White Dwarf Discovered Gobbling Material from Gamma Cassiopeia</a></strong> — <em>2026-03-30 14:54:48</em></summary>
+
+Powerful X-rays from the nearby naked-eye star Gamma Cas mystified astronomers for decades. Now, a new observatory reveals that they come from its white dwarf companion.
+The post White Dwarf Discovered Gobbling Material from Gamma Cassiopeia appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-rare-triple-radio-galaxy-meerkat.html' target='_blank'>A rare 'triple-double' radio galaxy discovered using MeerKAT</a></strong> — <em>2026-03-30 14:40:01</em></summary>
+
+Astronomers have discovered an exceptionally rare radio galaxy that has three distinct pairs of radio lobes. This system falls into a subpopulation of radio galaxies known as "triple-double" radio galaxies (TDRGs). Located nearly 7.5 billion light-years away, this unique system, cataloged as J022248−060934, is only the seventh known example of its kind.  A paper outlining this discovery was published in the Monthly Notices of the Royal Astronomical Society on February 25.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/03/What_is_Smile_about_to_discover' target='_blank'>What is Smile about to discover?</a></strong> — <em>2026-03-30 14:00:00</em></summary>
 
 
 	Video: 
-			00:04:13
-				Artemis II will send astronauts around the Moon and safely home. At the core of the mission is the European Service Module: providing propulsion, power and life support for their journey into deep space.
+			00:04:59
+				What really happens when the Sun’s charged particles slam into Earth’s magnetic shield? Smile is about to reveal it for the first time.This groundbreaking mission will observe Earth’s magnetosphere in X-rays while capturing the northern lights in ultraviolet, offering an entirely new way to see how our planet defends itself from solar storms.A joint mission between the European Space Agency and the Chinese Academy of Sciences, Smile will launch aboard a Vega-C rocket on 9 April.Learn more about Smile.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Getting_to_the_core_of_a_medicane' target='_blank'>Getting to the core of a medicane</a></strong> — <em>2026-03-27 11:21:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/sun-rises-on-artemis-2-launch-pad-space-photo-of-the-day-for-march-30-2026' target='_blank'>Sun rises on Artemis 2 launch pad | Space photo of the day for March 30, 2026</a></strong> — <em>2026-03-30 14:00:00</em></summary>
 
-
-Everyone knows what a hurricane is, but a lesser-known storm type – a medicane – recently made landfall in Libya. While the arrival of Medicane Jolina, a rare Mediterranean cyclone, brought extreme weather, it also provided scientists with a crucial test case.Using different types of data from Earth-observing satellites, researchers are gaining new insights into how these storms form and evolve, and therefore, how their impacts can be predicted more accurately.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/nasa-is-developing-the-1st-nuclear-powered-interplanetary-spacecraft-what-about-the-voyager-probes' target='_blank'>NASA is developing the '1st nuclear powered interplanetary spacecraft.' What about the Voyager probes?</a></strong> — <em>2026-03-27 10:00:00</em></summary>
-
-What is nuclear electric propulsion and how is it different from radioisotope thermoelectric generators?
+NASA's SLS moon rocket casts a striking silhouette against the rising sun ahead of the agency's Artemis 2 mission, currently scheduled for April 1.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260326075606.htm' target='_blank'>Scientists stunned as Mars dust storms blast water into space</a></strong> — <em>2026-03-27 09:11:12</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-03-apollo-impatient-timers-rooting-nasa.html' target='_blank'>Apollo's impatient old-timers are rooting for NASA's return to the moon with Artemis II launch</a></strong> — <em>2026-03-30 13:30:01</em></summary>
 
-Mars may look like a frozen desert today, but new evidence suggests its watery past didn’t simply fade away quietly—it may have been blasted into space by powerful dust storms. Scientists have discovered that even relatively small, localized storms can hurl water vapor high into the atmosphere, where it breaks apart and escapes.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-march-27-april-5/' target='_blank'>This Week's Sky at a Glance, March 27 – April 5</a></strong> — <em>2026-03-27 09:03:00</em></summary>
-
-Winter's gone, but the Winter Hexagon remains (for now). Trace out this gigantic asterism right after dark before it sinks. Jupiter glares inside its top.
-The post This Week's Sky at a Glance, March 27 – April 5 appeared first on Sky & Telescope.
+The people who toiled night and day to put astronauts on the moon during Apollo are thrilled that NASA is finally going back. They just wish these Artemis moonshots had happened sooner while more of Apollo's workforce was still alive.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Kimberley_Australia' target='_blank'>Earth from Space: Kimberley, Australia</a></strong> — <em>2026-03-27 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/the-sasquatch-is-honesty-inside-canadian-astronaut-jeremy-hansens-artemis-2-mission-patch' target='_blank'>'The sasquatch is honesty': Inside Canadian astronaut Jeremy Hansen's Artemis 2 mission patch</a></strong> — <em>2026-03-30 13:00:00</em></summary>
 
-
-	Image:
-			Western Australia’s Kimberley region is featured in this double view from the Copernicus Sentinel-2 mission.
+Jeremy Hansen, the Canadian flying to the moon on board NASA's Artemis 2 mission, included Indigenous perspectives on his personal mission patch.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet' target='_blank'>Where spiral arms and star formation meet</a></strong> — <em>2026-03-27 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260330001156.htm' target='_blank'>Webb telescope spots mysterious explosion that defies known physics</a></strong> — <em>2026-03-30 12:33:20</em></summary>
 
-
-	Image:
-			Hubble image of barred spiral galaxy IC 486
+Astronomers have spotted a bizarre cosmic explosion that refuses to play by the rules—and it’s leaving scientists scrambling for answers. GRB 250702B, detected by NASA’s James Webb Space Telescope and a global network of observatories, lasted an astonishing seven hours—far longer than typical gamma-ray bursts, which usually fade in under a minute.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet' target='_blank'>Where spiral arms and star formation meet</a></strong> — <em>2026-03-27 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260330001145.htm' target='_blank'>Monster black holes are silencing star formation across the universe</a></strong> — <em>2026-03-30 12:23:11</em></summary>
 
-
-	Image:
-			Hubble image of barred spiral galaxy IC 486
+A blazing supermassive black hole can influence far more than its own galaxy. Scientists found that quasars emit radiation strong enough to shut down star formation in nearby galaxies millions of light-years away. This could explain why some galaxies near early quasars appear faint or missing. The finding suggests galaxies grow and evolve together, not in isolation.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/03/260326075618.htm' target='_blank'>Scientists discover “alien space weather stations” that could reveal habitable planets</a></strong> — <em>2026-03-27 08:53:17</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/sun/powerful-x-class-solar-flare-triggers-radio-blackout-ahead-of-artemis-2-launch' target='_blank'>Powerful X-class solar flare triggers radio blackout ahead of Artemis 2 launch (video)</a></strong> — <em>2026-03-30 12:04:32</em></summary>
 
-Scientists have uncovered a surprising way to study the harsh space weather around young M dwarf stars. Mysterious dips in starlight turned out to be massive rings of plasma swirling in the stars’ magnetic fields. These structures act like built-in space weather monitors, revealing how energetic particles affect nearby planets. The findings could reshape how we think about whether planets around these common stars can survive—or even host life.
+An X1.4 solar flare triggered radio blackouts and launched a fast CME as NASA prepares for its Artemis 2 moon mission.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/watch-the-bbcs-dr-who-spin-off-the-war-between-the-land-and-the-sea-and-every-episode-of-the-classic-dr-who-series-on-your-travels-with-our-exclusive-nordvpn-deal' target='_blank'>Watch the BBC's Dr Who spin-off 'The War Between the Land and the Sea' and every episode of the classic Dr Who series on your travels with our exclusive NordVPN deal</a></strong> — <em>2026-03-27 08:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/could-bad-space-weather-endanger-the-artemis-2-moon-astronauts' target='_blank'>Could bad space weather endanger the Artemis 2 moon astronauts?</a></strong> — <em>2026-03-30 12:00:00</em></summary>
 
-With up to $513 off, a $50 Amazon voucher and four months free, you can watch the UNIT defend humanity against the Sea Devils from anywhere at a bargain price.
+Space weather experts have been working overtime to hone their forecasts ahead of the Artemis 2 launch, which will send four astronauts around the moon and back to Earth.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-ripples-spacetime-universe-controversial.html' target='_blank'>Ripples in spacetime and the universe's most controversial number</a></strong> — <em>2026-03-30 11:00:01</em></summary>
+
+Douglas Adams told us the answer to life, the universe and everything is 42. If only cosmology were so straightforward. Astronomers have been arguing for years about a number every bit as fundamental, and they still can't agree on it.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/how-will-artemis-2-be-different-from-nasas-apollo-moon-missions' target='_blank'>How will Artemis 2 be different from NASA's Apollo moon missions?</a></strong> — <em>2026-03-30 10:00:00</em></summary>
+
+Going to the moon? Been there, done that — right? Some people might say that NASA's Artemis 2 mission is a repeat of the past, but they would be wrong.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/finished-starfleet-academy-explore-the-animated-antics-of-star-trek-lower-decks-for-just-2-99-a-month' target='_blank'>Finished Starfleet Academy? Explore the animated antics of Star Trek: Lower Decks for just $2.99 a month</a></strong> — <em>2026-03-30 09:00:00</em></summary>
+
+With the perfect balance of humour and heart, Star Trek: Lower Decks is your next stop after Starfleet Academy. Thanks to this Paramount Plus deal, you can enjoy it ad-free for just $2.99 a month for two months.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-03-apollo-artemis-nasa-moon.html' target='_blank'>Apollo vs. Artemis: What to know about NASA's return to the moon</a></strong> — <em>2026-03-30 08:29:03</em></summary>
+
+NASA's Apollo moonshots are a tough act to follow, even after all this time.
 
 </details>
 
