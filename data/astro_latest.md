@@ -1,153 +1,170 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Lunar Exploration and Astrophysics
+    ### Recent Developments in Astrophysics and Space Exploration
 
-#### Resurgence of Human Lunar Exploration
-NASA's Artemis 2 mission is making headlines as astronauts successfully enter the moon's sphere of influence, marking a significant advancement in human lunar exploration. This mission not only aims to surpass distance records set by the Apollo program but also includes scientific observations, such as witnessing a solar eclipse from behind the moon. The crew's firsthand observations of previously unseen lunar features are expected to provide valuable insights into the moon's geological history, reinforcing the importance of human presence in space exploration.
+#### 1. Historic Milestones in Lunar Exploration
+NASA's Artemis 2 mission has set a new benchmark in human space exploration, achieving a record-breaking lunar flyby that reached 252,760 miles from Earth, surpassing the Apollo 13 mission. This journey allowed astronauts to capture detailed images of previously unexplored lunar regions, providing valuable data for future lunar missions and enhancing our understanding of the Moon's geography. The crew's personal touches, such as dedicating lunar features to loved ones, added a human dimension to this scientific endeavor, showcasing the intersection of exploration and personal narrative.
 
-- Artemis 2 astronauts observed the moon and will experience a solar eclipse from its far side, enhancing scientific data collection. [Link](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon)
-- The mission aims to break Apollo 13's distance record, showcasing advancements in human spaceflight. [Link](https://phys.org/news/2026-04-artemis-ii-apollo-distance-moon.html)
-- The astronauts are using their eyes as primary instruments to study the moon, emphasizing a return to fundamental observational techniques. [Link](https://phys.org/news/2026-04-artemis-astronauts-moon-surface-eyes.html)
+#### 2. Insights into Planetary Formation and Life's Origins
+Recent studies have highlighted the significance of specific oxygen levels during Earth's formation, suggesting they were crucial for maintaining essential elements like phosphorus and nitrogen necessary for life. This "Goldilocks zone" concept may prompt a shift in astrobiological research, emphasizing the importance of atmospheric conditions alongside the search for water. Additionally, the discovery of TOI-5205 b—a “forbidden” exoplanet with an unexpectedly light atmosphere—challenges existing theories on giant planet formation, indicating a broader diversity of planetary atmospheres than previously understood.
 
-#### Insights from Asteroid Bennu
-New analyses of samples collected from the asteroid Bennu have revealed critical information about the early solar system's conditions. Researchers found interactions between water and organic materials during the formation of asteroids, shedding light on the origins of Earth's water and the potential for extraterrestrial life. This research highlights the importance of asteroid missions in understanding the building blocks of our solar system.
-
-- Detailed analysis of Bennu's samples reveals interactions of water and organic material during the solar system's formation. [Link](https://phys.org/news/2026-04-bennu-sample-reveals-newly-asteroid.html)
-
-#### Advancements in Exoplanet Research
-A comprehensive survey of exoplanets has confirmed a longstanding hypothesis regarding the correlation between planetary mass and rotation rates. By examining gas giants and brown dwarfs, astronomers validated that larger planets tend to rotate more quickly. This finding contributes to our understanding of planetary formation and dynamics, offering a framework for future investigations into exoplanetary systems.
-
-- A survey utilizing the W.M. Keck Observatory confirms the predicted relationship between planetary mass and rotation speed. [Link](https://phys.org/news/2026-04-largest-survey-exoplanet-held.html)
+#### 3. Advances in Understanding Cosmic Structures
+The Eberly Telescope Dark Energy Experiment has made significant strides by identifying extensive hydrogen gas halos surrounding galaxies from the Cosmic Noon period, approximately 10 to 12 billion years ago. This discovery provides critical insight into the materials required for star formation during a time of heightened galactic activity. Moreover, researchers are approaching breakthroughs in detecting spacetime ripples, which could deepen our understanding of the relationship between gravity and quantum mechanics, potentially leading to new theoretical frameworks in physics.
 
 ### Conclusion
-The current landscape in astrophysics is marked by a renewed commitment to human exploration, particularly through the Artemis 2 mission, while simultaneously deepening our understanding of planetary science through asteroid and exoplanet studies. These developments reflect a robust trajectory toward unraveling the complexities of our cosmic neighborhood and the fundamental processes that shape it.
+The current landscape in astrophysics and space exploration is marked by significant achievements and transformative discoveries that are reshaping our understanding of the universe. The historic Artemis 2 lunar mission, insights into the conditions for life, and advances in cosmic structure research collectively emphasize the ongoing quest to unravel the mysteries of our solar system and beyond. As exploration efforts expand, the implications for future research and our comprehension of life in the cosmos are becoming increasingly profound.
 
 ### Top Sources:
-1. Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space - https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space - Artemis 2 astronauts successfully enter the moon's sphere of influence.
-2. When the moon hits your eye from your Orion ship up high, that's a 'mare' for Artemis 2 - https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare - Astronauts observe the moon, enhancing scientific observations.
-3. Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon - https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon - Unique solar eclipse observation planned.
-4. Bennu sample reveals how water flowed through the newly forming asteroid - https://phys.org/news/2026-04-bennu-sample-reveals-newly-asteroid.html - Insights into early solar system conditions from asteroid samples.
-5. The largest survey of exoplanet spins confirms a long-held prediction - https://phys.org/news/2026-04-largest-survey-exoplanet-held.html - Confirmation of the relationship between planetary mass and rotation rates.
-6. Artemis astronauts begin fifth day on historic moon mission - https://phys.org/news/2026-04-artemis-astronauts-day-historic-moon.html - Astronauts report on their journey and observations.
-7. TESS spots the rise of a black hole X-ray binary system - https://phys.org/news/2026-04-tess-black-hole-ray-binary.html - TESS observes a black hole outburst, contributing to our understanding of such systems.
-8. The powerful new Rubin Observatory just found 11,000 new asteroids and measured 'tens of thousands more' - https://www.space.com/astronomy/asteroids/the-powerful-new-rubin-observatory-just-found-11-000-new-asteroids-and-measured-tens-of-thousands-more - Significant asteroid discoveries expected to continue.
-9. Artemis astronauts glimpse moon's 'Grand Canyon' ahead of historic lunar flyby - https://phys.org/news/2026-04-artemis-astronauts-glimpse-moon-grand.html - Astronauts observe previously unseen lunar features.
-10. Exploding primordial black holes might have reshaped the early universe, and created all matter as we know it - https://phys.org/news/2026-04-primordial-black-holes-reshaped-early.html - Theoretical insights into the early universe's dynamics.
+1. Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA - https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-toward-earth-record-breaking-moon-flyby - NASA's Artemis 2 crew achieves historic lunar flyby.
+2. Scientists discover the “Goldilocks” secret behind life on Earth - https://www.sciencedaily.com/releases/2026/04/260406192917.htm - New research reveals crucial oxygen levels for life's building blocks.
+3. This “forbidden” exoplanet has an atmosphere scientists can’t explain - https://www.sciencedaily.com/releases/2026/04/260406192905.htm - Discovery of TOI-5205 b challenges existing planetary formation theories.
+4. Astronomers thought the early universe was full of hydrogen: Now they've found it - https://phys.org/news/2026-04-astronomers-thought-early-universe-full.html - Identification of hydrogen gas halos supports theories of star formation.
+5. Scientists may finally detect hidden ripples in spacetime - https://www.sciencedaily.com/releases/2026/04/260405003940.htm - Breakthrough in detecting spacetime fluctuations could advance quantum gravity research.
+6. Artemis II crew breaks Apollo 13 record, reaching 252,760 miles from Earth - https://phys.org/news/2026-04-artemis-ii-crew-apollo-miles.html - Artemis II astronauts set a new record for distance from Earth.
+7. Moon music: Here's a Spotify playlist of the Artemis 2 crew's wakeup songs - https://www.space.com/space-exploration/artemis/moon-music-heres-a-spotify-playlist-of-the-artemis-2-crews-wakeup-songs - A light-hearted aspect of the Artemis 2 mission.
+8. If life exists in Venus's atmosphere, it could have come from Earth - https://phys.org/news/2026-04-life-venus-atmosphere-earth.html - Panspermia theory gains traction in discussions about life transfer between planets.
+9. Hot Jupiter orbiting a metal-poor star discovered - https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html - Discovery of a rare exoplanet challenges existing models of planetary formation.
+10. The moon up close: How the Artemis 2 astronauts are photographing their historic lunar flyby - https://www.space.com/space-exploration/artemis/the-moon-up-close-how-the-artemis-2-astronauts-are-photographing-their-historic-lunar-flyby - Insights into the mission's scientific documentation efforts.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space' target='_blank'>Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space</a></strong> — <em>2026-04-06 05:00:15</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/artemis/this-is-really-big-stuff-trump-hails-nasa-artemis-2-astronauts-after-historic-moon-flyby-feat' target='_blank'>'This is really big stuff.' Trump hails NASA Artemis 2 astronauts after historic moon flyby feat</a></strong> — <em>2026-04-07 06:39:52</em></summary>
 
-The four astronauts of NASA's Artemis 2 mission have arrived at the moon. They entered the lunar sphere of influence early Monday morning (April 6).
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare' target='_blank'>When the moon hits your eye from your Orion ship up high, that's a 'mare' for Artemis 2</a></strong> — <em>2026-04-06 00:09:06</em></summary>
-
-The four Artemis 2 astronauts had a chance to observe the moon this weekend, and to say they were thrilled may be an understatement of cosmic proportions.
+President Donald Trump on Monday night (April 6) hailed the courage and grit of NASA's Artemis 2 astronauts after their historic flyby around the moon.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon' target='_blank'>Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon</a></strong> — <em>2026-04-05 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/04/260406192917.htm' target='_blank'>Scientists discover the “Goldilocks” secret behind life on Earth</a></strong> — <em>2026-04-07 03:36:59</em></summary>
 
-The four Artemis 2 astronauts will see a solar eclipse from beyond the moon's far side on Monday evening (April 6), and they'll use the opportunity to make some science observations.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-astronauts-day-historic-moon.html' target='_blank'>Artemis astronauts begin fifth day on historic moon mission</a></strong> — <em>2026-04-05 17:10:01</em></summary>
-
-The four astronauts on NASA's Artemis 2 mission began their fifth day journeying to the moon on Sunday, after already taking in sights of the lunar surface never before seen by human eyes.
+Earth may have won a cosmic chemistry lottery. Researchers found that during the planet’s earliest formation, oxygen had to be in an extremely narrow “Goldilocks zone” for two life-essential elements, phosphorus and nitrogen, to stay where life could use them. Too much or too little oxygen, and those ingredients could be lost or trapped deep inside the planet. This could reshape the search for life by showing that water alone is not enough.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/the-breakout-star-of-nasas-artemis-2-mission-to-the-moon-isnt-an-astronaut-its-the-space-toilet' target='_blank'>The breakout star of NASA's Artemis 2 moon mission isn't an astronaut — it's the space toilet</a></strong> — <em>2026-04-05 17:09:54</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/04/260406192905.htm' target='_blank'>This “forbidden” exoplanet has an atmosphere scientists can’t explain</a></strong> — <em>2026-04-07 03:28:14</em></summary>
 
-The on-again, off-again lunar loo allows astronauts to "go" at the moon like no one's gone before.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-bennu-sample-reveals-newly-asteroid.html' target='_blank'>Bennu sample reveals how water flowed through the newly forming asteroid</a></strong> — <em>2026-04-05 17:00:03</em></summary>
-
-A team of US astronomers has carried out one of the deepest analyses to date of a sample from the asteroid Bennu, revealing new details about how water and organic material interacted during the earliest stages of the solar system.
+A strange “forbidden” planet spotted by the James Webb Space Telescope is turning planetary science on its head. TOI-5205 b, a Jupiter-sized world orbiting a small, cool star, has an atmosphere surprisingly poor in heavy elements—even less enriched than its own star, which defies current theories of how giant planets form.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-apollo-distance-moon.html' target='_blank'>It's time for Artemis II to break Apollo 13's distance record. What to know about the moon flyby</a></strong> — <em>2026-04-05 16:52:33</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-toward-earth-record-breaking-moon-flyby' target='_blank'>Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA</a></strong> — <em>2026-04-07 01:15:56</em></summary>
 
-The Artemis II astronauts are already the champions of a fresh new era of lunar exploration. Now it's time to set a new distance record.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-tess-black-hole-ray-binary.html' target='_blank'>TESS spots the rise of a black hole X-ray binary system</a></strong> — <em>2026-04-05 16:20:01</em></summary>
-
-Designed to hunt for new alien worlds, NASA's Transiting Exoplanet Survey Satellite (TESS) has serendipitously observed the rising outburst of a black hole X-ray binary known as AT 2019wey. The observations, which may help us better understand the nature of this system, were presented March 25 on the arXiv pre-print server.
+NASA's Artemis 2 astronauts viewed parts of the moon never before seen with human eyes during their epic lunar flyby today (April 6) —and set a spaceflight record in the process.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-largest-survey-exoplanet-held.html' target='_blank'>The largest survey of exoplanet spins confirms a long-held prediction</a></strong> — <em>2026-04-05 15:00:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-life-venus-atmosphere-earth.html' target='_blank'>If life exists in Venus's atmosphere, it could have come from Earth</a></strong> — <em>2026-04-06 22:30:02</em></summary>
 
-For some time, astronomers have theorized that there is a connection between planetary mass and rotation. In the solar system, Jupiter and Saturn both rotate rapidly, completing a rotation in roughly ten hours, while accounting for a significant fraction of the solar system's rotational energy. Using the W.M. Keck Observatory on Maunakea, Hawai'i, a team of astronomers tested this predicted relationship by studying 32 gas giants and brown dwarfs in distant star systems—6 giant planets larger than Jupiter and 25 brown dwarf companions.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/the-powerful-new-rubin-observatory-just-found-11-000-new-asteroids-and-measured-tens-of-thousands-more' target='_blank'>The powerful new Rubin Observatory just found 11,000 new asteroids and measured 'tens of thousands more'</a></strong> — <em>2026-04-05 14:00:00</em></summary>
-
-This offers us a glimpse of the discovery surge scientists expect to occur once full operations begin.
+The theory of panspermia holds that life is spread through the cosmos via asteroids, comets, and other objects. When the building blocks of life emerge on one planet, impacts can eject surface material into space, which then carries these seeds to other worlds. For decades, scientists have debated whether this could have occurred between Earth and Mars (in both directions). However, the recent controversy over the possible existence of microbial life in Venus's dense clouds has sparked discussions of interplanetary transfers between Venus, Earth, and Mars.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-03-image-nisar-views-mount-st.html' target='_blank'>Image: NISAR views Mount St. Helens</a></strong> — <em>2026-04-05 13:30:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/moon-music-heres-a-spotify-playlist-of-the-artemis-2-crews-wakeup-songs' target='_blank'>Moon music: Here's a Spotify playlist of the Artemis 2 crew's wakeup songs</a></strong> — <em>2026-04-06 21:54:20</em></summary>
 
-This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington's Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR's L-band SAR instrument is able to peer through the clouds at the surface below.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-astronauts-moon-surface-eyes.html' target='_blank'>Artemis astronauts to study the moon's surface using mainly their eyes</a></strong> — <em>2026-04-05 12:40:01</em></summary>
-
-More than 50 years after humans first flew around the moon, Artemis astronauts will repeat the feat on Monday and use the most basic instrument to study it: their eyes.
+Artemis 2 wake-up songs are mission control's way of starting the crew's day off with positivity. Here's the Spotify playlist.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-primordial-black-holes-reshaped-early.html' target='_blank'>Exploding primordial black holes might have reshaped the early universe, and created all matter as we know it</a></strong> — <em>2026-04-05 12:00:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/moon-memorial-artemis-2-astronauts-name-lunar-bright-spot-after-mission-commanders-late-wife' target='_blank'>Moon memorial: Artemis 2 astronauts name lunar 'bright spot' after mission commander's late wife</a></strong> — <em>2026-04-06 20:17:26</em></summary>
 
-The early universe is absolutely so far outside our understanding of how the world works it's hard to describe in words. Back then, the cosmos wasn't filled with stars and galaxies but with a boiling soup of quarks and gluons, with a few microscopic black holes thrown in, occasionally detonating like depth charges. That's the early universe theorized by a new paper, available in pre-print from arXiv, from researchers at Vrije Universiteit Brussel and MIT anyway.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-will-try-to-recreate-apollo-8s-historic-earthrise-photo-during-april-6-flyby' target='_blank'>Artemis 2 moon astronauts will try to recreate Apollo 8's historic 'Earthrise' photo during April 6 flyby</a></strong> — <em>2026-04-05 12:00:00</em></summary>
-
-Plans are in place for the crew of Artemis 2 to try to replicate one of the most famous images ever taken from space — Apollo 8's shot of Earth rising over the moon's horizon.
+As they broke the record for farthest distance from Earth ever traveled by an astronaut, NASA's Artemis 2 crew took a moment to dedicate a few features on the moon's surface for their spacecraft and lost loved ones.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-astronauts-glimpse-moon-grand.html' target='_blank'>Artemis astronauts glimpse moon's 'Grand Canyon' ahead of historic lunar flyby</a></strong> — <em>2026-04-05 11:00:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-crew-apollo-miles.html' target='_blank'>Artemis II crew breaks Apollo 13 record, reaching 252,760 miles from Earth</a></strong> — <em>2026-04-06 18:14:31</em></summary>
 
-The Artemis astronauts have taken in sights of the moon never before seen by human eyes, crew members reported on Sunday as their spacecraft crossed the two-thirds mark on their journey to a long-anticipated lunar flyby.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-astronaut-victor-glover-delivers-inspiring-easter-message-on-the-way-to-the-moon-video' target='_blank'>This is the inspiring Easter message an Artemis 2 astronaut has for Earth while traveling to the moon (video)</a></strong> — <em>2026-04-05 11:00:00</em></summary>
-
-NASA astronaut Victor Glover delivered an impromptu Easter message as his Artemis 2 Orion capsule sped toward the moon on Saturday (April 4).
+The four astronauts embarking on NASA's lunar flyby became on Monday the humans to travel farthest from our planet, as they begin documenting areas of the moon never before seen by the naked eye.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-toilet-astronauts-moon.html' target='_blank'>Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13's record</a></strong> — <em>2026-04-05 10:29:45</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-breaks-humanitys-all-time-distance-record-during-historic-loop-around-the-moon' target='_blank'>Artemis 2 breaks humanity's all-time distance record during historic loop around the moon (video)</a></strong> — <em>2026-04-06 18:00:43</em></summary>
 
-Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/dozens-of-hidden-star-streams-found-in-the-outskirts-of-our-milky-way-galaxy' target='_blank'>Dozens of hidden star streams found in the outskirts of our Milky Way galaxy</a></strong> — <em>2026-04-05 10:00:00</em></summary>
-
-Astronomers discovered dozens of stellar streams in the Milky Way using Gaia data, offering new clues about galaxy formation and dark matter.
+NASA's Artemis 2 astronauts have now traveled farther from Earth than any people in history, breaking the mark set by the Apollo 13 crew in April 1970.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/legos-educational-space-sets-are-a-stellar-way-to-teach-kids-about-the-basic-physics-of-collisions-and-impacts' target='_blank'>Lego's educational space sets are a stellar way to teach kids about the basic physics of collisions and impacts</a></strong> — <em>2026-04-05 09:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-blogs/when-astronomy-is-in-your-blood/' target='_blank'>When Astronomy Is In Your Blood</a></strong> — <em>2026-04-06 17:15:00</em></summary>
 
-Won't somebody please think of the children?
+A glimpse of a stellar cluster ties generations together.
+The post When Astronomy Is In Your Blood appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/star-wars-maul-shadow-lord-is-lucasfilms-darkest-and-most-focused-animated-show-yet-review' target='_blank'>'Star Wars: Maul – Shadow Lord' is Lucasfilm's darkest and most focused animated show yet</a></strong> — <em>2026-04-06 17:00:00</em></summary>
+
+Darth Maul's own series instantly sets itself apart from its relatives with a killer pitch, but it suffers from familiar debut season frustrations.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/the-moon-up-close-how-the-artemis-2-astronauts-are-photographing-their-historic-lunar-flyby' target='_blank'>The moon up close: How the Artemis 2 astronauts are photographing their historic lunar flyby</a></strong> — <em>2026-04-06 16:55:58</em></summary>
+
+The Artemis 2 astronauts might be the first humans to survey certain areas of the moon's far side, and they're chronicling their historic journey in detail.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-astronomers-thought-early-universe-full.html' target='_blank'>Astronomers thought the early universe was full of hydrogen: Now they've found it</a></strong> — <em>2026-04-06 15:40:03</em></summary>
+
+The Eberly Telescope Dark Energy Experiment (HETDEX) has discovered tens of thousands of gigantic hydrogen gas halos, called "Lyman-alpha nebulae," surrounding galaxies 10 billion to 12 billion years ago. Known as Cosmic Noon, this is an epoch in the early universe when galaxies were growing their fastest. To spur this growth, they would have needed access to vast reservoirs of hydrogen gas, a key building block for stars. However, until recently, astronomers had only found a handful of these essential structures.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-giant-humankind-artemis-crew-space.html' target='_blank'>Giant step for humankind: Artemis crew to set space distance record</a></strong> — <em>2026-04-06 15:19:49</em></summary>
+
+Four Artemis II astronauts are taking a giant step for humankind Monday when they shoot deeper into space than anyone before and glimpse parts of the moon never seen by the naked eye.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/deja-vu-trump-proposes-cutting-nasa-science-funding-by-47-percent-again' target='_blank'>Deja vu: Trump proposes cutting NASA science funding by 47% again</a></strong> — <em>2026-04-06 15:00:00</em></summary>
+
+NASA faces the possibility of steep cuts again as the FY 2027 budget request proposes a 23% reduction in overall funding and a 47% cut to science programs.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html' target='_blank'>'Hot Jupiter' orbiting a metal-poor star discovered</a></strong> — <em>2026-04-06 14:40:01</em></summary>
+
+Using NASA's Transiting Exoplanet Survey Satellite (TESS), an international team of astronomers has discovered a new "hot Jupiter" exoplanet. The newfound alien world, designated TOI-7169 b, orbits a metal-poor star, which is rare among exoplanets. The finding was detailed in a paper published March 26 on the arXiv pre-print server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/astronaut-victor-glover-is-the-latest-in-a-long-line-of-black-american-explorers-including-york-the-enslaved-man-who-played-a-key-role-in-the-lewis-and-clark-expedition' target='_blank'>Astronaut Victor Glover is the latest in a long line of Black American explorers − including York, the enslaved man who played a key role in the Lewis and Clark expedition</a></strong> — <em>2026-04-06 13:00:00</em></summary>
+
+Glover's achievement is worth celebrating. But it's also worth remembering that he belongs to a long and underappreciated history.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-moon.html' target='_blank'>Looking up? How to photograph the moon with your phone</a></strong> — <em>2026-04-06 12:50:01</em></summary>
+
+Eyes are on the sky this week as four astronauts get the closest humans have been to the moon for more than 50 years on NASA's Artemis II mission. Join the millions of people looking up while it's on its way and we'll show you how to get the best photo of the moon using your phone.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/04/260405003940.htm' target='_blank'>Scientists may finally detect hidden ripples in spacetime</a></strong> — <em>2026-04-06 11:57:41</em></summary>
+
+Scientists have taken a major step toward probing one of physics’ biggest mysteries—how gravity and quantum mechanics fit together—by creating the first unified way to detect tiny “ripples” in spacetime itself. These subtle fluctuations, long predicted but poorly defined, are now organized into clear categories with specific signals that real-world instruments can search for. The breakthrough means powerful tools like LIGO and even small tabletop experiments could start testing competing theories of quantum gravity much sooner than expected.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-aerobot-isru-capabilities-explore-venus.html' target='_blank'>An aerobot with ISRU capabilities could explore Venus' atmosphere for years</a></strong> — <em>2026-04-06 11:20:46</em></summary>
+
+In Dante's "Divine Comedy," Hell is described as an "inferno" with nine concentric circles, the entrance of which has a sign that reads "Abandon all hope, ye who enter here." For the planets of the solar system, Venus is about as close to this description as one can get. On the surface, temperatures are hot enough to melt lead (464°C; 872°F), while the atmosphere is dense enough to crush a human skull (more than 90 times Earth's atmospheric density). However, above the cloud deck, roughly 47–70 km (29–43 mi) above the surface, temperatures are stable, and the atmospheric pressure is roughly equivalent to Earth's.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline' target='_blank'>NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline)</a></strong> — <em>2026-04-06 09:00:00</em></summary>
+
+NASA's Artemis 2 astronauts will make a historic moon flyby today (April 6). Here's how it will happen, hour by hour.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-mission-moon-flyby.html' target='_blank'>What to know about the Artemis 2 mission's moon flyby</a></strong> — <em>2026-04-06 08:50:01</em></summary>
+
+For the first time in more than half a century, astronauts will fly around the moon on Monday, marking the high point of the Artemis 2's lunar mission.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-mission-approaches-lunar-loop.html' target='_blank'>Artemis mission approaches lunar loop for first flyby since 1972</a></strong> — <em>2026-04-06 08:35:34</em></summary>
+
+The Artemis astronauts entered the final phase of their run-up to a lunar loop on Monday, a tipping point of sorts that means the moon's gravity is now having a stronger pull on the spacecraft than Earth's.
 
 </details>
 
