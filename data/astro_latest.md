@@ -1,221 +1,140 @@
 # Astro Daily Summary
 
-    ### Recent Advances in Lunar Exploration
+    ### Major Themes in Recent Astrophysical Developments
 
-The Artemis II mission has ushered in a new era of lunar exploration, providing a wealth of data and stunning imagery from its lunar flyby. This mission not only signifies humanity's return to the Moon after over five decades but also lays the groundwork for future lunar and deep-space endeavors. The crew captured unprecedented images showcasing the Moon's geological features, including craters and ancient lava flows, alongside a rare in-space solar eclipse. These observations are pivotal for enhancing our understanding of the Moon's history and its potential for future scientific missions.
+**1. New Perspectives on Dark Matter**  
+Recent theoretical advancements are reshaping our understanding of dark matter, suggesting it may exist in multiple states rather than a single form. This dual-state model could explain the ongoing difficulty in detecting dark matter through traditional methods, indicating that the absence of signals might provide critical insights into its properties. This shift in perspective emphasizes the need for innovative approaches in dark matter research, potentially guiding future experimental designs.
 
-Key items illustrating this theme include:
-1. NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth - https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth - The crew's images reveal previously unseen lunar features.
-2. New Artemis II 'Earthset' shot revisits Apollo 8's iconic 'Earthrise' - https://phys.org/news/2026-04-artemis-ii-earthset-shot-revisits.html - This shot captures Earth dipping below the lunar horizon, echoing a historic moment from Apollo 8.
-3. Artemis astronauts survey lunar surface on flyby, solar eclipse up next - https://phys.org/news/2026-04-artemis-astronauts-survey-lunar-surface.html - The astronauts provided detailed observations that could inform future lunar studies.
+Key items:  
+- A study in the Journal of Cosmology and Astroparticle Physics introduces a dual-state model for dark matter, challenging existing detection methodologies.  
+- Discussions within the astrophysics community highlight a trend towards more complex frameworks for understanding dark matter interactions.
 
-### Innovations in Space Propulsion
+**2. Innovations in Space Weather Prediction**  
+Enhancements in understanding solar phenomena are leading to improved predictions of space weather, which can significantly affect Earth’s technological systems. Research conducted by a graduate student has clarified the relationship between coronal holes and solar wind streams, providing a more robust foundation for forecasting solar activity and its terrestrial impacts, potentially safeguarding critical infrastructure.
 
-Recent advancements in space propulsion technologies have highlighted the potential of lasers and graphene aerogels. A recent parabolic flight test demonstrated that lasers can effectively maneuver graphene aerogels in microgravity. This suggests a promising future for laser propulsion systems capable of adjusting satellite positions or propelling solar sails, offering a more efficient alternative to traditional chemical rockets. Such innovations could significantly enhance our capabilities for deep-space exploration.
+Key items:  
+- A New Mexico State University study reveals how solar winds from coronal holes can influence terrestrial systems, marking a significant advance in space weather forecasting.  
+- This research aligns with a broader movement towards leveraging solar observations to protect technological assets from solar disruptions.
 
-Key items illustrating this theme include:
-1. Parabolic flight test shows lasers can propel graphene aerogels in microgravity - https://phys.org/news/2026-04-parabolic-flight-lasers-propel-graphene.html - The successful experiment indicates a promising direction for future space travel.
-2. Graphene and lasers for space propulsion - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion - This research outlines the transformative potential of combining graphene with laser technology for propulsion systems.
+**3. Groundbreaking Findings from Artemis II**  
+The Artemis II mission has yielded remarkable observational data, including direct sightings of meteorite impacts on the lunar surface. These observations not only enhance our understanding of lunar geology but also provide insights into the dynamics of space debris, showcasing the mission's potential for advancing lunar science.
 
-### Discoveries in Galactic Structures
+Key items:  
+- Astronauts reported witnessing micrometeorite impacts during their lunar flyby, generating excitement for future lunar research.  
+- The mission has also produced stunning imagery of the Milky Way, contributing to our understanding of galactic structures.
 
-The discovery of a close pair of supermassive black holes in the galaxy Markarian 501 marks a significant breakthrough in our understanding of galaxy evolution. This finding provides direct evidence of black holes that are nearing a merger, a critical process in the growth of galaxies. Such observations offer astronomers new insights into the dynamics of galaxy formation and the role of black holes in shaping cosmic structures.
+### Conclusion  
+The current landscape of astrophysics is characterized by significant advancements in the understanding of dark matter, improved methodologies for space weather prediction, and groundbreaking observational data from lunar missions. These developments illustrate a growing sophistication in both theoretical frameworks and observational techniques, emphasizing the interconnectedness of various astrophysical phenomena and their implications for technology and exploration.
 
-Key items illustrating this theme include:
-1. First close pair of supermassive black holes detected - https://phys.org/news/2026-04-pair-supermassive-black-holes.html - This discovery offers insights into the dynamics of galaxy formation and the role of black holes.
-
-### Conclusion
-
-The current landscape of astrophysics reveals significant advancements in lunar exploration, innovative propulsion technologies, and critical discoveries regarding galactic structures. The Artemis II mission revitalizes interest in lunar science while paving the way for future exploration efforts. Concurrently, breakthroughs in propulsion technology and the study of supermassive black holes enhance our understanding of the universe's fundamental processes. Overall, these trends indicate a vibrant and rapidly evolving field poised to address pressing questions in astrophysics.
-
-### Top Sources
-1. NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth - https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth - The crew's images reveal previously unseen lunar features.
-2. New Artemis II 'Earthset' shot revisits Apollo 8's iconic 'Earthrise' - https://phys.org/news/2026-04-artemis-ii-earthset-shot-revisits.html - This shot captures Earth dipping below the lunar horizon, echoing a historic moment from Apollo 8.
-3. Artemis astronauts survey lunar surface on flyby, solar eclipse up next - https://phys.org/news/2026-04-artemis-astronauts-survey-lunar-surface.html - The astronauts provided detailed observations that could inform future lunar studies.
-4. Parabolic flight test shows lasers can propel graphene aerogels in microgravity - https://phys.org/news/2026-04-parabolic-flight-lasers-propel-graphene.html - The successful experiment indicates a promising direction for future space travel.
-5. Graphene and lasers for space propulsion - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion - This research outlines the transformative potential of combining graphene with laser technology for propulsion systems.
-6. First close pair of supermassive black holes detected - https://phys.org/news/2026-04-pair-supermassive-black-holes.html - This discovery offers insights into the dynamics of galaxy formation and the role of black holes.
-7. Amazing Views From Artemis 2’s Historic Lunar Flyby - https://skyandtelescope.org/astronomy-news/amazing-views-from-artemis-2s-historic-lunar-flyby/ - Highlights from the Artemis II mission and its contributions to lunar science.
-8. Water on the moon? New study narrows down the most likely locations - https://phys.org/news/2026-04-moon-narrows.html - A study reveals insights into the distribution of water on the lunar surface.
-9. How Jupiter cultivated more large moons than Saturn - https://phys.org/news/2026-04-jupiter-cultivated-large-moons-saturn.html - An exploration of the differences in moon formation between Jupiter and Saturn.
-10. Watch Comet MAPS get destroyed by cataclysmic fragmentation near the sun - https://www.space.com/astronomy/comets/watch-comet-maps-destroyed-in-cataclysmic-fragmentation-near-the-sun - A dramatic event that highlights the dynamic nature of our solar system.
+### Top Sources:
+1. What if dark matter came in two states? - https://phys.org/news/2026-04-dark-states.html - A new study proposes a dual-state model for dark matter, suggesting absence of signals can provide insights.  
+2. Student research on coronal holes improves space weather forecasting - https://phys.org/news/2026-04-student-coronal-holes-space-weather.html - A study enhances understanding of solar winds and their impact on Earth.  
+3. Large Hadron Collider gives scientists their best look yet at conditions right after the Big Bang - https://www.space.com/science/particle-physics/large-hadron-collider-gives-scientists-their-best-look-yet-at-conditions-right-after-the-big-bang - The ALICE experiment reveals insights into primordial quark-gluon plasma.  
+4. 'Audible screams of delight' from NASA scientists over micrometeorite impacts on the moon witnessed by Artemis 2 astronauts - https://www.space.com/space-exploration/artemis/audible-screams-of-delight-from-nasa-scientists-over-micrometeorite-impacts-on-the-moon-witnessed-by-artemis-2-astronauts - Exciting lunar observations from Artemis II provide new data on space debris impacts.  
+5. 'Pinprick of light': Artemis crew witnesses meteorite impacts on moon - https://phys.org/news/2026-04-pinprick-artemis-crew-witnesses-meteorite.html - Astronauts observe meteorite impacts during their historic mission, enhancing lunar research.  
+6. Photos show stunning views of the moon and Earth from the Artemis II mission - https://phys.org/news/2026-04-photos-stunning-views-moon-earth.html - Captivating imagery from Artemis II highlights the mission's significance.  
+7. Artemis 2 astronauts spy the Milky Way | Space photo of the day for April 8, 2026 - https://www.space.com/stargazing/astrophotography/artemis-2-astronauts-spy-the-milky-way-space-photo-of-the-day-for-april-8-2026 - Astronauts capture the Milky Way, contributing to galactic studies.  
+8. Galaxy starves its supermassive black hole, loses 95% of its brightness - https://www.space.com/astronomy/black-holes/galaxy-starves-its-supermassive-black-hole-loses-95-percent-of-its-brightness - An active galactic nucleus shows dramatic brightness changes, prompting new questions in astrophysics.  
+9. Light Pollution Is Increasingly Variable Around the World - https://skyandtelescope.org/astronomy-news/light-pollution-is-increasingly-volatile-around-the-world/ - New insights into global light pollution patterns reveal significant variability.  
+10. 'It just made it even more special': Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says - https://www.space.com/space-exploration/artemis/it-just-made-it-even-more-special-being-so-far-from-earth-makes-you-appreciate-our-planet-even-more-artemis-2-astronaut-says - Reflections from astronauts provide a unique perspective on Earth from space.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/' target='_blank'>A Volcanic Medley Near Mammoth Lakes</a></strong> — <em>2026-04-08 04:01:00</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/' target='_blank'>Snow in the Shadow of the Andes</a></strong> — <em>2026-04-09 04:01:00</em></summary>
 
-A massive, old caldera and more recently formed craters shape the landscape in the eastern Sierra Nevada.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/' target='_blank'>Celestial Wonders in Leo</a></strong> — <em>2026-04-08 03:01:24</em></summary>
-
-Leo is a prominent sight for stargazers in April. Its famous sickle, punctuated by the bright star Regulus, draws many a beginning stargazer’s eyes, inviting deeper looks into some of Leo’s celestial delights, including a great double star and a famous galactic trio. Leo’s distinctive forward sickle, or “reverse question mark,” is easy to spot […]
+An early autumn storm left higher elevations in southern Argentina with a fresh and fleeting coat of white.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/the-artemis-2-space-toilet-is-actually-working-fine-but-there-is-another-problem' target='_blank'>The Artemis 2 space toilet is actually working fine. But there is another problem</a></strong> — <em>2026-04-07 22:31:46</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-dark-states.html' target='_blank'>What if dark matter came in two states?</a></strong> — <em>2026-04-09 04:00:01</em></summary>
 
-"The challenge that we're working through is evacuating the tank."
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/' target='_blank'>NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth</a></strong> — <em>2026-04-07 20:44:05</em></summary>
-
-The first flyby images of the Moon captured by NASA’s Artemis II astronauts during their historic test flight reveal some regions no human has seen, including a rare in-space solar eclipse. Released Tuesday, astronauts captured the images April 6 during the mission’s seven-hour flyby of the lunar far side, showing humanity’s return to the Moon’s […]
+The absence of a signal could itself be a signal. This is the idea behind a new study published in the Journal of Cosmology and Astroparticle Physics, which aims to redefine how we search for dark matter, showing that it may not be necessary to find the same "clues" everywhere in order to interpret it.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/project-hail-mary-sound-designers-used-surprising-animal-sounds-to-create-rockys-musical-alien-voice-interview' target='_blank'>'Project Hail Mary' sound designers used surprising animal sounds to create Rocky's musical alien voice (interview)</a></strong> — <em>2026-04-07 20:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-student-coronal-holes-space-weather.html' target='_blank'>Student research on coronal holes improves space weather forecasting</a></strong> — <em>2026-04-08 19:00:01</em></summary>
 
-'With the sound, we’re trying to paint a picture of what is Rocky's sonic soul.'
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-parabolic-flight-lasers-propel-graphene.html' target='_blank'>Parabolic flight test shows lasers can propel graphene aerogels in microgravity</a></strong> — <em>2026-04-07 19:40:04</em></summary>
-
-Lasers could one day steer solar sails and adjust a satellite's position in outer space, thanks to graphene. An experiment on a gravity rollercoaster ride showed how this innovative material has the potential to revolutionize propulsion beyond Earth.
+Fast solar winds originating from the sun can have direct impacts on Earth—disrupting systems like GPS, aviation, electrical grids, and satellite and radio communications. A new paper by New Mexico State University astronomy graduate student Khagendra Katuwal examines the connection between coronal holes and solar wind streams, helping improve our understanding of how the sun's magnetic structure influences space weather.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/earthset/' target='_blank'>Earthset</a></strong> — <em>2026-04-07 18:54:50</em></summary>
+<details><summary><strong><a href='https://www.space.com/science/particle-physics/large-hadron-collider-gives-scientists-their-best-look-yet-at-conditions-right-after-the-big-bang' target='_blank'>Large Hadron Collider gives scientists their best look yet at conditions right after the Big Bang</a></strong> — <em>2026-04-08 19:00:00</em></summary>
 
-The Artemis II crew captured this view of Earth setting on April 6, 2026, as they flew around the Moon. As the astronauts flew over the Moon’s far side, the crew photographed and described terrain features including impact craters, ancient lava flows, and surface cracks and ridges formed as the Moon slowly evolved over time. […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/relive-artemis-2s-epic-moon-flyby-with-these-amazing-photos' target='_blank'>Relive Artemis 2's epic moon flyby with these amazing photos</a></strong> — <em>2026-04-07 18:00:59</em></summary>
-
-NASA's Artemis 2 astronauts chronicled their historic loop around the moon on Monday (April 7) in great detail. Take a look at their stunning images here.
+The ALICE experiment at the world's most powerful particle accelerator, the Large Hadron Collider, has given scientists their best look yet at quark-gluon plasma, the primordial matter that filled the universe moments after the Big Bang.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/maul-shadow-lord-stars-sam-witwer-and-gideon-adlon-talk-mauls-surprising-honesty-becoming-a-jedi-and-george-lucas-original-vision-for-the-character' target='_blank'>'Maul – Shadow Lord' stars Sam Witwer and Gideon Adlon talk Maul's surprising honesty, becoming a Jedi, and George Lucas' original vision for the character</a></strong> — <em>2026-04-07 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-has-lots-of-mass-effect-dna-but-its-developers-are-teasing-a-far-more-grounded-sci-fi-rpg' target='_blank'>'The Expanse: Osiris Reborn' has lots of 'Mass Effect' DNA, but its developers are teasing a far more grounded sci-fi RPG</a></strong> — <em>2026-04-08 18:00:00</em></summary>
 
-We chatted with Maul – Shadow Lord's leads about what makes this darker animated Star Wars show and their characters special.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/' target='_blank'>Experience the Rollout of SLS Hardware for Artemis III</a></strong> — <em>2026-04-07 17:52:09</em></summary>
-
-Digital creators and social media users are invited to register to attend the rollout of the third SLS (Space Launch System) core stage as it is prepped to head from NASA’s Michoud Assembly Facility to NASA’s Kennedy Space Center. Are you passionate about social media and communications? Do you love to create content for an […]
+Owlcat Games' take on The Expanse is wearing its influences proudly, while also carving out its own hard sci-fi identity.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/a-satellite-just-captured-images-of-a-tsunami-being-born-heres-why-thats-a-big-deal' target='_blank'>A satellite just captured images of a tsunami being born. Here's why that's a big deal</a></strong> — <em>2026-04-07 17:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/light-pollution-is-increasingly-volatile-around-the-world/' target='_blank'>Light Pollution Is Increasingly Variable Around the World</a></strong> — <em>2026-04-08 17:26:59</em></summary>
 
-Scientists used SWOT to observe the 2025 Kamchatka tsunami, and their resulting work gives an unusually clear view into tsunamigenesis.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/artemis-2-captures-historic-earthset-photo-space-photo-of-the-day-for-april-7-2026' target='_blank'>Artemis 2 captures historic 'Earthset' photo | Space photo of the day for April 7, 2026</a></strong> — <em>2026-04-07 16:40:20</em></summary>
-
-Artemis 2 astronauts saw Earth slip from view during their lunar flyby on Flight Day 6.
+Scientists have unveiled a new dynamic view of our world at night, showing for the first time a night-by-night view of changes in light pollution.
+The post Light Pollution Is Increasingly Variable Around the World appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/' target='_blank'>NASA to Host Media Call with Artemis II Crew on Way Home from Moon</a></strong> — <em>2026-04-07 16:38:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/audible-screams-of-delight-from-nasa-scientists-over-micrometeorite-impacts-on-the-moon-witnessed-by-artemis-2-astronauts' target='_blank'>'Audible screams of delight' from NASA scientists over micrometeorite impacts on the moon witnessed by Artemis 2 astronauts</a></strong> — <em>2026-04-08 16:00:00</em></summary>
 
-Media will have an opportunity at 9:45 p.m. EDT on Wednesday, April 8, to speak with NASA’s Artemis II crew members as they continue their journey toward Earth during their historic mission around the Moon. The 20-minute virtual news conference will take place with NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/watch-comet-maps-destroyed-in-cataclysmic-fragmentation-near-the-sun' target='_blank'>Watch Comet MAPS get destroyed by cataclysmic fragmentation near the sun</a></strong> — <em>2026-04-07 16:00:00</em></summary>
-
-A dramatic breakup near the sun erased hopes of a bright comet lighting up the evening sky this week.
+NASA scientists are thrilled with the Artemis 2 astronauts' moon flyby observations —especially the micrometeor impact flashes they saw.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-pair-supermassive-black-holes.html' target='_blank'>First close pair of supermassive black holes detected</a></strong> — <em>2026-04-07 15:40:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-pinprick-artemis-crew-witnesses-meteorite.html' target='_blank'>'Pinprick of light': Artemis crew witnesses meteorite impacts on moon</a></strong> — <em>2026-04-08 14:00:10</em></summary>
 
-Supermassive black holes at the centers of galaxies are one of the most active fields of research in astronomy. In order to accumulate their enormous masses, they must merge with each other. A research team led by Silke Britzen from the Max Planck Institute for Radio Astronomy (MPIfR) in Bonn has found direct evidence of two supermassive black holes in the galaxy Markarian 501, which orbit each other very closely. This could be the first time that a pair has been detected that is about to merge. This provides a unique opportunity to better understand a central process in galaxy evolution.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-jupiter-cultivated-large-moons-saturn.html' target='_blank'>How Jupiter cultivated more large moons than Saturn</a></strong> — <em>2026-04-07 15:20:04</em></summary>
-
-The two largest planets in our solar system, Jupiter and Saturn, also have the largest satellite systems, or the most moons. At present, Jupiter's reported moon count stands at more than 100 moons, and along with its many rings, Saturn has more than 280 reported moons. Not all these moons are equal, however. Jupiter's moon family has four large members, including the largest moon in the solar system, Ganymede, while Saturn's family is dominated by one large moon, Titan, the solar system's second largest.
+During their historic lunar flyby, astronauts on NASA's Artemis II mission witnessed meteorites striking the rugged surface of the moon, a sight that has piqued scientists' curiosity.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/amazing-views-from-artemis-2s-historic-lunar-flyby/' target='_blank'>Amazing Views From Artemis 2’s Historic Lunar Flyby</a></strong> — <em>2026-04-07 14:51:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/artemis-2-astronauts-spy-the-milky-way-space-photo-of-the-day-for-april-8-2026' target='_blank'>Artemis 2 astronauts spy the Milky Way | Space photo of the day for April 8, 2026</a></strong> — <em>2026-04-08 14:00:00</em></summary>
 
-The Artemis 2 crew set records and provided amazing views — with more to come — as they journeyed around the Moon.
-The post Amazing Views From Artemis 2’s Historic Lunar Flyby appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-earthset-shot-revisits.html' target='_blank'>New Artemis II 'Earthset' shot revisits Apollo 8's iconic 'Earthrise,' 57 years on</a></strong> — <em>2026-04-07 14:01:59</em></summary>
-
-The Artemis II astronauts snapped a stunning shot of Earthset—the moment when Earth dips below the moon's horizon—on their long journey back home Tuesday after wrapping up a historic lunar flyby.
+The image captures the glowing ribbon of the galactic plane, where the vast majority of the Milky Way's stars are concentrated.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/unreal-solar-eclipse-artemis-2-crew-just-saw-one-of-the-rarest-sights-in-spaceflight-history' target='_blank'>'Unreal' solar eclipse: Artemis 2 crew just saw one of the rarest sights in spaceflight history</a></strong> — <em>2026-04-07 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-celestial-leo.html' target='_blank'>Celestial wonders in Leo</a></strong> — <em>2026-04-08 13:20:04</em></summary>
 
-Artemis 2 astronauts witness a rare solar eclipse from beyond the moon during their historic lunar flyby.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-astronomers-andromeda-xxxvi-ultra-faint.html' target='_blank'>Astronomers discover Andromeda XXXVI, an ultra-faint dwarf satellite galaxy</a></strong> — <em>2026-04-07 12:10:01</em></summary>
-
-By analyzing the data from the Pan-Andromeda Archaeological Survey (PandAS), European astronomers have discovered a new satellite of the Andromeda galaxy. The newfound object, which received the designation Andromeda XXXVI, appears to be an ultra-faint dwarf galaxy. The finding is reported in a paper published March 30 on the arXiv preprint server .
+Leo is a prominent sight for stargazers in April. Its famous sickle, punctuated by the bright star Regulus, draws many a beginning stargazer's eyes, inviting deeper looks into some of Leo's celestial delights, including a great double star and a famous galactic trio.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/nasas-artemis-2-astronauts-just-flew-by-the-moon-lunar-scientists-cant-wait-for-whats-next' target='_blank'>The Artemis 2 astronauts just flew by the moon. Lunar scientists can't wait for what's next</a></strong> — <em>2026-04-07 12:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-capture-space-history-on-their-iphones' target='_blank'>Artemis 2 moon astronauts capture space history — on their iPhones</a></strong> — <em>2026-04-08 13:00:00</em></summary>
 
-"Apollo happened before I was born, and the idea that we will see humans on the moon within our lifetimes, with decades of advances in science and technology behind them, is remarkable."
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/moon-milestones-a-rundown-of-artemis-2s-many-spaceflight-firsts' target='_blank'>Moon milestones: A rundown of Artemis 2's many spaceflight firsts</a></strong> — <em>2026-04-07 10:00:00</em></summary>
-
-You've probably heard it by now: NASA’s Artemis 2 mission was the first to launch astronauts to fly by the moon in more than 50 years. But that was just the first of the firsts for this mission.
+The Artemis 2 astronauts are capturing spectacular photos of the moon and Earth on their iPhones in space.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-moon-narrows.html' target='_blank'>Water on the moon? New study narrows down the most likely locations</a></strong> — <em>2026-04-07 09:00:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/galaxy-starves-its-supermassive-black-hole-loses-95-percent-of-its-brightness' target='_blank'>Galaxy starves its supermassive black hole, loses 95% of its brightness</a></strong> — <em>2026-04-08 12:00:00</em></summary>
 
-Water likely accumulated on the moon slowly over billions of years, rather than during one big event, according to a new study by an international team of scientists. The researchers, including Paul Hayne, a planetary scientist at the Laboratory for Atmospheric and Space Physics (LASP) at the University of Colorado Boulder, have published their findings in Nature Astronomy.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion' target='_blank'>Graphene and lasers for space propulsion</a></strong> — <em>2026-04-07 08:55:00</em></summary>
-
-
-Lasers could one day steer solar sails and adjust a satellite’s position in outer space, thanks to graphene. An experiment on a gravity rollercoaster ride showed how this innovative material has the potential to revolutionise propulsion beyond Earth.
+"It is fascinating that an active galactic nucleus can change its brightness so dramatically over such a short period of time."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-astronauts-survey-lunar-surface.html' target='_blank'>Artemis astronauts survey lunar surface on flyby, solar eclipse up next</a></strong> — <em>2026-04-07 08:50:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-crew-flying-home-thrilled.html' target='_blank'>'Screams of delight': Artemis crew flying home to thrilled NASA scientists</a></strong> — <em>2026-04-08 10:00:01</em></summary>
 
-The four astronauts carrying out NASA's first lunar flyby in more than half-a-century were sending back detailed observations of the moon after traveling farther from Earth than any human before.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-milestone-rich-lunar-flyby-astronauts.html' target='_blank'>After milestone-rich lunar flyby, astronauts start trip home</a></strong> — <em>2026-04-07 08:40:01</em></summary>
-
-The Artemis II astronauts wrapped up their lunar flyby as they continue their journey back to Earth on Tuesday, bringing with them rich celestial observations including little-known lunar craters, a solar eclipse and meteor strikes that scientists hope will open doors.
+The Artemis II astronauts were jetting toward Earth and sharing their lunar flyby souvenirs Tuesday, delighting colleagues both at home and in space with captivating tales of their historic journey.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-lunar-crater-artemis-deceased-wife.html' target='_blank'>Lunar crater named after Artemis commander's deceased wife</a></strong> — <em>2026-04-07 08:20:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/it-just-made-it-even-more-special-being-so-far-from-earth-makes-you-appreciate-our-planet-even-more-artemis-2-astronaut-says' target='_blank'>'It just made it even more special': Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says</a></strong> — <em>2026-04-08 10:00:00</em></summary>
 
-Artemis astronauts at the outer edge of human space travel had an emotional moment Monday as they proposed to name a crater in honor of the deceased wife of mission commander Reid Wiseman.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-astronauts-moon-communications.html' target='_blank'>Artemis astronauts pass behind moon, expected communications cut starts</a></strong> — <em>2026-04-07 08:07:50</em></summary>
-
-The four Artemis astronauts on a lunar flyby are now unreachable by NASA scientists on Earth, an expected communications blackout anticipated to last some 40 minutes as their spacecraft passes behind the moon.
+Seeing Earth from space changes your perspective. And this "overview effect" is magnified when you're looking back from beyond the moon, according to Artemis 2's Christina Koch.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-laughter-historic-day-astronaut-jenni.html' target='_blank'>Laughter, tears: Historic day for astronaut Jenni Gibbons in Houston</a></strong> — <em>2026-04-07 08:03:16</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-photos-stunning-views-moon-earth.html' target='_blank'>Photos show stunning views of the moon and Earth from the Artemis II mission</a></strong> — <em>2026-04-08 08:30:01</em></summary>
 
-Canadian astronaut Jenni Gibbons was at the heart of NASA's control room in Houston on Monday, supporting her Artemis II crewmates remotely during their flight around the moon.
+The Artemis II astronauts—three Americans and one Canadian—hurtled deeper into space than any other humans during a moon flyby Monday that marks NASA's lunar comeback.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-astronauts-distance-space.html' target='_blank'>Artemis II astronauts make long-distance call to the space station as they head home from the moon</a></strong> — <em>2026-04-08 08:12:49</em></summary>
+
+Still aglow from their triumphant lunar flyby, the Artemis II astronauts made more history Tuesday: calling their friends aboard the International Space Station hundreds of thousands of miles away as they headed home from the moon.
 
 </details>
 
