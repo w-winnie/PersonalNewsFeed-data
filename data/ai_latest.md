@@ -2,124 +2,144 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. AI-Driven Enhancements in Academic Publishing
-Recent innovations are transforming academic publishing through AI technologies that improve figure quality and streamline peer review processes. Google has introduced generative AI agents designed to assist researchers in creating visually appealing figures and automating portions of the peer review process. This advancement not only enhances the quality of academic submissions but also promises to reduce the time researchers spend on manuscript preparation, potentially leading to a more efficient academic landscape.
+#### 1. Advancements in Model Efficiency
+Recent developments are focused on enhancing the efficiency of AI models, particularly in terms of their training and operational management. Innovations in model lifecycle management, such as those introduced by Amazon Bedrock, are enabling smoother transitions between models, which is crucial for maintaining uptime in dynamic AI applications. These advancements are pivotal as organizations increasingly rely on AI systems that must adapt quickly to changing data and requirements.
 
-Key Items:
-- Google's AI agents for academic workflows - https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/ - Generative AI enhances figures and peer review processes.
-- The implications of this technology could reshape how researchers allocate their time and resources in publishing.
+Key items:
+- **Understanding Amazon Bedrock model lifecycle** - This article details how to effectively manage transitions between AI models, ensuring continuous operation. [Read more](https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/)
+- **Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime** - This feature enhances user interaction and system efficiency during long-running tasks, allowing for dynamic content generation. [Read more](https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/)
 
-#### 2. Customization and Fine-Tuning of AI Models
-The trend towards fine-tuning AI models is gaining momentum, exemplified by Amazon's Nova models via its Bedrock service. This platform enables users to tailor models for specific tasks, such as intent classification, thereby improving accuracy and efficiency. By focusing on dataset preparation and hyperparameter optimization, practitioners can enhance model performance to meet the unique demands of various applications.
+#### 2. Innovations in Training Techniques
+A novel approach leveraging control theory has emerged, allowing for the simplification of AI models during training. This method reduces computational costs significantly without sacrificing performance, representing a substantial step toward more efficient AI training paradigms. Such techniques are crucial as the demand for sustainable AI practices grows.
 
-Key Items:
-- Fine-tuning Nova models with Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/ - A guide to improving model performance through customization.
-- Reinforcement fine-tuning best practices - https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/ - Insights into effective strategies for enhancing AI models.
+Key items:
+- **New technique makes AI models leaner and faster while they’re still learning** - This research reveals how complexity reduction can improve efficiency during the training phase of AI models. [Read more](https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409)
+- **Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP** - This solution optimizes the storage costs associated with training large language models, making the process more cost-effective. [Read more](https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/)
 
-#### 3. AI Applications in Environmental Resource Management
-AI technologies are increasingly deployed to manage and forecast water resources, particularly in response to the Colorado River's water scarcity. Machine learning models are being utilized to simulate reservoir strategies and predict streamflow, empowering water managers to make informed decisions amid climate challenges. These applications not only improve forecasting capabilities but also facilitate stakeholder negotiations regarding water distribution.
+#### 3. Enhancing Realism in Generative AI
+Research is increasingly focusing on bridging the realism gap in generative AI, particularly in user simulations. Google’s work on enhancing user interactions through improved realism in AI-driven simulations is critical for developing more authentic and engaging AI experiences, which is essential for applications in virtual environments and interactive AI systems.
 
-Key Items:
-- AI models for Colorado River management - https://spectrum.ieee.org/colorado-river-water-shortage - Machine learning tools aid in understanding and managing water scarcity.
-- The integration of AI into environmental decision-making showcases the technology's potential to address real-world challenges.
+Key items:
+- **ConvApparel: Measuring and bridging the realism gap in user simulators** - This study aims to improve the realism of user interactions with AI, making simulations more lifelike. [Read more](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/)
 
 ### Conclusion
-The current AI landscape is marked by significant advancements that enhance academic workflows, refine model customization, and apply machine learning to critical environmental issues. These developments reflect a broader trend towards the integration of AI in various sectors, emphasizing efficiency and informed decision-making. As these technologies continue to evolve, their impact across industries is expected to grow, underscoring the importance of remaining informed about ongoing research and innovations.
+The current trajectory of AI development is marked by a concerted effort towards efficiency and realism. Innovations in model management and training techniques are fostering the creation of more adaptable and effective AI systems. As these advancements progress, they are expected to significantly influence the operational landscape of AI across various sectors, enhancing performance and enriching user experiences. The focus on bridging gaps in realism also indicates a growing recognition of the importance of human-like interactions in AI applications. 
 
 ### Top Sources:
-1. Improving the academic workflow: Introducing two AI agents for better figures and peer review - https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/ - Google introduces generative AI to enhance academic publishing.
-2. Customize Amazon Nova models with Amazon Bedrock fine-tuning - https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/ - A guide to fine-tuning AI models for better performance.
-3. Reinforcement fine-tuning on Amazon Bedrock: Best practices - https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/ - Strategies for optimizing AI model training.
-4. AI Models Map the Colorado River’s Hard Choices - https://spectrum.ieee.org/colorado-river-water-shortage - Machine learning aids in water management amid a crisis.
-5. Detecting Translation Hallucinations with Attention Misalignment - https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/ - A method for identifying inaccuracies in neural machine translation.
-6. Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries - https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries/ - Exploring the integration of Physical AI in applications.
-7. The next phase of enterprise AI - https://openai.com/index/next-phase-of-enterprise-ai - OpenAI discusses the future of AI in enterprise settings.
-8. Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases - https://towardsdatascience.com/grounding-your-llm-a-practical-guide-to-rag-for-enterprise-knowledge-bases/ - Insights into grounding language models in enterprise applications.
-9. Why AI Is Training on Its Own Garbage (and How to Fix It) - https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/ - Addressing challenges in AI training data quality.
-10. Building intelligent audio search with Amazon Nova Embeddings - https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/ - A deep dive into audio search capabilities using AI embeddings.
+1. Understanding Amazon Bedrock model lifecycle - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/ - Effective management of model transitions for continuous AI operation.
+2. Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime - https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/ - Enhancements for dynamic content generation in AI applications.
+3. New technique makes AI models leaner and faster while they’re still learning - https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409 - Control theory applied for more efficient AI training.
+4. Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP - https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/ - Optimizing storage costs in large language model training.
+5. ConvApparel: Measuring and bridging the realism gap in user simulators - https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/ - Enhancing realism in AI-driven user interactions.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/' target='_blank'>Improving the academic workflow: Introducing two AI agents for better figures and peer review</a></strong> — <em>2026-04-08 20:01:33</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2026/philosophy-work-michal-masny-0409' target='_blank'>A philosophy of work</a></strong> — <em>2026-04-09 18:00:00</em></summary>
+
+As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/' target='_blank'>Understanding Amazon Bedrock model lifecycle</a></strong> — <em>2026-04-09 17:33:28</em></summary>
+
+This post shows you how to manage FM transitions in Amazon Bedrock, so you can make sure your AI applications remain operational as models evolve. We discuss the three lifecycle states, how to plan migrations with the new extended access feature, and practical strategies to transition your applications to newer models without disruption.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/' target='_blank'>The future of managing agents at scale: AWS Agent Registry now in preview</a></strong> — <em>2026-04-09 17:28:20</em></summary>
+
+Today, we're announcing AWS Agent Registry (preview) in AgentCore, a single place to discover, share, and reuse AI agents, tools, and agent skills across your enterprise.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/' target='_blank'>Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore</a></strong> — <em>2026-04-09 17:06:07</em></summary>
+
+This post walks you through three steps: starting a session and generating the Live View URL, rendering the stream in your React application, and wiring up an AI agent that drives the browser while your users watch. At the end, you will have a working sample application you can clone and run.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/' target='_blank'>Running Large-Scale GPU Workloads on Kubernetes with Slurm</a></strong> — <em>2026-04-09 17:00:00</em></summary>
+
+Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/' target='_blank'>Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP</a></strong> — <em>2026-04-09 16:48:38</em></summary>
+
+Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/' target='_blank'>A Visual Explanation of Linear Regression</a></strong> — <em>2026-04-09 16:30:00</em></summary>
+
+A long-form article featuring over 100 visualizations, covering a range of topics from how to build linear regression model, measure the quality and how to improve the model
+The post A Visual Explanation of Linear Regression appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/' target='_blank'>New Future of Work: AI is driving rapid change, uneven benefits</a></strong> — <em>2026-04-09 16:11:44</em></summary>
+
+For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI […]
+The post New Future of Work: AI is driving rapid change, uneven benefits appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/' target='_blank'>Ideas: Steering AI toward the work future we want</a></strong> — <em>2026-04-09 16:10:37</em></summary>
+
+Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and explore the ideal AI-driven working world. Plus, is AI a tool or a collaborator? And why the answer matters.
+The post Ideas: Steering AI toward the work future we want appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/' target='_blank'>GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale</a></strong> — <em>2026-04-09 15:06:39</em></summary>
+
+ZTASP is a mission-scale assurance and governance platform designed for autonomous systems operating in real-world environments. It integrates heterogeneous systems—including drones, robots, sensors, and human operators—into a unified zero-trust architecture. Through Secure Runtime Assurance (SRTA) and Secure Spatio-Temporal Reasoning (SSTR), ZTASP continuously verifies system integrity, enforces safety constraints, and enables resilient operation even under degraded conditions.ZTASP has progressed beyond conceptual design, with operational validation at Technology Readiness Level (TRL) 7 in mission critical environments. Core components, including Saluki secure flight controllers, have reached TRL8 and are deployed in customer systems. While initially developed for high-consequence mission environments, the same assurance challenges are increasingly present across domains such as healthcare, transportation, and critical infrastructure.Download this free whitepaper now!
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/' target='_blank'>How to Accelerate Protein Structure Prediction at Proteome-Scale</a></strong> — <em>2026-04-09 15:00:00</em></summary>
+
+Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-visual-language-action-vla-models-work/' target='_blank'>How Visual-Language-Action (VLA) Models Work</a></strong> — <em>2026-04-09 15:00:00</em></summary>
+
+The mathematical foundations of Vision-Language-Action (VLA) models for humanoid robots and more
+The post How Visual-Language-Action (VLA) Models Work appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/' target='_blank'>Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime</a></strong> — <em>2026-04-09 14:47:57</em></summary>
+
+In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/a-survival-analysis-guide-with-python-using-time-to-event-models-to-forecast-customer-lifetime/' target='_blank'>A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime</a></strong> — <em>2026-04-09 13:30:00</em></summary>
+
+Understand survival analysis by modeling customer retention through Kaplan-Meier curves and Cox Proportional Hazard regressions.
+The post A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409' target='_blank'>New technique makes AI models leaner and faster while they’re still learning</a></strong> — <em>2026-04-09 13:00:00</em></summary>
+
+Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/the-future-of-ai-for-sales-is-diverse-and-distributed/' target='_blank'>The Future of AI for Sales Is Diverse and Distributed</a></strong> — <em>2026-04-09 12:00:00</em></summary>
+
+True creativity and innovation will come from human-agent collaboration. One human, millions of agents.
+The post The Future of AI for Sales Is Diverse and Distributed appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/' target='_blank'>ConvApparel: Measuring and bridging the realism gap in user simulators</a></strong> — <em>2026-04-09 11:22:00</em></summary>
 
 Generative AI
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/' target='_blank'>Customize Amazon Nova models with Amazon Bedrock fine-tuning</a></strong> — <em>2026-04-08 19:51:50</em></summary>
-
-In this post, we'll walk you through a complete implementation of model fine-tuning in Amazon Bedrock using Amazon Nova models, demonstrating each step through an intent classifier example that achieves superior performance on a domain specific task. Throughout this guide, you'll learn to prepare high-quality training data that drives meaningful model improvements, configure hyperparameters to optimize learning without overfitting, and deploy your fine-tuned model for improved accuracy and reduced latency. We'll show you how to evaluate your results using training metrics and loss curves.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/' target='_blank'>Human-in-the-loop constructs for agentic workflows in healthcare and life sciences</a></strong> — <em>2026-04-08 19:48:07</em></summary>
-
-In healthcare and life sciences, AI agents help organizations process clinical data, submit regulatory filings, automate medical coding, and accelerate drug development and commercialization. However, the sensitive nature of healthcare data and regulatory requirements like Good Practice (GxP) compliance require human oversight at key decision points. This is where human-in-the-loop (HITL) constructs become essential. In this post, you will learn four practical approaches to implementing human-in-the-loop constructs using AWS services.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/' target='_blank'>Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio understanding</a></strong> — <em>2026-04-08 19:45:13</em></summary>
-
-This post walks you through understanding audio embeddings, implementing Amazon Nova Multimodal Embeddings, and building a practical search system for your audio content. You'll learn how embeddings represent audio as vectors, explore the technical capabilities of Amazon Nova, and see hands-on code examples for indexing and querying your audio libraries. By the end, you'll have the knowledge to deploy production-ready audio search capabilities.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/' target='_blank'>Reinforcement fine-tuning on Amazon Bedrock: Best practices</a></strong> — <em>2026-04-08 19:43:28</em></summary>
-
-In this post, we explore where RFT is most effective, using the GSM8K mathematical reasoning dataset as a concrete example. We then walk through best practices for dataset preparation and reward function design, show how to monitor training progress using Amazon Bedrock metrics, and conclude with practical hyperparameter tuning guidelines informed by experiments across multiple models and use cases.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/' target='_blank'>Why AI Is Training on Its Own Garbage (and How to Fix It)</a></strong> — <em>2026-04-08 16:30:00</em></summary>
-
-Deep Web Data Is the Gold We Can't Touch, Yet
-The post Why AI Is Training on Its Own Garbage (and How to Fix It) appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://medium.com/pinterest-engineering/performance-for-everyone-21a560260d08?source=rss-ef81ef829bcb------2' target='_blank'>Performance for Everyone</a></strong> — <em>2026-04-08 16:01:01</em></summary>
-
-Author: Lin Wang (Android Performance Engineer)Default FeatureFor mobile apps, performance is considered as the “default feature”, which means apps are expected to run fast and be responsive. It’s just as if we expect a watch to show the time. With no exceptions at Pinterest, we measure, protect and improve performance for all of our key user experiences’ surfaces, such as “Home Feed” and “Search Result Feed”.Hard to MeasureAmong all the performance metrics, the user perceived latency is a crucial one. It measures how much time the user spends since they perform an action until they see the content. This is also called “Visually Complete”.Visually Complete can be very different from app to app or even from surface to surface within one app. On Pinterest’s “Video Pin Closeup” surface, Visually Complete means the full-screen video starts playing; on our “Home Feed” surface, Visually Complete is defined as all the images rendered and videos playing; on our “Search Auto Complete Page”, Visually Complete refers to the search autocompleted suggestions’s text rendered along with the avatar images.Given this dynamic nature of Visually Complete, engineers had to create customized measurement logic for each surface and that takes a lot of engineering effort and maintenance cost. This ends up as a major boundary for general product engineers to work on performance, especially on newly created surfaces. On average, it takes two engineer-weeks to implement a User Perceived Latency metric on the Android Client and wire it up to all the toolsets for production usage.All-In-One SolutionOver the years, the performance team at Pinterest has been thinking about how to offer performance measures with the lowest cost to product engineers. Therefore, more product engineers can more easily have access to their feature’s user perceived latency information and work on performance.Until recently, it seems we have found an answer to this. In a nut shell, we built the Visually Complete logic into the base UI class (e.g. BaseSurface). Therefore, the Perceived Latency of any UI surface (existing or new) will be automatically measured as long as the feature is built on top of this base UI class.Walk the View TreeFirst we define a few common media view interfaces: PerfImageView, PerfTextView, PerfVideoView. Each of them contains a few methods to report their rendering status: isDrawn(), isVideoLoadStarted(), x(), y(), height(), width(), etc.At the BaseSurface level, given that we should have access to the root android ViewGroup (e.g. RootView). We could just iterate through the view tree starting from the RootView by visiting all the views on this tree. We will focus on those visible views and judge if all the PerfImageView, PerfTextView and PerfVideoView instances are all drawn or started if it’s a video.In ProductionSince the release of this system on Android, it constantly visualizes the User Perceived Latency on over 60 surfaces at any given time. It is well received by many product teams and started to protect and improve their surface’s performance.Interesting CasesSince all surfaces are measured by the same standard, we can compare multiple surfaces’ performance fairly.For some features with short shelf time (e.g. a Christmas landing page), we previously weren’t able to code their latency metrics in time, but now those latency metrics will be ready since the surface is built.ConclusionOnce the performance metrics are offered to product engineers for free, it makes Pinterest’s performance more visible and encourages everyone to protect and optimize the User Perceived Latency on their surfaces.Following the success on Android, we have also extended the same concept to iOS and web platforms.AcknowledgementsSpecial thanks: Arun KPerformance for Everyone was originally published in Pinterest Engineering Blog on Medium, where people are continuing the conversation by highlighting and responding to this story.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries/' target='_blank'>Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries</a></strong> — <em>2026-04-08 16:00:00</em></summary>
-
-Physical AI—AI systems that perceive, reason, and act in physically grounded simulated environments—is changing how teams design and validate robots and...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/' target='_blank'>Detecting Translation Hallucinations with Attention Misalignment</a></strong> — <em>2026-04-08 15:00:00</em></summary>
-
-A low-budget way to get token-level uncertainty estimation for neural machine translations
-The post Detecting Translation Hallucinations with Attention Misalignment appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://spectrum.ieee.org/colorado-river-water-shortage' target='_blank'>AI Models Map the Colorado River’s Hard Choices</a></strong> — <em>2026-04-08 14:00:01</em></summary>
-
-The Colorado River begins as snow. Every spring, the mountain snowpack of the Rockies melts into streams that feed into reservoirs that supply 40 million people across seven U.S. states. The system has worked, more or less, for a century. That century is over.By some measures, 2026 is shaping up to be the worst year the river has seen since records began. Flows are down 20 percent from 2000 levels. Lake Powell, the reservoir straddling Utah and Arizona, may drop below the threshold for generating hydropower before the year is out. The negotiations between the seven states over how to share what’s left have collapsed twice, and the U.S. federal government is threatening to impose its own plan.While the states argue and the river shrinks, a growing set of machine learning tools is being deployed across the basin. Federal water managers are running millions of simulations to stress-test reservoir strategies against different possible futures. Researchers are forecasting streamflow months out using satellite data and deep learning. These technologies don’t promise to resolve the crisis, but they’re making the trade-offs visible. They’re showing, more precisely than ever before, what each decision will cost.Seeing Further Into the River’s FutureNobody manages more of the Colorado River’s daily operations than the U.S. Bureau of Reclamation. If the federal government follows through on its threat to impose a water-sharing plan, it will be Reclamation doing the imposing, and making decisions about how much water flows from Lake Powell and Lake Mead, the two largest reservoirs in the country. The agency is not new to sophisticated modeling. For years, Reclamation’s researchers have combined paleoclimate reconstructions, global circulation models, and scenario planning to predict the river’s future. Machine learning tools are adding to that toolkit, says Chris Frans, Reclamation’s water-availability research coordinator, and they are already informing real operational decisions.The clearest gains are in streamflow forecasting. Machine learning techniques—using data from satellites and weather stations well outside the basin—now outperform traditional methods across a range of conditions. Forecasts update every hour. In some areas, managers are getting five to seven days of advance warning on flood events, compared with three in the past, which gives them time to reduce the water in reservoirs before high inflows arrive.The scale of scenario modeling has also expanded dramatically. A decade ago, running 100,000 individual simulations was a landmark study. Now, says Alan Butler, who manages Reclamation’s research and modeling group for the lower Colorado Basin, millions of simulations feed the analytical tools used in the current guidelines. Those simulations map out how different operating strategies perform across widely varying futures—making the trade-offs between them harder to ignore.Dividing a Shrinking RiverKnowing how much water is coming is one problem. Deciding who gets it is another. At the center of that process is the Colorado River Simulation System (CRSS), which models how water moves through the basin’s reservoirs, canals, and pipelines under more than a century of legal and regulatory constraints. This Reclamation model is an imperfect representation, but it has been the foundation of river negotiations for decades.A tool called RiverWare, first developed in the early 1990s at the University of Colorado Boulder, lets states, cities, and tribes run their own scenarios through CRSS. Before RiverWare, these groups didn’t have confidence in Reclamation’s numbers, says Edith Zagona, a Boulder professor who directs the Center for Advanced Decision Support for Water and Environmental Systems, the center that built it. “There was just this huge lack of trust.” The solution was letting stakeholders inspect the assumptions built into the RiverWare model—how much water was available, how it could be used, and under what rules. Getting stakeholders to trust the model turned out to be the easier problem. The harder one is what to do when the model itself can’t predict a single probable future. That question drove Zagona toward a framework called decision-making under deep uncertainty, which trades prediction for stress-testing policies against thousands of possible futures.The tool Zagona’s group developed with Reclamation and the consulting firm Virga Labs puts the framework into practice in a web-based tool, running CRSS across more than 8,000 possible future water-supply scenarios to show how different management strategies hold up against the full range of what climate change might bring. At its center is an evolutionary algorithm called Borg, which generates and iteratively refines those strategies, searching for plans that perform well across many scenarios. The result is a set of trade-offs, not a single answer. Borg-RiverWare has already shaped the ongoing negotiations over the river’s next operating rules, generating the scenarios and data that Reclamation used in its modeling tools. Those tools give stakeholders a common analytical foundation for negotiations. Now Zagona’s center is pushing the approach further. A system in development would let negotiating parties test competing proposals on the fly, showing how one side’s policy choices would ripple through the system and identifying areas of potential compromise during the negotiation itself.New Tools for Forecasting the ColoradoReclamation and Zagona’s center aren’t the only ones trying to see further into the river’s future. At Metropolitan State University of Denver, a team led by Mohammad Valipour has been building a forecasting system that uses deep learning to issue drought warnings across seven rivers in Colorado, from seven days to six months out. In a region where ground gauges are sparse and mountains make installation difficult, the team found that NASA satellite data outperformed in-field measurements. The goal, Valipour says, is a statewide drought alarm system that gives farmers and water managers more time to respond.At Utah State University, Soukaina Filali Boubrahimi is attacking a different problem: how conditions at one point in the river ripple downstream weeks later. Using a graph neural network that treats each monitoring station as a node, her team built a map of the river’s interdependencies across one of the most contested water systems in the world. She says the approach could extend to other overtaxed basins.“If you can figure out the Colorado River,” she says, “anyone else dealing with a stressed river system is going to be interested in what you learned.”  Snowpack in the upper Colorado River basin is far below normal. As of late March 2026, measurements across 130 sites were about 35 percent of the median, with projections showing continued shortfalls.USDA Natural Resources Conservation Service (NRCS)What the Models Can’t SeeAcross the basin, researchers and water managers are running into the same wall. The models learn from historical data, but that data describes a river that no longer exists. Valipour found that feeding his models only the last decade outperformed using longer records. Filali Boubrahimi’s model struggles most in drought conditions, precisely when predictions matter most, because recent prolonged droughts don’t resemble the historical training data. One workaround is to train models on data from basins that have already experienced what the Colorado hasn’t yet.Even so, better forecasts do not resolve the central problem. While the tools can show you what a drier future looks like across a thousand possible scenarios, they can’t tell you who should bear the cost of it. The cuts coming to the basin are going to be enormous, says Brad Udall, a water and climate research scientist at Colorado State University’s Colorado Water Center, and they will fall mostly on agriculture. They may fundamentally reshape communities that have built their economies around water for generations. “AI has no business being in the realm of replacing human values and human judgments,” he says.The tools, by most measures, are doing exactly what they were built to do: The negotiating parties understand what is coming, and they are not disputing the projections. Zagona, who has worked on the Colorado River for 45 years, sees reasons for optimism. “The tools are bringing people to the table,” she says. “They’re at the table arguing. But at least they’re at the table.”
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/next-phase-of-enterprise-ai' target='_blank'>The next phase of enterprise AI</a></strong> — <em>2026-04-08 14:00:00</em></summary>
-
-OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-use-claude-code-to-build-a-minimum-viable-product/' target='_blank'>How to Use Claude Code to Build a Minimum Viable Product</a></strong> — <em>2026-04-08 13:30:00</em></summary>
-
-Learn how to effectively present product ideas by building MVPs with coding agents
-The post How to Use Claude Code to Build a Minimum Viable Product appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/grounding-your-llm-a-practical-guide-to-rag-for-enterprise-knowledge-bases/' target='_blank'>Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases</a></strong> — <em>2026-04-08 12:00:00</em></summary>
-
-A clear mental model and a practical foundation you can build on
-The post Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases appeared first on Towards Data Science.
 
 </details>
 
