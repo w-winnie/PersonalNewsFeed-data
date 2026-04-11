@@ -1,264 +1,236 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics and Space Exploration
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Lunar Exploration and Human Spaceflight
-The Artemis II mission represents a pivotal moment in human space exploration, marking the first crewed lunar flyby in over fifty years. This mission not only showcases advancements in crewed spacecraft technology but also rekindles public interest in lunar exploration. The astronauts have shared their emotional experiences, highlighting the mission's historic significance and the personal connections they made with the Moon, including plans to name lunar features after loved ones, a nod to the traditions of the Apollo program.
+#### 1. Historic Milestones in Lunar Exploration
+NASA's Artemis II mission has successfully concluded, marking the first crewed lunar voyage since 1972. This mission not only reaffirmed human capabilities for lunar exploration but also gathered extensive data on astronaut health and performance in space, essential for future missions. The significance of Artemis II lies in its contribution to the groundwork for sustainable lunar presence and potential colonization efforts, while also providing unique observational opportunities, such as witnessing a solar eclipse from lunar orbit.
 
-1. Artemis II astronauts described their lunar voyage as "surreal and profound," reflecting on the historic nature of their mission. (Link: https://phys.org/news/2026-04-artemis-ii-astronauts-lunar-voyage.html)
-2. The crew's emotional experience near the Moon deepened their bond, showcasing the psychological aspects of space travel. (Link: https://www.space.com/space-exploration/artemis/we-all-pretty-much-broke-down-right-there-inside-the-artemis-2-astronauts-emotional-moment-near-the-moon)
-3. The Orion capsule's re-entry will see the crew endure temperatures exceeding 3,000°C, highlighting the engineering challenges of returning safely from lunar missions. (Link: https://phys.org/news/2026-04-artemis-ii-crew-3000c-reentry.html)
+Key items illustrating this theme:
+- Artemis II astronauts returned to Earth on April 10 after a 10-day mission, achieving significant milestones in crewed lunar exploration. [Link](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission)
+- The mission included a rare solar eclipse view from beyond the Moon, providing unique observational opportunities. [Link](https://www.space.com/space-exploration/artemis/the-artemis-2-astronauts-saw-a-rare-solar-eclipse-from-beyond-the-moon-heres-what-it-looked-like)
 
-#### Solar Activity and Space Weather Research
-Recent interdisciplinary studies have leveraged historical data, including medieval Japanese poetry and dendrochronology, to enhance our understanding of solar activity and its implications for Earth. This research is crucial as it provides insights into the frequency and intensity of past solar storms, which can have significant impacts on modern technology, such as satellite operations and power grids.
+#### 2. Advances in Asteroid Research
+The Vera C. Rubin Observatory has made a substantial contribution to our understanding of the solar system by discovering 11,000 new asteroids. This influx of data is expected to enhance our knowledge of asteroid composition and orbits, with the observatory projected to identify up to 500,000 new solar system objects each year. Such discoveries are crucial for assessing potential threats to Earth and for understanding the formation and evolution of these celestial bodies.
 
-1. Research integrating historical poetry and dendrochronology has shed light on the frequency and intensity of solar storms, which can have significant implications for satellite operations and power grids. (Link: https://phys.org/news/2026-04-medieval-japanese-poetry-trees-elucidate.html)
+Key items illustrating this theme:
+- The Rubin Observatory's discoveries will allow for a deeper investigation into the origins and evolution of asteroids in our solar system. [Link](https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/)
+- New research utilizing the Subaru Telescope has provided insights into the color and size relationships of Jupiter Trojan asteroids, enhancing our understanding of their formation and evolution. [Link](https://phys.org/news/2026-04-subaru-telescope-jupiter-trojan-asteroids.html)
 
-#### Advancements in Exoplanet Research
-The newly operational Paranal solar ESPRESSO Telescope (PoET) aims to refine our understanding of stellar variability and its effects on exoplanet detection. By studying how fluctuations in stellar light can obscure orbiting planets, PoET is positioned to enhance the search for potentially habitable worlds, marking a significant advancement in exoplanet research methodologies.
+#### 3. Insights into Cosmic Origins
+Recent research has suggested that gravitational waves may provide the first evidence of primordial black holes formed during the Big Bang, which could significantly impact our understanding of dark matter. This study proposes that dark matter may not be a single entity but a combination of two distinct forms, challenging existing paradigms and prompting further investigation into the nature of this elusive component of the universe.
 
-1. The PoET telescope has begun its first observations, positioning itself as a critical tool for exoplanet research by studying solar activity and its implications for planet detection. (Link: https://phys.org/news/2026-04-solar-telescope-sunspots-exoplanet-weapons.html)
+Key items illustrating this theme:
+- Gravitational wave observations indicate the presence of primordial black holes, which could reshape our understanding of dark matter. [Link](https://www.space.com/astronomy/black-holes/ripples-in-spacetime-may-have-revealed-1st-evidence-of-tiny-black-holes-born-in-the-big-bang)
+- A new hypothesis suggests that dark matter may not be a single particle but rather a combination of two types, challenging existing models and prompting further investigation. [Link](https://www.sciencedaily.com/releases/2026/04/260409101101.htm)
 
 ### Conclusion
-The current trajectory in astrophysics and space exploration is characterized by significant advancements in human spaceflight, a deeper understanding of solar activity, and improved techniques in exoplanet research. The Artemis II mission not only revives interest in lunar exploration but also highlights the emotional and psychological dimensions of space travel. Concurrently, interdisciplinary approaches to studying solar weather may enhance our preparedness for future technological challenges. Together, these developments signify a robust commitment to exploring and understanding our solar system and beyond.
+The current landscape of astrophysics is marked by significant advancements in lunar exploration, asteroid research, and insights into cosmic phenomena. The successful Artemis II mission reinforces a renewed commitment to human space exploration, while discoveries in asteroid dynamics and the nature of dark matter are reshaping our understanding of the universe. As these themes develop, they are likely to inspire new research directions and technological innovations in the field.
 
 ### Top Sources:
-1. Medieval Japanese poetry and buried trees help elucidate volatile space weather - https://phys.org/news/2026-04-medieval-japanese-poetry-trees-elucidate.html - Historical data is used to analyze past solar storms and their impacts.
-2. Artemis II astronauts describe their lunar voyage as surreal and profound ahead of Earth return - https://phys.org/news/2026-04-artemis-ii-astronauts-lunar-voyage.html - Astronauts reflect on their historic journey around the Moon.
-3. How NASA's Artemis II mission rediscovered the majesty and mystery of the moon - https://phys.org/news/2026-04-nasa-artemis-ii-mission-rediscovered.html - Overview of the Artemis II mission's significance.
-4. New solar telescope turns sunspots into exoplanet-finding weapons - https://phys.org/news/2026-04-solar-telescope-sunspots-exoplanet-weapons.html - Introduction of a telescope to aid in exoplanet detection.
-5. Artemis II crew will endure 3,000°C on re‑entry. A hypersonics expert explains how they will survive - https://phys.org/news/2026-04-artemis-ii-crew-3000c-reentry.html - Insights into the challenges of spacecraft re-entry.
-6. 'We all pretty much broke down right there': Inside the Artemis 2 astronauts' emotional moment near the moon - https://www.space.com/space-exploration/artemis/we-all-pretty-much-broke-down-right-there-inside-the-artemis-2-astronauts-emotional-moment-near-the-moon - Emotional reflections from the Artemis II crew.
-7. The Deep Space Network Acquires Artemis II Signal - https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal-2/ - Technical achievements in communications during the Artemis II mission.
-8. Artemis II astronauts follow Apollo tradition of naming lunar features after loved ones - https://phys.org/news/2026-04-artemis-ii-astronauts-apollo-tradition.html - Personal touches added to lunar exploration by the Artemis II crew.
-9. A Mercury rover could explore the planet by sticking to the Terminator - https://phys.org/news/2026-04-mercury-rover-explore-planet-terminator.html - Proposal for a rover mission to explore Mercury's unique environment.
-10. Crew of tiny worms readies for April 11 launch to International Space Station - https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station - Research on the effects of long-term spaceflight using model organisms.
+1. Artemis II's record-breaking journey around the moon ends with dramatic splashdown - https://phys.org/news/2026-04-artemis-ii-journey-moon-splashdown.html - Artemis II astronauts return after a historic lunar mission.
+2. Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon - https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission - Wrap-up of Artemis II's achievements.
+3. Chang'e mission samples reveal how exogenous organic matter evolves on the moon - https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html - Insights into the origins of life's building blocks.
+4. Subaru Telescope sheds light on Jupiter Trojan asteroids' color mystery - https://phys.org/news/2026-04-subaru-telescope-jupiter-trojan-asteroids.html - New findings on asteroid color and size relationships.
+5. Major new telescope on Chilean summit opens window on universe - https://phys.org/news/2026-04-major-telescope-chilean-summit-window.html - The Fred Young Submillimeter Telescope will enhance our understanding of cosmic phenomena.
+6. Rubin Observatory Announces 11,000 New Asteroids - https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/ - Significant discoveries in solar system research.
+7. Peculiar core-collapse supernova breaks the mold with a long, dim plateau - https://phys.org/news/2026-04-peculiar-core-collapse-supernova-mold.html - New observations of an unusual supernova.
+8. Ripples in spacetime may have revealed 1st evidence of tiny black holes born in the Big Bang - https://www.space.com/astronomy/black-holes/ripples-in-spacetime-may-have-revealed-1st-evidence-of-tiny-black-holes-born-in-the-big-bang - Gravitational waves provide new insights into primordial black holes.
+9. Scientists think dark matter might come in two forms - https://www.sciencedaily.com/releases/2026/04/260409101101.htm - A new hypothesis on the nature of dark matter.
+10. NASA took this camera gear to space aboard Artemis 2, and you can own it, too! - https://www.space.com/stargazing/skywatching-kit/nasa-took-this-camera-gear-to-space-aboard-artemis-2-and-you-can-own-it-too - An overview of the equipment used in the mission.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-04-medieval-japanese-poetry-trees-elucidate.html' target='_blank'>Medieval Japanese poetry and buried trees help elucidate volatile space weather</a></strong> — <em>2026-04-10 03:00:02</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-04-howl-moon-nasa-boost-space.html' target='_blank'>'Howl at the moon': NASA's bid to boost space enthusiasm</a></strong> — <em>2026-04-11 06:40:01</em></summary>
 
-On Earth, extreme solar activity often appears as beautiful, benign auroras. But venturing beyond the safety of the Earth's magnetic field, one faces the full brunt of a temperamental star that can suddenly erupt with flares and coronal mass ejections.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-astronauts-lunar-voyage.html' target='_blank'>Artemis II astronauts describe their lunar voyage as surreal and profound ahead of Earth return</a></strong> — <em>2026-04-09 22:00:05</em></summary>
-
-Drawing ever closer to Earth, the Artemis II astronauts tidied up their lunar cruiser for its upcoming "fireball" return and reflected on their historic journey around the moon, describing it as surreal and profound.
+When NASA flight director Zebulon Scoville was working a shift during the uncrewed Artemis I test flight, he realized the US space agency wasn't consistently livestreaming the spacecraft's journey to Earth.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/' target='_blank'>I Am Artemis: Dan Florez</a></strong> — <em>2026-04-09 21:45:57</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-journey-moon-splashdown.html' target='_blank'>Artemis II's record-breaking journey around the moon ends with dramatic splashdown</a></strong> — <em>2026-04-11 05:50:57</em></summary>
 
-Listen to this audio excerpt from Dan Florez, test director for NASA’s Exploration Ground Systems Program: At 1:47 a.m. EST November 16, 2022, as the Artemis I engines ignited, NASA astronaut Reid Wiseman and Dan Florez, NASA test director for the agency’s Exploration Ground Systems, watched from Kennedy’s Launch Control Center roof as the midnight […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-nasa-artemis-ii-mission-rediscovered.html' target='_blank'>How NASA's Artemis II mission rediscovered the majesty and mystery of the moon</a></strong> — <em>2026-04-09 21:20:05</em></summary>
-
-On April 10, Artemis II—humanity's first mission to the moon in more than half a century—will draw to a close when the Orion capsule carrying four crew members detaches from its service module.
+Artemis II's astronauts closed out humanity's first lunar voyage in more than half a century with a Pacific splashdown on Friday, blazing new records near the moon with grace and joy.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-terraform-mars-scientific-roadmap-lays.html' target='_blank'>Could we actually terraform Mars? A new scientific roadmap lays out the blueprint—and the risks</a></strong> — <em>2026-04-09 21:00:03</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown' target='_blank'>Artemis II: splashdown</a></strong> — <em>2026-04-11 00:51:00</em></summary>
 
-Reading the "Mars Trilogy" by Kim Stanley Robinson brings the benefits and pitfalls of efforts to terraform the red planet into sharp relief. Since the 1970s, when Carl Sagan first suggested the possibility that we could make Mars more Earth-like, that process has been a staple of science fiction. But there's always been a significant amount of humanity that thinks we shouldn't. A new paper posted to the arXiv preprint server by Edwin Kite of the University of Chicago and his co-authors skirts around the ethical and moral questions of whether we should and tries to take a long, hard look at whether we can.
 
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-artemis-2-astronauts-got-a-private-project-hail-mary-screening-before-launch-heres-their-verdict' target='_blank'>The Artemis 2 astronauts got a private 'Project Hail Mary' screening before launch. Here's their verdict</a></strong> — <em>2026-04-09 21:00:00</em></summary>
-
-'We all thought that movie was really uplifting and inspiring.'
+Today, at 17:07  local time  on 10 April  (01:07  BST/02:07 CEST  11 April), NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module powered this historic mission that took four astronauts around the Moon and back for the first time since Apollo 17 in 1972.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/starstruck/' target='_blank'>Starstruck</a></strong> — <em>2026-04-09 20:29:32</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission' target='_blank'>Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon</a></strong> — <em>2026-04-11 00:24:52</em></summary>
 
-The Artemis II crew captured this photo of our galaxy, the Milky Way, on April 7, 2026. The Milky Way’s elegant spiral structure is dominated by just two arms wrapping off the ends of a central bar of stars. Spanning more than 100,000 light-years, Earth is located along one of the galaxy’s spiral arms, about […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/' target='_blank'>Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility</a></strong> — <em>2026-04-09 19:32:29</em></summary>
-
-Description Staff at NASA’s Jet Propulsion Laboratory in Southern California watch the agency’s Artemis II mission unfold soon after launch on April 1, 2026, at the Space Flight Operations Facility, which operates the Deep Space Network (DSN). The DSN comprises of three complexes in Goldstone, California; Madrid, Spain; and Canberra, Australia. Each complex has several […]
+NASA's Artemis 2 astronauts came home today (April 10), wrapping up an epic mission that broke spaceflight records and set the stage for even more ambitious moonshots to come.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal-2/' target='_blank'>The Deep Space Network Acquires Artemis II Signal</a></strong> — <em>2026-04-09 19:28:07</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html' target='_blank'>Chang'e mission samples reveal how exogenous organic matter evolves on the moon</a></strong> — <em>2026-04-10 22:40:03</em></summary>
 
-Description A graphical representation of the Deep Space Network’s radio frequency antennas indicate signal acquisition from NASA’s Artemis II mission to the Moon on April 1, 2026, inside the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California. Two antennas at the Madrid Deep Space Communications Complex, Deep Space Station 54 and […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal/' target='_blank'>The Deep Space Network Acquires Artemis II Signal</a></strong> — <em>2026-04-09 19:22:28</em></summary>
-
-Description The acquisition of the radio frequency signal from the Artemis II crewed mission to the Moon by NASA’s Deep Space Network (DSN) is indicated by the peak in the data signal shown on the top computer screen.  Soon after the mission’s launch on April 1, 2026, at 6:35 p.m. EDT, NASA’s Near Space Network […]
+Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were "delivered" to Earth and the moon during the early stages of the solar system via asteroids and comets impacting their surfaces. These exogenous materials may have provided the chemical building blocks necessary for the origin and early evolution of life on Earth. But extensive geological activity and biological processes on Earth have largely erased the direct records of these early inputs on our planet.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/' target='_blank'>Watching Over the Deep Space Network Before Artemis II Signal Acquisition</a></strong> — <em>2026-04-09 19:17:20</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-subaru-telescope-jupiter-trojan-asteroids.html' target='_blank'>Subaru Telescope sheds light on Jupiter Trojan asteroids' color mystery</a></strong> — <em>2026-04-10 20:40:03</em></summary>
 
-Description Blanca Renteria, Artemis Deep Space Network (DSN) operations chief, monitors data at the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California shortly after Artemis II launched from the agency’s Kennedy Space Flight Center in Florida on April 1, 2026, at 6:35 p.m. EDT. The Space Flight Operations Facility operates the […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/watching-the-artemis-ii-launch-from-jpls-space-flight-operations-facility/' target='_blank'>Watching the Artemis II Launch From JPL’s Space Flight Operations Facility</a></strong> — <em>2026-04-09 19:12:04</em></summary>
-
-Description Staff at NASA’s Jet Propulsion Laboratory in Southern California watch the launch of the agency’s Artemis II mission to the Moon on April 1, 2026, at the Space Flight Operations Facility, which operates the Deep Space Network (DSN). Soon after launch, the Artemis II crew communicated with the Near Space Network while they were […]
+Observations conducted with the Subaru Telescope and its first-generation wide-field camera, Suprime-Cam, have revealed new insights into the relationship between the color and size of Jupiter Trojan asteroids.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/jpls-lucky-peanuts-before-artemis-ii-launch/' target='_blank'>JPL’s ‘Lucky Peanuts’ Before Artemis II Launch</a></strong> — <em>2026-04-09 19:06:34</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/neaf-2026-returns-to-new-york-this-weekend-with-all-star-astronaut-lineup-and-worlds-largest-space-expo' target='_blank'>NEAF 2026 returns to New York this weekend with all-star astronaut lineup and 'world's largest' space expo</a></strong> — <em>2026-04-10 19:00:00</em></summary>
 
-Description A container of “lucky peanuts” sits above workstations within the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory shortly before the launch of the Artemis II mission to the Moon on April 1, 2026. Eating peanuts before launches and other major mission events is a longstanding tradition at JPL. The Space Flight Operations Facility operates […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station' target='_blank'>Crew of tiny worms readies for April 11 launch to International Space Station</a></strong> — <em>2026-04-09 19:00:00</em></summary>
-
-A crew of tiny worms will spend six months aboard the International Space Station, helping researchers better understand how long-term spaceflight affects human astronauts.
+Thousands of enthusiasts, professionals and curious skywatchers will gather this weekend for the world’s largest and most spectacular astronomy and space expo.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/supporting-artemis-ii-from-jpls-space-flight-operations-facility/' target='_blank'>Supporting Artemis II From JPL’s Space Flight Operations Facility</a></strong> — <em>2026-04-09 18:57:26</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-major-telescope-chilean-summit-window.html' target='_blank'>Major new telescope on Chilean summit opens window on universe</a></strong> — <em>2026-04-10 18:40:07</em></summary>
 
-Description The Artemis II mission patch appears in the center screen of the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California on April 1, 2026, shortly before the mission launched to the Moon. A graphical representation of the antennas of the agency’s Deep Space Network (DSN), left, indicates which antennas are […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/it-probably-will-start-a-precedent-why-satellite-companys-withholding-of-iran-imagery-has-this-expert-worried' target='_blank'>'It probably will start a precedent': Why satellite company's withholding of Iran imagery has this expert worried</a></strong> — <em>2026-04-09 17:32:01</em></summary>
-
-In response to a request from the U.S. government, Planet Labs made a decision not to share photos of Iran as well as the larger conflict region in the Middle East indefinitely
+Thirty-four years after Cornell University scientists first conceived it, the Fred Young Submillimeter Telescope (FYST) now rises above the Atacama Desert, near the summit of Cerro Chajnantor in Chile. FYST will help answer some of the most important questions in astronomy, including how the universe works, the nature of dark energy and dark matter, how galaxies form and evolve and what happened in those mysterious first moments after the Big Bang.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-crew-3000c-reentry.html' target='_blank'>Artemis II crew will endure 3,000°C on re‑entry. A hypersonics expert explains how they will survive</a></strong> — <em>2026-04-09 17:00:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-parachutes-vital-artemis-ii-home.html' target='_blank'>Parachutes: A vital part of Artemis II's trip home</a></strong> — <em>2026-04-10 18:10:01</em></summary>
 
-After successfully completing their mission to the moon, the Artemis II crew are about to return to Earth.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/a-house-size-asteroid-is-heading-toward-earth-tonight-heres-what-you-need-to-know' target='_blank'>A house-size asteroid is heading toward Earth tonight: Here's what you need to know</a></strong> — <em>2026-04-09 17:00:00</em></summary>
-
-The asteroid is on the European Space Agency's Risk List, but poses no threat to Earth or the moon during the close approach.
+As the Orion spacecraft hurtles home, friction caused by reentry into Earth's atmosphere will drastically decrease its speed from a potential 25,000 miles per hour (40,000 kilometers per hour).
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/watch-artemis-2-race-back-to-earth-in-this-telescope-livestream-tonight' target='_blank'>Watch Artemis 2 race back to Earth in this telescope livestream tonight</a></strong> — <em>2026-04-09 16:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/the-artemis-2-astronauts-saw-a-rare-solar-eclipse-from-beyond-the-moon-heres-what-it-looked-like' target='_blank'>The Artemis 2 astronauts saw a rare solar eclipse from beyond the moon. Here's what it looked like</a></strong> — <em>2026-04-10 17:18:28</em></summary>
 
-A Virtual Telescope Project livestream will track NASA's Artemis 2 Orion spacecraft as it races back toward Earth. Here's how to watch it live.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-mercury-rover-explore-planet-terminator.html' target='_blank'>A Mercury rover could explore the planet by sticking to the Terminator</a></strong> — <em>2026-04-09 16:20:04</em></summary>
-
-The closest planet to our sun, Mercury, experiences extreme temperature variations. Since the planet has no atmosphere to speak of, it is in a constant cycle where one side is extremely hot and the other extremely cold. On the sun-facing side, temperatures reach a scorching 427°C (800°F), enough to melt tin and lead, and the surface is exposed to extremely lethal levels of radiation. On the night side, temperatures plunge to a chilling −173°C (-279.4°F), cold enough to freeze most liquids, including those used in battery manufacturing.
+A newly released NASA timelapse reveals the moon crossing the sun as seen from deep space, giving the Artemis 2 crew a rare extended view of totality and the solar corona.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-twin-nasa-rooms-artemis-safety.html' target='_blank'>Twin NASA control rooms support Artemis safety, success</a></strong> — <em>2026-04-09 16:00:07</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/comets/why-im-hunting-for-comet-pan-starrs-right-now-before-its-too-late' target='_blank'>Why I'm hunting for Comet Pan-STARRS right now — before it's too late</a></strong> — <em>2026-04-10 17:00:00</em></summary>
 
-Twin control rooms at NASA's Marshall Space Flight Center in Huntsville, Alabama, are actively supporting real-time mission operations in lunar orbit as part of the agency's Artemis II mission, helping ensure astronaut safety and mission success as the crew prepares to return to Earth Friday, April 10.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/1-week-until-the-lyrid-meteor-shower-lights-up-april-skies-heres-what-you-need-to-know' target='_blank'>1 week until the Lyrid meteor shower lights up April skies: Here's what you need to know</a></strong> — <em>2026-04-09 16:00:00</em></summary>
-
-The Lyrid meteor shower peaks overnight on April 21-22.
+A rare long-period comet returns after 170,000 years — here's how to find comet C/2025 R3 (Pan-STARRS) before sunrise this April, with key dates, viewing tips and the best mornings to look.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/nasa-astronaut-leland-melvin-makes-a-cartoon-cameo-in-latest-episode-of-disney-s-hey-a-j' target='_blank'>NASA astronaut Leland Melvin makes a cartoon cameo in latest episode of Disney+'s 'Hey A.J.!'</a></strong> — <em>2026-04-09 15:30:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-grand-moon-pacific.html' target='_blank'>Artemis II's grand moon finale is almost here with a Pacific splashdown to cap NASA's lunar comeback</a></strong> — <em>2026-04-10 16:23:57</em></summary>
 
-'I’m proof that if you keep dreaming big, you too can be out of this world.'
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/artemis-2-astronaut-poses-for-epic-selfie-space-photo-of-the-day-for-april-9-2026' target='_blank'>Artemis 2 astronaut poses for epic selfie | Space photo of the day for April 9, 2026</a></strong> — <em>2026-04-09 14:20:26</em></summary>
-
-Astronaut Christina Koch poses with zero-gravity indicator "Rise" in the viewport of the Artemis 2 Orion spacecraft.
+Their dramatic grand finale fast approaching, Artemis II's astronauts aimed for a splashdown in the Pacific on Friday to close out humanity's first voyage to the moon in more than half a century.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-solar-telescope-sunspots-exoplanet-weapons.html' target='_blank'>New solar telescope turns sunspots into exoplanet-finding weapons</a></strong> — <em>2026-04-09 14:00:06</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/' target='_blank'>Rubin Observatory Announces 11,000 New Asteroids</a></strong> — <em>2026-04-10 15:27:19</em></summary>
 
-The Paranal solar ESPRESSO Telescope (PoET), installed at the European Southern Observatory's (ESO's) Paranal site in Chile, has made its first observations. The telescope will work with ESO's ESPRESSO instrument to study the sun in detail. Described as a solar telescope for planet hunters, PoET aims to understand how the variation in the light from stars like the sun can mask the presence of planets orbiting them, helping us in our search for worlds outside the solar system.
+The Vera C. Rubin Observatory will discover up to 500,000 solar system objects every year. It’s already starting to deliver on that promise.
+The post Rubin Observatory Announces 11,000 New Asteroids appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/04/Moon_joy_Earth_love' target='_blank'>Moon joy, Earth love</a></strong> — <em>2026-04-09 13:32:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-04-peculiar-core-collapse-supernova-mold.html' target='_blank'>Peculiar core-collapse supernova breaks the mold with a long, dim plateau</a></strong> — <em>2026-04-10 15:00:03</em></summary>
+
+Astronomers from the Chinese Academy of Sciences (CAS) have employed the Lijiang 2.4-m telescope to perform optical photometric and spectroscopic observations of a core-collapse Type IIP supernova designated SN 2024abfl. Results of the observational campaign, published April 2 on the  arXiv, preprint server, deliver essential information regarding the origin of this peculiar supernova.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/theyre-not-shipping-cows-up-to-mars-for-all-mankind-creators-talk-scientific-accuracy-and-colonial-inspirations-behind-season-5-interview' target='_blank'>'They’re not shipping cows up to Mars': 'For All Mankind' creators talk scientific accuracy and colonial inspirations behind season 5 (interview)</a></strong> — <em>2026-04-10 15:00:00</em></summary>
+
+We chat with "For All Mankind" creators Ben Nedivi and Matt Wolbert about season 5's dramatic arc, scientific accuracy, and real-world parallels.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/nasa-took-this-camera-gear-to-space-aboard-artemis-2-and-you-can-own-it-too' target='_blank'>NASA took this camera gear to space aboard Artemis 2, and you can own it, too!</a></strong> — <em>2026-04-10 14:47:52</em></summary>
+
+Artemis 2 is the first crewed lunar mission in over 50 years, but the cameras onboard are surprisingly down-to-earth. Here's how to get your hands on the gear that has brought us so many stunning shots of space.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/artemis-2-spies-a-crescent-earth-above-the-moons-horizon-space-photo-of-the-day-for-april-10-2026' target='_blank'>Artemis 2 spies a crescent Earth above the moon's horizon | Space photo of the day for April 10, 2026</a></strong> — <em>2026-04-10 14:05:52</em></summary>
+
+Earth shines above the lunar horizon in a new Artemis 2 photo.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-esa-celeste-earth-orbit.html' target='_blank'>ESA's Celeste broadcasts first navigation signal from low Earth orbit</a></strong> — <em>2026-04-10 14:00:04</em></summary>
+
+The European Space Agency has achieved a European first with Celeste, successfully transmitting a navigation signal from low Earth orbit, following the launch of the mission's first satellites on March 28.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-deep-space-network-artemis-ii.html' target='_blank'>The Deep Space Network acquires Artemis II signal</a></strong> — <em>2026-04-10 13:20:09</em></summary>
+
+The acquisition of the radio frequency signal from the Artemis II crewed mission to the moon by NASA's Deep Space Network (DSN) is indicated by the peak in the data signal shown on the top computer screen.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_April_2026' target='_blank'>Week in images: 06-10 April 2026</a></strong> — <em>2026-04-10 13:20:00</em></summary>
+
+
+Week in images: 06-10 April 2026
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/ripples-in-spacetime-may-have-revealed-1st-evidence-of-tiny-black-holes-born-in-the-big-bang' target='_blank'>Ripples in spacetime may have revealed 1st evidence of tiny black holes born in the Big Bang</a></strong> — <em>2026-04-10 13:00:00</em></summary>
+
+Gravitational waves may have provided the first tantalizing evidence of tiny primordial black holes born during the Big Bang, which could account for dark matter.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/04/260409101101.htm' target='_blank'>Scientists think dark matter might come in two forms</a></strong> — <em>2026-04-10 12:34:50</em></summary>
+
+A mysterious glow of gamma rays at the center of the Milky Way has long hinted at dark matter, but the lack of similar signals in smaller dwarf galaxies has cast doubt on that idea. Now, researchers propose a bold twist: dark matter might not be a single particle at all, but a mix of two different types that must interact with each other to produce detectable signals.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-humans-moon-futures.html' target='_blank'>Artemis II: As humans return to the Moon, which of these 4 futures will we choose?</a></strong> — <em>2026-04-10 12:00:01</em></summary>
+
+The four Artemis II astronauts who looped around the moon this week are expected to splash down soon. NASA's grand mission spells a return to human deep-space travel, with renewed interest in building a long-term moon base.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/watch-nasa-artemis-2-astronauts-return-to-earth-live-online-today-april-10' target='_blank'>Watch NASA's Artemis 2 astronauts return to Earth live online today (April 10)</a></strong> — <em>2026-04-10 10:45:00</em></summary>
+
+Live coverage of Artemis 2's splashdown begins this evening as four astronauts return from their historic 10-day mission around the moon.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-mission-is-coming-home-today-where-will-it-land' target='_blank'>Where will NASA's Artemis 2 moon astronauts make their splashdown today?</a></strong> — <em>2026-04-10 10:30:00</em></summary>
+
+The Artemis 2 astronauts will return to Earth this evening (April 10) with a splashdown in the Pacific Ocean. Here's where they'll hit the water, and why that spot was chosen.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-mission-landing-what-time' target='_blank'>What time is NASA's Artemis 2 splashdown today? Full schedule</a></strong> — <em>2026-04-10 10:15:00</em></summary>
+
+Artemis 2 splashes down on April 10. Here's everything you need to know.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-splashdown-what-to-expect-reentry-landing-timeline' target='_blank'>Today is splashdown day for Artemis 2 moon astronauts — What to expect at each stage of reentry & landing (timeline)</a></strong> — <em>2026-04-10 10:00:00</em></summary>
+
+It's splashdown day for NASA's Artemis 2 moon astronauts. Here's what to expect at every stage.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-april-10-19/' target='_blank'>This Week's Sky at a Glance, April 10 – 19</a></strong> — <em>2026-04-10 08:48:00</em></summary>
+
+A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and the Pleiades in evening twilight.
+The post This Week's Sky at a Glance, April 10 – 19 appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-meters-artemis-ii-hurtles-home.html' target='_blank'>After reaching speeds of 10,657 meters per second, Artemis II hurtles home for make-or-break splashdown</a></strong> — <em>2026-04-10 08:12:54</em></summary>
+
+The Artemis II astronauts conducted a historic lunar flyby, gathered invaluable data and took in unprecedented moon views, but one of the most crucial moments of their 10-day mission is still to come: Friday's splashdown.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-astronauts-space-health.html' target='_blank'>Artemis astronauts to shed light on space health risks</a></strong> — <em>2026-04-10 08:08:15</em></summary>
+
+While the Artemis II astronauts have been protected from the icy vacuum of space on their journey, their bodies have nonetheless been left exposed to possibly high levels of radiation—a danger of space travel that NASA is anxiously waiting to study.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Lava_flow_on_Reunion_Island' target='_blank'>Earth from Space: Lava flow on Réunion Island</a></strong> — <em>2026-04-10 08:00:00</em></summary>
 
 
 	Image:
-			Orion and its European Service Module bringing the crew around the Moon and back to Earth
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/we-all-pretty-much-broke-down-right-there-inside-the-artemis-2-astronauts-emotional-moment-near-the-moon' target='_blank'>'We all pretty much broke down right there': Inside the Artemis 2 astronauts' emotional moment near the moon</a></strong> — <em>2026-04-09 13:00:00</em></summary>
-
-Just after they broke the human spaceflight distance record, the Artemis 2 astronauts shared a powerful moment that deepened their already profound bond.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/light-pollution-has-brightened-earth-by-16-percent-since-2014-satellites-find' target='_blank'>Light pollution has brightened Earth by 16% since 2014, satellites find</a></strong> — <em>2026-04-09 12:00:00</em></summary>
-
-Artificial lights at night brightened up planet Earth by 16% from 2014 to 2022, a new study using satellite images has found.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/join-us-at-the-35th-annual-northeast-astronomy-forum/' target='_blank'>Join Us at the 35th Annual Northeast Astronomy Forum</a></strong> — <em>2026-04-09 12:00:00</em></summary>
-
-The weekend of April 11–12 marks the return of the world’s largest astronomy and space expo with telescopes, cameras, and activities for the entire family.  
-The post Join Us at the 35th Annual Northeast Astronomy Forum appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/artemis-2-mission-sends-kerbal-space-program-player-numbers-soaring' target='_blank'>Artemis 2 mission sends 'Kerbal Space Program' player numbers soaring to the Mun</a></strong> — <em>2026-04-09 11:00:30</em></summary>
-
-Anything NASA can do, you can do too.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-chills-artemis-astronauts-lunar-flyby.html' target='_blank'>'Chills': Artemis astronauts say lunar flyby still washing over them</a></strong> — <em>2026-04-09 10:50:02</em></summary>
-
-They took thousands of photographs and documented copious observations on their voyage around the moon, but as they sped closer to home the Artemis astronauts said Wednesday they have barely started processing the extraordinary experience they shared.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-crew-families-enthralled-messages.html' target='_blank'>Artemis crew's families enthralled by messages from space</a></strong> — <em>2026-04-09 10:10:01</em></summary>
-
-A week after astronaut Jeremy Hansen blasted off on the historic Artemis II mission to the moon, his wife Catherine recalled the anxiety and thrill of witnessing the journey from afar.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/all-eyes-on-orions-heat-shield-artemis-2-astronauts-will-hit-earths-atmosphere-at-a-record-breaking-25-000-mph-on-april-10' target='_blank'>All eyes on Orion’s heat shield: Artemis 2 astronauts will hit Earth's atmosphere at nearly 24,000 mph on April 10</a></strong> — <em>2026-04-09 10:00:00</em></summary>
-
-Artemis 2's Orion capsule will hit Earth's atmosphere at nearly 24,000 mph on April 10. A heat shield and 11 parachutes will help it survive the fiery trip and splash down safely.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-artemis-ii-astronauts-apollo-tradition.html' target='_blank'>Artemis II astronauts follow Apollo tradition of naming lunar features after loved ones</a></strong> — <em>2026-04-09 09:20:02</em></summary>
-
-Lunar love knows no bounds. Now hurtling home from the moon, the Artemis II astronauts took a poignant page from Apollo 8 earlier this week, proposing deeply personal names for a pair of lunar craters.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-maple-syrup-nutella-pm-carney.html' target='_blank'>Maple syrup or nutella? PM Carney calls Canadian Artemis astronaut</a></strong> — <em>2026-04-09 08:29:34</em></summary>
-
-Canadian astronaut Jeremy Hansen told Prime Minister Mark Carney on Wednesday that "teamwork is willingness" during an Earth-to-space call celebrating the achievements of the historic lunar journey.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-04-houston-problem-toilet.html' target='_blank'>Houston, we have a problem ... with the toilet</a></strong> — <em>2026-04-09 08:28:32</em></summary>
-
-After a successful trip around the moon, everything has been going smoothly on the Orion spacecraft's journey back to Earth—except for the $23 million toilet, which has gotten clogged.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/may-full-moon-2026-when-where-and-how-to-see-the-flower-moon' target='_blank'>May full moon 2026: When, where and how to see the Flower Moon</a></strong> — <em>2026-04-09 07:44:40</em></summary>
-
-Your guide to May's full Flower Moon, from peak times to skywatching highlights.
+			This Copernicus Sentinel-2 image captures an active lava flow on the Piton de la Fournaise volcano on Réunion Island.
 
 </details>
 

@@ -2,144 +2,77 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Advancements in Model Efficiency
-Recent developments are focused on enhancing the efficiency of AI models, particularly in terms of their training and operational management. Innovations in model lifecycle management, such as those introduced by Amazon Bedrock, are enabling smoother transitions between models, which is crucial for maintaining uptime in dynamic AI applications. These advancements are pivotal as organizations increasingly rely on AI systems that must adapt quickly to changing data and requirements.
+#### 1. Innovations in AI Content Evaluation
+Recent advancements in AI focus on enhancing the quality of content evaluation, particularly in creative contexts. Netflix has introduced an LLM-based system that evaluates show synopses, achieving over 85% agreement with human writers. This model utilizes a combination of metrics, including creative quality and user feedback, to refine its assessments. By implementing techniques such as tiered rationales and consensus scoring, Netflix aims to align AI evaluations more closely with human creativity and viewer engagement.
 
-Key items:
-- **Understanding Amazon Bedrock model lifecycle** - This article details how to effectively manage transitions between AI models, ensuring continuous operation. [Read more](https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/)
-- **Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime** - This feature enhances user interaction and system efficiency during long-running tasks, allowing for dynamic content generation. [Read more](https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/)
+Key Items:
+- Netflix's LLM-as-a-Judge system effectively assesses synopses, demonstrating alignment with human evaluations.
+- The system's integration into Netflix’s workflow marks a significant step in using AI for creative tasks.
+- Methodologies include prompt optimization and specialized agents to ensure factual accuracy.
 
-#### 2. Innovations in Training Techniques
-A novel approach leveraging control theory has emerged, allowing for the simplification of AI models during training. This method reduces computational costs significantly without sacrificing performance, representing a substantial step toward more efficient AI training paradigms. Such techniques are crucial as the demand for sustainable AI practices grows.
+#### 2. Reevaluating MLOps and Model Retraining
+The field of MLOps is grappling with the effectiveness of traditional model retraining schedules. Recent studies indicate that calendar-based retraining often fails to reflect how models actually learn and process information. A novel shock-detection approach has been proposed, which captures the "shock" experienced by models in production, suggesting that retraining should be more adaptive to these dynamics.
 
-Key items:
-- **New technique makes AI models leaner and faster while they’re still learning** - This research reveals how complexity reduction can improve efficiency during the training phase of AI models. [Read more](https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409)
-- **Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP** - This solution optimizes the storage costs associated with training large language models, making the process more cost-effective. [Read more](https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/)
+Key Items:
+- Research shows that models do not simply forget; they undergo shocks that impact their performance.
+- The shock-detection mechanism offers a more responsive strategy for maintaining model efficacy over time.
 
-#### 3. Enhancing Realism in Generative AI
-Research is increasingly focusing on bridging the realism gap in generative AI, particularly in user simulations. Google’s work on enhancing user interactions through improved realism in AI-driven simulations is critical for developing more authentic and engaging AI experiences, which is essential for applications in virtual environments and interactive AI systems.
+#### 3. Progress in Spatial Intelligence and 3D Perception
+AI research is making strides in spatial intelligence, emphasizing depth estimation and spatial relationship understanding. Techniques like foundation segmentation and geometric fusion are being integrated to enhance AI's ability to interpret three-dimensional environments. This progress is crucial for applications in robotics, autonomous navigation, and augmented reality.
 
-Key items:
-- **ConvApparel: Measuring and bridging the realism gap in user simulators** - This study aims to improve the realism of user interactions with AI, making simulations more lifelike. [Read more](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/)
+Key Items:
+- The integration of depth estimation and segmentation techniques is improving spatial understanding in AI.
+- These advancements are paving the way for more sophisticated applications in various domains, including computer vision.
 
 ### Conclusion
-The current trajectory of AI development is marked by a concerted effort towards efficiency and realism. Innovations in model management and training techniques are fostering the creation of more adaptable and effective AI systems. As these advancements progress, they are expected to significantly influence the operational landscape of AI across various sectors, enhancing performance and enriching user experiences. The focus on bridging gaps in realism also indicates a growing recognition of the importance of human-like interactions in AI applications. 
+The current landscape of AI research is marked by significant advancements in content evaluation, MLOps practices, and spatial intelligence. The integration of LLMs in creative assessments signifies a shift towards leveraging AI for artistic tasks, while new insights into model retraining underscore the need for more adaptive strategies. Collectively, these developments reflect a growing sophistication in AI applications and a deeper understanding of machine learning dynamics, indicating a robust trajectory for future innovations.
 
 ### Top Sources:
-1. Understanding Amazon Bedrock model lifecycle - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/ - Effective management of model transitions for continuous AI operation.
-2. Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime - https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/ - Enhancements for dynamic content generation in AI applications.
-3. New technique makes AI models leaner and faster while they’re still learning - https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409 - Control theory applied for more efficient AI training.
-4. Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP - https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/ - Optimizing storage costs in large language model training.
-5. ConvApparel: Measuring and bridging the realism gap in user simulators - https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/ - Enhancing realism in AI-driven user interactions.
+1. Evaluating Netflix Show Synopses with LLM-as-a-Judge - https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4 - Netflix's innovative system for evaluating show synopses using LLMs.
+2. Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked - https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/ - New findings on the inadequacy of traditional retraining methods in MLOps.
+3. How Does AI Learn to See in 3D and Understand Space? - https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/ - Exploration of advancements in AI spatial intelligence.
+4. When Things Get Weird with Custom Calendars in Tabular Models - https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/ - Discussion on the challenges of calendar-based time intelligence in data models.
+5. A Guide to Voice Cloning on Voxtral with a Missing Encoder - https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/ - Insights into audio reconstruction techniques for voice cloning.
+6. The Making of a “Good” Synopsis - https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4 - Detailed analysis of the creative quality evaluation at Netflix.
+7. Agents-as-a-Judge for Factuality - https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4 - Implementation of agents to assess factual accuracy in synopses.
+8. Scaling Quality Scoring with LLM-as-a-Judge - https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4 - Techniques for scaling quality scoring in content evaluation.
+9. Consensus Scoring in AI Evaluation - https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4 - Overview of consensus scoring methods to improve AI assessment accuracy.
+10. Factuality Errors in Synopsis Evaluation - https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4 - Identification and correction of common factuality errors in show synopses.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2026/philosophy-work-michal-masny-0409' target='_blank'>A philosophy of work</a></strong> — <em>2026-04-09 18:00:00</em></summary>
+    <details><summary><strong><a href='https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/' target='_blank'>When Things Get Weird with Custom Calendars in Tabular Models</a></strong> — <em>2026-04-10 16:30:00</em></summary>
 
-As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/' target='_blank'>Understanding Amazon Bedrock model lifecycle</a></strong> — <em>2026-04-09 17:33:28</em></summary>
-
-This post shows you how to manage FM transitions in Amazon Bedrock, so you can make sure your AI applications remain operational as models evolve. We discuss the three lifecycle states, how to plan migrations with the new extended access feature, and practical strategies to transition your applications to newer models without disruption.
+Since September 2025, we have had Calendar-based Time Intelligence in Power BI and Fabric Tabular models. While this feature offers great possibilities, we must be aware of its pitfalls. Here are some of them.
+The post When Things Get Weird with Custom Calendars in Tabular Models appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/' target='_blank'>The future of managing agents at scale: AWS Agent Registry now in preview</a></strong> — <em>2026-04-09 17:28:20</em></summary>
+<details><summary><strong><a href='https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4' target='_blank'>Evaluating Netflix Show Synopses with LLM-as-a-Judge</a></strong> — <em>2026-04-10 16:26:01</em></summary>
 
-Today, we're announcing AWS Agent Registry (preview) in AgentCore, a single place to discover, share, and reuse AI agents, tools, and agent skills across your enterprise.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/' target='_blank'>Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore</a></strong> — <em>2026-04-09 17:06:07</em></summary>
-
-This post walks you through three steps: starting a session and generating the Live View URL, rendering the stream in your React application, and wiring up an AI agent that drives the browser while your users watch. At the end, you will have a working sample application you can clone and run.
+by Gabriela Alessio, Cameron Taylor, and Cameron R. WolfeIntroductionWhen members log into Netflix, one of the hardest choices is what to watch. The challenge isn’t a lack of options — there are thousands of titles — but finding the most intriguing one is complex and deeply personal. To help, we surface personalized promotional assets, especially the show synopsis — a brief description highlighting key plot elements, with cues like genre or talent.Strong synopses help members scan, understand, and choose. Poor synopses frustrate, mislead, and drive abandonment. Ensuring high-quality synopses is essential, but scaling quality validation is hard. We host hundreds of thousands of synopses, usually with multiple variants per show. We need to ensure quality at scale so every member gets a consistently great experience every time they read a synopsis. This approach helps us scale high‑quality synopsis coverage for our rapidly expanding catalog, enabling greater speed and coverage without sacrificing quality.This report outlines our LLM-based approach for evaluating synopsis quality. Using recent advances in agents, reasoning, and LLM-as-a-Judge, we score four key synopsis quality dimensions, achieving 85%+ agreement with creative writers. Additionally, we show that higher LLM judge quality is correlated with key streaming metrics, allowing us to proactively identify and fix impactful issues weeks or months before a show debuts on Netflix.The Making of a “Good” SynopsisWriting high-quality synopses requires creative expertise. Our expert creative leads are best positioned to craft the creative approaches and define quality standards. However, AI can help us consistently evaluate these expert-driven quality criteria at scale. Synopsis quality at Netflix, which our system aims to predict, is viewed along two dimensions:Creative Quality: members of our creative writing team assess synopsis quality according to our internal writing guidelines and rubrics.Member Implicit Feedback: we measure the relative impact of a particular show synopsis on core streaming metrics.These two definitions of quality capture distinct and important aspects of quality, one focused upon creative excellence and the other upon utility to members.Creative QualityFor this project, we evaluate synopses against a subset of our creative writing quality rubric — the same criteria to which human writers would adhere. These quality rubrics change over time, and more details on the current quality standards can be found in our Editorial Style Guide and Technical Style Guide. Given Netflix’s distinctive voice and elevated editorial standards, the quality bar is high. Each criterion has extensive guidelines with examples across regions, genres, and synopsis types.Human evaluation. We began by partnering with a group of creative writing experts to iteratively refine our definition of creative quality. We initially labeled ~1,000 diverse synopses, where three expert writers scored each against the criteria and explained their ratings. Due to the subjectivity of the task, early instance-level agreement was low. To reach a better consensus, we conducted calibration rounds (~50 synopses per round), surfaced disagreements, and evolved our quality scoring guidelines. Key interventions that were found to improve agreement include:Using binary scores (instead of 1–4 Likert scores).Allowing writers to reference past examples.Maintaining a searchable taxonomy of common errors.Golden evaluation data. After eight calibration rounds, writer agreement reached ~80%. To further stabilize labels, we used a model-in-the-loop consensus where:Multiple writers score each synopsis.An LLM, guided by the rubric, aggregates to a final label.Writers review cases with substantial disagreement.The result is a golden set of ~600 synopses with binary, criteria-level scores and explanations — our North Star for aligning an LLM judge with expert opinion.Member Implicit FeedbackNetflix gauges implicit member feedback on a synopsis with two metrics:Take Fraction: how often members who see a title’s synopsis choose to start watching it.Abandonment Rate: how often members start a title but stop watching soon after.Higher take fraction indicates more choosing, while lower abandonment suggests authentic, non-misleading presentation. Both of these metrics have been validated via A/B testing to serve as short-term behavioral proxies for long-term member retention. As part of evaluating our system, we also study the ability of LLM-derived quality scores to predict short-term engagement metrics. This step confirms that our scores capture behaviorally meaningful signals and assesses our ability to forecast member response to a given synopsis.Scaling Quality Scoring with LLM-as-a-JudgeWe begin our experiments by creating simple, per-criteria prompts that:Supply criterion-specific show metadata.Summarize the relevant quality guidelines.Use zero-shot chain-of-thought prompting to elicit an explanation.Request a binary decision for the synopsis.Using a single prompt to evaluate all quality criteria is found to overload the LLM and yields poor performance — dedicated judges for each criteria perform better. Because criteria are unique, each task has its own setup, but there are some shared components:We use the same LLM for all criteria.The judge always outputs an explanation before its final score.Final scores are binary.Due to our use of binary scoring, judges can be evaluated with simple accuracy metrics over the golden dataset. Next, we summarize the experiments that led to our final system.Prompt optimization. Because LLMs are sensitive to prompt phrasing, we apply Automatic Prompt Optimization (APO) over a ~300-sample dev set. Scoring guidelines are provided as additional context to the prompt optimizer. After APO, we manually refine candidate prompts with the help of an LLM, yielding initial prompts with accuracies shown below. These prompts work well for some criteria (e.g., precision) but poorly for others (e.g., clarity), highlighting criterion-specific nuances.Improved reasoning. Many failures of our initial system arise due to a lack of accurate reasoning through highly-subjective evaluation examples. To improve reasoning accuracy, we leverage two forms of inference-time scaling:Longer rationales: increase the length of the rationale or explanation generated by the LLM prior to producing a final score.Consensus scoring: sample several outputs from the LLM and aggregate their scores to produce the final result.Tiered rationales. Using tone as an example, we tested whether longer rationales are helpful by defining three rationale length tiers (shown above) and comparing their accuracies. Accuracy rises with longer rationales but returns are diminishing. Medium rationales noticeably outperform short ones, while long rationales offer only a slight additional gain; see below.Longer rationales improve performance but degrade human-readability, which is problematic given that explanations are key pieces of evidence for creative experts. As a solution, we adopt tiered rationales: the judge reasons at any length but concisely summarizes its reasoning process prior to the final score. Tiered rationales preserve the benefits of extended reasoning, make outputs easier to inspect, and even benefit scoring accuracy. For example, our tone evaluator improves from 86.55% to 87.85% binary accuracy when using tiered rationales.Consensus scoring. We can also allocate more inference-time compute by sampling multiple outputs per synopsis and aggregating their scores. We aggregate via a rounded average to ensure that the final score remains binary. For tone and clarity criteria with tiered rationales, 5× consensus scoring yields a clear accuracy boost as shown below.Consensus scoring on the precision evaluator, which uses a vanilla (short) chain-of-thought, yields no benefit. As an explanation, we notice that longer rationales increase variance in scores across multiple outputs, while short rationales yield consistent scores. Consensus may be most useful for evaluators with longer rationales, where it helps to stabilize score variance. When shorter rationales are used, all scores tend to be the same, making consensus less meaningful.What about reasoning models? While our setup elicits reasoning from a standard LLM, we also explored quality scoring with true reasoning models (i.e., models that generate long reasoning trajectories prior to final output). For tone, using a reasoning model with 5× consensus yields improving accuracy with increasing reasoning effort, even outperforming tiered rationales at the highest reasoning effort; see below. However, we skip reasoning models in our final system, as they significantly increase inference costs for only a marginal performance gain.Agents-as-a-Judge for factuality. Synopses have four common types of factuality errors:Incorrect plot information.Incorrect metadata (e.g., genre, location, release date).Incorrect on- or off-screen talent.Incorrect award information.Detecting these factuality errors requires comparing the synopsis to ground-truth context, where necessary context varies per criteria. For example, plot information requires a plot summary or script, while award information needs a list of awards. As we have learned, simplicity drives reliability: too much context or too many criteria harms accuracy. Motivated by this idea, we adopt factuality agents, where each agent evaluates one narrow aspect of factuality.An agent receives context tailored to one facet of factuality and produces both a rationale and a binary factuality score. The final score of the Agents-as-a-Judge system is the minimum factuality score across agents — any failed aspect yields an overall fail. All rationales are fed to an LLM aggregator to produce a combined rationale to accompany the final score. As shown below, leveraging factuality agents significantly benefits scoring accuracy. Further benefits are achieved by using tiered rationales and consensus scoring within each agent.Final system. In summary, our automatic evaluation system uses a combination of standard LLM-as-a-Judge, tiered rationales, consensus scoring, and Agents-as-a-Judge to maximize binary scoring accuracy for each criteria. A summary of the techniques used for each criteria and the associated binary scoring accuracy is provided below.Member Validation of LLM-as-a-JudgeBeyond expert agreement, we also study how LLM-as-a-Judge scores relate to member behavior. This analysis serves two goals:Further validating LLM-judge accuracy.Linking creative quality to member-perceived quality.Framed as predictors of member outcomes, LLM judges help us assess how promotional assets affect viewing and determine which creative attributes matter most to members discovering content they enjoy. To perform this analysis, we take advantage of the fact that most shows have multiple, personalized synopses (i.e., a synopsis “suite”). Using this suite, we can measure the causal effect of synopsis selection on metrics like take fraction and abandonment rate.Our methodology. We correlate synopsis performance (take fraction or abandonment) with LLM quality scores. Specifically, within each show s, we relate changes in a synopsis’s LLM score to changes in its performance, normalizing by the show-level standard deviation and clustering standard errors by show; see below.β captures the average association between within-show changes in LLM score and changes in performance. While we don’t have clean, experimental variation in LLM scores, this analysis still validates predictive value and practical utility.Member-focused results. We report correlations for individual LLM criteria and a “Weighted Score” that combines all criteria to reduce noise and maximize signal from behavioral data. As shown below, results show promising prediction of take fraction and abandonment. Precision and clarity are especially predictive, and the weighted score provides a statistically useful signal of higher take and lower abandonment. In short, LLM evaluators capture factors that matter to members, making them a valuable tool for monitoring synopsis quality and engagement.Closing RemarksThe LLM-as-a-Judge system used to evaluate show synopses at Netflix is the result of extensive experimentation grounded in both creative expertise and member outcomes. Building an automatic evaluation system that works reliably in practice is hard, and the approach we have described reflects countless lessons learned through iteration to improve accuracy and scalability. We have validated the system extensively with human evaluation at both the system and component levels, and we have shown that its outputs correlate with key streaming metrics. As a result, we are confident that it captures the dimensions of synopsis quality that matter most — both creatively and from the member perspective — which has driven its widespread adoption in the Netflix synopsis authoring workflow.Evaluating Netflix Show Synopses with LLM-as-a-Judge was originally published in Netflix TechBlog on Medium, where people are continuing the conversation by highlighting and responding to this story.
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/' target='_blank'>Running Large-Scale GPU Workloads on Kubernetes with Slurm</a></strong> — <em>2026-04-09 17:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/' target='_blank'>Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked</a></strong> — <em>2026-04-10 15:00:00</em></summary>
 
-Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/' target='_blank'>Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP</a></strong> — <em>2026-04-09 16:48:38</em></summary>
-
-Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...
+We fitted the Ebbinghaus forgetting curve to 555,000 real fraud transactions and got R² = −0.31 — worse than a flat line. This result explains why calendar-based retraining fails in production and introduces a practical shock-detection approach that works in real systems.
+The post Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/' target='_blank'>A Visual Explanation of Linear Regression</a></strong> — <em>2026-04-09 16:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/' target='_blank'>A Guide to Voice Cloning on Voxtral with a Missing Encoder</a></strong> — <em>2026-04-10 13:30:00</em></summary>
 
-A long-form article featuring over 100 visualizations, covering a range of topics from how to build linear regression model, measure the quality and how to improve the model
-The post A Visual Explanation of Linear Regression appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/' target='_blank'>New Future of Work: AI is driving rapid change, uneven benefits</a></strong> — <em>2026-04-09 16:11:44</em></summary>
-
-For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI […]
-The post New Future of Work: AI is driving rapid change, uneven benefits appeared first on Microsoft Research.
+Can we reconstruct audio codes if we have audio for the Voxtral text-to-speech model?
+The post A Guide to Voice Cloning on Voxtral with a Missing Encoder appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/' target='_blank'>Ideas: Steering AI toward the work future we want</a></strong> — <em>2026-04-09 16:10:37</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/' target='_blank'>How Does AI Learn to See in 3D and Understand Space?</a></strong> — <em>2026-04-10 12:00:00</em></summary>
 
-Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and explore the ideal AI-driven working world. Plus, is AI a tool or a collaborator? And why the answer matters.
-The post Ideas: Steering AI toward the work future we want appeared first on Microsoft Research.
-
-</details>
-
-<details><summary><strong><a href='https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/' target='_blank'>GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale</a></strong> — <em>2026-04-09 15:06:39</em></summary>
-
-ZTASP is a mission-scale assurance and governance platform designed for autonomous systems operating in real-world environments. It integrates heterogeneous systems—including drones, robots, sensors, and human operators—into a unified zero-trust architecture. Through Secure Runtime Assurance (SRTA) and Secure Spatio-Temporal Reasoning (SSTR), ZTASP continuously verifies system integrity, enforces safety constraints, and enables resilient operation even under degraded conditions.ZTASP has progressed beyond conceptual design, with operational validation at Technology Readiness Level (TRL) 7 in mission critical environments. Core components, including Saluki secure flight controllers, have reached TRL8 and are deployed in customer systems. While initially developed for high-consequence mission environments, the same assurance challenges are increasingly present across domains such as healthcare, transportation, and critical infrastructure.Download this free whitepaper now!
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/' target='_blank'>How to Accelerate Protein Structure Prediction at Proteome-Scale</a></strong> — <em>2026-04-09 15:00:00</em></summary>
-
-Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-visual-language-action-vla-models-work/' target='_blank'>How Visual-Language-Action (VLA) Models Work</a></strong> — <em>2026-04-09 15:00:00</em></summary>
-
-The mathematical foundations of Vision-Language-Action (VLA) models for humanoid robots and more
-The post How Visual-Language-Action (VLA) Models Work appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/' target='_blank'>Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime</a></strong> — <em>2026-04-09 14:47:57</em></summary>
-
-In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/a-survival-analysis-guide-with-python-using-time-to-event-models-to-forecast-customer-lifetime/' target='_blank'>A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime</a></strong> — <em>2026-04-09 13:30:00</em></summary>
-
-Understand survival analysis by modeling customer retention through Kaplan-Meier curves and Cox Proportional Hazard regressions.
-The post A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409' target='_blank'>New technique makes AI models leaner and faster while they’re still learning</a></strong> — <em>2026-04-09 13:00:00</em></summary>
-
-Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/the-future-of-ai-for-sales-is-diverse-and-distributed/' target='_blank'>The Future of AI for Sales Is Diverse and Distributed</a></strong> — <em>2026-04-09 12:00:00</em></summary>
-
-True creativity and innovation will come from human-agent collaboration. One human, millions of agents.
-The post The Future of AI for Sales Is Diverse and Distributed appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/' target='_blank'>ConvApparel: Measuring and bridging the realism gap in user simulators</a></strong> — <em>2026-04-09 11:22:00</em></summary>
-
-Generative AI
+How depth estimation, foundation segmentation, and geometric fusion are converging into spatial intelligence
+The post How Does AI Learn to See in 3D and Understand Space? appeared first on Towards Data Science.
 
 </details>
 
