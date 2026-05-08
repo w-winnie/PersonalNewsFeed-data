@@ -1,271 +1,270 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Space Exploration
+    ### Summary of Recent Developments in Astrophysics
 
-#### Advances in Neutron Star Detection
-Recent advancements indicate that NASA's upcoming Nancy Grace Roman Space Telescope could significantly enhance the detection of neutron stars, which are typically challenging to observe due to their faintness. By employing innovative simulation techniques, the telescope may identify these remnants of supernovae more effectively, thereby contributing to our understanding of stellar evolution and the distribution of neutron stars in the Milky Way.
+#### Interstellar Chemistry and Cosmic Water
+Recent findings regarding interstellar comet 3I/ATLAS have unveiled a surprising abundance of heavy water, indicating that this celestial body likely formed in much colder regions than those typical of our solar system. This discovery not only enhances our understanding of water formation across the universe but also has significant implications for the potential habitability of other planetary systems, as water is a fundamental requirement for life. Such insights contribute to the broader discourse on the chemical diversity found in interstellar environments.
 
-Key items:
-1. Roman Space Telescope poised to transform hunt for elusive neutron stars - https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html - The telescope may utilize innovative methods to identify neutron stars that are otherwise invisible.
-2. Webb & Hubble find massive star clusters emerge faster - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster - Findings provide insights into star formation processes linked to neutron star formation.
+Key Items:
+1. **3I/ATLAS Comet** - https://www.sciencedaily.com/releases/2026/05/260508003117.htm - This interstellar comet contains an unprecedented amount of heavy water, offering clues about its formation in extreme environments.
+2. **Giant Galaxy Without Spin** - https://www.sciencedaily.com/releases/2026/05/260506225135.htm - The James Webb Space Telescope identified a massive galaxy formed shortly after the Big Bang that exhibits no rotation, challenging existing models of galaxy formation.
 
-#### Understanding Cosmic Expansion and Dark Energy
-A novel approach developed by researchers at the University of Barcelona aims to refine measurements of cosmic expansion and dark energy. This methodology seeks to resolve longstanding discrepancies in the universe's expansion rate, which has been a contentious issue in cosmology. By improving our understanding of these dynamics, this research could pave the way for a more cohesive model of the universe.
+#### Insights into Black Hole Formation
+A paradigm shift in our understanding of the universe's largest black holes has emerged from recent gravitational wave analyses, suggesting that these supermassive entities do not originate merely from individual stellar collapses. Instead, they appear to arise from a series of mergers within densely populated star clusters, a process termed "cosmic recycling." This finding emphasizes the dynamic interplay of cosmic events in black hole evolution and could reshape theoretical models of their formation.
 
-Key items:
-1. A new way to read the universe could sharpen understanding of cosmic expansion and dark energy - https://phys.org/news/2026-05-universe-sharpen-cosmic-expansion-dark.html - This approach may resolve longstanding debates regarding the universe's expansion rate.
-2. 3 puzzles of our universe could be solved with this new dark matter theory - https://www.space.com/astronomy/dark-universe/3-puzzles-of-our-universe-could-be-solved-with-this-new-dark-matter-theory - New theories on dark matter interactions could provide insights into cosmic phenomena.
+Key Items:
+1. **Black Hole Mergers** - https://www.sciencedaily.com/releases/2026/05/260508003115.htm - Evidence suggests that the heaviest black holes arise from a series of violent mergers, reshaping our understanding of their origins.
+2. **Spacetime Ripples** - https://www.space.com/astronomy/black-holes/how-do-the-biggest-black-holes-in-the-universe-form-ripples-in-spacetime-provide-a-clue - Research on gravitational waves indicates that the behavior of merging black holes may reveal new physics.
 
-#### Innovations in Space Technology
-NASA's recent testing of a new electromagnetic thruster powered by lithium vapor marks a significant milestone in space propulsion technology. This thruster demonstrated unprecedented power levels, indicating potential for more efficient spacecraft travel to destinations such as Mars. Such advancements are crucial for the future of deep space exploration.
+#### Technological Innovations for Space Exploration
+NASA has made significant advancements in rotor blade technology for Martian helicopters, with new designs capable of exceeding Mach 1 in testing. This innovation is poised to enhance the capabilities of future aerial missions on Mars, enabling heavier payloads and more sophisticated scientific instruments. Such developments reflect a broader trend toward integrating cutting-edge engineering with planetary exploration.
 
-Key items:
-1. NASA just tested a powerful new thruster that could send humans to Mars - https://www.sciencedaily.com/releases/2026/05/260505234611.htm - The thruster's capabilities could significantly shorten travel times to distant planets.
-2. Data fusion provides a high-definition look at Mars' temperature maps - https://phys.org/news/2026-05-fusion-high-definition-mars-temperature.html - Enhanced temperature mapping is crucial for future Mars exploration and resource utilization.
+Key Items:
+1. **Mars Helicopter Technology** - https://phys.org/news/2026-05-gen-mars-helicopter-rotor-blades.html - Tests indicate next-gen rotor blades can break the sound barrier, paving the way for more ambitious Martian explorations.
+2. **SNAPPY CubeSat Launch** - https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/ - The launch of the SNAPPY CubeSat aims to study neutrinos, contributing to our understanding of fundamental particles in the universe.
 
 ### Conclusion
-The current landscape of astrophysics and space exploration is characterized by pivotal advancements in detection technologies, theoretical frameworks, and propulsion systems. The integration of new observational tools like the Roman Space Telescope and innovative methodologies for understanding cosmic phenomena reflects a concerted effort to deepen our knowledge of the universe. As these developments unfold, they hold the promise of reshaping fundamental astrophysical concepts and enhancing our capabilities for future space missions.
+The current landscape of astrophysics is marked by profound discoveries related to interstellar chemistry, the evolution of black holes, and significant technological innovations in space exploration. These developments not only enhance our understanding of the universe's complexities but also lay the groundwork for future explorations. As researchers continue to integrate observational data with technological advancements, the field is poised for transformative insights that could redefine our comprehension of cosmic phenomena.
 
 ### Top Sources:
-1. Roman Space Telescope poised to transform hunt for elusive neutron stars - https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html - Upcoming telescope may identify previously undetectable neutron stars.
-2. Webb & Hubble find massive star clusters emerge faster - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster - New insights into star formation processes.
-3. A new way to read the universe could sharpen understanding of cosmic expansion and dark energy - https://phys.org/news/2026-05-universe-sharpen-cosmic-expansion-dark.html - Methodology aims to resolve cosmic expansion discrepancies.
-4. 3 puzzles of our universe could be solved with this new dark matter theory - https://www.space.com/astronomy/dark-universe/3-puzzles-of-our-universe-could-be-solved-with-this-new-dark-matter-theory - New dark matter interactions could explain various cosmic puzzles.
-5. NASA just tested a powerful new thruster that could send humans to Mars - https://www.sciencedaily.com/releases/2026/05/260505234611.htm - Electromagnetic thruster shows promise for efficient space travel.
-6. Data fusion provides a high-definition look at Mars' temperature maps - https://phys.org/news/2026-05-fusion-high-definition-mars-temperature.html - Enhanced mapping techniques for Mars exploration.
-7. How quasars shut down star formation in the early universe - https://phys.org/news/2026-05-quasars-star-formation-early-universe.html - Study on quasar activity and its impact on galaxy formation.
-8. How the rise of continents may have set the stage for life on Earth - https://phys.org/news/2026-05-continents-stage-life-earth.html - Research on early Earth conditions and their role in life's emergence.
-9. Unlocking the Mystery of X-ray Dots - https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/ - New findings on mysterious X-ray objects in the universe.
-10. Solar activity makes space junk crash to Earth faster - https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster - Study on the effects of solar activity on orbital debris.
+1. Interstellar Comet 3I/ATLAS Contains Strange Water - https://www.sciencedaily.com/releases/2026/05/260508003117.htm - A mysterious comet offers insights into alien water formation.
+2. The Universe’s Biggest Black Holes May Be Forged in Violent Mergers - https://www.sciencedaily.com/releases/2026/05/260508003115.htm - New evidence suggests massive black holes form from repeated collisions in star clusters.
+3. Webb Space Telescope Finds a Giant Galaxy That Doesn’t Spin - https://www.sciencedaily.com/releases/2026/05/260506225135.htm - Discovery challenges theories of galaxy evolution.
+4. Next-Gen Mars Helicopter Rotor Blades Exceed Mach 1 - https://phys.org/news/2026-05-gen-mars-helicopter-rotor-blades.html - Breakthrough in rotor technology enhances Martian exploration capabilities.
+5. NASA-Supported Small Spacecraft Launches to Study Solar Particles - https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/ - A CubeSat designed to study neutrinos launched successfully.
+6. How Do the Biggest Black Holes in the Universe Form? - https://www.space.com/astronomy/black-holes/how-do-the-biggest-black-holes-in-the-universe-form-ripples-in-spacetime-provide-a-clue - Gravitational wave studies reveal insights into black hole formation.
+7. A Bizarre 'Decapitated' Asteroid Likely Made the Moon's Largest Impact Crater - https://www.space.com/astronomy/moon/a-bizarre-decapitated-asteroid-likely-made-the-moons-largest-impact-crater-nasas-artemis-astronauts-may-land-near-the-proof - Lunar research informs future Artemis missions.
+8. A Strange Planet Pair Shouldn’t Exist, but It Does - https://www.sciencedaily.com/releases/2026/05/260506225132.htm - Unusual planetary configurations challenge existing formation theories.
+9. Ultrahigh-Energy Cosmic Messengers May Carry Ultraheavy Secrets - https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html - Investigating the origins of the highest-energy cosmic rays.
+10. Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface - https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/ - Insights into exoplanetary composition and conditions.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/' target='_blank'>A Sea of Spinning Clouds</a></strong> — <em>2026-05-07 04:01:00</em></summary>
+    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260508003117.htm' target='_blank'>Interstellar comet 3I/ATLAS contains strange water never seen in our solar system</a></strong> — <em>2026-05-08 06:25:28</em></summary>
 
-Icy, isolated Peter I Island stirred up a show in the atmosphere off the West Antarctic coast.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/' target='_blank'>Ames Science Stars of the Month May 2026</a></strong> — <em>2026-05-06 22:19:47</em></summary>
-
-NASA Ames Science Directorate Stars of the Month: May 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Lora Jovanović, Tammy Moore, Frances Donovan, and Jaden Ta. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. […]
+A mysterious comet from beyond our solar system is giving astronomers a rare glimpse into alien worlds — and it may have formed in a place far colder and stranger than anything around our Sun. The interstellar visitor, called 3I/ATLAS, contains an astonishingly high amount of “heavy water,” far exceeding anything seen in our own solar system.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-continents-stage-life-earth.html' target='_blank'>How the rise of continents may have set the stage for life on Earth</a></strong> — <em>2026-05-06 21:50:02</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260508003115.htm' target='_blank'>The Universe’s biggest black holes may be forged in violent mergers</a></strong> — <em>2026-05-08 06:16:10</em></summary>
 
-Earth's earliest continents may have set the chemical stage for life by regulating boron levels in ancient oceans, a new study in Terra Nova suggests.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html' target='_blank'>Roman Space Telescope poised to transform hunt for elusive neutron stars</a></strong> — <em>2026-05-06 21:10:02</em></summary>
-
-Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy & Astrophysics suggests that NASA's upcoming Nancy Grace Roman Space Telescope could spot them anyway.
+The Universe’s biggest black holes may not be born giants after all. Scientists analyzing gravitational-wave signals from dozens of black hole collisions found evidence that the heaviest black holes are likely “cosmic recyclers” — formed through repeated smashups inside incredibly crowded star clusters. These violent chain reactions appear to create a distinct class of rapidly spinning black holes that stand apart from ordinary ones formed by dying stars.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260505234611.htm' target='_blank'>NASA just tested a powerful new thruster that could send humans to Mars</a></strong> — <em>2026-05-06 21:00:24</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/' target='_blank'>Tracy Arm’s Post-Tsunami Landscape</a></strong> — <em>2026-05-08 04:00:00</em></summary>
 
-A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA’s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic forces, the experimental engine reached record-breaking power levels—far beyond anything currently used in space. Glowing hotter than molten lava and firing inside a specialized vacuum chamber, the thruster hints at a future where spacecraft could travel farther and more efficiently than ever before.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/how-an-exoplanet-odd-couple-survived-by-traveling-in-from-the-cold-together' target='_blank'>How an exoplanet odd couple survived by traveling in from the cold together</a></strong> — <em>2026-05-06 21:00:00</em></summary>
-
-By probing the atmosphere of a mini-Neptune exoplanet, the James Webb Space Telescope has found that it formed much farther from its star than it is today, possibly explaining the origin of many other mini-Neptunes in the process.
+A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/' target='_blank'>NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions</a></strong> — <em>2026-05-06 20:42:35</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/' target='_blank'>Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research</a></strong> — <em>2026-05-07 23:45:41</em></summary>
 
-NASA advances aeronautics and space technologies through experimental aircraft and flight research at the agency’s Armstrong Flight Research Center in Edwards, California. Behind those efforts is the Dryden Aeronautical Test Range (DATR), which provides the communications, tracking, and data services that enable safe and effective missions. For most NASA Armstrong research flights, the DATR supplies […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-quasars-star-formation-early-universe.html' target='_blank'>How quasars shut down star formation in the early universe</a></strong> — <em>2026-05-06 20:10:01</em></summary>
-
-Supermassive black holes lurk at the centers of massive galaxies, including our own Milky Way. Puzzlingly, supermassive black holes more than a billion times the mass of the sun appear to exist just a few hundred million years after the Big Bang, when the universe was less than 5% of its current age. As interstellar gas spirals towards such black holes, it accelerates to extreme speeds, heats up, and emits intense radiation across the electromagnetic spectrum, creating a "quasar."
+NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions – continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-universe-sharpen-cosmic-expansion-dark.html' target='_blank'>A new way to read the universe could sharpen understanding of cosmic expansion and dark energy</a></strong> — <em>2026-05-06 19:50:02</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/' target='_blank'>Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research</a></strong> — <em>2026-05-07 23:45:41</em></summary>
 
-An international team led by researchers at the Institute of Cosmos Sciences of the University of Barcelona (ICCUB) has developed a new method that could significantly improve our understanding of the expansion of the universe and the nature of dark energy.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-fusion-high-definition-mars-temperature.html' target='_blank'>Data fusion provides a high-definition look at Mars' temperature maps</a></strong> — <em>2026-05-06 19:40:09</em></summary>
-
-In-situ Resource Utilization (ISRU) is our best bet for "living off the land" for a future Martian base, but tracking down those resources is no easy task. As of now, we have two options—send a rover to a specific location to scout it, or monitor it from orbit. Since rovers are expensive, and there are an absolute ton of sites that we would eventually want to scout, doing so from orbit would seem a better option.
+NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions – continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, […]
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/questar-ceases-operations/' target='_blank'>Questar Ceases Operations</a></strong> — <em>2026-05-06 19:37:54</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/a-bizarre-decapitated-asteroid-likely-made-the-moons-largest-impact-crater-nasas-artemis-astronauts-may-land-near-the-proof' target='_blank'>A bizarre 'decapitated' asteroid likely made the moon's largest impact crater. NASA's Artemis astronauts may land near the proof</a></strong> — <em>2026-05-07 22:00:00</em></summary>
 
-The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community.
-The post Questar Ceases Operations appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/' target='_blank'>NASA Wallops to Host Public Information Session May 13</a></strong> — <em>2026-05-06 19:09:23</em></summary>
-
-To facilitate discussion and information sharing on activities at NASA’s Wallops Flight Facility in Virginia, a public information session is being held 4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center.  During the event, NASA will have information booths on the status on the causeway bridge construction, updates on beach replenishment, and a representative from the GLOBE program. Federal and state health experts will […]
+An ancient impact may have scattered material from deep inside the moon toward NASA's planned Artemis landing sites near the lunar south pole.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch' target='_blank'>Europe's 1st reusable spacecraft 'Space Rider' clears key hurdles on the road to launch</a></strong> — <em>2026-05-06 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260506225135.htm' target='_blank'>Webb space telescope finds a giant galaxy that doesn’t spin</a></strong> — <em>2026-05-07 21:50:36</em></summary>
 
-Space Rider, a novel spacecraft concept from the European Space Agency, is passing key milestones in its tests and qualifications to bring the vehicle to flight readiness.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-j1152-unusual-period-dwarf-nova.html' target='_blank'>J1152 is an unusual long-period dwarf nova with recurring eclipses, observations find</a></strong> — <em>2026-05-06 18:40:06</em></summary>
-
-Astronomers from the South African Astronomical Observatory (SAAO) and elsewhere have conducted photometric and spectroscopic observations of a cataclysmic variable system designated SRGA J115215.0−510656. Results of the new observations, published April 29 on the arXiv pre-print server, indicate that the investigated system is an unusual long-period dwarf nova.
+Astronomers using the James Webb Space Telescope have spotted something that shouldn’t exist—at least not so early in the universe. A massive galaxy, formed less than 2 billion years after the Big Bang, appears to have no rotation at all, a trait usually seen only in much older, evolved galaxies. This challenges current theories that young galaxies should still be spinning from their formation.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit' target='_blank'>'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit</a></strong> — <em>2026-05-06 18:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html' target='_blank'>Ultrahigh-energy cosmic messengers may carry ultraheavy secrets</a></strong> — <em>2026-05-07 21:00:06</em></summary>
 
-Two Russian satellites got within 10 feet (3 meters) of each other recently, demonstrating a sophisticated set of orbital maneuvering skills.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/' target='_blank'>NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival</a></strong> — <em>2026-05-06 17:14:08</em></summary>
-
-NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off […]
+There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable by human-made particle accelerators. One of the most extreme events ever recorded is the "Amaterasu particle," detected by the Telescope Array in Utah in 2021 and named after the sun goddess in Japanese mythology. Its reported energy places it among the highest-energy cosmic-ray events ever observed, comparable to the "Oh-My-God particle" detected in 1991, yet its origin—and even its identity—remain uncertain.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/' target='_blank'>NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival</a></strong> — <em>2026-05-06 17:14:08</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-gen-mars-helicopter-rotor-blades.html' target='_blank'>Next-gen Mars helicopter rotor blades exceed Mach 1</a></strong> — <em>2026-05-07 21:00:04</em></summary>
 
-NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/dark-universe/3-puzzles-of-our-universe-could-be-solved-with-this-new-dark-matter-theory' target='_blank'>3 puzzles of our universe could be solved with this new dark matter theory</a></strong> — <em>2026-05-06 17:12:45</em></summary>
-
-A new recipe of dark matter that interacts with itself could be the solution to three separate and vastly different cosmic puzzles.
+The rotor blades that will carry NASA's next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA's Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of the rotor blade, the tips, can be accelerated beyond Mach 1 without breaking apart. Data gathered from 137 test runs will enable engineers to design aircraft capable of carrying heavier payloads, including science instruments.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-earth-spaceship.html' target='_blank'>Why we need to treat Earth like a spaceship</a></strong> — <em>2026-05-06 17:00:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/mars-rovers/a-29-pound-mars-rock-held-nasas-curiosity-rover-hostage-for-6-days' target='_blank'>A 29-pound Mars rock held NASA's Curiosity rover hostage for 6 days</a></strong> — <em>2026-05-07 21:00:00</em></summary>
 
-Four humans recently looped around the moon. Their vessel, an Artemis capsule, was a thin metal shell whose life-support system kept them alive: it provided a carefully balanced atmosphere, a closed water loop, a finite supply of food, and a means for disposing of human waste. The life support was not optional. It was a necessity.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/thor-hammered-down-15-years-ago-and-its-still-the-only-marvel-movie-to-do-the-god-of-thunder-justice' target='_blank'>'Thor' hammered down 15 years ago, and it's still the only Marvel movie to do the God of Thunder justice</a></strong> — <em>2026-05-06 16:00:00</em></summary>
-
-In 2011, Thor proved himself more than worthy in his roaring MCU debut. Since then, the thunder has turned into laughter.
+The rock is nicknamed "Atacama."
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-webb-hubble-massive-star-clusters.html' target='_blank'>Webb and Hubble find massive star clusters emerge faster</a></strong> — <em>2026-05-06 15:20:01</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260506225132.htm' target='_blank'>This strange planet pair shouldn’t exist, but it does</a></strong> — <em>2026-05-07 20:53:58</em></summary>
 
-Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of evolution. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light. The result gives us a better understanding of star formation in galaxies, as well as how and where planets can form.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/' target='_blank'>Unlocking the Mystery of X-ray Dots</a></strong> — <em>2026-05-06 15:07:18</em></summary>
-
-A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects […]
+A bizarre planetary pairing 190 light-years away is challenging everything astronomers thought they knew about how worlds form. A “lonely” hot Jupiter — typically found without nearby companions — is sharing its system with a smaller mini-Neptune tucked even closer to the star, a setup once thought nearly impossible.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/sci-fi-rpg-exoduss-combat-looks-and-feels-like-mass-effect-but-the-dialogue-system-could-be-a-big-upgrade-video' target='_blank'>Sci-fi RPG 'Exodus''s combat looks and feels like 'Mass Effect', but the dialogue system could be a big upgrade (video)</a></strong> — <em>2026-05-06 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/' target='_blank'>NASA Welcomes Paraguay as 67th Artemis Accords Signatory</a></strong> — <em>2026-05-07 20:41:48</em></summary>
 
-Jun Aslan and Phaedra share a quiet chat in Archetype Entertainment's latest Community Update.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/' target='_blank'>NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars</a></strong> — <em>2026-05-06 14:00:00</em></summary>
-
-Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of […]
+The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “They join an ever-growing coalition of […]
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/' target='_blank'>New NASA Technology Mimics Extreme Cold of the Lunar Night</a></strong> — <em>2026-05-06 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/' target='_blank'>NASA Welcomes Paraguay as 67th Artemis Accords Signatory</a></strong> — <em>2026-05-07 20:41:48</em></summary>
 
-As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/' target='_blank'>New NASA Technology Mimics Extreme Cold of the Lunar Night</a></strong> — <em>2026-05-06 14:00:00</em></summary>
-
-As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]
+The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “They join an ever-growing coalition of […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/nikon-action-7x50-binoculars-review' target='_blank'>Nikon Action 7x50 binoculars review</a></strong> — <em>2026-05-06 14:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/astronomers-spot-possible-missing-link-to-webbs-little-red-dots/' target='_blank'>Astronomers Spot Possible Missing Link to Webb’s Little Red Dots</a></strong> — <em>2026-05-07 20:13:07</em></summary>
 
-Nikon's new Action 7x50 binoculars: A good buy for astronomy novices
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/a-penny-on-mars-space-photo-of-the-day-for-may-6-2026' target='_blank'>Why does NASA's Curiosity rover have a 'lucky penny' on Mars? | Space photo of the day for May 6, 2026</a></strong> — <em>2026-05-06 14:00:00</em></summary>
-
-Providing good luck to the first Martian to find it.
+Astronomers may have found the missing link required to understand one of the James Webb Space Telescope’s most puzzling discoveries. 
+The post Astronomers Spot Possible Missing Link to Webb’s Little Red Dots appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/10-hidden-spots-in-spain-to-see-the-rare-sunset-total-solar-eclipse-on-aug-12' target='_blank'>10 hidden spots in Spain to see the rare sunset total solar eclipse on Aug. 12</a></strong> — <em>2026-05-06 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/saros-nails-the-cosmic-horror-and-bullet-hell-action-assignments-but-it-falls-short-as-a-roguelite' target='_blank'>'Saros' nails the cosmic horror and bullet-hell action assignments, but it falls short as a roguelite</a></strong> — <em>2026-05-07 19:00:00</em></summary>
 
-From desert badlands to hilltop villages, these off-the-beaten-track locations offer clear views of Spain's rare sunset total solar eclipse.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-blogs/stargazing-why-we-look-up/waiting-for-the-blaze-star/' target='_blank'>Waiting for the Blaze Star</a></strong> — <em>2026-05-06 13:00:00</em></summary>
-
-Some celestial events are sure things; it's just a question of when. We're still waiting for T Corona Borealis to go nova — any month now.
-The post Waiting for the Blaze Star appeared first on Sky & Telescope.
+PlayStation and Housemarque's follow-up to Returnal packs a punch and makes great use of PS5's unique features, but it's often at odds with itself.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Putting_the_super_into_a_supersite_for_Earth_observation' target='_blank'>Putting the ‘super’ into a supersite for Earth observation</a></strong> — <em>2026-05-06 12:58:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/' target='_blank'>NASA Sends Mars Helicopter Blades Beyond Mach 1</a></strong> — <em>2026-05-07 18:33:32</em></summary>
 
-
-In the far northern reaches of Finnish Lapland, an ambitious new chapter in Earth observation is unfolding. The European Space Agency, together with the Finnish Meteorological Institute and Finnish industrial partners, is advancing plans to develop a state-of-the-art ‘supersite’ in Sodankylä.The plan is to equip this remote site with an array of new advanced environmental measuring technologies, including a striking high-tech airship carrying sensors to perform regional surveys.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/scientists-created-one-of-the-largest-simulations-of-our-universe-ever-about-the-size-of-500-000-hd-movies' target='_blank'>Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies</a></strong> — <em>2026-05-06 12:00:00</em></summary>
-
-The FLAMINGO project helps scientists explore how galaxies, dark matter and cosmic structures evolved over billions of years.
+Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/get-more-for-your-credits-with-the-best-leftover-lego-star-wars-day-deals' target='_blank'>Get more for your credits with the best leftover Lego Star Wars Day deals</a></strong> — <em>2026-05-06 11:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/' target='_blank'>NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast</a></strong> — <em>2026-05-07 18:32:37</em></summary>
 
-From AT-TEs to Baby Yoda, save big with these last-minute Star Wars Day deals, before they disappear into hyperspace.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster' target='_blank'>Webb & Hubble find massive star clusters emerge faster</a></strong> — <em>2026-05-06 10:00:00</em></summary>
-
-
-Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of evolution. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light. The result gives us a better understanding of star formation in galaxies, as well as how and where planets can form.
+Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling […]
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster' target='_blank'>Webb & Hubble find massive star clusters emerge faster</a></strong> — <em>2026-05-06 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/' target='_blank'>NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1</a></strong> — <em>2026-05-07 18:28:59</em></summary>
 
-
-Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of evolution. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light. The result gives us a better understanding of star formation in galaxies, as well as how and where planets can form.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster' target='_blank'>Solar activity makes space junk crash to Earth faster</a></strong> — <em>2026-05-06 10:00:00</em></summary>
-
-Scientists studied how space junk moved in orbit over a 36-year span, finding that increased solar activity caused it to fall to Earth faster.
+The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of […]
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_DON_T_NOD_team_up_on_a_journey_to_the_planet_Persephone_in_Aphelion' target='_blank'>ESA and DON’T NOD team up on a journey to the planet Persephone in Aphelion</a></strong> — <em>2026-05-06 08:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/' target='_blank'>Industry Moon Lander Training Cabin Lands at NASA for Artemis</a></strong> — <em>2026-05-07 18:28:43</em></summary>
+
+A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/' target='_blank'>Industry Moon Lander Training Cabin Lands at NASA for Artemis</a></strong> — <em>2026-05-07 18:28:43</em></summary>
+
+A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out' target='_blank'>Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out</a></strong> — <em>2026-05-07 18:01:01</em></summary>
+
+NASA, working with the Space Force, plans to launch a space weather mission later this month to study a strange "ring current" surrounding our planet.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis' target='_blank'>ESA and JAXA team up on planetary defence, Ramses mission to asteroid Apophis</a></strong> — <em>2026-05-07 16:00:00</em></summary>
 
 
-The European Space Agency (ESA) has partnered with French video game studio DON’T NOD Entertainment on the development of Aphelion, a narrative science‑fiction game inspired by space exploration and scientific expertise.
+The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for Space Safety (Ramses) to the near-Earth asteroid Apophis.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/star-wars-galactic-racer-release-date-trailers-gameplay-and-everything-we-know-about-the-return-of-podracing' target='_blank'>'Star Wars: Galactic Racer': Release date, trailers, gameplay & everything we know about the return of podracing</a></strong> — <em>2026-05-07 16:00:00</em></summary>
+
+Now this is podracing... and speeder racing... and speeder bike racing...
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/a-light-in-the-dark/' target='_blank'>A Light in the Dark</a></strong> — <em>2026-05-07 15:25:37</em></summary>
+
+A thin sliver of Earth’s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II mission. Artemis II was the first crewed flight in a series of missions to test NASA’s human deep space capabilities, paving the way for future lunar surface missions. See […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/jupiter/moon-joy-at-jupiter-space-photo-of-the-day-for-may-7-2026' target='_blank'>Moon joy at Jupiter | Space photo of the day for May 7, 2026</a></strong> — <em>2026-05-07 15:10:08</em></summary>
+
+NASA's Juno spacecraft captured a photo of Jupiter's moon Thebe.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/' target='_blank'>NASA-Supported Small Spacecraft Launches to Study Solar Particles</a></strong> — <em>2026-05-07 14:44:59</em></summary>
+
+Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/' target='_blank'>NASA-Supported Small Spacecraft Launches to Study Solar Particles</a></strong> — <em>2026-05-07 14:44:59</em></summary>
+
+Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/' target='_blank'>NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit</a></strong> — <em>2026-05-07 14:23:35</em></summary>
+
+A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/heres-what-6-years-of-driving-on-mars-did-to-the-wheels-on-nasas-curiosity-rover-video' target='_blank'>Here's what 6 years of driving on Mars did to the wheels on NASA's Curiosity rover (video)</a></strong> — <em>2026-05-07 14:00:00</em></summary>
+
+A new video released by NASA/JPL documents six years of Curiosity rover's wheels while driving on Mars.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/how-do-the-biggest-black-holes-in-the-universe-form-ripples-in-spacetime-provide-a-clue' target='_blank'>How do the biggest black holes in the universe form? Ripples in spacetime provide a clue</a></strong> — <em>2026-05-07 13:00:00</em></summary>
+
+Merging black holes and neutron stars have unusual oval orbits prior to colliding and merging, which challenge the laws of physics.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/' target='_blank'>Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface</a></strong> — <em>2026-05-07 13:00:00</em></summary>
+
+The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon.  
+The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-launch-brought-nearly-350-000-people-to-floridas-space-coast' target='_blank'>Artemis 2 moon launch brought nearly 350,000 people to Florida's Space Coast</a></strong> — <em>2026-05-07 12:11:36</em></summary>
+
+About 346,000 U.S. visitors — roughly the equivalent of the population of Honolulu, Hawaii — came to Florida's Space Coast during the Artemis 2 launch campaign.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/' target='_blank'>Cornell Students Aid NASA with Drone Safety in Sky</a></strong> — <em>2026-05-07 10:00:00</em></summary>
+
+A team of Cornell University students are turning heads within industry and the federal government with the results of their research into creating a national air transportation management system in which thousands of drones could safely operate together. NASA is sponsoring their work through the University Student Research Challenge (USRC), which provides grants to college […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/saturn/should-saturns-huge-moon-titan-be-humanitys-next-destination-after-the-moon-and-mars' target='_blank'>Should Saturn's huge moon Titan be humanity's next destination, after the moon and Mars?</a></strong> — <em>2026-05-07 10:00:00</em></summary>
+
+Next month, a first-of-its-kind gathering will blueprint an eventual crewed trek to tantalizing Titan, the largest of Saturn's many moons.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-monster-black-holes-usual-history.html' target='_blank'>These monster black holes did not form the usual way—their history of violence is written into spacetime ripples</a></strong> — <em>2026-05-07 09:00:04</em></summary>
+
+The most massive black holes in the universe detected by the ripples they make in spacetime were not born directly from collapsing stars, according to a new study. These cosmic giants instead build up through a series of repeated and extremely violent collision events in very densely populated star clusters, an international team of researchers argue.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration' target='_blank'>Extended Reality at ESA opens new pathways for space exploration</a></strong> — <em>2026-05-07 08:45:00</em></summary>
+
+
+The European Space Agency (ESA) is using Extended Reality (XR) to support training, enhance operations, improve simulation environments, and to bring the wonders of space to the public.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust' target='_blank'>A beacon of light in swirls of dust</a></strong> — <em>2026-05-07 08:00:00</em></summary>
+
+
+This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale). This new image from Webb’s Mid-Infrared Instrument (MIRI) highlights its swirling spiral arms, the dust in its disc and its piercingly bright core like never before.
 
 </details>
 
