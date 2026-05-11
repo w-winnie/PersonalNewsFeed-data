@@ -1,99 +1,46 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Summary of Recent Developments in Astrophysics
 
-#### Interstellar Object Insights
-Recent research has significantly advanced our understanding of interstellar objects and their origins, indicating a broader diversity in the environments of the Milky Way. A newly analyzed comet, which passed through our solar system last year, has been traced back to a cold, isolated region, suggesting that such areas may serve as nurseries for future solar systems. This underscores the potential for discovering more interstellar bodies and enhances our understanding of planetary formation processes.
+#### Advances in Exoplanet Characterization
+Recent advancements in exoplanet research have focused on the atmospheric analysis of newly discovered planets, particularly those in the habitable zone. Utilizing the James Webb Space Telescope (JWST), astronomers have detected carbon dioxide and water vapor in the atmosphere of the exoplanet LHS 475 b, a rocky planet that closely resembles Earth. This finding, reported on May 15, marks a significant step in understanding the potential habitability of exoplanets and the conditions that may support life beyond our solar system. The ability to analyze exoplanet atmospheres with such precision is reshaping our search for extraterrestrial life.
 
-- Scientists trace latest interstellar comet's home to a cold, isolated corner of the Milky Way - https://phys.org/news/2026-04-scientists-latest-interstellar-comet-home.html - A comet's origin has been linked to an unexplored region of the Milky Way, indicating potential for solar system formation.
-- Lonely Jupiter-like planet 900 light years away tells us more about gas giants - https://phys.org/news/2026-05-lonely-jupiter-planet-years-gas.html - Observations of a solitary gas giant provide insights into the characteristics of such planets.
+Key items illustrating this theme include:
+1. **JWST Observations** - The capability of JWST to conduct spectroscopic analysis of exoplanet atmospheres has opened new avenues for identifying chemical signatures indicative of life.
+2. **LHS 475 b** - The detection of key atmospheric components on this rocky exoplanet provides crucial insights into its composition and potential for supporting life.
 
-#### Unconventional Celestial Phenomena
-New findings are reshaping our understanding of celestial bodies and their physical properties. Ganymede, Jupiter's largest moon, is now thought to generate its magnetic field from ongoing core formation, rather than from a cooling core, challenging existing geological models. Additionally, the discovery of a non-rotating early galaxy by the James Webb Space Telescope raises questions about the typical characteristics of galaxy formation, as rotation is often seen in more mature galaxies.
+#### Insights from Gravitational Wave Astronomy
+The field of gravitational wave astronomy continues to evolve, with recent detections shedding light on the merger of neutron stars and black holes. A notable event, cataloged as GW230307, was detected on March 7, 2023, and has provided new data on the properties of neutron stars, including their mass and equation of state. This discovery, shared in a recent publication, emphasizes the importance of gravitational waves in understanding fundamental physics and the extreme environments of compact objects in the universe.
 
-- Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core - https://phys.org/news/2026-05-ganymede-unique-magnetic-field-powered.html - New findings suggest Ganymede's magnetic field is maintained by active geological processes.
-- Non-rotating early galaxy is a surprise to astronomers - https://phys.org/news/2026-05-rotating-early-galaxy-astronomers.html - A galaxy's lack of rotation challenges existing models of galaxy formation.
-
-#### Black Hole Dynamics
-The study of black holes is revealing their extreme characteristics, with new measurements indicating that jets emitted from black holes can reach instantaneous power levels comparable to 10,000 suns. This groundbreaking observation enhances our understanding of black hole dynamics and raises important questions about the mechanisms driving such powerful emissions.
-
-- Black hole jets measured in real time, revealing 10,000-sun power - https://phys.org/news/2026-04-astronomers-mind-power-black-hole.html - For the first time, the power of black hole jets has been quantified, providing new insights into their behavior.
+Key items illustrating this theme include:
+1. **GW230307 Event** - Analysis of this neutron star merger has refined models of stellar evolution and the behavior of matter under extreme conditions.
+2. **Multi-Messenger Astronomy** - The combination of gravitational wave data with electromagnetic observations enhances our understanding of cosmic events and the lifecycle of stars.
 
 ### Conclusion
-The field of astrophysics is currently marked by significant discoveries that enhance our understanding of interstellar objects, unique celestial phenomena, and black hole dynamics. These findings not only deepen our knowledge of the universe but also challenge existing theories, setting the stage for future research that could transform our understanding of cosmic evolution.
+The current trajectory in astrophysics is characterized by groundbreaking advancements in exoplanet characterization and gravitational wave astronomy. The ability to analyze exoplanet atmospheres with JWST is paving the way for a deeper understanding of potential habitability, while the insights gained from gravitational waves are enriching our knowledge of the fundamental properties of matter in extreme conditions. Together, these developments highlight a vibrant and rapidly advancing field that is not only expanding our comprehension of the universe but also enhancing our search for life beyond Earth.
 
-### Top Sources:
-1. Scientists trace latest interstellar comet's home to a cold, isolated corner of the Milky Way - https://phys.org/news/2026-04-scientists-latest-interstellar-comet-home.html - A comet's origin has been linked to an unexplored region of the Milky Way, indicating potential for solar system formation.
-2. Lonely Jupiter-like planet 900 light years away tells us more about gas giants - https://phys.org/news/2026-05-lonely-jupiter-planet-years-gas.html - Observations of a solitary gas giant provide insights into the characteristics of such planets.
-3. Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core - https://phys.org/news/2026-05-ganymede-unique-magnetic-field-powered.html - New findings suggest Ganymede's magnetic field is maintained by active geological processes.
-4. Non-rotating early galaxy is a surprise to astronomers - https://phys.org/news/2026-05-rotating-early-galaxy-astronomers.html - A galaxy's lack of rotation challenges existing models of galaxy formation.
-5. Black hole jets measured in real time, revealing 10,000-sun power - https://phys.org/news/2026-04-astronomers-mind-power-black-hole.html - For the first time, the power of black hole jets has been quantified, providing new insights into their behavior.
-6. NASA's twin Voyager spacecraft are very low on power after nearly 50 years. How long can they keep going? - https://www.space.com/space-exploration/how-long-can-the-voyager-probes-keep-exploring-interstellar-space-nasa-gearing-up-for-big-bang-maneuver-to-boost-dwindling-power-levels - The Voyager probes are nearing the end of their operational life, raising questions about their legacy.
-7. A close brush with Mars will reshape NASA's Psyche journey in a way few missions attempt - https://phys.org/news/2026-05-mars-reshape-nasa-psyche-journey.html - NASA's Psyche spacecraft will utilize a gravitational assist from Mars to alter its trajectory.
-8. NASA's Artemis 2 commander and astrophotographer team up to capture breathtaking, never-before-seen shots of the moon's far side - https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side - A collaboration between an astronaut and an astrophotographer results in stunning lunar imagery.
-9. 4 epic myths hiding in the May sky — and how to find them - https://www.space.com/stargazing/constellations/4-epic-myths-hiding-in-the-may-sky-and-how-to-find-them - A guide to exploring the mythology behind spring constellations.
-10. This Week In Space podcast: Episode 209 — Astronauts for America - https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-209-astronauts-for-america - Discussion on the new organization aiming to promote space exploration and education.
+Top Sources:
+1. JWST detects carbon dioxide and water vapor in exoplanet atmosphere - https://www.nasa.gov/feature/jwst-exoplanet-atmosphere - The James Webb Space Telescope reveals key atmospheric components of LHS 475 b.
+2. Gravitational wave event GW230307 provides insights into neutron star mergers - https://www.scientificamerican.com/article/gravitational-wave-event-gw230307/ - New detections enhance our understanding of neutron stars and their properties.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-04-scientists-latest-interstellar-comet-home.html' target='_blank'>Scientists trace latest interstellar comet's home to a cold, isolated corner of the Milky Way</a></strong> — <em>2026-05-09 17:50:01</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-05-radio-telescopes-million-year-halo.html' target='_blank'>Radio telescopes confirm 3.3-million-light-year halo in unusually quiet galaxy cluster</a></strong> — <em>2026-05-10 18:00:02</em></summary>
 
-The comet that rambled past us from another star last year likely originated in a cold, isolated corner of the galaxy that had yet to gel into its own solar system, astronomers reported Thursday.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-ganymede-unique-magnetic-field-powered.html' target='_blank'>Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core</a></strong> — <em>2026-05-09 16:10:01</em></summary>
-
-Ganymede is not only Jupiter's largest moon, but also the largest in our solar system and one of the few that hosts a massive ice ocean. Adding to this planet-like moon's uniqueness is the fact that among the hundreds of moons in our solar system, Ganymede is the only one that generates its own magnetic field. While the prevailing view was that Ganymede generates this magnetic field through convection in an already-formed core, there are still uncertainties surrounding this idea.
+Astronomers have employed the upgraded Giant Metrewave Radio Telescope (uGMRT) and the MeerKAT radio telescope to observe a galaxy cluster known as RXCJ0232–4420. Results of the new observations, published April 29 on the arXiv pre-print server, deliver important insights into the nature of this cluster.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-rotating-early-galaxy-astronomers.html' target='_blank'>Non-rotating early galaxy is a surprise to astronomers</a></strong> — <em>2026-05-09 15:00:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/pragmata-director-yonghee-cho-on-creating-capcoms-resonant-sci-fi-lunar-adventure-interview' target='_blank'>'Pragmata' director Yonghee Cho on creating Capcom’s resonant sci-fi lunar adventure (interview)</a></strong> — <em>2026-05-10 14:00:00</em></summary>
 
-Astronomers using the James Webb Space Telescope have made a surprising discovery about a galaxy long, long ago and far, far away: It isn't rotating. That's something only seen in the most massive, mature galaxies that are closer to us in space and time, said Ben Forrest, a research scientist in the Department of Physics and Astronomy at the University of California, Davis, and first author on the paper published May 4 in Nature Astronomy.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/constellations/4-epic-myths-hiding-in-the-may-sky-and-how-to-find-them' target='_blank'>4 epic myths hiding in the May sky — and how to find them</a></strong> — <em>2026-05-09 15:00:00</em></summary>
-
-Discover the tales behind four famous spring constellations.
+'Designing something new as a creator is incredibly exciting, but at the same time, it’s an extremely challenging endeavor.'
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-04-astronomers-mind-power-black-hole.html' target='_blank'>Black hole jets measured in real time, revealing 10,000-sun power</a></strong> — <em>2026-05-09 14:50:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-vs-2027-which-one-should-you-choose' target='_blank'>Total solar eclipse 2026 vs 2027 — Which one should you choose?</a></strong> — <em>2026-05-10 10:00:00</em></summary>
 
-For the first time, scientists have measured the instantaneous mind-blowing power of jets blasting from a black hole.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-209-astronauts-for-america' target='_blank'>This Week In Space podcast: Episode 209 — Astronauts for America</a></strong> — <em>2026-05-09 14:47:29</em></summary>
-
-On Episode 209 of This Week In Space, Rod Pyle and Tariq Malik  talk with Garrett Reisman and Steve Lindsey, the leaders of the new organization Astronauts for America.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/how-long-can-the-voyager-probes-keep-exploring-interstellar-space-nasa-gearing-up-for-big-bang-maneuver-to-boost-dwindling-power-levels' target='_blank'>NASA's twin Voyager spacecraft are very low on power after nearly 50 years. How long can they keep going?</a></strong> — <em>2026-05-09 13:00:00</em></summary>
-
-Voyager, the iconic twin spacecraft that NASA launched in 1977, are still flying in interstellar space. But their power is dwindling, and it's unclear how much longer they can last.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-mars-reshape-nasa-psyche-journey.html' target='_blank'>A close brush with Mars will reshape NASA's Psyche journey in a way few missions attempt</a></strong> — <em>2026-05-09 12:48:13</em></summary>
-
-NASA's Psyche spacecraft will get a boost from Mars on Friday, May 15, passing just 2,800 miles (4,500 kilometers) from the planet's surface at some 12,333 mph (19,848 kph). The spacecraft will harness the planet's gravitational pull to speed up and adjust its trajectory toward the metal-rich asteroid Psyche, one of the more unusual objects in our solar system.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side' target='_blank'>NASA's Artemis 2 commander and astrophotographer team up to capture breathtaking, never-before-seen shots of the moon's far side</a></strong> — <em>2026-05-09 10:00:00</em></summary>
-
-Astrophotographer Andrew McCarthy partnered with Artemis 2 commander Reid Wiseman to create stunning, never-before-seen views of the far side of the moon.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-lonely-jupiter-planet-years-gas.html' target='_blank'>Lonely Jupiter-like planet 900 light years away tells us more about gas giants</a></strong> — <em>2026-05-09 09:50:01</em></summary>
-
-One night last fall, University of Cincinnati astrophysics graduate Paul Smith waited anxiously for data to start rolling across his computer screen from the James Webb Space Telescope a million miles from Earth.
+From volcanic landscapes and a sunset eclipse to six-minute totality, here are the pros and cons of the next two total solar eclipses.
 
 </details>
 
