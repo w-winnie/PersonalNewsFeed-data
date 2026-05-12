@@ -2,45 +2,286 @@
 
     ### Summary of Recent Developments in Astrophysics
 
-#### Advances in Exoplanet Characterization
-Recent advancements in exoplanet research have focused on the atmospheric analysis of newly discovered planets, particularly those in the habitable zone. Utilizing the James Webb Space Telescope (JWST), astronomers have detected carbon dioxide and water vapor in the atmosphere of the exoplanet LHS 475 b, a rocky planet that closely resembles Earth. This finding, reported on May 15, marks a significant step in understanding the potential habitability of exoplanets and the conditions that may support life beyond our solar system. The ability to analyze exoplanet atmospheres with such precision is reshaping our search for extraterrestrial life.
+#### Advancements in Planetary Science
+Recent findings have deepened our understanding of planetary formation and habitability criteria. The Hubble Space Telescope's discovery of the "Dracula’s Chivito" disk showcases chaotic structures that may facilitate the birth of multiple giant planets, providing a new perspective on the dynamics of planet formation. Complementarily, researchers at UC Riverside have established that planets slightly smaller than Earth could still maintain atmospheres suitable for life, refining the targets for future exoplanet explorations.
 
-Key items illustrating this theme include:
-1. **JWST Observations** - The capability of JWST to conduct spectroscopic analysis of exoplanet atmospheres has opened new avenues for identifying chemical signatures indicative of life.
-2. **LHS 475 b** - The detection of key atmospheric components on this rocky exoplanet provides crucial insights into its composition and potential for supporting life.
+Key Items:
+1. Hubble's discovery of the "Dracula's Chivito" disk reveals unprecedented turbulence and material density, essential for studying planetary birth. - https://www.sciencedaily.com/releases/2026/05/260511213151.htm
+2. A study from UC Riverside indicates that planets slightly smaller than Earth could still be viable for life, narrowing the focus of exoplanet searches. - https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html
 
-#### Insights from Gravitational Wave Astronomy
-The field of gravitational wave astronomy continues to evolve, with recent detections shedding light on the merger of neutron stars and black holes. A notable event, cataloged as GW230307, was detected on March 7, 2023, and has provided new data on the properties of neutron stars, including their mass and equation of state. This discovery, shared in a recent publication, emphasizes the importance of gravitational waves in understanding fundamental physics and the extreme environments of compact objects in the universe.
+#### Insights into Cosmic Structures
+The James Webb Space Telescope (JWST) has created an intricate map of the universe's cosmic web, linking over 164,000 galaxies back to a time when the universe was approximately one billion years old. This mapping enhances our understanding of galactic evolution and informs theories regarding dark matter. Additionally, JWST has observed early black holes growing at rates that challenge current astrophysical models, prompting a reevaluation of the relationship between black holes and their host galaxies.
 
-Key items illustrating this theme include:
-1. **GW230307 Event** - Analysis of this neutron star merger has refined models of stellar evolution and the behavior of matter under extreme conditions.
-2. **Multi-Messenger Astronomy** - The combination of gravitational wave data with electromagnetic observations enhances our understanding of cosmic events and the lifecycle of stars.
+Key Items:
+1. JWST's mapping of the cosmic web offers new insights into galaxy formation and the evolution of the universe. - https://www.sciencedaily.com/releases/2026/05/260511213136.htm
+2. Observations reveal black holes in early galaxies growing faster than their hosts, prompting reevaluation of existing theories on black hole formation. - https://phys.org/news/2026-05-jwst-early-black-holes-faster.html
+
+#### Innovative Approaches to Astrobiology
+A transformative approach in astrobiology focuses on the statistical organization of molecular signatures, rather than individual chemical markers. Researchers have identified a "fingerprint" in the distribution patterns of amino acids and fatty acids that could signal the presence of life. This method promises to enhance the search for extraterrestrial life, particularly in samples collected from Mars and moons like Europa.
+
+Key Items:
+1. New research highlights how statistical patterns in molecular distributions can indicate life, providing a fresh avenue for astrobiological exploration. - https://www.sciencedaily.com/releases/2026/05/260511213146.htm
+2. The implications of this method could significantly impact future missions aimed at detecting life on Mars and other celestial bodies. - https://phys.org/news/2026-05-alien-life-mars-europa-missions.html
 
 ### Conclusion
-The current trajectory in astrophysics is characterized by groundbreaking advancements in exoplanet characterization and gravitational wave astronomy. The ability to analyze exoplanet atmospheres with JWST is paving the way for a deeper understanding of potential habitability, while the insights gained from gravitational waves are enriching our knowledge of the fundamental properties of matter in extreme conditions. Together, these developments highlight a vibrant and rapidly advancing field that is not only expanding our comprehension of the universe but also enhancing our search for life beyond Earth.
+The current trajectory in astrophysics is characterized by significant advancements in our understanding of planetary systems, cosmic structures, and the potential for life beyond Earth. The application of cutting-edge observational technologies, like the JWST, coupled with innovative research methodologies, is reshaping our grasp of the universe. These developments not only refine existing models but also set the stage for future exploratory missions, significantly impacting our quest to understand the cosmos.
 
 Top Sources:
-1. JWST detects carbon dioxide and water vapor in exoplanet atmosphere - https://www.nasa.gov/feature/jwst-exoplanet-atmosphere - The James Webb Space Telescope reveals key atmospheric components of LHS 475 b.
-2. Gravitational wave event GW230307 provides insights into neutron star mergers - https://www.scientificamerican.com/article/gravitational-wave-event-gw230307/ - New detections enhance our understanding of neutron stars and their properties.
+1. Smile's journey from launch to orbit - https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit - ESA's Smile mission prepares to study Earth's magnetic shield.
+2. Scientists discover hidden chemical signature that could reveal alien life - https://www.sciencedaily.com/releases/2026/05/260511213146.htm - New patterns in molecular distributions may indicate life.
+3. NASA’s Hubble reveals a giant chaotic planet nursery unlike anything seen before - https://www.sciencedaily.com/releases/2026/05/260511213151.htm - Hubble discovers a unique planet-forming disk.
+4. James Webb telescope reveals the clearest map ever of the Universe’s cosmic web - https://www.sciencedaily.com/releases/2026/05/260511213136.htm - JWST maps the cosmic web connecting galaxies.
+5. New model finds the lower size limit for habitable exoplanets - https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html - Research narrows down viable exoplanet candidates.
+6. JWST spots two early black holes growing far faster than their galaxies - https://phys.org/news/2026-05/jwst-early-black-holes-faster.html - Early-universe black holes challenge existing growth models.
+7. New alien-life test could help Mars and Europa missions read organic molecules - https://phys.org/news/2026-05-alien-life-mars-europa-missions.html - Innovative methods for detecting life on other planets.
+8. NASA's Artemis 3 rocket is taking shape for 2027 launch to test lunar landers (photo) - https://www.space.com/space-exploration/artemis/nasas-artemis-3-rocket-is-taking-shape-for-2027-launch-to-test-lunar-landers-photo - Progress on Artemis 3 highlights lunar exploration efforts.
+9. Curiosity Mars rover analyzes stuck rock, providing insights into Martian geology - https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/ - Curiosity's ongoing mission continues to yield geological data.
+10. Saturn's icy rings likely formed from lost moon Chrysalis - https://phys.org/news/2026-05-saturn-icy-lost-moon-chrysalis.html - Research into Saturn's rings reveals their complex history.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-05-radio-telescopes-million-year-halo.html' target='_blank'>Radio telescopes confirm 3.3-million-light-year halo in unusually quiet galaxy cluster</a></strong> — <em>2026-05-10 18:00:02</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit' target='_blank'>Smile's journey from launch to orbit</a></strong> — <em>2026-05-12 08:00:00</em></summary>
 
-Astronomers have employed the upgraded Giant Metrewave Radio Telescope (uGMRT) and the MeerKAT radio telescope to observe a galaxy cluster known as RXCJ0232–4420. Results of the new observations, published April 29 on the arXiv pre-print server, deliver important insights into the nature of this cluster.
 
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/pragmata-director-yonghee-cho-on-creating-capcoms-resonant-sci-fi-lunar-adventure-interview' target='_blank'>'Pragmata' director Yonghee Cho on creating Capcom’s resonant sci-fi lunar adventure (interview)</a></strong> — <em>2026-05-10 14:00:00</em></summary>
-
-'Designing something new as a creator is incredibly exciting, but at the same time, it’s an extremely challenging endeavor.'
+	Video: 
+			00:02:43
+				Our next space science mission is about to begin its space adventure.After more than 10 years of designing, developing, building and testing, Smile is now ready for action.Its ride to space will be a Vega-C rocket, departing from Europe’s Spaceport in French Guiana on 9 April. The rocket will drop Smile off in a circular orbit 700 km above Earth’s surface.Smile will then fire its own engines 11 times, taking itself higher and higher above the North Pole. From there, it will use X-ray and ultraviolet vision to watch how Earth defends itself from streams of particles and bursts of radiation from the Sun. Nobody has ever seen Earth’s magnetic shield like this before.Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency and the Chinese Academy of Sciences.Learn more about Smile.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-vs-2027-which-one-should-you-choose' target='_blank'>Total solar eclipse 2026 vs 2027 — Which one should you choose?</a></strong> — <em>2026-05-10 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260511213146.htm' target='_blank'>Scientists discover hidden chemical signature that could reveal alien life</a></strong> — <em>2026-05-12 05:17:45</em></summary>
 
-From volcanic landscapes and a sunset eclipse to six-minute totality, here are the pros and cons of the next two total solar eclipses.
+Scientists may have found a powerful new way to hunt for alien life — not by searching for specific molecules, but by looking for hidden patterns in how those molecules are organized. Researchers discovered that living systems leave behind a kind of chemical “fingerprint” in the statistical distribution of amino acids and fatty acids, one that consistently differs from nonliving chemistry.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260511213151.htm' target='_blank'>NASA’s Hubble  reveals a giant chaotic planet nursery unlike anything seen before</a></strong> — <em>2026-05-12 04:42:10</em></summary>
+
+Hubble has revealed a giant planet-forming disk unlike anything astronomers have seen before. Nicknamed “Dracula’s Chivito,” the enormous structure appears turbulent and oddly lopsided, with towering filaments visible on only one side. The disk contains enough material to potentially create multiple giant planets, making it a fascinating new laboratory for studying how planetary systems are born.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260511213136.htm' target='_blank'>James Webb telescope reveals the clearest map ever of the Universe’s cosmic web</a></strong> — <em>2026-05-12 04:10:23</em></summary>
+
+Astronomers using NASA’s James Webb Space Telescope have created the clearest map yet of the universe’s “cosmic web” — the enormous hidden structure that connects galaxies across space. By analyzing more than 164,000 galaxies through the massive COSMOS-Web survey, researchers were able to trace this vast network back to when the universe was just a billion years old.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/' target='_blank'>Australia’s Cloudy Beauty</a></strong> — <em>2026-05-12 04:01:00</em></summary>
+
+Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html' target='_blank'>New model finds the lower size limit for habitable exoplanets</a></strong> — <em>2026-05-12 03:40:01</em></summary>
+
+The search for Earth 2.0 has begun in earnest. But there's a huge variety of exoplanets out there, so narrowing down the search to focus valuable telescope time on only the best candidates is critical. One variable of a planet that will have a huge impact on its habitability is its size. A new paper, now available in preprint on arXiv, by researchers at the University of California Riverside, looks into the impact of a planet's size on one of its more critical features for habitability—whether it holds onto an atmosphere—and determines that slightly smaller than Earth is likely the smallest a planet can be and still be viable for life to develop.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/' target='_blank'>Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style</a></strong> — <em>2026-05-12 01:38:30</em></summary>
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/' target='_blank'>NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill</a></strong> — <em>2026-05-12 00:09:41</em></summary>
+
+Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-nasa-fuel-cell-pave-energy.html' target='_blank'>NASA fuel cell tests pave way for energy storage on the moon</a></strong> — <em>2026-05-11 23:40:03</em></summary>
+
+With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spirals away from the system, where nearly 270 sensors and 1,000 components are nestled inside.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/' target='_blank'>May 2026 Satellite Puzzler</a></strong> — <em>2026-05-11 22:11:35</em></summary>
+
+Your challenge is to tell us the location of the satellite image and why it is interesting.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-alien-life-mars-europa-missions.html' target='_blank'>New alien-life test could help Mars and Europa missions read organic molecules</a></strong> — <em>2026-05-11 21:00:05</em></summary>
+
+For decades, the search for life beyond Earth has revolved around a key question: What molecules should scientists be looking for on other planets or moons? A new study, published in Nature Astronomy, suggests that the more revealing clue may not be the molecules themselves, but the hidden order connecting them.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/' target='_blank'>Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions</a></strong> — <em>2026-05-11 20:51:53</em></summary>
+
+Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/' target='_blank'>Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions</a></strong> — <em>2026-05-11 20:51:53</em></summary>
+
+Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-pentagon-ufo-apollo-moon-missions.html' target='_blank'>Pentagon releases UFO files that go back to the Apollo moon missions</a></strong> — <em>2026-05-11 20:00:06</em></summary>
+
+The Department of Defense has released a fresh batch of images and transcripts relating to reports of unidentified anomalous phenomena, formerly known as UFOs, including pictures and descriptions from NASA's Apollo missions to the moon.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasas-artemis-3-rocket-is-taking-shape-for-2027-launch-to-test-lunar-landers-photo' target='_blank'>NASA's Artemis 3 rocket is taking shape for 2027 launch to test lunar landers (photo)</a></strong> — <em>2026-05-11 20:00:00</em></summary>
+
+The core stage for NASA's Artemis 3 rocket has been raised inside the Vehicle Assembly Building, and is awaiting engine integration.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-hubble-survey-roman-future-milky.html' target='_blank'>Hubble survey sets up Roman's future look near Milky Way's center</a></strong> — <em>2026-05-11 19:20:01</em></summary>
+
+The Milky Way's galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA's Hubble and James Webb space telescopes.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/' target='_blank'>NASA Invites Media to Annual Lunabotics Robotics Competition</a></strong> — <em>2026-05-11 19:11:57</em></summary>
+
+NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.   Links to view the Lunabotics competition live can be found on the agency’s Lunabotics page. The competition is slated to run between 8 a.m. and 6 p.m. each day.    Media are invited to attend the […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/' target='_blank'>NASA Invites Media to Annual Lunabotics Robotics Competition</a></strong> — <em>2026-05-11 19:11:57</em></summary>
+
+NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.   Links to view the Lunabotics competition live can be found on the agency’s Lunabotics page. The competition is slated to run between 8 a.m. and 6 p.m. each day.    Media are invited to attend the […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/nothing-short-of-magical-astrophotographer-captures-lyrid-meteors-beside-the-milky-way' target='_blank'>'Nothing short of magical': Astrophotographer captures Lyrid meteors beside the Milky Way</a></strong> — <em>2026-05-11 19:00:00</em></summary>
+
+Dury captured shooting stars glowing with the Milky Way from the remote Scottish Island of Skye.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-jwst-early-black-holes-faster.html' target='_blank'>JWST spots two early black holes growing far faster than their galaxies</a></strong> — <em>2026-05-11 18:40:12</em></summary>
+
+Astronomers have discovered two early-universe galaxies where the central black holes appear to have grown far faster than their host galaxies. Observations with the James Webb Space Telescope (JWST) reveal that the black holes in these galaxies, seen just 800 million years after the Big Bang, are significantly more massive relative to their host galaxies, as opposed to what astronomers see in the nearby universe. The study is published on the arXiv preprint server.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-saturn-icy-lost-moon-chrysalis.html' target='_blank'>Saturn's icy rings likely formed from lost moon Chrysalis</a></strong> — <em>2026-05-11 18:40:05</em></summary>
+
+You're a long-necked Titanosaur grazing the plains and chomping away on tree leaves about 100 million years ago in the Early Cretaceous in what would eventually become a future Starbucks location. You look up at the night sky and notice a bright dot that seems slightly larger and brighter than usual since you've seen it a bunch. You grunt at your cousin (official dinosaur language) asking if he notices it, too. Your cousin grunts back that it does seem bigger and brighter and wonders what's up.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/' target='_blank'>Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released</a></strong> — <em>2026-05-11 18:34:33</em></summary>
+
+The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-star-reshape-entire-galaxy.html' target='_blank'>How a single star can reshape an entire galaxy</a></strong> — <em>2026-05-11 18:20:03</em></summary>
+
+Astronomers who simulate galaxies do not always get the same result, even when they start from identical conditions. New research from Leiden University shows that this is not a flaw, but a consequence of how galaxies behave—and how they are modeled.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-resilient-quantum-sensor-earth-magnetic.html' target='_blank'>Resilient quantum sensor monitors Earth's magnetic field from space for 10 months</a></strong> — <em>2026-05-11 18:00:05</em></summary>
+
+From navigation to solar weather forecasting, many different areas of research require space-based sensors to measure Earth's magnetic field as accurately as possible at any given moment. So far, however, existing sensors have consistently struggled with effects including drift, interference from the spacecraft itself, and the harsh conditions of orbit.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/satellites-spy-one-of-russias-most-active-volcanoes-melting-snow-from-the-inside-out' target='_blank'>Satellite spies one of Russia's most active volcanoes melting snow from the inside out</a></strong> — <em>2026-05-11 18:00:00</em></summary>
+
+Fresh satellite images reveal volcanic heat melting snow around Russia's relentless Shiveluch volcano on the Kamchatka Peninsula.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-material-science-spacecraft-impact-armor.html' target='_blank'>The material science behind a spacecraft's impact armor</a></strong> — <em>2026-05-11 17:40:05</em></summary>
+
+Aerospace engineers have to consider numerous factors when designing a spacecraft, but one that comes up more and more often is the need to design against micrometeoroids and orbital debris (MMOD). While most designers understand the threat, designing structural solutions capable of withstanding the hypervelocity impacts these undercontrolled pieces of material can cause can take a significant bite out of a mission's mass budget. A new paper from Binkal Kumar Sharma of the University of Bremen and Harshitha Baskar, an independent researcher, provides a detailed review of cutting-edge options for defending against those deadly particles. The study is published on the arXiv preprint server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/chinas-tianzhou-10-freighter-delivers-7-tons-of-cargo-to-tiangong-space-station' target='_blank'>China's Tianzhou 10 freighter delivers 7 tons of cargo to Tiangong space station</a></strong> — <em>2026-05-11 17:00:00</em></summary>
+
+The Tianzhou 10 freighter delivered nearly seven tons of supplies to China's Tiangong space station early Monday morning (May 10), about five hours after launching atop a Long March 7 rocket.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-katalyst-nasa-goddard-swift-boost.html' target='_blank'>Katalyst wraps testing at NASA Goddard for Swift boost mission</a></strong> — <em>2026-05-11 16:00:13</em></summary>
+
+A daring mission to lift NASA's sinking Neil Gehrels Swift Observatory is now one step closer to launch this June. On May 4, Katalyst Space Technologies completed environmental tests of its LINK robotic servicing spacecraft at NASA's Goddard Space Flight Center in Greenbelt, Maryland. LINK will meet up with Swift and attempt to raise its orbit.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/how-nasa-lunar-scientists-taught-artemis-2-astronauts-to-see-the-moon-with-different-eyes' target='_blank'>How NASA lunar scientists taught Artemis 2 astronauts to see the moon with different eyes</a></strong> — <em>2026-05-11 16:00:00</em></summary>
+
+The astronauts aboard NASA's Artemis 2 mission that flew around the moon had to learn to describe their observations using language that would help lunar scientists gain a deeper understanding of the lunar environment. What they saw was a surprise to everyone.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-black-holes-dont-white.html' target='_blank'>Black holes don't live forever, but they might live long enough to look like white holes</a></strong> — <em>2026-05-11 15:40:05</em></summary>
+
+Black holes live forever, at least according to general relativity. Once material crosses a black hole's event horizon, it is trapped forever, until the last day of cosmic time. But we know that isn't true. General relativity is a classical model. It doesn't take into account the fuzzy, indeterminate nature of the quantum. We don't have a complete and consistent theory of quantum gravity, but we do have some understanding of quantum black holes.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission' target='_blank'>SpaceX launches secret US spy satellites to orbit from California (photos)</a></strong> — <em>2026-05-11 15:00:00</em></summary>
+
+SpaceX launched a batch of spy satellites for the U.S. government this evening (May 11) from California's foggy central coast.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-star-wars-worlds-emerge-planet.html' target='_blank'>More Star Wars-like worlds emerge as 27 planet candidates with two suns discovered</a></strong> — <em>2026-05-11 14:20:01</em></summary>
+
+There's so little we know about circumbinary planets—planets that orbit two stars instead of one—that they can feel like the stuff of fantasy. And for good reason: to date, we've only confirmed the existence of 18 circumbinary planets, compared to the more than 6000 planets we know about in single star systems.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/' target='_blank'>Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center</a></strong> — <em>2026-05-11 14:00:39</em></summary>
+
+The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/they-really-launched-this-tiny-spacecraft-well-sort-of-space-photo-of-the-day-for-may-11-2026' target='_blank'>They really launched this tiny spacecraft (Well, sort of.) | Space photo of the day for May 11, 2026</a></strong> — <em>2026-05-11 14:00:00</em></summary>
+
+It's the tiniest Mars test we've seen yet.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/' target='_blank'>NASA Astronaut Jessica Meir</a></strong> — <em>2026-05-11 13:58:09</em></summary>
+
+NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/sun-unleashes-colossal-solar-flare-and-coronal-mass-ejection-raising-the-chances-of-northern-lights-this-week' target='_blank'>Sun unleashes colossal solar flare and coronal mass ejection, raising the chances of northern lights tonight</a></strong> — <em>2026-05-11 13:34:11</em></summary>
+
+An M5.7 solar flare triggered radio blackouts over the Atlantic.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop' target='_blank'>See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop</a></strong> — <em>2026-05-11 13:20:21</em></summary>
+
+While making history on the first human moon mission in more than 50 years, the Artemis 2 astronauts captured incredible pictures of our home planet.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/new-james-webb-space-telescope-images-reveal-how-massive-star-clusters-can-reshape-galaxies' target='_blank'>New James Webb Space Telescope images reveal how massive star clusters can reshape galaxies</a></strong> — <em>2026-05-11 13:00:00</em></summary>
+
+The James Webb Space Telescope has helped scientists peek into the secrets of galactic evolution — and the view is stunning, too.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/' target='_blank'>A Black Hole’s Puzzling X-Ray Bursts</a></strong> — <em>2026-05-11 13:00:00</em></summary>
+
+In 2019, a supermassive black hole in a galaxy 300 million light-years away woke up. Now, it’s puzzling astronomers with an unexpected slowdown in its X-ray bursts.
+The post A Black Hole’s Puzzling X-Ray Bursts appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/does-dantes-inferno-from-the-14th-century-depict-an-asteroid-impact' target='_blank'>Does Dante's Inferno from the 14th century depict an asteroid impact?</a></strong> — <em>2026-05-11 10:00:00</em></summary>
+
+Dante's description of the fall of Lucifer to Earth from heaven seems to sport many of the hallmarks of an impact, forming a multi-ringed crater with a central peak.
 
 </details>
 

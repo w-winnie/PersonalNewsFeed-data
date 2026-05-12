@@ -2,51 +2,119 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. AI-Driven Healthcare Innovations
-Recent advancements in AI are transforming healthcare, particularly in diagnostics and personalized medicine. AI systems are increasingly capable of analyzing medical data to identify diseases earlier and tailor treatments to individual patients. Notable breakthroughs in deep learning models have shown promise in enhancing diagnostic accuracy, leading to improved patient outcomes.
+#### 1. Enhanced AI Agent Capabilities
+Recent advancements in AI agents are emphasizing the integration of real-time web search functionalities to improve their task execution. Tools like Exa within Strands Agents enable multi-step task completion by leveraging up-to-date information from the web, significantly enhancing the practical utility of AI in various applications. This shift is crucial for tasks that require immediate and accurate data retrieval, marking a notable evolution in AI agent capabilities.
 
 Key items:
-- A study from Stanford University demonstrated that a deep learning model could diagnose skin cancer with an accuracy comparable to dermatologists, highlighting AI's potential in oncology.
-- Google Health introduced an AI tool that predicts patient deterioration in real-time, allowing for timely medical interventions.
-- Research from MIT revealed that AI can analyze electronic health records to identify patients at risk for chronic diseases, facilitating proactive management.
+- "Building web search-enabled agents with Strands and Exa" highlights how integrating web search capabilities allows AI agents to perform complex tasks more effectively.
+- "Introducing Claude Platform on AWS" showcases Anthropic's Claude, now accessible via AWS, simplifying integration for users and expanding its application scope.
+- "How to Build a Claude Code-Powered Knowledge Base" discusses innovative data retrieval methods, demonstrating practical applications of AI agents in knowledge management.
 
-#### 2. Advancements in Natural Language Processing
-The field of Natural Language Processing (NLP) is witnessing significant progress, particularly with the introduction of more sophisticated transformer-based models. These models are enhancing the capabilities of AI in understanding context, sentiment, and intent in human language, leading to more effective communication tools.
-
-Key items:
-- OpenAI's latest model, GPT-4, has demonstrated improved contextual understanding and generation capabilities, setting new benchmarks in language tasks.
-- A collaborative study between Microsoft and Stanford has produced a framework for fine-tuning NLP models, improving their adaptability to specific applications.
-- Researchers at MIT have developed a new training technique that reduces the data requirements for effective NLP model performance, making AI more accessible for smaller organizations.
-
-#### 3. Responsible AI and Ethical Considerations
-As AI technologies proliferate, the discourse surrounding their ethical implications has intensified. Researchers and organizations are increasingly focused on developing frameworks to ensure responsible AI use, addressing issues such as bias, transparency, and accountability.
+#### 2. Innovations in AI for Manufacturing and Bug Resolution
+AI is making significant inroads into manufacturing and software development, optimizing various processes. The application of multimodal embeddings in Amazon Nova exemplifies how AI enhances document retrieval, particularly in aerospace manufacturing. Concurrently, Miro's deployment of Amazon Bedrock has led to marked improvements in software bug routing accuracy, reducing resolution times drastically and showcasing the tangible benefits of AI in operational efficiency.
 
 Key items:
-- The Partnership on AI released a comprehensive report outlining best practices for ethical AI deployment, emphasizing the need for diverse training datasets.
-- A joint initiative by several leading tech companies aims to create standardized guidelines for AI fairness, promoting equity in AI applications.
-- A recent publication in the Journal of AI Ethics discusses the importance of incorporating ethical considerations in AI model training and deployment processes.
+- "Manufacturing intelligence with Amazon Nova Multimodal Embeddings" illustrates how AI streamlines document retrieval processes in aerospace.
+- "How Miro uses Amazon Bedrock to boost software bug routing accuracy" reports a reduction in bug resolution time from days to hours, underscoring AI's impact on software engineering.
+
+#### 3. AI Performance Evaluation and User-Centric Design
+The introduction of benchmarks like SocialReasoning-Bench is crucial for assessing the effectiveness of AI agents in serving user interests. Early findings indicate that while many models perform well, they often fail to optimize user outcomes, prompting a reevaluation of AI design and training methodologies. This focus on user-centric performance is essential for developing AI systems that align more closely with human needs.
+
+Key items:
+- "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests" provides insights into the performance of AI models in user-centric tasks, emphasizing the need for improved alignment between AI actions and user goals.
 
 ### Conclusion
-The current AI landscape is marked by significant strides in healthcare applications, enhanced natural language processing capabilities, and a growing emphasis on ethical AI practices. These developments indicate a maturation of the field, where technological advancements are increasingly aligned with responsible usage. As AI continues to evolve, balancing innovation with ethical considerations will be crucial for its sustainable integration into society.
+The current trajectory in AI development highlights a robust focus on enhancing agent capabilities through web integration, optimizing industrial processes, and evaluating AI performance with a user-centric approach. As these advancements continue to evolve, they point toward a future where AI applications are increasingly practical, efficient, and aligned with user needs, potentially transforming various sectors.
 
 ### Top Sources:
-1. Deep Learning for Skin Cancer Detection - https://stanford.edu/skin-cancer-detection - Stanford's study showcases AI's diagnostic capabilities in oncology.
-2. Google Health's AI Deterioration Prediction Tool - https://googlehealth.com/prediction-tool - Google Health introduces AI for real-time patient monitoring.
-3. MIT's Chronic Disease Risk Identification - https://mit.edu/chronic-disease-ai - Research demonstrates AI's potential in predicting chronic diseases.
-4. OpenAI's GPT-4 Model - https://openai.com/research/gpt-4 - OpenAI releases its latest transformer model with enhanced language processing capabilities.
-5. Microsoft and Stanford NLP Framework - https://microsoft.com/nlp-framework - A new framework for fine-tuning NLP models is developed collaboratively.
-6. Partnership on AI Ethical Guidelines - https://partnershiponai.org/ethical-ai-report - A report outlining best practices for responsible AI use.
-7. AI Fairness Initiative - https://techcompanies.com/ai-fairness - A collaborative effort to create guidelines for equitable AI applications.
-8. Journal of AI Ethics Publication - https://journalofaiethics.com/ethical-considerations - Discussion on incorporating ethics into AI model training.
-9. AI in Personalized Medicine - https://nature.com/personalized-medicine-ai - An overview of AI's role in tailoring medical treatments.
-10. Advances in Transformer Models - https://arxiv.org/abs/transformers - A comprehensive review of recent transformer model advancements in NLP.
+1. Building web search-enabled agents with Strands and Exa - https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/ - New tools enhance AI agents’ ability to perform tasks using real-time web data.
+2. Introducing Claude Platform on AWS - https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/ - Anthropic's Claude is now accessible directly through AWS, simplifying user access.
+3. How to Build a Claude Code-Powered Knowledge Base - https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/ - Discusses efficient data retrieval strategies using AI.
+4. Manufacturing intelligence with Amazon Nova Multimodal Embeddings - https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/ - AI improves document retrieval in aerospace manufacturing.
+5. How Miro uses Amazon Bedrock to boost software bug routing accuracy - https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/ - AI reduces bug resolution time significantly.
+6. SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests - https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/ - Evaluates AI agents’ performance in optimizing user outcomes.
+7. Using Transformers to Forecast Incredibly Rare Solar Flares - https://towardsdatascience.com/predicting-solar-flares/ - ML applications in predicting rare astronomical events.
+8. Learning Word Vectors for Sentiment Analysis: A Python Reproduction - https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/ - Explores sentiment-aware word representations in NLP.
+9. Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions - https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/ - New capabilities for enterprise data management.
+10. How enterprises are scaling AI - https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai - Insights into scaling AI in organizational settings.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://openai.com/index/openai-campus-network-student-club-interest-form' target='_blank'>OpenAI Campus Network: Student club interest form</a></strong> — <em>2026-05-11 10:00:00</em></summary>
+    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/' target='_blank'>Building web search-enabled agents with Strands and Exa</a></strong> — <em>2026-05-11 21:58:16</em></summary>
 
-Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.
+In this post, you will learn how to set up the Exa integration in Strands Agents, understand the two core tools it exposes, and walk through real-world use cases that show how agents use web search to complete multi-step tasks.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/' target='_blank'>Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization</a></strong> — <em>2026-05-11 19:44:27</em></summary>
+
+The compute capability of large GPU fleets presents unprecedented opportunities to innovate and provide value to customers in record time. Yet these...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/' target='_blank'>Learning Word Vectors for Sentiment Analysis: A Python Reproduction</a></strong> — <em>2026-05-11 19:44:10</em></summary>
+
+How to build sentiment-aware word representations from IMDb reviews using semantic learning, star ratings, and linear SVM classification
+The post Learning Word Vectors for Sentiment Analysis: A Python Reproduction appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/' target='_blank'>Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account</a></strong> — <em>2026-05-11 18:43:03</em></summary>
+
+Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/' target='_blank'>How to Build a Claude Code-Powered Knowledge Base</a></strong> — <em>2026-05-11 18:36:57</em></summary>
+
+Perform efficient data retrieval of personal knowledge 
+The post How to Build a Claude Code-Powered Knowledge Base appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/predicting-solar-flares/' target='_blank'>Using Transformers to Forecast Incredibly Rare Solar Flares</a></strong> — <em>2026-05-11 17:41:00</em></summary>
+
+How ML can change for rare events
+The post Using Transformers to Forecast Incredibly Rare Solar Flares appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/' target='_blank'>SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests</a></strong> — <em>2026-05-11 17:19:28</em></summary>
+
+Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest.
+The post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/' target='_blank'>Manufacturing intelligence with Amazon Nova Multimodal Embeddings</a></strong> — <em>2026-05-11 17:08:24</em></summary>
+
+In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/' target='_blank'>How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours</a></strong> — <em>2026-05-11 17:03:00</em></summary>
+
+In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by Amazon Bedrock.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/' target='_blank'>Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions</a></strong> — <em>2026-05-11 15:56:33</em></summary>
+
+Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data professionals deliver trusted AI-powered insights at enterprise scale.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/signals/research/2026q1-update' target='_blank'>How ChatGPT adoption broadened in early 2026</a></strong> — <em>2026-05-11 15:00:00</em></summary>
+
+ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/' target='_blank'>PySpark for Beginners: Mastering the Basics</a></strong> — <em>2026-05-11 12:00:00</em></summary>
+
+A step-by-step guide to understanding distributed data, lazy logic, and your first DataFrame.
+The post PySpark for Beginners: Mastering the Basics appeared first on Towards Data Science.
 
 </details>
 
@@ -56,23 +124,9 @@ How enterprises scale AI: from early experiments to compounding impact through t
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/' target='_blank'>Batch or Stream? The Eternal Data Processing Dilemma</a></strong> — <em>2026-05-10 15:00:00</em></summary>
+<details><summary><strong><a href='https://openai.com/index/openai-campus-network-student-club-interest-form' target='_blank'>OpenAI Campus Network: Student club interest form</a></strong> — <em>2026-05-11 10:00:00</em></summary>
 
-"Should we process our data in batches or in real-time?" It's not batch vs. stream: it's "when does the answer matter?"
-The post Batch or Stream? The Eternal Data Processing Dilemma appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://spectrum.ieee.org/orbital-inference-data-center' target='_blank'>Startup Wants to Run AI Inference From Space</a></strong> — <em>2026-05-10 13:00:01</em></summary>
-
-The rapid advancement of large language models is fueling a global data center boom and driving a surge in energy demand. But the electricity required to power data centers is straining the grid, pushing infrastructure operators to search for alternative sources of power. Some are even looking beyond Earth.One company that’s looking to the stars for energy is Orbital Inc. In mid-April, the Los Angeles–based startup emerged from stealth and announced plans to build space data centers. Backed by Andreessen Horowitz (A16z), Orbital is designing infrastructure for AI inference, where trained models generate outputs. Much like other companies advocating for space-based data centers, Orbital is banking on the “free” energy generated by the sun to power compute for workloads such as chatbots and agents, sidestepping terrestrial energy constraints.“There simply isn’t enough capacity here [on Earth], and the only way is up,” says Euwyn Poon, Orbital’s founder and CEO. “There’s actually abundant solar energy that’s not being harnessed.”Orbital’s vision is a mesh constellation of small satellites in low Earth orbit. Each satellite would be equipped with a GPU server rack powered by solar panels roughly the size of a tennis court, plus radiative cooling panels of comprable size. The long-term goal is up to 10,000 fridge-sized satellites—each with 100 kilowatts of power—forming a distributed cloud, similar to SpaceX’s proposed AI Sat Mini.Orbital’s first test will come in 2027, when it plans to launch a prototype satellite aboard a SpaceX Falcon 9 to validate its GPU operations in orbit and run commercial inference workloads. Another company, Starcloud, has already run a similar test last year. Orbital’s differentiator is their plans to match the solution with a problem: small satellites equipped to run inference workloads specifically could benefit from lower launch costs. However, they face the same difficulties as other space data center hopefuls: every watt of “free” energy must be dissipated as heat via large radiative coolers; radiation in low earth orbit degrades compute equipment; and regular maintenance in space is difficult and costly. Orbital’s inference focusPoon says Orbital’s focus on a distributed network of smaller satellites designed to run inference workloads across independent GPU nodes rather than large, tightly coupled systems, makes the execution more feasible. That idea shapes Orbital’s design. Training large AI models typically relies on tightly coupled GPU clusters optimized for massive compute throughput. Inference workloads, by contrast, are generally less compute-intensive per request and can often run on smaller numbers of GPUs, making them easier to distribute across systems. Capping each satellite at roughly 100 kilowatts, Poon says, greatly simplifies the design.“It’s very simple,” Poon says, referring to the concept behind the satellites’ engineering. “Engineers would appreciate this.” In Orbital’s design, a user request—like, say, asking ChatGPT to analyze a data set—is routed from a data center on earth to a ground station, a terrestrial relay that connects satellites to the internet, then transmits the request to a satellite. Satellites communicate through optical interlinks, which use lasers to pass data between nodes. That routes the request to an available GPU, which processes the user’s query and generates the output before sending the result back through the network to the user. These links rely on ground stations that only communicate with satellites when they pass within range.If the satellites are proven to work, Orbital is set on tapping “big model labs” as customers, including firms like OpenAI and Anthropic that run massive inference workloads. Orbital plans to serve them through direct API access for buying tokens and enterprise deals that shift inference demand into its network in space.Engineering challengesPoon recognizes that running data centers in space introduces major technical hurdles. Radiation can strike GPUs and cause bit flips or other errors. Thermal management is also difficult. Without air, systems must rely on radiating heat into space rather than conventional cooling. Maintenance is another constraint, as satellites cannot be easily repaired or replaced if they malfunction in space. It’s why Poon says the test launch will be critical to identify and troubleshoot these issues. “Part of the mission is to figure out the unknowns,” he says.Dr. Amit Verma, an electrical engineering professor at Texas A&M University Kingsville, who researches semiconductor device modelling, raised similar concerns. Deploying thousands of satellites, Dr. Verma says, increases failure risk with limited repair options. He added that operational feasibility depends on the applications performed on the satellites. While some workloads, like chatbots or algorithmic recommendations, can tolerate added delays—data travelling to lower earth orbit takes tens of milliseconds to return—others, like real-time stock trading, cannot.“Outer space data centers that involve heavy use of AI-related processing certainly do need to overcome power and deployment and reliability issues to be meaningful,” Verma says.Orbital plans to test extensively before launch. Poon says his company is exploring radiation hardening for GPUs and ammonia-based liquid cooling loops to transfer heat to external radiators. Reducing system weight is also top of mind to lower launch costs. Even with these mitigations, the timeline is ambitious. In a Substack post on space data centers, Andrew Côté, an engineering physicist, predicts that space data centers won’t be operational for at least another 10 to 20 years. Orbital, however, expects to finalize the satellite designs by 2026, launch in 2027, and build a manufacturing facility in Los Angeles by 2028. With the engineering challenges complex and the costs of launch high, the ability for Orbital’s satellite systems to operate reliably at scale remains an open question.Despite those uncertainties, Poon remains laser focused on the long-term opportunity. “I trust that our engineering efforts can start making progress towards solving these problems,” he says.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/' target='_blank'>LLM Summarizers Skip the Identification Step</a></strong> — <em>2026-05-10 13:00:00</em></summary>
-
-A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.
-The post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.
+Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.
 
 </details>
 
