@@ -1,197 +1,249 @@
 # Astro Daily Summary
 
-    ### Emerging Insights into Celestial Bodies
+    ### Summary of Recent Developments in Astrophysics
 
-Recent studies are enhancing our understanding of the solar system's celestial bodies, particularly with missions focused on Ganymede and the outer planets. The European Space Agency's JUICE mission, set to launch soon, aims to explore Ganymede's potential habitability, particularly its subsurface ocean and unique magnetic field. Concurrently, new research challenges the previous icy classifications of Uranus and Neptune, suggesting they may have predominantly rocky compositions, prompting a reevaluation of their physical characteristics.
+#### Innovations in Space Exploration Technologies
+Recent advancements in space exploration technologies are enhancing mission safety and efficiency. Notably, NASA's Artemis II mission will utilize a wristwatch-like health monitoring device for astronauts, reflecting a growing focus on crew well-being during extended missions. Additionally, NASA is developing nuclear propulsion systems, which could potentially halve the travel time to Mars from six months to three or four. These innovations are crucial as human missions extend beyond low Earth orbit, aiming to ensure both safety and operational effectiveness.
 
-Key items include:
-1. **Geysers on Ganymede** - The JUICE mission will investigate predicted geysers on Ganymede, providing insights into its oceanic environment and potential for life (https://phys.org/news/2026-05-geysers-juice-mission-explore-ganymede.html).
-2. **Rocky Composition of Uranus and Neptune** - A study proposes that these planets should be considered "minor giants," emphasizing their rocky interiors rather than icy exteriors (https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests).
+Key items:
+1. **Wristwatch-like device for astronaut health** - https://phys.org/news/2026-05-wristwatch-device-enables-health-astronauts.html - A new device will monitor astronauts' health during the Artemis II mission.
+2. **Nuclear propulsion for Mars missions** - https://phys.org/news/2026-05-nasa-big-nuclear-journey-mars.html - NASA is developing nuclear engines to reduce travel time to Mars.
 
-### Advancements in Gravitational Wave Research
+#### Revelations from Cosmic Dust and Interstellar Studies
+The study of cosmic dust continues to provide insights into the universe's history. A recent discovery of iron-60 isotopes in Antarctic ice indicates that Earth is traversing ancient supernova debris, enhancing our understanding of the Solar System's formation. Furthermore, a new statistical technique for analyzing black hole mergers is expected to deepen our understanding of gravitational waves, potentially transforming our grasp of black hole physics.
 
-The field of gravitational wave astronomy is experiencing rapid progress, particularly regarding signal detection and analysis techniques. Researchers have introduced an "autotuning" method that enhances the sensitivity of gravitational wave detectors, improving their ability to capture signals from cosmic events. This innovation may lead to more precise measurements and could even facilitate the detection of dark matter through gravitational wave emissions.
+Key items:
+1. **Iron-60 in Antarctic ice** - https://www.sciencedaily.com/releases/2026/05/260513221751.htm - Evidence of ancient supernova debris found in ice reveals cosmic history.
+2. **Black hole ringing analysis** - https://phys.org/news/2026-05-statistical-technique-uncover-secrets-black.html - New techniques could reveal secrets about black hole mergers.
 
-Key items include:
-1. **Autotuning Gravitational Detectors** - A new technique enables gravitational wave detectors to dynamically adjust their sensitivity, enhancing data quality (https://phys.org/news/2026-05-gravitational-detectors-autotune-harmonize-heavens.html).
-2. **Detecting Dark Matter via Gravitational Waves** - New models indicate that gravitational waves from merging black holes might carry imprints of dark matter, offering a novel detection method (https://phys.org/news/2026-05-gravitational-colliding-black-holes-dark.html).
+#### Enhanced Astronomical Observations
+Technological advancements are significantly improving observational capabilities in astrophysics. NASA's TESS mission has released its most comprehensive night-sky map, identifying nearly 6,000 exoplanet candidates, which expands our understanding of planetary systems. Additionally, the first direct detection of turbulence in the interstellar medium may refine imaging techniques for observing distant cosmic phenomena, including the supermassive black hole at the center of our galaxy.
 
-### Mapping the Universe's Structure
+Key items:
+1. **TESS night-sky map** - https://phys.org/news/2026-05-tess-reveals-fullest-night-sky.html - TESS has mapped nearly 6,000 exoplanet candidates, expanding our knowledge of distant worlds.
+2. **Detection of interstellar turbulence** - https://phys.org/news/2026-05-astronomers-turbulence-stars-distorts.html - First direct detection of turbulence in the interstellar medium enhances imaging capabilities.
 
-Astronomers are making significant strides in mapping the cosmic web, which represents the large-scale structure of the universe. Utilizing data from the James Webb Space Telescope (JWST), researchers have created a comprehensive map that extends back to the universe's first billion years. This work not only enhances our understanding of galaxy formation and evolution but also provides critical insights into dark matter distribution.
+The current landscape of astrophysics is marked by a blend of technological innovation and deeper scientific inquiry. As exploration efforts extend further into space, the integration of advanced technologies is vital for ensuring mission safety and success. Concurrently, enhanced observational capabilities are enriching our understanding of cosmic phenomena, setting the stage for significant advancements in both theoretical and applied astrophysics.
 
-Key items include:
-1. **JWST Cosmic Web Mapping** - A detailed map of the cosmic web has been produced, revealing structures from the early universe (https://phys.org/news/2026-05-jwst-cosmic-web-universe-billion.html).
-2. **Optical Quasi-Periodic Oscillation in Blazars** - Observations of a bright blazar have uncovered persistent optical oscillations, contributing to our understanding of high-energy astrophysical processes (https://phys.org/news/2026-05-bright-blazar-reveals-day-optical.html).
-
-### Conclusion
-
-The current landscape of astrophysics is characterized by significant advancements in our understanding of celestial bodies, gravitational wave detection, and the mapping of cosmic structures. These developments not only deepen our knowledge of the universe but also pave the way for future research, particularly in dark matter and planetary science. The integration of innovative technologies and methodologies continues to propel the field forward, suggesting a promising horizon for upcoming discoveries.
-
-Top Sources:
-1. Study identifies geysers the JUICE mission could explore on Ganymede - https://phys.org/news/2026-05-geysers-juice-mission-explore-ganymede.html - Ganymede exploration could reveal signs of habitability.
-2. Gravitational wave detectors can now 'autotune' signals to harmonize the heavens - https://phys.org/news/2026-05-gravitational-detectors-autotune-harmonize-heavens.html - New autotuning technique enhances gravitational wave signal detection.
-3. Uranus and Neptune could be full of rocks, new study suggests - https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests - Research reclassifies these planets' compositions.
-4. JWST maps cosmic web in record detail back to universe's first billion years - https://phys.org/news/2026-05/jwst-cosmic-web-universe-billion.html - Detailed map of cosmic structures enhances understanding of galaxy evolution.
-5. Bright blazar reveals 433-day optical quasi-periodic oscillation across nine years - https://phys.org/news/2026-05-bright-blazar-reveals-day-optical.html - Discovery of persistent oscillations in a quasar contributes to high-energy astrophysics.
-6. Gravitational waves from colliding black holes may allow detection of dark matter - https://phys.org/news/2026-05-gravitational-colliding-black-holes-dark.html - New model suggests gravitational waves could reveal dark matter signatures.
-7. TIME instrument unlocks faint signals from early galaxies across vast stretches of sky - https://phys.org/news/2026-05-instrument-faint-early-galaxies-vast.html - Innovative instrument provides insights into the universe's earliest galaxies.
-8. Cowboy Space raises $275 million to launch AI data centers on brand-new rocket - https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket - New venture aims to establish AI data centers in orbit.
-9. 'Cannibal stars,' AI and the Rubin Observatory could shed light on the mystery of dark energy - https://www.space.com/astronomy/dark-universe/cannibal-stars-ai-and-the-rubin-observatory-could-shed-light-on-the-mystery-of-dark-energy-heres-how - AI analysis may help unravel dark energy mysteries.
-10. NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect - https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect - Psyche mission aims to study metal-rich asteroid.
+### Top Sources:
+1. Wristwatch-like device for astronaut health - https://phys.org/news/2026-05-wristwatch-device-enables-health-astronauts.html - A new device will monitor astronauts' health during the Artemis II mission.
+2. Nuclear propulsion for Mars missions - https://phys.org/news/2026-05-nasa-big-nuclear-journey-mars.html - NASA is developing nuclear engines to reduce travel time to Mars.
+3. Iron-60 in Antarctic ice - https://www.sciencedaily.com/releases/2026/05/260513221751.htm - Evidence of ancient supernova debris found in ice reveals cosmic history.
+4. Black hole ringing analysis - https://phys.org/news/2026-05-statistical-technique-uncover-secrets-black.html - New techniques could reveal secrets about black hole mergers.
+5. TESS night-sky map - https://phys.org/news/2026-05-tess-reveals-fullest-night-sky.html - TESS has mapped nearly 6,000 exoplanet candidates, expanding our knowledge of distant worlds.
+6. Detection of interstellar turbulence - https://phys.org/news/2026-05-astronomers-turbulence-stars-distorts.html - First direct detection of turbulence in the interstellar medium enhances imaging capabilities.
+7. Waterworn chaos on Mars - https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars - ESA's Mars Express explores fascinating Martian valley signs of water.
+8. Dual spacecraft observations of comet 3I/ATLAS - https://phys.org/news/2026-05-dual-spacecraft-capture-hemispheres-interstellar.html - Unique imaging of interstellar comet 3I/ATLAS by two spacecraft.
+9. World's first space-based neutrino detector - https://www.space.com/science/particle-physics/like-putting-a-microscope-into-the-core-of-the-sun-worlds-1st-space-based-neutrino-detector-launches-to-orbit - A new detector aims to study elusive neutrino particles from space.
+10. Lasers study space debris effects - https://www.space.com/space-exploration/launches-spacecraft/lasers-shine-a-new-light-on-the-space-junk-air-pollution-problem - New techniques are being used to analyze the impact of space debris on Earth's atmosphere.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-05-geysers-juice-mission-explore-ganymede.html' target='_blank'>Study identifies geysers the JUICE mission could explore on Ganymede</a></strong> — <em>2026-05-13 00:40:03</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/' target='_blank'>Ice Moves Out of Aniak</a></strong> — <em>2026-05-14 04:01:00</em></summary>
 
-Ganymede, Jupiter's largest moon, is also the solar system's largest satellite, even larger than the planet Mercury. It is also the only celestial body aside from Earth (and the gas giants) to have an intrinsic magnetic field. As if this didn't make the icy body interesting enough, scientists also predict that it has a massive interior ocean with more water than all of Earth's oceans combined. At present, the European Space Agency's (ESA) Jupiter Icy Moons Explorer (JUICE) is in transit to Ganymede to explore it for signs of habitability.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-gravitational-detectors-autotune-harmonize-heavens.html' target='_blank'>Gravitational wave detectors can now 'autotune' signals to harmonize the heavens</a></strong> — <em>2026-05-13 00:00:02</em></summary>
-
-Gravitational wave researchers working on the world's most sensitive scientific instruments have found a way to tune their detectors using a process akin to the pitch-correction used in music production.
+Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly' target='_blank'>SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly</a></strong> — <em>2026-05-12 22:34:50</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-wristwatch-device-enables-health-astronauts.html' target='_blank'>Wristwatch-like device enables assessment of health risks for astronauts on mission to the moon</a></strong> — <em>2026-05-14 03:40:01</em></summary>
 
-SpaceX is officially targeting May 19 for the debut of Starship Version 3, an advanced new vehicle that could help humanity take its first steps on the moon and Mars.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-graph-universe.html' target='_blank'>One graph attempts to connect every object in the universe</a></strong> — <em>2026-05-12 22:20:03</em></summary>
-
-If you've ever taken an introductory astronomy class, you've probably seen the Hertzsprung-Russell (HR) diagram. This graph maps out the life cycle of stars by plotting their temperature against their luminosity, and has been a "cheat sheet" for stellar astrophysics for over a century. But the universe is full of more than just stars, and a new paper in the journal Publications of the Astronomical Society of the Pacific by Gabriel Steward and Matthew Hedman of the University of Idaho, attempts to do for the density and mass of all objects what the HR diagram did for the lifecycle of stars—provide a coherent, visual map to represent them.
+Just a few hours before the Orion spacecraft crossed the sky en route to the moon on April 1, mechatronics engineer Rodrigo Trevisan Okamoto received confirmation he had been waiting for since the Artemis 2 mission was announced in 2023. The email from NASA stated that the crew of the first crewed mission to orbit the moon in half a century would carry a device developed by Okamoto and his team at Condor Instruments, a São Paulo-based startup.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-perseverance-rover-snaps-selfie-western.html' target='_blank'>Perseverance rover snaps selfie in western frontier of Mars</a></strong> — <em>2026-05-12 21:40:04</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260513221751.htm' target='_blank'>Earth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice</a></strong> — <em>2026-05-14 03:16:18</em></summary>
 
-NASA's Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls Lac de Charmes. Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. The selfie was captured on March 11, the 1,797th Martian day (sol) of the mission, during the rover's deepest push west beyond the crater.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-instrument-faint-early-galaxies-vast.html' target='_blank'>TIME instrument unlocks faint signals from early galaxies across vast stretches of sky</a></strong> — <em>2026-05-12 21:00:10</em></summary>
-
-Cornell astronomers are deploying a new instrument that grants them, for the first time, a better view of the universe's earliest galaxies, which can't be observed individually with traditional ground- or space-based telescopes.
+Earth is quietly collecting radioactive debris from an ancient stellar explosion as our Solar System drifts through a giant cloud of gas and dust between the stars. Scientists analyzing Antarctic ice up to 80,000 years old discovered traces of iron-60 — a rare isotope forged in supernova explosions — and found evidence that this “cosmic ash” has been lingering inside the Local Interstellar Cloud for ages. The discovery suggests the cloud surrounding our Solar System was shaped by a long-ago exploding star, offering researchers a new way to study our galactic neighborhood.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests' target='_blank'>Uranus and Neptune could be full of rocks, new study suggests</a></strong> — <em>2026-05-12 21:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-ufo-skies.html' target='_blank'>New UFO files offer no answers—but something is happening in the skies</a></strong> — <em>2026-05-14 03:00:01</em></summary>
 
-"Rather than 'icy' or 'rocky,' we should simply call them minor giants."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-calm-galaxy-cluster-violent-cosmic.html' target='_blank'>'Calm' galaxy cluster hides a violent cosmic scene that took 4 billion years to settle</a></strong> — <em>2026-05-12 20:20:04</em></summary>
-
-The galaxy cluster Abell 2029 is sometimes described as "the most relaxed cluster in the universe." This moniker does not arise from some sort of mellow vibe, but rather because of how calm and undisturbed the superheated gas that pervades the cluster appears to be.
+The US Government has released a new trove of documents on cases of "unidentified anomalous phenomena" (UAPs)—many of which would have been described in the past as unidentified flying objects or UFOs—including photos, videos and reports of unexplained events sighted in the sky and in space.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-gravitational-colliding-black-holes-dark.html' target='_blank'>Gravitational waves from colliding black holes may allow detection of dark matter</a></strong> — <em>2026-05-12 19:40:10</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-books/remember-choose-your-own-adventure-books-now-theres-a-gorgeous-graphic-novel-version-heading-to-space-and-beyond-exclusive' target='_blank'>Remember 'Choose Your Own Adventure' books? Now there's a gorgeous graphic novel version heading to 'Space and Beyond' (exclusive)</a></strong> — <em>2026-05-13 21:00:00</em></summary>
 
-Dark matter is thought to make up most of the matter in the universe, but the only way it interacts with its surroundings is through gravity. If two colliding black holes spiral through a dense region of dark matter and merge, gravitational waves rippling across space and time could carry an imprint of that dark matter.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket' target='_blank'>Cowboy Space raises $275 million to launch AI data centers on brand-new rocket</a></strong> — <em>2026-05-12 19:05:26</em></summary>
-
-The newly rebranded Cowboy Space Corp. will use the money to develop and operate AI data centers in orbit, which it will launch on a homegrown rocket.
+The 1980's kids classic 'Space and Beyond' is back as a stunning interactive comic.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/dark-universe/cannibal-stars-ai-and-the-rubin-observatory-could-shed-light-on-the-mystery-of-dark-energy-heres-how' target='_blank'>'Cannibal stars,' AI and the Rubin Observatory could shed light on the mystery of dark energy. Here's how</a></strong> — <em>2026-05-12 18:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-twinkling-pulsar-reveals-invisible-space.html' target='_blank'>A twinkling pulsar reveals invisible structures in space</a></strong> — <em>2026-05-13 20:21:29</em></summary>
 
-Using AI and Rubin Observatory data, scientists are rethinking Type 1a supernova "standard candles," hunting for "unknown unknowns" that could lead us to missing ingredients in our recipe of the cosmos and solve the puzzle of dark energy.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/new-way-spot-signs-dark-matter-0512' target='_blank'>A new way to spot signs of dark matter</a></strong> — <em>2026-05-12 17:00:00</em></summary>
-
-Gravitational waves emitted by colliding black holes may bear imprints of dark matter, which physicists could detect with a new model.
+The twinkling stars in the night sky are not just beautiful to look at. Their flickering reveals something about the varying temperatures and densities in the layers of Earth's atmosphere, which refract the light as it travels toward us. Certain stellar remnants that emit radio waves can exhibit a very similar effect.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/new-way-spot-signs-dark-matter-0512' target='_blank'>A new way to spot signs of dark matter</a></strong> — <em>2026-05-12 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-statistical-technique-uncover-secrets-black.html' target='_blank'>Statistical technique could uncover secrets of 'ringing' black holes</a></strong> — <em>2026-05-13 20:07:01</em></summary>
 
-Gravitational waves emitted by colliding black holes may bear imprints of dark matter, which physicists could detect with a new model.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/dont-miss-mars-saturn-and-the-moon-form-a-cosmic-triangle-before-dawn-on-may-14' target='_blank'>Don't miss Mars, Saturn and the moon form a cosmic triangle before dawn on May 14</a></strong> — <em>2026-05-12 16:00:00</em></summary>
-
-The razor-thin crescent moon meets Saturn and Mars in the glow of the rising sun on May 14.
+Researchers have developed a technique to analyze how black holes "ring" when they collide and merge: one of the universe's most dramatic events. When black holes merge, the collision produces a new, larger black hole that "rings" like a plucked guitar string or a bell while it settles into its final, stable shape. But instead of sound waves, the new black hole rings with gravitational waves: ripples in spacetime first predicted by Albert Einstein.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-scientists-ai-sun-acoustic-heartbeat.html' target='_blank'>Scientists use AI to interpret the sun's acoustic heartbeat</a></strong> — <em>2026-05-12 15:20:09</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/will-starship-launch-from-foreign-shores-spacex-constantly-exploring-options-for-megarocket-liftoff-sites' target='_blank'>Will Starship launch from foreign shores? SpaceX 'constantly exploring' options for megarocket liftoff sites</a></strong> — <em>2026-05-13 20:00:00</em></summary>
 
-A new AI-based approach that can "hear" inside the sun could give vital signs of the solar disturbances that have significant effects in near-Earth space and on human activities. The solar cycle is an approximate 11-year period during which the sun's magnetic activity rises and falls. The cycle begins relatively calmly. However, as it progresses, the magnetic field becomes more aggressive, leading to a surge in sunspot numbers, solar flares, and coronal mass ejections. These eruptions can disrupt satellites and power grids and thus have a direct impact on our communication technology.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34' target='_blank'>Watch SpaceX launch 6,500 pounds of cargo to the International Space Station on May 13</a></strong> — <em>2026-05-12 15:00:00</em></summary>
-
-SpaceX will launch its Dragon cargo capsule toward the International Space Station on Wednesday evening (May 13), and you can watch the action live.
+SpaceX just revealed that it's on the hunt for additional launch sites for its Starship megarocket, eyeing locations both inside and beyond the United States.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-bright-blazar-reveals-day-optical.html' target='_blank'>Bright blazar reveals 433-day optical quasi-periodic oscillation across nine years</a></strong> — <em>2026-05-12 14:40:06</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/' target='_blank'>NASA-Supported Space Tech Advances Earthly Construction</a></strong> — <em>2026-05-13 19:47:08</em></summary>
 
-By analyzing the data from the Whole Earth Blazar Telescope (WEBT), an international team of astronomers has discovered optical quasi-periodic oscillation (QPO) in a bright quasar known as 3C 454.3. It is so far one of the most persistent QPOs detected in the optical band. The finding was reported in a paper published April 30 on the arXiv pre-print server.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect' target='_blank'>NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect</a></strong> — <em>2026-05-12 14:19:42</em></summary>
-
-NASA's asteroid-bound spacecraft Psyche is headed for an encounter with Mars on Friday (May 15) to get a boost from the Red Planet.
+An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.  Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/mesmerizing-vortexes-swirl-near-an-antarctic-volcano-space-photo-of-the-day-for-may-12-2026' target='_blank'>Mesmerizing vortexes swirl near an Antarctic volcano | Space photo of the day for May 12, 2026</a></strong> — <em>2026-05-12 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/' target='_blank'>NASA-Supported Space Tech Advances Earthly Construction</a></strong> — <em>2026-05-13 19:47:08</em></summary>
 
-The arctic winds have created something truly stunning.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-jwst-cosmic-web-universe-billion.html' target='_blank'>JWST maps cosmic web in record detail back to universe's first billion years</a></strong> — <em>2026-05-12 13:49:18</em></summary>
-
-Using data from NASA's James Webb Space Telescope (JWST), astronomers led by researchers at the University of California, Riverside have produced the most detailed map of the cosmic web ever made, tracing the network of galaxies all the way back to when the universe was one billion years old.
+An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.  Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/star-catcher-just-raised-usd65-million-to-build-the-worlds-first-power-grid-in-space-with-lasers' target='_blank'>Star Catcher just raised $65 million to build the world's first power grid in space — with lasers</a></strong> — <em>2026-05-12 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-waterworn-chaos-mars-length-italy.html' target='_blank'>Waterworn chaos on Mars stretches the length of Italy</a></strong> — <em>2026-05-13 19:40:01</em></summary>
 
-Star Catcher Industries just raised $65 million to build a constellation of power-beaming satellites, which the Florida company thinks will supercharge the off-Earth economy.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/science/climate-change/a-hidden-wildfire-pollutant-causes-thousands-of-excess-deaths-per-year-satellite-data-shows' target='_blank'>Thousands of deaths per year caused by invisible wildfire pollutant, satellite data shows</a></strong> — <em>2026-05-12 12:00:00</em></summary>
-
-Wildfire-derived ozone appears responsible for 2,045 excess deaths, on average, per year across the U.S., 20 years of satellite data reveal.
+This month, ESA's Mars Express takes us to Shalbatana Vallis: a fascinating Martian valley surrounded by signs of water, lava, craters and chaos. Shalbatana Vallis is an impressive channel near Mars's equator. This image, taken by Mars Express's High Resolution Stereo Camera (HRSC), captures the northern part of the channel, which weaves its way across Mars's surface for some 1,300 km—around the length of Italy.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos' target='_blank'>SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight (photos)</a></strong> — <em>2026-05-12 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-astronomers-turbulence-stars-distorts.html' target='_blank'>Astronomers directly detect how turbulence between stars distorts light</a></strong> — <em>2026-05-13 19:27:45</em></summary>
 
-SpaceX has stacked and fueled the new version of its Starship megarocket for the first time ever, gearing up for a key test flight that could launch as soon as May 19.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live' target='_blank'>How to follow the Smile launch live</a></strong> — <em>2026-05-12 09:30:00</em></summary>
-
-
-ESA will be broadcasting live as the European-Chinese Smile mission launches at 04:52 BST/05:52 CEST (00:52 local time) on 19 May 2026.Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana.Times subject to change at short notice.
+Astronomers led by the Center for Astrophysics | Harvard & Smithsonian (CfA) have made the first direct detection of turbulence distorting light in the interstellar medium. The findings will help scientists achieve clearer imaging of the supermassive black hole at the center of the Milky Way galaxy.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live' target='_blank'>How to follow the Smile launch live</a></strong> — <em>2026-05-12 09:30:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/rise-goes-to-washington/' target='_blank'>Rise Goes to Washington</a></strong> — <em>2026-05-13 19:17:12</em></summary>
+
+“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-tess-reveals-fullest-night-sky.html' target='_blank'>TESS reveals fullest night-sky map yet, with nearly 6,000 exoplanet worlds</a></strong> — <em>2026-05-13 19:13:43</em></summary>
+
+NASA's TESS (Transiting Exoplanet Survey Satellite) has released its most complete view of the starry sky to date, filling in gaps from previous observations. Nearly 6,000 colored dots scattered across the image show the locations of either confirmed or candidate exoplanets—worlds beyond our solar system—identified by the mission as of September 2025 at the end of TESS's second extended mission.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/science/particle-physics/what-flings-mysteriously-powerful-particles-called-cosmic-rays-at-earth' target='_blank'>What flings mysteriously powerful particles called 'cosmic rays' at Earth?</a></strong> — <em>2026-05-13 19:00:00</em></summary>
+
+High-energy cosmic rays, 10 million times more powerful than particles accelerated in Earth's strongest atom smasher, may hide a superheavy secret that is the key to unlocking a 60-year-old puzzle.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-dual-spacecraft-capture-hemispheres-interstellar.html' target='_blank'>Dual spacecraft capture both hemispheres of interstellar comet 3I/ATLAS at once</a></strong> — <em>2026-05-13 18:20:01</em></summary>
+
+The Southwest Research Institute-led Ultraviolet Spectrograph (UVS) instruments aboard ESA's Jupiter Icy Moons Explorer (Juice) spacecraft and NASA's Europa Clipper made unique observations of interstellar comet 3I/ATLAS in late 2025. SwRI leads the UVS instruments on both spacecraft, simultaneously imaging both hemispheres of the comet and detecting the comet's ultraviolet emissions.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-captures-remarkable-view-of-galactic-eyes-with-backyard-telescope' target='_blank'>Astrophotographer captures remarkable view of galactic 'Eyes' with backyard telescope</a></strong> — <em>2026-05-13 18:00:00</em></summary>
+
+The string of galaxies is just a small part of the colossal Virgo Galaxy Cluster
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/' target='_blank'>Moon and Planets to Gather in Twilight Spectacle on May 18–20</a></strong> — <em>2026-05-13 17:48:46</em></summary>
+
+Watch the crescent Moon dance with the planets when it returns next week. 
+The post Moon and Planets to Gather in Twilight Spectacle on May 18–20 appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-recreating-dying-stars-reveals-hydrogen.html' target='_blank'>Recreating dying stars reveals hydrogen's key role in cosmic dust formation</a></strong> — <em>2026-05-13 17:40:01</em></summary>
+
+Silicon carbide (SiC) dust is one of the most important ingredients in cosmic dust, the tiny particles floating throughout the cosmos that eventually give rise to new planets and stars. This compound of silicon and carbon is forged in the atmospheres of dying stars, especially carbon-rich ones, but exactly how has long remained a mystery.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training' target='_blank'>Blue Origin's lunar lander mockup is ready for NASA Artemis astronaut training</a></strong> — <em>2026-05-13 17:00:00</em></summary>
+
+A mockup of Blue Origin's Blue Moon Mark 2 lunar lander has been assembled at the Johnson Space Center, and is ready for Artemis astronauts to come aboard to begin training.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-nasa-big-nuclear-journey-mars.html' target='_blank'>NASA bets big on nuclear engines to cut journey times to Mars</a></strong> — <em>2026-05-13 16:48:49</em></summary>
+
+Nasa is developing ways to use nuclear power to send spacecraft to their destinations. Nuclear propulsion could greatly reduce the journey time to Mars, perhaps cutting a voyage of more than six months to three or four months.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/smallville-at-15-an-imperfect-superman-show-but-the-best-clark-kent-story-ever-told' target='_blank'>'Smallville' at 15: An imperfect Superman show, but the best Clark Kent story ever told</a></strong> — <em>2026-05-13 16:00:00</em></summary>
+
+Look! Up in the sky! It's a bird! It's a plane! No, it's non-canonical Superman!
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/' target='_blank'>NASA Outlines Preliminary Artemis III Mission Plans</a></strong> — <em>2026-05-13 15:33:56</em></summary>
+
+NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-martian-tides-strong-ancient-landscape.html' target='_blank'>Were Martian tides strong enough to shape its ancient landscape?</a></strong> — <em>2026-05-13 15:31:31</em></summary>
+
+You're an anaerobic microbe sunbathing on a Martian beach billions of years ago listening to the small waves hit the shoreline as you take in the perchlorates in the Martian regolith. This is because while Mars is warm and wet, it still lacks sufficient oxygen, so anaerobic life like yourself doesn't need oxygen to survive. You're chilling for several hours and eventually notice the water hasn't touched you. You remember overhearing some otherworldly fellows who briefly landed and discussed the landscape didn't look well formed, so they left.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/lasers-shine-a-new-light-on-the-space-junk-air-pollution-problem' target='_blank'>Lasers shine a new light on the space junk air pollution problem</a></strong> — <em>2026-05-13 15:00:00</em></summary>
+
+Scientists are using a new technique to study incoming space debris and its effects on Earth's atmosphere.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/' target='_blank'>Studying Pneumonia in Space for Heart Health on Earth</a></strong> — <em>2026-05-13 14:45:00</em></summary>
+
+Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria […]
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/' target='_blank'>NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky</a></strong> — <em>2026-05-13 14:15:23</em></summary>
+
+NASA’s TESS has released its most complete view of the starry sky to date
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-stardust-antarctic-ice-reveals-tens.html' target='_blank'>Stardust trapped in Antarctic ice reveals tens of thousands of years of solar system's past</a></strong> — <em>2026-05-13 14:00:50</em></summary>
+
+When you think of outer space, you're likely picturing stars, planets and moons. But much of space is filled with clouds of gas, plasma and stardust—known as interstellar clouds.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/science/astrophysics/the-whirlpool-galaxy-comes-alive-in-new-image-space-photo-of-the-day-for-may-13-2026' target='_blank'>The Whirlpool Galaxy comes alive | Space photo of the day for May 13, 2026</a></strong> — <em>2026-05-13 14:00:00</em></summary>
+
+M51, also known as the Whirlpool Galaxy, looks incredible in this new snap by the James Webb Space Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/venus/30-mile-high-clouds-of-acid-on-venus-are-made-by-the-largest-hydraulic-jump-in-the-solar-system' target='_blank'>30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system</a></strong> — <em>2026-05-13 13:00:00</em></summary>
+
+A 3,700-mile-long cloud bank on Venus forms through the same phenomenon that describes how water spreads out in your kitchen sink, scientists say.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/science/particle-physics/like-putting-a-microscope-into-the-core-of-the-sun-worlds-1st-space-based-neutrino-detector-launches-to-orbit' target='_blank'>'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit</a></strong> — <em>2026-05-13 12:00:00</em></summary>
+
+The world's first space-based neutrino detector launched to space this month to study elusive neutrino particles that constantly bombard Earth.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/cost-estimate-for-golden-dome-missile-defense-system-balloons-to-usd1-2-trillion' target='_blank'>Cost estimate for 'Golden Dome' missile defense system balloons to $1.2 trillion</a></strong> — <em>2026-05-13 10:00:00</em></summary>
+
+It will likely cost about $1.2 trillion to develop and operate President Trump's planned "Golden Dome" missile defense system, according to a new Congressional Budget Office report.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars' target='_blank'>Waterworn chaos on Mars</a></strong> — <em>2026-05-13 09:00:00</em></summary>
 
 
-ESA will be broadcasting live as the European-Chinese Smile mission launches at 04:52 BST/05:52 CEST (00:52 local time) on 19 May 2026.Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana.Times subject to change at short notice.
+This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars' target='_blank'>Waterworn chaos on Mars</a></strong> — <em>2026-05-13 09:00:00</em></summary>
+
+
+This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.
 
 </details>
 
