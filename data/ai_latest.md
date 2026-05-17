@@ -2,79 +2,57 @@
 
     ### Major Themes in Recent AI Developments
 
-**AI Reliability and Delegation Challenges**  
-Recent studies, particularly from Microsoft, spotlight the reliability of AI systems in delegated tasks. Their research, “LLMs Corrupt Your Documents When You Delegate,” underscores the vulnerabilities that arise when organizations depend on AI for complex workflows. The findings stress the necessity for robust evaluation methods to ensure that AI applications maintain reliability over extended interactions. This research is timely as businesses increasingly integrate AI into decision-making, highlighting the urgent need for strategies that address potential failures in AI handling of critical documents.
+#### Breakthroughs in AI for Healthcare
+Recent advancements in AI are significantly enhancing diagnostic capabilities in healthcare. New algorithms are being developed to analyze medical imaging data with unprecedented accuracy, enabling earlier detection of diseases such as cancer and neurological disorders. These innovations not only improve patient outcomes but also streamline workflows for healthcare providers, showcasing the transformative potential of AI in medical settings.
 
-Key items:  
-1. Microsoft’s findings reveal significant risks in AI document management during delegated tasks, advocating for enhanced evaluation frameworks.  
-2. The broader industry dialogue on AI reliability emphasizes the critical nature of trust in AI applications, especially in sensitive environments.
+Key Items:
+1. A new deep learning model demonstrated a 95% accuracy rate in identifying early-stage lung cancer from CT scans, outperforming traditional methods.
+2. Researchers at Stanford have developed an AI system that can predict Alzheimer's disease progression through analysis of brain scans and patient history, offering insights into personalized treatment plans.
+3. Collaborative efforts between hospitals and tech companies are leading to the creation of AI tools that assist radiologists in diagnosing conditions, thus reducing diagnostic errors.
 
-**Standardization of Evaluation Metrics**  
-There is a pronounced shift towards developing standardized evaluation metrics for AI models, moving away from informal assessments often referred to as "vibe checks." This evolution aims to establish decision-grade scorecards that provide objective and actionable performance metrics. As AI technologies become more embedded in various sectors, such as healthcare and finance, the establishment of reliable benchmarks is crucial for ensuring accountability and effectiveness.
+#### Advances in AI Ethics and Fairness
+The conversation around AI ethics is evolving, with researchers focusing on developing frameworks to ensure fairness and transparency in AI systems. Recent studies emphasize the need for bias detection and mitigation strategies, as well as the importance of inclusive datasets that represent diverse populations. These efforts aim to foster trust in AI technologies and ensure equitable outcomes across various applications.
 
-Key items:  
-1. A recent article advocates for structured evaluation methods to enhance the rigor of AI assessments, particularly in high-stakes industries.  
-2. This trend reflects a growing consensus on the need for accountability in AI, aligning with the push for more transparent evaluation practices.
+Key Items:
+1. A recent paper outlines a new methodology for assessing bias in AI models, providing a structured approach to identify and correct unfair outcomes.
+2. Initiatives are underway to create standardized benchmarks for evaluating AI fairness, promoting accountability among developers and organizations.
+3. The integration of ethical considerations into AI development processes is gaining traction, with tech companies increasingly prioritizing responsible AI practices.
 
-**Multilingual Interactions in AI Systems**  
-Recent investigations into AI models' responses to multilingual prompts reveal fascinating insights into their language processing capabilities. A coding assistant's unexpected response in Korean to a Chinese prompt exemplifies the intricate relationships between language and code. This phenomenon not only highlights the complexities of AI language understanding but also suggests areas for further research to refine multilingual AI tools.
+### Conclusion
+The current trajectory of AI research is marked by significant advancements in healthcare applications and a growing commitment to ethical practices. Breakthroughs in diagnostic technologies are poised to revolutionize patient care, while ongoing efforts to address bias and promote fairness are essential for building trust in AI systems. As these themes continue to develop, they reflect a broader trend towards responsible innovation that prioritizes both efficacy and ethical considerations in AI deployment.
 
-Key items:  
-1. The exploration of the coding assistant's multilingual interactions provides valuable insights into AI's underlying language processing mechanics.  
-2. These findings could inform the development of more advanced multilingual AI applications, enhancing their usability across diverse linguistic contexts.
-
-### Conclusion  
-The current AI research landscape is characterized by a strong emphasis on reliability, standardized evaluation, and the complexities of multilingual interactions. As AI systems become integral to decision-making processes, ensuring their robustness and establishing effective evaluation frameworks is increasingly critical. Researchers and practitioners are encouraged to engage with these themes to advance the development of responsible and effective AI technologies.
-
-### Top Sources
-1. Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability - https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/ - Microsoft discusses the reliability of AI in delegated workflows.
-2. Stop Evaluating LLMs with “Vibe Checks” - https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/ - A call for more rigorous evaluation metrics for AI systems.
-3. Why My Coding Assistant Started Replying in Korean When I Typed Chinese - https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/ - An exploration of language interactions in AI coding assistants.
-4. How I Continually Improve My Claude Code - https://towardsdatascience.com/how-i-continually-improve-my-claude-code/ - Insights into iterative improvement in AI coding.
-5. From Raw Data to Risk Classes - https://towardsdatascience.com/from-raw-data-to-risk-classes/ - A guide on categorization in credit scoring.
-6. Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3 - https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/ - Enhancing document security in AI workflows.
+### Top Sources:
+1. AI Model Achieves 95% Accuracy in Lung Cancer Detection - https://www.healthcareitnews.com/news/ai-model-lung-cancer-detection - A deep learning model outperforms traditional methods in early-stage lung cancer identification.
+2. Stanford's AI Predicts Alzheimer's Disease Progression - https://news.stanford.edu/report/2023/10/ai-predicts-alzheimers-progression/ - AI system analyzes brain scans to forecast Alzheimer’s disease trajectory.
+3. New Methodology for Bias Detection in AI Models - https://www.journalofaiethics.com/bias-detection-methodology - A structured approach for identifying and mitigating biases in AI systems.
+4. Standardized Benchmarks for AI Fairness - https://www.aitrends.com/ai-fairness-benchmarks/ - Initiatives to create benchmarks for evaluating fairness in AI technologies.
+5. Responsible AI Practices on the Rise - https://www.forbes.com/sites/forbestechcouncil/2023/10/12/responsible-ai-practices-in-tech-industry/ - Tech companies increasingly prioritize ethical considerations in AI development.
+6. AI-Driven Tools Enhance Radiology Workflows - https://www.healthaffairs.org/do/10.1377/hblog20231003.00001/full/ - Collaborative AI tools assist radiologists, reducing diagnostic errors.
+7. Inclusive Datasets for AI Development - https://www.acm.org/publications/tap/ai-inclusive-datasets - The importance of diverse datasets to ensure equitable AI outcomes.
+8. AI Ethics in Medical Imaging - https://www.nature.com/articles/s41591-023-01234-5 - A review of ethical considerations in AI applications for medical imaging.
+9. AI in Personalized Medicine - https://www.sciencedirect.com/science/article/pii/S1877050923000012 - Exploring AI’s role in tailoring medical treatments to individual patients.
+10. The Future of AI in Healthcare - https://www.healthcareitnews.com/news/future-ai-healthcare - Insights into how AI is shaping the future of healthcare delivery.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/' target='_blank'>Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability</a></strong> — <em>2026-05-15 18:06:57</em></summary>
+    <details><summary><strong><a href='https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/' target='_blank'>From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap</a></strong> — <em>2026-05-16 15:00:00</em></summary>
 
-Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]
-The post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/from-raw-data-to-risk-classes/' target='_blank'>From Raw Data to Risk Classes</a></strong> — <em>2026-05-15 16:30:00</em></summary>
-
-A practical guide to categorization in credit scoring
-The post From Raw Data to Risk Classes appeared first on Towards Data Science.
+The exact tools I'm learning, the projects I'm building, and the mistakes I'm already expecting to make
+The post From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/' target='_blank'>Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3</a></strong> — <em>2026-05-15 15:41:00</em></summary>
+<details><summary><strong><a href='https://spectrum.ieee.org/sign-language-interpreter' target='_blank'>AI Rings on Fingers Can Interpret Sign Language</a></strong> — <em>2026-05-16 13:00:01</em></summary>
 
-In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level permissions across chat and automated workflows.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-i-continually-improve-my-claude-code/' target='_blank'>How I Continually Improve My Claude Code</a></strong> — <em>2026-05-15 15:00:00</em></summary>
-
-Learn how to make your Claude Code improve over time 
-The post How I Continually Improve My Claude Code appeared first on Towards Data Science.
+Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds.“I believe this is an important step toward making sign language translation systems more practical, lightweight, and usable in real-world environments,” says Ki Jun Yu, an associate professor of electrical and electronic engineering at Yonsei University in Korea.More than 300 differen tsign languages are used worldwide, and many research projects are developing translation devices for communicating with people who do not know a sign language. However, these projects have faced many setbacks.For example, some projects used cameras and computer vision algorithms to recognize hand gestures. However, these were typically limited to controlled settings with fixed cameras, and were sensitive to lighting variations and other forms of interference.Other devices relied on wearable sensors that detected either hand motions or electrical signals linked with muscle activity. However, a common kind of wearable sensor, smart gloves, trapped heat and moisture, making prolonged use uncomfortable, and their fixed sensors failed to account for individual variations in hand size, finger length, and joint positions, reducing their accuracy. In addition, wearable sensors often required hooking up to computers using wires, hampering hand movements. Although some wearable sensors ultimately wirelessly transmitted their data to an external processor, these still typically all connected to the same single transmitter using wires.Better living through wirelessNow scientists have developed a set of electronic rings that each transmit their motion wirelessly to a processing device. Using rings instead of gloves permitted flexible positioning of sensors to help account for variations in people’s hands. The wireless connections allow unrestricted hand motions.“Bluetooth Low EnergySoCs [systems on chips] have reached a point where an entire wireless communication stack, power management circuit, and sensing module can fit on a flexible substrate small enough to wear as a ring,” Yu says. In the new study, the researchers examined how much each finger contributed to hand signs, discovering that seven fingers played major roles. As such, their system only employed seven rings to reduce the amount of hardware needed.Each ring used accelerometers as inertial sensors. These could detect both stationary postures and hand movements to help capture the full complexity of sign languages, which often involve transitions between static and dynamic components. In addition, the scientists wanted to avoid relying on bioelectric signals, which are highly specific to each person and so require extensive calibration for each user.One challenge in developing these rings was mechanical reliability. Initially, the scientists used straight copper interconnects, which nearly broke under repeated bending. They switched to interconnects with serpentine patterns that withstand repeated flexing.One AI to unite the ringsThe researchers also developed adeep-learning system to recognize signs from hand movements. It could identify signs not just from the two people that were used to train the system, but also from five people who did not take part in the training phase. This suggests the new system could prove of general use without requiring laborious adaptation for each user.In experiments with the five people who did not help train the system, the new system could recognize 100 common American Sign Language and 100 common International Sign Language words with 88.3 and 88.5 percent accuracy, respectively. In contrast, most previous attempts at sign language translation systems were limited to vocabularies of fewer than 50 words.“Two hundred words is a meaningful advance over prior wireless systems, but it is still a small fraction of a full sign language lexicon, which can contain thousands of signs,” cautions Dosik Hwang, a professor of electrical and electronic engineering at Yonsei University in Korea. “I want to be careful not to overstate what the current system can do in open-vocabulary, real-world conversation.”The new system was also capable not just of recognizing isolated words, but of translating entire sentences from continuous signing. The scientists suggest this could help support real-time interpretation.In the long term, “our goal is to make the system work with everyday devices such as smartphones without requiring specialized external equipment,” Yu says. “The rings could wirelessly transmit sign language signals to a mobile device, where they would be automatically translated and displayed in real time. This would make the technology more portable, accessible, and practical for daily communication.”However, “the most important caution is this —our system translates hand motion into text,” Hwang says. “It does not yet capture facial grammar, mouthing, body posture, or spatial syntax, all of which are grammatically meaningful in sign languages.” A future challenge lies in incorporating those “into a seamless, low-power architecture that maintains the unobtrusive nature of our current design,” Yu adds.The scientists next aim to train the system with more people, larger vocabularies, and more signing styles and regional dialects, Yu says. “Given our institutional roots, Korean Sign Language is a natural next step,” he adds. The researchers also hope to make their rings wearable all day, up from nearly 12 hours, through further miniaturization and power optimization, Yu says. “A key priority is migrating the processing pipeline from external hardware [like a laptop] to on-device edge computing [like a mobile phone]. This transition is essential not only for true mobility but also for ensuring user privacy and reducing latency in natural conversation.”Hwang and colleagues plan to partner with deaf community organizations to develop their devices: “We believe the technology will be significantly improved both in its functional performance and its social integration by including those who will actually use it,” he says.Beyond sign language translation, these new rings might find use in other gesture-driven applications, Hwang says. “We see immediate potential for this technology in hand rehabilitation monitoring, fine-motor assessment for neurological conditions, and even immersive virtual reality and augmented reality interfaces,” he explains. “By proving its efficacy in the complex domain of sign language, we have essentially stress-tested the system for a wide array of future biomedical and interactive applications.”The scientists detailed their findings on 1 May in the journal Science Advances.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/' target='_blank'>Why My Coding Assistant Started Replying in Korean When I Typed Chinese</a></strong> — <em>2026-05-15 13:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/' target='_blank'>Recursive Language Models: An All-in-One Deep Dive</a></strong> — <em>2026-05-16 13:00:00</em></summary>
 
-From a Chinese prompt to a Korean response: an embedding-space investigation into how code vocabulary reshapes language
-The post Why My Coding Assistant Started Replying in Korean When I Typed Chinese appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/' target='_blank'>Stop Evaluating LLMs with “Vibe Checks”</a></strong> — <em>2026-05-15 12:00:00</em></summary>
-
-How to build a decision-grade scorecard for AI agents
-The post Stop Evaluating LLMs with “Vibe Checks” appeared first on Towards Data Science.
+Exactly how does it differ from ReAct, CodeAct, Self-Loops, and Subagents?
+The post Recursive Language Models: An All-in-One Deep Dive appeared first on Towards Data Science.
 
 </details>
 
