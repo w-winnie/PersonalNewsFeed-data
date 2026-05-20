@@ -1,274 +1,249 @@
 # Astro Daily Summary
 
-    ### Advancements in Space Weather Research
+    ### Major Themes in Recent Astrophysics Developments
 
-Recent advancements in space weather research have been significantly marked by the launch of the SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) satellite. This collaborative mission between the European Space Agency and the Chinese Academy of Sciences aims to deepen our understanding of solar wind interactions with Earth's magnetic shield. Equipped with four scientific instruments, SMILE is set to study solar storms and geomagnetic phenomena, potentially improving space weather forecasting and mitigating risks to satellites and power grids. Launched on May 19, 2026, this mission represents a critical step in enhancing our predictive capabilities regarding space weather events.
+#### Lunar Navigation Innovations
+Recent advancements propose a laser-based navigation system to enhance lunar exploration, particularly under NASA's Artemis program. By situating laser systems in the Moon's cold, dark craters, researchers aim to create a GPS-like network that would significantly improve navigation accuracy for both astronauts and robotic missions. This technology addresses the Moon's challenging terrain and could set a precedent for navigation in other extraterrestrial environments.
 
-Key items illustrating this theme include:
-1. SMILE's launch details, emphasizing its mission objectives and the innovative technology it carries - https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind.
-2. The unique collaboration between ESA and CAS, showcasing international efforts in tackling space weather challenges - https://phys.org/news/2026-05-spacecraft-capture-ray-views-earth.html.
+Key items:
+1. Lasers in moon craters could create a lunar GPS system - https://www.space.com/astronomy/moon/lasers-in-moon-craters-could-create-a-lunar-gps-system - New research proposes a laser-based navigation system for lunar missions.
+2. NASA's Artemis program aims to return humans to the Moon and establish a sustainable presence, highlighting the critical need for advanced navigation technologies.
 
-### Insights into Dark Matter and Gravitational Waves
+#### Insights from NASA's Psyche Mission
+NASA's Psyche mission has successfully completed a flyby of Mars, capturing high-resolution images that provide critical data on the planet's geology, including its polar ice caps. This flyby serves as a precursor to the mission's ultimate goal of exploring a metal-rich asteroid, potentially offering new insights into the formation of planetary bodies and the early solar system.
 
-A groundbreaking study proposes a novel connection between black hole mergers and dark matter, suggesting that the gravitational waves generated during these cosmic events might carry signatures of dark matter. Researchers have developed a model that predicts how dark matter could affect gravitational wave signals, applying it to data from the LIGO observatory. One particular signal has emerged as a candidate for containing dark matter fingerprints, potentially reshaping our understanding of both gravitational waves and dark matter, which remains one of astrophysics' greatest mysteries.
+Key items:
+1. NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid - https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid - The spacecraft successfully utilized a gravity assist from Mars.
+2. Psyche’s High-Resolution View of Mars’ South Pole - https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/ - Captured detailed images of the Martian ice caps.
 
-Key items related to this theme include:
-1. The innovative model developed to test dark matter's influence on gravitational waves - https://www.sciencedaily.com/releases/2026/05/260518041429.htm.
-2. The implications of these findings for future gravitational wave observations and dark matter research.
+#### Breakthroughs in Pulsar Research and Telescope Technology
+The MeerKAT radio telescope has identified 15 new millisecond pulsars within the globular cluster 47 Tucanae, enhancing our understanding of these enigmatic objects and their environments. Additionally, the AtLAST telescope project is set to map dusty regions of the universe, potentially unveiling previously hidden astronomical phenomena and contributing to our knowledge of galaxy formation.
 
-### Current Trends and Future Directions
+Key items:
+1. MeerKAT discovers 15 new millisecond pulsars in a well-known globular cluster - https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html - This discovery adds to the understanding of pulsar populations.
+2. AtLAST, a telescope that could reveal the missing half of the universe - https://phys.org/news/2026-05-atlast-telescope-reveal-universe.html - A new telescope project aims to map dusty regions of the universe.
 
-The field of astrophysics is currently characterized by a surge in international collaboration and innovative research aimed at unraveling fundamental cosmic phenomena. The launch of SMILE underscores a commitment to advancing space weather science, while the exploration of dark matter through gravitational wave analysis highlights the growing intersection of various astrophysical disciplines. Collectively, these efforts reflect a broader trend towards leveraging advanced technology and global partnerships to address complex challenges in our understanding of the universe. As these missions and studies progress, they are poised to yield critical insights that will enhance both theoretical frameworks and practical applications in space science.
+### Conclusion
+The current landscape of astrophysics is characterized by significant technological advancements and discoveries that deepen our understanding of the universe. Innovations in lunar navigation, insights from the Psyche mission, and breakthroughs in pulsar research underscore a vibrant period of exploration and investigation. These developments not only advance our scientific knowledge but also lay the groundwork for future missions that will further expand our understanding of celestial phenomena.
 
-Top Sources:
-1. SMILE spacecraft launches to capture first X-ray views of Earth's magnetic shield - https://phys.org/news/2026-05-spacecraft-capture-ray-views-earth.html - Highlights the mission's objectives and technology.
-2. Vega C rocket launches European-Chinese space weather satellite to orbit - https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch - Details of the satellite launch and mission significance.
-3. A strange ripple in spacetime could be the first fingerprint of dark matter - https://www.sciencedaily.com/releases/2026/05/260518041429.htm - Discusses the new model linking gravitational waves and dark matter.
-4. Dark lunar craters could host ultrastable lasers for moon navigation - https://phys.org/news/2026-05-dark-lunar-craters-host-ultrastable.html - Explores potential lunar applications in navigation technology.
-5. NASA’s powerful Roman Space Telescope is about to transform astronomy - https://www.sciencedaily.com/releases/2026/05/260518041345.htm - Outlines the upcoming capabilities of the Roman Space Telescope.
-6. Mars reveals first Zwan-Wolf effect deep in its atmosphere during a solar storm - https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html - Discusses a new atmospheric discovery on Mars.
-7. Hubble reveals rare galaxy 100 million light-years away caught in transition - https://phys.org/news/2026-05-hubble-reveals-rare-galaxy-million.html - Highlights a unique galaxy observation.
-8. Supernova dust may be behind one of JWST's biggest puzzles - https://phys.org/news/2026-05-supernova-jwst-biggest-puzzles.html - Investigates early universe galaxy brightness.
-9. What's Feeding Our Supermassive Black Hole? - https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/ - Explores the feeding mechanisms of Sagittarius A*.
-10. Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system? - https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system - Discusses implications of finding stardust on Earth.
+### Top Sources
+1. Lasers in moon craters could create a lunar GPS system - https://www.space.com/astronomy/moon/lasers-in-moon-craters-could-create-a-lunar-gps-system - New research proposes a laser-based navigation system for lunar missions.
+2. NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid - https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid - The spacecraft successfully utilized a gravity assist from Mars.
+3. Psyche’s High-Resolution View of Mars’ South Pole - https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/ - Captured detailed images of the Martian ice caps.
+4. MeerKAT discovers 15 new millisecond pulsars in a well-known globular cluster - https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html - This discovery adds to the understanding of pulsar populations.
+5. AtLAST, a telescope that could reveal the missing half of the universe - https://phys.org/news/2026-05-atlast-telescope-reveal-universe.html - A new telescope project aims to map dusty regions of the universe.
+6. SMILE: European Space Weather Mission Launches - https://skyandtelescope.org/astronomy-news/smile-european-space-weather-mission-launches/ - A mission to study the Earth's magnetosphere and solar wind interactions.
+7. New form of NAND flash data storage for deep space missions can survive 1 million rads - https://phys.org/news/2026-05-nand-storage-deep-space-missions.html - Advances in data storage technology for long-duration space missions.
+8. Innovative Mars rovers 'swim' through the sand - https://phys.org/news/2026-05-mars-rovers-sand.html - New designs for Mars rovers inspired by biological mechanisms.
+9. Consistency check casts doubt on evolving dark energy - https://phys.org/news/2026-05-evolving-dark-energy.html - New analysis challenges existing theories about dark energy.
+10. Scientists just solved a tricky asteroid-hopping spacecraft riddle - https://www.space.com/space-exploration/asteroid-comet-missions/scientists-just-solved-a-tricky-asteroid-hopping-spacecraft-riddle - A new mathematical approach aids in planning asteroid missions.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights' target='_blank'>Smile launch highlights</a></strong> — <em>2026-05-19 08:00:00</em></summary>
+    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/' target='_blank'>Fire Chars Santa Rosa Island</a></strong> — <em>2026-05-20 04:00:00</em></summary>
 
-
-	Video: 
-			00:04:00
-				ESA’s Smile satellite launched aboard a Vega-C rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026.Smile flew to space on Vega-C flight VV29. At 35 m tall, a Vega-C weighs 210 tonnes on the launch pad and the rocket used three solid-propellant-powered stages to take Smile to orbit before the fourth liquid-propellant stage took over for a precise drop-off around Earth.Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS).Smile will use four science instruments to study how Earth responds to the solar wind from the Sun. In doing so, Smile will improve our understanding of solar storms, geomagnetic storms and the science of space weather.
+The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights' target='_blank'>Smile launch highlights</a></strong> — <em>2026-05-19 08:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly' target='_blank'>SpaceX launches 24 Starlink satellites on Falcon 9 launch from California</a></strong> — <em>2026-05-20 03:10:38</em></summary>
 
-
-	Video: 
-			00:04:00
-				ESA’s Smile satellite launched aboard a Vega-C rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026.Smile flew to space on Vega-C flight VV29. At 35 m tall, a Vega-C weighs 210 tonnes on the launch pad and the rocket used three solid-propellant-powered stages to take Smile to orbit before the fourth liquid-propellant stage took over for a precise drop-off around Earth.Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS).Smile will use four science instruments to study how Earth responds to the solar wind from the Sun. In doing so, Smile will improve our understanding of solar storms, geomagnetic storms and the science of space weather.
+A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Tuesday, May 19, 2026.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-spacecraft-capture-ray-views-earth.html' target='_blank'>SMILE spacecraft launches to capture first X-ray views of Earth's magnetic shield</a></strong> — <em>2026-05-19 07:56:10</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/lasers-in-moon-craters-could-create-a-lunar-gps-system' target='_blank'>Lasers in moon craters could create a lunar GPS system</a></strong> — <em>2026-05-19 21:00:00</em></summary>
 
-A joint European-Chinese spacecraft blasted off into orbit Tuesday to investigate what happens when extreme winds and giant explosions of plasma shot out from the sun slam into Earth's magnetic shield.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind' target='_blank'>Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind</a></strong> — <em>2026-05-19 05:00:00</em></summary>
-
-
-The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.
+Scientists are exploring how lasers stabilized in the moon's coldest, darkest craters could enable a GPS-like network to help future Artemis astronauts and spacecraft navigate the lunar surface with far greater precision.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind' target='_blank'>Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind</a></strong> — <em>2026-05-19 05:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/' target='_blank'>NASA’s Psyche Mission Images Mars’ Huygens Crater</a></strong> — <em>2026-05-19 20:47:13</em></summary>
 
-
-The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260518041429.htm' target='_blank'>A strange ripple in spacetime could be the first fingerprint of dark matter</a></strong> — <em>2026-05-19 04:12:59</em></summary>
-
-Black holes crashing together may be revealing clues about dark matter hidden across the universe. Physicists created a new model predicting how dark matter could subtly distort gravitational waves produced during black hole mergers. When they tested the method on real LIGO data, one signal stood out as potentially carrying a dark matter imprint.
+Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near 15 degrees south latitude. The various colors in this dramatic scene are likely due to […]
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/' target='_blank'>Farming in Ancient Lake Agassiz</a></strong> — <em>2026-05-19 04:01:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/' target='_blank'>NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach</a></strong> — <em>2026-05-19 20:43:20</em></summary>
 
-The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-video-space.html' target='_blank'>Video: Preparing Smile for space</a></strong> — <em>2026-05-19 03:20:03</em></summary>
-
-Before Smile can begin studying how Earth responds to the streams of particles and bursts of radiation from the sun, the spacecraft had to complete an extraordinary journey here on Earth.
+Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) long, […]
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260518041345.htm' target='_blank'>NASA’s powerful Roman Space Telescope is about to transform astronomy</a></strong> — <em>2026-05-19 01:01:24</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/' target='_blank'>Psyche’s High-Resolution View of Mars’ South Pole</a></strong> — <em>2026-05-19 20:38:49</em></summary>
 
-NASA’s Nancy Grace Roman Space Telescope is now aiming for an earlier launch in September 2026. Designed to explore dark matter, dark energy, and distant exoplanets, the telescope will capture massive, ultra-detailed surveys of the cosmos using infrared vision. Scientists expect Roman to uncover hundreds of millions of galaxies and possibly even entirely new cosmic phenomena. Its enormous data archive could reshape astronomy for decades.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/' target='_blank'>Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft</a></strong> — <em>2026-05-19 00:33:45</em></summary>
-
-Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, which is the layered sulfate unit above the boxwork […]
+Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The cap itself extends across more than 430 miles […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html' target='_blank'>Mars reveals first Zwan-Wolf effect deep in its atmosphere during a solar storm</a></strong> — <em>2026-05-18 22:20:01</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/' target='_blank'>NASA’s Psyche Mission Sees Mars’ South Pole After Flyby</a></strong> — <em>2026-05-19 20:34:02</em></summary>
 
-In December 2023, scientists looking at Mars data stumbled across something completely unexpected—observations of an atmospheric effect never before seen in the Red Planet's atmosphere. Using instruments aboard NASA's MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth's magnetosphere, where charged particles are squeezed like toothpaste coming out of a tube along magnetic structures called flux tubes.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/' target='_blank'>Johnson Photographers Honored for Award-Winning Portraits</a></strong> — <em>2026-05-18 21:28:32</em></summary>
-
-Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.  “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precision, […]
+Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mirror, the spacecraft will soon resume use of […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-misinformation-threatens-planetary-defense.html' target='_blank'>New research examines how misinformation threatens planetary defense and public trust</a></strong> — <em>2026-05-18 21:20:01</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/' target='_blank'>NASA’s Psyche Mission Images the Crescent of Mars</a></strong> — <em>2026-05-19 20:28:51</em></summary>
 
-As misinformation spreads faster than ever across digital platforms, new research highlights growing risks to public understanding of planetary defense, an area of science that deals with the threat from asteroid and comet impacts, with potentially global consequences.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-reconsider-europa-vapor-plumes.html' target='_blank'>Findings reconsider the existence of Europa's vapor plumes</a></strong> — <em>2026-05-18 21:00:05</em></summary>
-
-Looking back at 14 years of Hubble telescope data for Jupiter's moon Europa has given Southwest Research Institute (SwRI) scientists a better understanding of its tenuous atmosphere. The findings have cast doubt on previous evidence suggesting that the icy moon intermittently discharges faint water plumes from a presumed subsurface ocean.
+Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before it began to overfill the field of […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system' target='_blank'>Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?</a></strong> — <em>2026-05-18 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/worker-dies-at-spacexs-starbase-in-leadup-to-starship-v3-megarocket-launch' target='_blank'>Worker dies at SpaceX's Starbase in leadup to Starship V3 megarocket launch</a></strong> — <em>2026-05-19 20:00:00</em></summary>
 
-"This dust can penetrate the shielding of the solar system and end up on Earth."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-earth-constant-companion-stray-asteroid.html' target='_blank'>Is Earth's constant companion a stray asteroid or a chunk of the moon?</a></strong> — <em>2026-05-18 20:40:01</em></summary>
-
-Earth has a group of cosmic stalkers. Known as "co-orbitals," these small bits of rock have a 1:1 mean motion resonance with Earth. Basically, they take the exact same amount of time to orbit the sun as we do. Astronomers have long believed these objects wandered in from the main asteroid belt between Mars and Jupiter, but recent spectral analysis suggests they better match the space-weathered lunar silicates that make up the moon's surface. As such, there has been an ongoing debate about whether these cosmic stalkers are actually visitors from the belt or blasted pieces of the moon. A new study, published in Icarus, from researchers Elisa Alessi and Robert Jedicke provides strong hints that the belt is the more likely source—but pretty soon we'll get a definitive answer from a spacecraft.
+A worker died at SpaceX's Starbase site in South Texas early Friday morning (May 15), as the company geared up for the debut launch of its Starship V3 megarocket.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-hubble-reveals-rare-galaxy-million.html' target='_blank'>Hubble reveals rare galaxy 100 million light-years away caught in transition</a></strong> — <em>2026-05-18 20:30:01</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/' target='_blank'>NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid</a></strong> — <em>2026-05-19 19:49:33</em></summary>
 
-This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy's full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and dots the inky-black background.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-bizarre-venus-surface-formations-puzzle.html' target='_blank'>Bizarre Venus surface formations puzzle planetary scientists</a></strong> — <em>2026-05-18 20:20:01</em></summary>
-
-Bizarre Venus surface formations (or coronae) are likely key to understanding our twin planet's heretofore inscrutable interior. Using NASA Magellan spacecraft data from decades past, Anna Gulcher, an Earth and planetary scientist at Germany's University of Freiburg, has created innovative new 3D models of the largest coronae to better understand Venus' puzzling geodynamics.
+NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/why-bringing-back-the-mandalorian-and-grogu-isnt-the-way' target='_blank'>Why bringing back 'The Mandalorian and Grogu' isn't the way</a></strong> — <em>2026-05-18 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-clip-reveals-how-mando-gets-his-razor-crest-spaceship-back-video' target='_blank'>'The Mandalorian and Grogu' clip reveals how Mando gets his Razor Crest spaceship back (video)</a></strong> — <em>2026-05-19 19:00:00</em></summary>
 
-'The Mandalorian and Grogu' should not have been a theatrical release… and it maybe shouldn't exist at all
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-books/voidverse-is-a-seriously-weird-space-fantasy-novel-from-the-oas-damien-ober-interview' target='_blank'>'Voidverse' is a seriously weird space fantasy novel from 'The OA's' Damien Ober (interview)</a></strong> — <em>2026-05-18 19:00:00</em></summary>
-
-'For the atmosphere and world of 'Voidverse' to work, I needed the characters and the prose to meld with the setting.'
+'Well, let’s call it an advance on the next mission.'
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-galactic-collision-reset-milky-disk.html' target='_blank'>Galactic collision may have reset Milky Way disk 11 billion years ago</a></strong> — <em>2026-05-18 18:20:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/vast-space-stations-announces-satellite-line' target='_blank'>Vast, builder of private space stations, launches line of high-power satellites</a></strong> — <em>2026-05-19 18:00:00</em></summary>
 
-A new study led by researchers at the Institute of Cosmos Sciences of the University of Barcelona (ICCUB) and the Institute of Space Studies of Catalonia (IEEC) reveals how the disks of galaxies like the Milky Way are affected by ancient galactic collisions.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-dark-lunar-craters-host-ultrastable.html' target='_blank'>Dark lunar craters could host ultrastable lasers for moon navigation</a></strong> — <em>2026-05-18 18:09:37</em></summary>
-
-They rank among the darkest and coldest places in the solar system: Hundreds of lunar craters, many of them at the moon's south pole, never receive direct sunlight and lie in permanent shadow. That's exactly why physicist Jun Ye and his colleagues suggest that these craters are the perfect place to build a critical component for an ultrastable laser.
+The California startup Vast, which is best known for its space station plans, announced today (May 19) that it's launching a new line of high-power satellites.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline' target='_blank'>What time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)</a></strong> — <em>2026-05-18 18:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-atlast-telescope-reveal-universe.html' target='_blank'>AtLAST, a telescope that could reveal the missing half of the universe</a></strong> — <em>2026-05-19 17:40:03</em></summary>
 
-SpaceX will launch its first Starship V3 vehicle on the Flight 12 test flight on Thursday (May 21).
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/' target='_blank'>NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars</a></strong> — <em>2026-05-18 17:09:43</em></summary>
-
-In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste […]
+A new European-led telescope could map the dusty, hidden half of the universe, all without using fossil fuels. If you have ever seen the Milky Way in the night sky, you probably noticed that it looks cloudy. That is because towards the center of our galaxy, and of most galaxies, there are vast amounts of dust that make it hard to see what is going on.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/' target='_blank'>NASA Selects Next Class of Space Health Postdoctoral Fellows</a></strong> — <em>2026-05-18 17:00:17</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2026/haystack-37m-telescope-new-era-astrophysical-research-0519' target='_blank'>The Haystack 37m Telescope: A new era of astrophysical research</a></strong> — <em>2026-05-19 17:25:00</em></summary>
 
-The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approaches relevant […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch' target='_blank'>Vega C rocket launches European-Chinese space weather satellite to orbit</a></strong> — <em>2026-05-18 17:00:00</em></summary>
-
-A Vega C rocket launched the European-Chinese SMILE space weather mission to orbit on Monday night (May 18).
+The legendary radio astronomy telescope returns to its science and educational mission at MIT Haystack Observatory.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/beacon-of-light/' target='_blank'>Beacon of Light</a></strong> — <em>2026-05-18 15:31:45</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/image-article/moon-venus-conjunction/' target='_blank'>Moon-Venus Conjunction</a></strong> — <em>2026-05-19 17:07:23</em></summary>
 
-The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA’s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/this-amazing-nasa-video-shows-the-exact-moment-the-artemis-2-orion-capsule-broke-free-of-its-service-module-and-we-cant-stop-watching-it' target='_blank'>This amazing NASA video shows the exact moment the Artemis 2 Orion capsule broke free of its service module, and we can't stop watching it</a></strong> — <em>2026-05-18 15:00:00</em></summary>
-
-A new NASA video shows the Artemis 2 Orion capsule's separation from its service module just before the spacecraft slammed into Earth's atmosphere on April 10, 2026.
+The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington. The Moon and Venus look close together because they line up from our point of view on Earth. In reality, they are separated by millions of […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026' target='_blank'>SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date</a></strong> — <em>2026-05-18 14:56:45</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/see-jupiter-glow-beside-the-waxing-moon-after-sunset-on-may-20' target='_blank'>See Jupiter glow beside the waxing moon after sunset on May 20</a></strong> — <em>2026-05-19 17:00:00</em></summary>
 
-SpaceX is targeting a Wednesday, May 20, launch for its newest Starship design, the Starship V3 megarocket.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-may-18-20-as-cmes-race-toward-earth' target='_blank'>Northern lights may be visible in several US states tonight as 3 CMEs race toward Earth</a></strong> — <em>2026-05-18 14:44:14</em></summary>
-
-Forecasts say up to three glancing CME impacts could trigger G1 and possible G2 geomagnetic storms through May 20, boosting aurora chances across parts of the northern U.S.
+The moon dances with the king of the planets, with the horizon as their stage.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-snap-gorgeous-shot-of-swirling-stars-space-photo-of-the-day-for-may-18-2026' target='_blank'>Artemis 2 moon astronauts snap gorgeous shot of swirling stars | Space photo of the day for May 18, 2026</a></strong> — <em>2026-05-18 14:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/smile-european-space-weather-mission-launches/' target='_blank'>SMILE: European Space Weather Mission Launches</a></strong> — <em>2026-05-19 16:26:10</em></summary>
 
-What a view from the Orion capsule.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-supernova-jwst-biggest-puzzles.html' target='_blank'>Supernova dust may be behind one of JWST's biggest puzzles</a></strong> — <em>2026-05-18 13:40:02</em></summary>
-
-Astronomers may have found an explanation for one of the biggest mysteries revealed by the James Webb Space Telescope (JWST): why so many galaxies in the early universe appear unexpectedly bright in ultraviolet light. The new study, posted to the arXiv preprint server on May 11, suggests that galaxies more than 13 billion years ago were filled with an unusual kind of dust produced directly by supernova explosions, which could help explain why galaxies appeared so bright.
+An innovative new mission will probe the mystery of how the Earth’s magnetosphere interacts with the solar wind.
+The post SMILE: European Space Weather Mission Launches appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/manhattanhenge-2026-is-coming-this-month-heres-when-and-where-to-see-the-sunset-spectacle' target='_blank'>Manhattanhenge 2026 is coming this month: Here's when and where to see the sunset spectacle</a></strong> — <em>2026-05-18 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-mars-rovers-sand.html' target='_blank'>Innovative Mars rovers 'swim' through the sand</a></strong> — <em>2026-05-19 16:20:14</em></summary>
 
-Twice a year, the setting sun perfectly aligns with Manhattan's street grid, creating one of New York City's most spectacular skywatching events.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/' target='_blank'>What's Feeding Our Supermassive Black Hole?</a></strong> — <em>2026-05-18 13:00:00</em></summary>
-
-Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*.
-The post What's Feeding Our Supermassive Black Hole? appeared first on Sky & Telescope.
+Some animals can move efficiently beneath granular surfaces. These include the sandfish (Scincus scincus), a lizard native to the Sahara. It can burrow into the sand and then literally "swim" through the desert sand to hunt or escape predators.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-images-nasa-perseverance-captures-panorama.html' target='_blank'>Images: NASA's Perseverance captures panorama at 'Arbot'</a></strong> — <em>2026-05-18 12:07:40</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-nand-storage-deep-space-missions.html' target='_blank'>New form of NAND flash data storage for deep space missions can survive 1 million rads</a></strong> — <em>2026-05-19 16:20:01</em></summary>
 
-NASA's Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed "Arbot" on April 5, 2026, the 1,882nd Martian day (sol) of the mission, during the rover's deepest push west beyond Jezero Crater.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades' target='_blank'>These Apollo 'UFO' images have been public for decades. So why are people talking about them now?</a></strong> — <em>2026-05-18 12:00:00</em></summary>
-
-Much of the UFO imagery that the Pentagon released last week was new, but we've known for decades about the odd things that the Apollo astronauts saw on and around the moon.
+As space missions travel farther from Earth, spacecraft must increasingly be able to process and store their own data. Soon, artificial intelligence (AI) could be the primary tool for handling this growing volume of information.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/avatar-fire-and-ash-finally-has-a-disney-release-date-but-youll-have-to-wait-a-while-longer' target='_blank'>'Avatar: Fire and Ash' finally has a Disney+ release date, but you'll have to wait a while longer</a></strong> — <em>2026-05-18 11:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/nasa-satellite-will-test-cryogenic-technologies-for-orbital-gas-stations-to-help-astronauts-reach-the-moon-and-mars' target='_blank'>NASA satellite will test orbital 'gas station' tech to help astronauts reach the moon and Mars</a></strong> — <em>2026-05-19 16:00:00</em></summary>
 
-Director James Cameron's third chapter in the blockbuster sci-fi franchise lands June 24
+The Liquid Oxygen Flight demonstration (LOXSAT) will help NASA test and develop technologies to support in-space transfer and storage of cryogenic propellants, critical abilities for the Artemis program to return astronauts to the moon.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/spacex-starlink-and-other-satellite-megaconstellations-are-creating-an-unregulated-geoengineering-experiment-scientists-say' target='_blank'>SpaceX Starlink and other satellite megaconstellations are creating an 'unregulated geoengineering experiment', scientists say</a></strong> — <em>2026-05-18 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/' target='_blank'>Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science</a></strong> — <em>2026-05-19 15:00:00</em></summary>
 
-The space industry's plans to launch millions of satellites worry scientists as the rise in high-altitude air pollution threatens to alter Earth's climate.
+NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/' target='_blank'>Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science</a></strong> — <em>2026-05-19 15:00:00</em></summary>
+
+NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/star-wars-maul-shadow-lord-confirmed-what-we-already-knew-the-former-sith-has-daddy-issues' target='_blank'>'Star Wars: Maul – Shadow Lord' confirmed what we already knew — the former Sith has daddy issues</a></strong> — <em>2026-05-19 15:00:00</em></summary>
+
+Maul doesn't need the Force. He needs a hug.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-german-firms-space-surveillance.html' target='_blank'>German firms join forces on space surveillance system</a></strong> — <em>2026-05-19 14:20:03</em></summary>
+
+German defense tech start-up Helsing and space technology group OHB on Tuesday unveiled a joint venture to develop an AI-powered surveillance and targeting system for use in outer space.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/how-jupiters-moon-ganymede-melted-its-core/' target='_blank'>How Jupiter’s Moon Ganymede Melted Its Core</a></strong> — <em>2026-05-19 14:16:24</em></summary>
+
+A new model explains how Ganymede got its molten core — which in turn has given Jupiter's largest moon its magnetic field.
+The post How Jupiter’s Moon Ganymede Melted Its Core appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/galactic-starlight-will-take-your-breath-away-space-photo-of-the-day-for-may-19-2026' target='_blank'>Galactic starlight will take your breath away | Space photo of the day for May 19, 2026</a></strong> — <em>2026-05-19 14:00:00</em></summary>
+
+The galaxy M77 looks truly out-of-this-world in a new image by the James Webb Space Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html' target='_blank'>MeerKAT discovers 15 new millisecond pulsars in a well known globular cluster</a></strong> — <em>2026-05-19 13:40:04</em></summary>
+
+Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae—one of the closest and best studied globular clusters. The finding is reported in the latest issue of Astronomy & Astrophysics.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/' target='_blank'>NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind</a></strong> — <em>2026-05-19 13:05:00</em></summary>
+
+NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/as-the-mandalorian-and-grogu-prepare-for-their-close-up-can-star-wars-ever-feel-like-a-big-screen-event-again' target='_blank'>As 'The Mandalorian and Grogu" prepare for their close-up, can 'Star Wars' ever feel like a big-screen event again?</a></strong> — <em>2026-05-19 13:00:00</em></summary>
+
+'Star Wars' used to be the ultimate theatrical experience, but have years of Disney+ spin-offs dulled its multiplex appeal?
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-indigenous-australians-world-astronomers-knowledge.html' target='_blank'>Indigenous Australians were the world's first astronomers. But their knowledge is now at risk</a></strong> — <em>2026-05-19 12:40:01</em></summary>
+
+I'm a proud Yorta Yorta and Barapa Barapa man, an Indigenous astronomer and a trainee ecologist. When I look at the night sky, I don't just see stars. Instead, I see an ancient knowledge system that has guided people, culture and Country for tens of thousands of years.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/asteroid-comet-missions/scientists-just-solved-a-tricky-asteroid-hopping-spacecraft-riddle' target='_blank'>Scientists just solved a tricky asteroid-hopping spacecraft riddle</a></strong> — <em>2026-05-19 12:00:00</em></summary>
+
+Plotting the optimal trajectory to visit multiple asteroids is a fiendishly difficult take on the Traveling Salesperson problem, but a new mathematical approach has succeeded in solving it.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-evolving-dark-energy.html' target='_blank'>Consistency check casts doubt on evolving dark energy</a></strong> — <em>2026-05-19 11:30:01</em></summary>
+
+Cosmologists have long struggled to determine whether the universe's accelerating expansion is being driven by a simple cosmological constant, or whether dark energy's influence is evolving over time. In a new analysis published in Physical Review D, Samsuzzaman Afroz and Suvodip Mukherjee at the Tata Institute of Fundamental Research, Mumbai, have identified a subtle impact on the inference of the nature of dark energy, due to a tiny mismatch between a fundamental cosmological distance relation and two key datasets used to measure the properties of dark energy.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-asteroid-ob5-fast-current-prospectors.html' target='_blank'>Asteroid 2022 OB5 spins too fast for current prospectors, highlighting the divide between 'accessible' and 'exploitable'</a></strong> — <em>2026-05-19 11:20:01</em></summary>
+
+Asteroid mining seems simple in theory. A spacecraft flies up to a giant rock in space, scoops out some material, and either processes it on site or returns it back to a huge central processing facility. But in practice, it is certainly not that simple, and a new paper from some Spanish researchers, published in the journal Icarus, showcases one of the reasons why—many small asteroids are spinning ridiculously fast.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release' target='_blank'>The UFO files: What did we learn from the Pentagon's 1st big release?</a></strong> — <em>2026-05-19 10:00:00</em></summary>
+
+On May 8, the Pentagon released its first tranche of "UFO files." Space.com reached out to experts to make sense of this highly anticipated data drop.
 
 </details>
 
