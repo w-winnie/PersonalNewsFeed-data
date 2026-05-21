@@ -2,149 +2,104 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. AI in Drug Discovery and Chemistry
-Recent advancements in AI are significantly transforming drug discovery processes. Researchers at MIT, led by Connor Coley, are developing AI models that integrate chemical principles, which enhance the identification and design of new drug compounds. This approach not only expedites the discovery of potential drug candidates but also deepens the understanding of chemical interactions, crucial for ensuring drug safety and efficacy. This trend highlights the growing intersection of machine learning with traditional scientific disciplines, promising to streamline complex biological problem-solving.
+#### Advancements in AI Agent Customization
+The landscape of AI agents is rapidly evolving, with a focus on customization to enhance their operational efficiency across various sectors. Noteworthy is NVIDIA's initiative on "Agentic Techniques," which facilitates tailoring AI agents to meet specific business requirements, thereby optimizing their performance in logistics, customer service, and software development. This customization is further supported by research that integrates operations research and data science to refine resource allocation and cost management strategies for AI agents.
 
 Key Items:
-- Connor Coley’s work on AI models for drug discovery at MIT emphasizes the application of chemical principles in machine learning. [Link](https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520)
-- Grounding large language models (LLMs) with real-time web data aims to mitigate knowledge cutoffs, addressing a significant limitation in current AI systems. [Link](https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/)
+1. Mastering Agentic Techniques: AI Agent Customization - https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/ - Discusses the customization of autonomous agents for diverse business applications.
+2. Optimizing AI Agent Planning with Operations Research and Data Science - https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/ - Introduces optimization models for effective resource management in AI agents.
 
-#### 2. Enhancements in AI Agent Capabilities
-The sophistication of AI agents is on the rise, driven by innovations such as NVIDIA's Model Context Protocol (MCP) and Amazon's Bedrock. These tools enhance capability governance, allowing AI agents to better retain context and manage interactions. This shift towards scalable architectures and improved memory retention indicates a movement towards creating AI systems capable of more nuanced and intelligent interactions, which is essential for applications that require complex decision-making.
-
-Key Items:
-- NVIDIA's new agent skills provide a framework for capability governance in AI agents, enhancing their operational efficiency. [Link](https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents/)
-- Amazon's new features for Bedrock AgentCore Memory allow for the extension of conversational memory in AI agents, fostering more context-aware conversations. [Link](https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/)
-
-#### 3. Innovations in Knowledge Graphs and Data Management
-Airbnb's recent shift to a unified knowledge graph infrastructure marks a significant advancement in data management practices. This transition not only enhances scalability and performance but also facilitates complex queries necessary for applications such as fraud detection and user identity resolution. The emphasis on graph databases reflects a broader recognition of the importance of relational data structures in AI applications, suggesting a move towards more integrated data solutions.
+#### Enhancements in Multimodal AI Evaluation
+As multimodal AI systems gain traction, the need for robust evaluators to assess the accuracy of these models is becoming paramount. AWS has unveiled "multimodal evaluators" that are adept at evaluating image-to-text tasks, which is critical for applications like visual shopping and document analysis. This development enhances the reliability of AI outputs, ensuring that generated text aligns accurately with the corresponding visual content.
 
 Key Items:
-- Airbnb's implementation of a new internally managed graph infrastructure has improved performance and scalability for their identity graph. [Link](https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4)
-- Proxy-Pointer RAG introduces a scalable solution for entity and relationship reconciliation in large knowledge graphs, addressing challenges in data management. [Link](https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/)
+1. Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals - https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/ - Details the implementation of evaluators that enhance the reliability of multimodal AI systems.
+
+#### Real-Time AI Applications
+The surge in demand for real-time AI applications is evident, particularly in voice recognition and transcription services. Amazon SageMaker AI has introduced features that enable real-time voice applications with significantly reduced latency, allowing for continuous audio streaming and transcription. This innovation is crucial for sectors requiring immediate feedback, such as accessibility services and customer support.
+
+Key Items:
+1. Build real-time voice applications with Amazon SageMaker AI and vLLM - https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/ - Explores the development of voice applications that operate with minimal latency.
 
 ### Conclusion
-The current landscape of AI research is marked by a convergence of machine learning with practical applications in drug discovery, enhanced capabilities of AI agents, and innovative data management through knowledge graphs. These developments indicate a trend towards more intelligent, context-aware systems capable of operating effectively in complex environments. As these technologies continue to evolve, they hold the potential to significantly impact various industries, from pharmaceuticals to data-driven services.
+The current trajectory of AI research emphasizes the customization of autonomous agents, the refinement of multimodal evaluation methods, and the enhancement of real-time application capabilities. These advancements reflect a broader movement towards creating more adaptable, reliable, and efficient AI systems capable of addressing the diverse needs of various industries. As these technologies mature, they are poised to significantly transform operational frameworks and user interactions across multiple sectors.
 
 ### Top Sources:
-1. Building AI models that understand chemical principles - https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520 - MIT's Connor Coley develops AI models for drug discovery based on chemical principles.
-2. Grounding LLMs with Fresh Web Data to Reduce Hallucinations - https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/ - Discusses the need for live web search to improve LLM accuracy.
-3. NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents - https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents/ - NVIDIA introduces new governance tools for AI agents.
-4. Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory - https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/ - Amazon’s solution for enhancing AI agent memory.
-5. Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure - https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4 - Airbnb's transition to a new graph infrastructure improves performance.
-6. Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs - https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/ - A new method for managing complexity in knowledge graphs.
-7. Scalable voice agent design with Amazon Nova Sonic - https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/ - Amazon's guide to building scalable voice agents.
-8. Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store - https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/ - New features in SageMaker to enhance ML pipelines.
-9. Advancing content provenance for a safer, more transparent AI ecosystem - https://openai.com/index/advancing-content-provenance - OpenAI's initiatives for improving AI content trustworthiness.
-10. Implementing programmatic tool calling on Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/ - Methods for programmatic tool integration in AI applications.
+1. Technology usually creates jobs for young, skilled workers. Will AI do the same? - https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521 - A study analyzing how technology impacts job creation for skilled workers.
+2. Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints - https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/ - New support for OpenAI APIs on Amazon SageMaker for seamless integration.
+3. Mastering Agentic Techniques: AI Agent Customization - https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/ - Insights into customizing AI agents for various business applications.
+4. Can LLMs Replace Survey Respondents? - https://towardsdatascience.com/can-llms-replace-survey-respondents/ - Investigates the potential of LLMs in generating synthetic survey responses.
+5. Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals - https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/ - Discusses new evaluators for multimodal AI tasks.
+6. Optimizing AI Agent Planning with Operations Research and Data Science - https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/ - Frameworks for optimizing AI agent resource allocation.
+7. Build real-time voice applications with Amazon SageMaker AI and vLLM - https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/ - Developments in real-time voice application capabilities.
+8. Add a Specialized Deep Research Skill to Agent Harnesses - https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/ - Enhancements to agent harnesses for improved task execution.
+9. How to Safely Run Coding Agents - https://towardsdatascience.com/how-to-safely-run-coding-agents/ - Guidelines for the safe application of coding agents.
+10. From Possible to Probable AI Models - https://towardsdatascience.com/from-possible-to-probable-ai-models/ - Discusses the challenges in building reliable AI models.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520' target='_blank'>Building AI models that understand chemical principles</a></strong> — <em>2026-05-20 04:00:00</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521' target='_blank'>Technology usually creates jobs for young, skilled workers. Will AI do the same?</a></strong> — <em>2026-05-21 04:00:00</em></summary>
 
-Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents/' target='_blank'>NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents</a></strong> — <em>2026-05-19 23:40:45</em></summary>
-
-Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to...
+A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519' target='_blank'>Justin Solomon appointed associate dean of engineering education</a></strong> — <em>2026-05-19 21:10:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/' target='_blank'>Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints</a></strong> — <em>2026-05-20 23:59:57</em></summary>
 
-MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/introducing-openai-for-singapore' target='_blank'>Introducing OpenAI for Singapore</a></strong> — <em>2026-05-19 20:30:00</em></summary>
-
-OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.
+Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation/' target='_blank'>Mastering Agentic Techniques: AI Agent Evaluation</a></strong> — <em>2026-05-19 20:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/' target='_blank'>Mastering Agentic Techniques: AI Agent Customization</a></strong> — <em>2026-05-20 20:00:00</em></summary>
 
-Evaluating an AI model and evaluating an AI agent are related—but they answer fundamentally different questions. A model benchmark tests the capability of a...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/' target='_blank'>Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service</a></strong> — <em>2026-05-19 18:14:29</em></summary>
-
-A practical walkthrough of building and deploying a multistage, multimodal recommender system on Amazon EKS, covering data pipelines, model training, Bloom filters, feature caching, and real-time ranking.
-The post Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service appeared first on Towards Data Science.
+Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...
 
 </details>
 
-<details><summary><strong><a href='https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/' target='_blank'>Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery</a></strong> — <em>2026-05-19 17:52:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/can-llms-replace-survey-respondents/' target='_blank'>Can LLMs Replace Survey Respondents?</a></strong> — <em>2026-05-20 18:26:36</em></summary>
 
-General Science
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/introduction-to-lean-for-programmers/' target='_blank'>Introduction to Lean for Programmers</a></strong> — <em>2026-05-19 17:43:51</em></summary>
-
-The syntax and semantics of mathematics
-The post Introduction to Lean for Programmers appeared first on Towards Data Science.
+How unlearning fixes mode collapse in synthetic survey replies
+The post Can LLMs Replace Survey Respondents? appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4' target='_blank'>Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure</a></strong> — <em>2026-05-19 17:01:01</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/' target='_blank'>Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals</a></strong> — <em>2026-05-20 18:01:29</em></summary>
 
-How Airbnb shifts from PaaS to an internal knowledge graph infrastructure at scale.By: Lucen Zhao, Shukun Yang, Ashish JainKnowledge graphs offer a natural and powerful way to represent relationships between entities. Many real-world systems are fundamentally about connections.Airbnb’s identity graph captures relationships between users in a graph database. The identity graph serves aggregated insights that enable user identity resolution and relationship understanding. These capabilities support a wide range of Trust and Safety use cases, from detecting suspicious activities to identifying linked accounts. Over time, the identity graph has grown into one of the largest and most complex graph data products at Airbnb, both in terms of scale and the complexity of queries it supports.In 2024, Airbnb began investing in a new, internally managed, paved-path graph data platform to build a unified knowledge graph infrastructure. Airbnb’s identity graph became one of the first systems to adopt this platform. In this post, we’ll walk through the foundations and challenges of the identity graph, introduce the architecture behind the graph infrastructure, and highlight several key optimizations that emerged during the onboarding process.Airbnb’s identity graphAirbnb’s identity graph is a critical foundation layer, playing an important role in Trust and Safety applications. It contains two major components:Graph data storage: a storage layer composed of a graph database and a key–value (KV) caching layer. It models users and relationships as vertices and edges. Most data is ingested in near real-time through asynchronous events and served through low-latency, real-time service calls.Graph service: this service provides a unified interface for accessing graph data. It retrieves data from underlying sources, including the graph database, applies aggregation logic or models as needed, and serves the results to downstream customer services.Evolution of the identity graph architectureThe identity graph architecture progressed through three major iterations. It started with a relational database for user and entity data, paired with a KV store holding JSON‑encoded edge lists, a pattern that became difficult and expensive to scale as graph density increased. A third‑party SaaS graph database replaced the KV store in 2021, improving horizontal scalability but introducing long‑tail latency, operational instability, and limited ability to tune performance or enforce fine‑grained access controls. As part of ongoing system enhancements, the system was migrated to a graph infrastructure: an internally managed, high‑performance graph platform built to support low‑latency, large‑scale graph workloads.A number of challenges persisted during the evolution of the identity graph:Scalability: The identity graph consists of 7 billion nodes and 11 billion edges. The data is fast-growing, at a speed of roughly 5 million new edges per day, which imposes a huge scalability challenge on the write side.Query complexity: The graph read queries typically contain 4–8 hops for the majority of identity graph use cases, posing a huge challenge in meeting the latency requirements of critical data flows.Long-tail latency: Naturally, the density of the graph data structure varies within each subgraph, and hitting high fanout nodes during the graph traversal can significantly increase the amount of data accessed, which would result in huge performance degradation. The P95 and P99 of graph queries can grow disproportionally long compared to P50.Stability: Slow queries can take up a large amount of resources during their executions, which can result in stability issues in graph DB performance.Airbnb’s graph infrastructureBefore the centrally managed graph infrastructure, graph adoption at Airbnb was fragmented. Teams typically fell into one of four anti-patterns, each with significant operational overhead:Relational “graphs”: Modeling nodes and edges in SQL tables, resulting in expensive joins during traversal.Offline graphs: Building graphs in the data warehouse, which limited data freshness to daily snapshots.DIY open source: Self-managing community versions of graph DBs, leading to high operational toil.Managed PaaS: Using third-party vendors, which introduced vendor lock-in and performance bottlenecks.To solve this, we built an internal graph infrastructure, a paved-path, multi-tenant platform designed to bring our use cases together under a single, supported infrastructure.The tech stack: JanusGraph + DynamoDBGraph databases vary widely in storage design, schema models, and query languages. We evaluated options based on four requirements:Scalability for online queriesExpressive schema and query capabilitiesFit with Airbnb’s infrastructure and operational modelA visible, extensible codebaseWe chose JanusGraph (a distributed, open-source graph database built on Apache TinkerPop), with DynamoDB as the storage backend and OpenSearch for indexing. JanusGraph’s labeled property graph model provides strong schema support, and Gremlin enables expressive traversal queries.This combination offers a unique advantage: Storage separation. Because JanusGraph supports pluggable storage backends, we were able to leverage the scalability and reliability of AWS DynamoDB for the persistence layer while maintaining full control over the graph logic layer. This allowed us to iterate quickly on graph features without reinventing the wheel on distributed storage operations. Moreover, we have the ability to evolve the storage layer over time as our internal persistence platform matures.Architecture & optimizationsAirbnb’s knowledge graph infrastructure provides a managed experience where each tenant (such as the identity graph) operates in an isolated namespace. We built a management service on top of JanusGraph to handle schema enforcement, index management, and schematized Thrift APIs.To meet Airbnb’s latency requirements, we made several key optimizations to the core JanusGraph engine:Optimized transactions: JanusGraph’s default locking can be heavy. We implemented a custom transaction strategy leveraging DynamoDB’s conditional writes and transaction APIs to ensure data integrity with lower overhead.Parallel query execution: We improved the getMultiSlices interface to fetch data in parallel, significantly reducing latency for high-fanout queries.Observability: We integrated Airbnb’s distributed tracing into our internal fork, closing the observability gap present in the open source version.This architecture now supports critical use cases across the company, including fraud detection, inventory knowledge graphs, and data lineage.The migrationWe moved from a vendor-provided solution to an internally-built solution based on the open source Apache Tinkerpop graph computing framework, which includes the Gremlin graph query language. The change has delivered considerable improvements in performance and reliability.Airbnb’s knowledge graph infrastructure architectureThe identity graph service consists of four applications: two for event-based data ingestion and bulk loading, another two for data serving and pre-computation of complex graph queries. For both the internal solution and the previous third-party vendor solution, read and write traffic are isolated in the graph computation engine layer.Both graph engines also support Gremlin, enabling us to benchmark Gremlin queries side-by-side when serving shadow traffic. After benchmarking, internal graph infrastructure was used to start serving production traffic before the vendor solution was deprecated.Client-side query optimizationEven though both graph engines support the Gremlin query language, they applied very different optimizations over TinkerPop query steps during the query planning phase. Thus, during the migration, identical Gremlin queries produced significantly different performance between Airbnb’s graph infrastructure and the third party vendor. To address this and enhance the performance of graph queries, optimizations were made on both the JanusGraph side and the client side.Client-side optimization included a series of query rewriting improvements, including:Removal of Path steps: Path steps in Gremlin, such as Path or SimplePath, are not optimized as batched queries within JanusGraph, and many of the queries would fall back to slow, non-batched backend queries, which can occupy large connections in the backend storage thread pool. Thus, the path steps are removed wherever possible, and replaced with a series of conditional queries to ensure the returned results are acyclic.Side-effect step optimization: Aggregation within side-effect steps may not be fully optimized within JanusGraph query planning strategy, resulting in non-batched substeps. Thus, side-effect steps were modified to minimize the amount of computation.Gains from the migrationIntegrating the identity graph with the internal infrastructure has delivered meaningful improvements in performance, stability, and scalability:Performance: The new, internal solution outperforms the previous third-party vendor in all graph query patterns. This led to huge improvement in the latency of the end-to-end read API, which typically involves multiple graph queries. Significant P99 latency reduction also demonstrates our success in reducing long-tail latency in complex graph queries.System stability: The previous vendor’s solution required periodic manual instance reboots to maintain optimal performance.These reboots are no longer needed with the internally hosted solution. Plus, our ability to manage the new solution internally yields shorter response times for incidents and more transparent incident investigations.Scalability: The new, internal service supports auto-scaling. During load tests, the write queries per second (QPS) was successfully scaled to ten times the previous solution’s write QPS.Conclusion and future plansAirbnb’s knowledge graph has demonstrated significant improvement in both query performance and system stability compared to the third-party vendor identity graph we had been relying on. Enabling multi-step queries in a broader range of queries in JanusGraph has improved overall query performance, while client-side query optimizations helped greatly in shrinking long-tail query latency. Our ability to manage the new system internally enables faster and more transparent incident investigations.If this type of work interests you, check out some of our open roles.AcknowledgementsSpecial thanks to Pawan Rathi, Zach Fein, Cong Zhao, Peter Li, Haiyang Han, Jisheng Liang, Abhishek Ravi, Yi Li, Adam Kocoloski, Kaushik Srinivasan, and everyone else who supported this project. The infrastructure upgrade would not be such a huge success without contributions from these people.We also want to thank Primus Lam and Rajan Jon for their support in authoring this post during their time at Airbnb.All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure was originally published in The Airbnb Tech Blog on Medium, where people are continuing the conversation by highlighting and responding to this story.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/' target='_blank'>Grounding LLMs with Fresh Web Data to Reduce Hallucinations</a></strong> — <em>2026-05-19 16:55:44</em></summary>
-
-Why production LLM systems need live web search to overcome knowledge cutoffs and stale training data
-The post Grounding LLMs with Fresh Web Data to Reduce Hallucinations appeared first on Towards Data Science.
+If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually grounded in the source image. A text-only evaluator cannot tell you whether a caption faithfully describes an image, whether an extracted invoice total matches the document, or whether a screen summary […]
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/' target='_blank'>Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation</a></strong> — <em>2026-05-19 15:26:37</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/' target='_blank'>Optimizing AI Agent Planning with Operations Research and Data Science</a></strong> — <em>2026-05-20 17:28:12</em></summary>
 
-In this post, you’ll learn how to use Amazon Nova Sonic, Amazon Bedrock AgentCore, and Strands BidiAgent to build scalable, maintainable voice agents that handle these challenges efficiently, resulting in more responsive and intelligent customer interactions. We’ll explore three popular architectural patterns for voice agents, highlighting their trade-offs and best practices for minimizing latency.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/' target='_blank'>Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory</a></strong> — <em>2026-05-19 15:23:22</em></summary>
-
-In this post, we demonstrate how you can extend the conversational memory of Kiro CLI by implementing a custom Model Context Protocol (MCP) server that integrates with Amazon Bedrock AgentCore Memory. You can use Kiro CLI to interact with AI agents of Kiro directly from your terminal. Amazon Bedrock AgentCore Memory is a fully managed service that allows AI agents to retain information from past interactions, creating more intelligent and context-aware conversations. By implementing a custom MCP server, you can provide Kiro CLI with tools to store and retrieve conversation context, monitor memory usage, and manage the underlying Bedrock Agent Core Memory infrastructure.
+AI agents can quickly become expensive without a clear strategy for planning, skill coverage, and budgets. This article shows how to use operations research and data science to optimize AI agent cost and resource allocation. You will learn how to frame common agent problems—skill coverage, project assignment, and budgeting—as set covering, assignment, and knapsack optimization models in Python using Gurobi. 
+The post Optimizing AI Agent Planning with Operations Research and Data Science appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/' target='_blank'>Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store</a></strong> — <em>2026-05-19 15:20:33</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/' target='_blank'>Build real-time voice applications with Amazon SageMaker AI and vLLM</a></strong> — <em>2026-05-20 17:10:17</em></summary>
 
-Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/' target='_blank'>Implementing programmatic tool calling on Amazon Bedrock</a></strong> — <em>2026-05-19 15:17:00</em></summary>
-
-In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.
+Voice agents, live captioning, contact center analytics, and accessibility tools all depend on real-time speech-to-text, where your application streams audio in and receives transcription back simultaneously over a single persistent connection. Traditional request-response inference falls short here because transcription cannot begin until the entire audio recording has been received, adding latency that breaks the real-time […]
 
 </details>
 
-<details><summary><strong><a href='https://vectorinstitute.ai/a-strategic-blueprint-for-safe-health-ai-implementation-your-2026-roadmap/' target='_blank'>A strategic blueprint for safe health AI implementation: Your 2026 roadmap</a></strong> — <em>2026-05-19 15:04:06</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/' target='_blank'>Add a Specialized Deep Research Skill to Agent Harnesses</a></strong> — <em>2026-05-20 16:00:00</em></summary>
 
-The Health AI Implementation Toolkit is a practical five-stage framework developed by Vector Institute to help health system leaders, AI solution vendors, and clinical teams deploy AI safely and responsibly […]
-The post A strategic blueprint for safe health AI implementation: Your 2026 roadmap appeared first on Vector Institute for Artificial Intelligence.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/' target='_blank'>Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs</a></strong> — <em>2026-05-19 12:00:00</em></summary>
-
-A scalable semantic localization layer for  entity and relationship reconciliation
-The post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs appeared first on Towards Data Science.
+Agent harnesses like Claude Code, Codex, and LangChain Deep Agents are excellent orchestrators. They manage sessions, chain tools, execute code, and respond to...
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/advancing-content-provenance' target='_blank'>Advancing content provenance for a safer, more transparent AI ecosystem</a></strong> — <em>2026-05-19 10:45:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-safely-run-coding-agents/' target='_blank'>How to Safely Run Coding Agents</a></strong> — <em>2026-05-20 13:30:00</em></summary>
 
-OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
+Apply coding agents to your domain in a safe manner
+The post How to Safely Run Coding Agents appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/from-possible-to-probable-ai-models/' target='_blank'>From Possible to Probable AI Models</a></strong> — <em>2026-05-20 12:00:00</em></summary>
+
+The real challenge in building reliable AI
+The post From Possible to Probable AI Models appeared first on Towards Data Science.
 
 </details>
 
