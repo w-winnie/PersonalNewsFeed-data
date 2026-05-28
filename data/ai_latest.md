@@ -2,142 +2,142 @@
 
     ### Major Themes in Recent AI Developments
 
-#### Enhancements in GPU Programming and Performance
-Recent developments from NVIDIA are revolutionizing GPU programming and performance optimization. The introduction of tools like CompileIQ and CUDA Tile programming allows developers to automate compiler tuning and utilize tile-based programming within C++, respectively. These advancements not only streamline the development process but also significantly enhance the performance of GPU kernels, making it easier for developers to create high-efficiency applications across various sectors.
+#### Enhancements in Inference Performance
+Recent advancements are significantly improving the efficiency of AI inference processes, particularly in cloud environments. NVIDIA has introduced technologies like Dynamo Snapshot, which drastically reduce cold-start times for inference workloads in Kubernetes, allowing for seamless scaling. This is especially beneficial in scenarios with fluctuating demand, where operational efficiency is paramount.
 
 Key Items:
-1. **NVIDIA CompileIQ Auto-Tuning** - https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/ - A tool that automates the tuning of compiler options for enhanced kernel performance.
-2. **CUDA Tile Programming** - https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/ - This feature enables tile-based programming in C++ for optimized GPU kernel development.
-3. **NVIDIA CUDA 13.3 Release** - https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/ - Introduces new features and performance enhancements for GPU development.
+1. NVIDIA Dynamo Snapshot - https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/ - This innovation enhances startup speeds for inference replicas in Kubernetes, improving responsiveness.
+2. NVIDIA Blackwell's STAC-AI Record - https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/ - Demonstrates exceptional performance in large language model inference, setting new benchmarks in financial applications.
 
-#### Multi-Agent Systems and Generative AI
-Amazon's advancements in multi-agent systems, particularly through its Bedrock AgentCore, are setting a new standard for generative AI applications. The integration of Strands Agents with NVIDIA's NIM for GPU-accelerated inference exemplifies the potential for these systems to enhance operational efficiency in complex tasks, such as content generation and interactive campaign management.
-
-Key Items:
-1. **Amazon Bedrock AgentCore** - https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/ - A framework for building scalable multi-agent systems capable of parallel reasoning.
-2. **LangGraph Multi-Agent Systems** - https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/ - A solution for creating serverless generative AI systems using AWS.
-
-#### AI in Environmental Conservation
-AI technologies are increasingly being harnessed to address environmental challenges, as demonstrated by the WhaleSpotter system. By employing thermal cameras and AI algorithms to detect gray whales, this initiative aims to significantly reduce the risk of ship strikes, showcasing how AI can play a vital role in wildlife conservation efforts.
+#### Automation in Business Processes
+Automation continues to be a focal point in AI development, with platforms like Amazon Bedrock leading the way. By streamlining the processing of complex financial documents and developing AI agents for business support, these technologies are reshaping operational workflows and driving substantial cost reductions.
 
 Key Items:
-1. **WhaleSpotter Technology** - https://spectrum.ieee.org/whales-ai-thermal-camera-tracking - An AI-based system that detects whale spouts using thermal imaging to prevent ship collisions.
+1. Amazon Bedrock Data Automation - https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/ - Showcases AI's capability to accurately extract information from intricate financial documents.
+2. AI Agents Using Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/ - Highlights the efficiency gains from AI agents, which can reduce operational costs by up to 97%.
+
+#### Transforming Fleet Management with AI
+The application of AI in fleet management is exemplified by Verizon Connect's agentic AI, which turns data overload into actionable insights. By scaling their AI solutions to accommodate a large user base, they provide a model for other industries seeking to leverage data for improved decision-making.
+
+Key Item:
+1. Verizon Connect's Agentic AI - https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/ - Discusses how their AI architecture has effectively managed data to deliver measurable results.
 
 ### Conclusion
-The current trajectory of AI development is characterized by significant advancements in GPU programming, multi-agent systems, and environmental applications. NVIDIA's innovations are pushing the boundaries of GPU performance, while Amazon's focus on generative AI is enabling more sophisticated and scalable applications. Additionally, the application of AI for wildlife conservation reflects a growing trend of leveraging technology for environmental sustainability. As these advancements unfold, they hold the potential to transform industries and address critical global challenges.
+The current trajectory in AI development emphasizes efficiency, automation, and actionable insights. Companies are increasingly adopting advanced technologies to optimize inference, automate business processes, and harness data effectively. These trends indicate a future where AI will play an even more integral role in enhancing productivity and decision-making across various sectors.
 
 ### Top Sources:
-1. Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning - https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/ - A new tool that automates the tuning of compiler options for enhanced kernel performance.
-2. Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile - https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/ - Enables developers to implement tile-based programming in C++ for optimized GPU kernel development.
-3. NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python Updates - https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/ - Introduces new features and performance enhancements for GPU development.
-4. Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/ - A framework for building scalable multi-agent systems that can perform parallel reasoning.
-5. Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/ - A solution for creating serverless generative AI systems using AWS.
-6. Thermal Cameras and AI Help Ships Steer Clear of Gray Whales - https://spectrum.ieee.org/whales-ai-thermal-camera-tracking - An AI-based system that detects whale spouts using thermal imaging, aiming to prevent ship collisions.
-7. Technical deep dive: AgentCore payments and innovation in agentic commerce - https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/ - Overview of Amazon Bedrock AgentCore payments and its implications for AI commerce.
-8. From idea to AI app: Creating intelligent research assistants with Strands - https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/ - Insights on simplifying AI app development.
-9. AgentWatch: Proactive AWS monitoring with ambient agents - https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/ - A monitoring solution that uses AI for infrastructure management.
-10. The AI Model Confidence Trap - https://towardsdatascience.com/the-ai-model-confidence-trap/ - Discusses the challenges of model confidence in AI systems.
+1. NVIDIA Dynamo Snapshot - https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/ - This technology reduces cold-start times, improving responsiveness in Kubernetes-based inference deployments.
+2. NVIDIA Blackwell Sets STAC-AI Record - https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/ - Demonstrates record-setting performance for large language model inference in financial applications.
+3. Process Financial Documents Using Amazon Bedrock Data Automation - https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/ - Shows how AI can extract pertinent information from complex financial documents with high accuracy.
+4. Building AI Agents for Business Support Using Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/ - Highlights the development of AI agents that enhance operational efficiency.
+5. From Data Overload to Actionable Insights - https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/ - Discusses the architecture and measurable results of their AI solution for fleet management.
+6. Powering Agentic AI Sales Strategy - https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/ - Explores the orchestration of specialized AI agents in business contexts.
+7. What’s New for Game Developers in NVIDIA RTX - https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/ - Showcases advancements in AI-driven game development tools.
+8. Private Analytics via Zero-Trust Aggregation - https://research.google/blog/private-analytics-via-zero-trust-aggregation/ - Discusses new approaches to secure data analysis.
+9. Extending Human Intelligence Through AI - https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/ - Examines AI as an extension of human intelligence, emphasizing trust.
+10. Cisco and OpenAI Redefine Enterprise Engineering - https://openai.com/index/cisco - Highlights collaboration to enhance AI-native development in enterprise settings.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/' target='_blank'>Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning</a></strong> — <em>2026-05-26 22:08:56</em></summary>
+    <details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/' target='_blank'>NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes</a></strong> — <em>2026-05-27 23:09:52</em></summary>
 
-NVIDIA CompileIQ tackles one of the hardest problems in performance engineering: finding the compiler options that unlock the best performance for a specific...
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/' target='_blank'>Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile</a></strong> — <em>2026-05-26 21:40:16</em></summary>
-
-Developers can now use NVIDIA CUDA Tile programming within large existing C++  GPU codebases to develop highly optimized GPU kernels using tile-based...
+The cold-start problem In production inference deployments, demand fluctuates over time, requiring inference replicas to scale elastically. However,...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/' target='_blank'>NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python Updates</a></strong> — <em>2026-05-26 21:39:17</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/' target='_blank'>Process financial documents using Amazon Bedrock Data Automation</a></strong> — <em>2026-05-27 21:28:53</em></summary>
 
-NVIDIA CUDA 13.3 brings new capabilities and performance optimizations to developers across the CUDA ecosystem. The launch of NVIDIA CUDA Tile programming in...
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/' target='_blank'>Technical deep dive: AgentCore payments and innovation in agentic commerce</a></strong> — <em>2026-05-26 17:57:18</em></summary>
-
-Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per provider, stablecoin support for cost-effective microtransactions that make sub-cent transactions economically viable, and configurable spending guardrails that give you fine-grained control over agent budgets and transaction limits. In this post, we walk you through a technical deep dive of AgentCore payments.
+In this post, we explore how Amazon Bedrock Data Automation can accurately extract information from four common types of financial documents: bank statements, W-2 forms, 1099-B tax forms, and vendor contracts. We highlight the complexity in the documents, detail the custom extraction created in Amazon Bedrock Data Automation, and describe the outcomes of the extraction process.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/' target='_blank'>Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore</a></strong> — <em>2026-05-26 17:41:26</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/' target='_blank'>Building AI agents for business support using Amazon Bedrock AgentCore</a></strong> — <em>2026-05-27 20:06:34</em></summary>
 
-In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrators integrated with Amazon Bedrock AgentCore Memory and Amazon Bedrock AgentCore Observability.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/' target='_blank'>Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore</a></strong> — <em>2026-05-26 17:39:46</em></summary>
-
-In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable execution paths using an integrated architecture that combines NVIDIA NIM for GPU-accelerated inference. Amazon Bedrock AgentCore provides managed runtime, shared memory and built-in observability and Strands Agents provide serverless multi-agent orchestration. This approach supports performance, scalability, and operational insight in production environments. While the example focuses on marketing content review, the same pattern applies to digital assistants, review automation, and retrieval-augmented generation pipelines.
+In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered and the solutions that reduced costs by up to 97% while improving operational efficiency.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/' target='_blank'>AgentWatch: Proactive AWS monitoring with ambient agents</a></strong> — <em>2026-05-26 17:22:48</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/' target='_blank'>From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users</a></strong> — <em>2026-05-27 20:01:06</em></summary>
 
-In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure checks every 15 minutes, summarizing CloudWatch metrics, logs, and alarms across multiple AWS accounts. The agent delivers actionable reports directly to Slack and responds to natural language queries about your infrastructure state. Throughout, we explore three human-in-the-loop patterns that maintain appropriate oversight while maximizing automation.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/what-is-a-data-agent/' target='_blank'>What Is a Data Agent?</a></strong> — <em>2026-05-26 16:30:00</em></summary>
-
-A simple explanation of what a data agent is and how it works
-The post What Is a Data Agent? appeared first on Towards Data Science.
+In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural decisions, implementation challenges, and measurable results that can guide your own data-to-insights transformation.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/' target='_blank'>From idea to AI app: Creating intelligent research assistants with Strands</a></strong> — <em>2026-05-26 16:28:08</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/' target='_blank'>NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance</a></strong> — <em>2026-05-27 20:00:00</em></summary>
 
-Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you try to orchestrate multiple API calls, manage conversation state, and create agents that can reason on their own. I’ve seen straightforward AI ideas balloon into sprawling projects that demand […]
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/' target='_blank'>Build an enterprise observability solution for Amazon Quick</a></strong> — <em>2026-05-26 16:09:06</em></summary>
-
-When hundreds to thousands of users are onboarded to an enterprise AI platform, business leaders and platform owners need visibility into who is using the platform, whether users are satisfied with the answers they receive, and which capabilities are driving the most engagement. Without a centralized observability solution, this data is scattered across multiple AWS […]
+Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell/' target='_blank'>Run Key Genomics and Protein Folding Workloads Faster with NVIDIA RTX PRO 4500 Blackwell</a></strong> — <em>2026-05-26 16:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/' target='_blank'>How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore</a></strong> — <em>2026-05-27 18:51:45</em></summary>
 
-Precision medicine depends on two fundamental capabilities: understanding disease at the genomic level and identifying treatments at the molecular level. ...
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/' target='_blank'>Transforming professional work: How Amazon Quick turns document creation from hours into minutes</a></strong> — <em>2026-05-26 15:59:16</em></summary>
-
-In this post, we explore how the Amazon Quick document and visualization creation capabilities work, what you can build with them, and how professionals across roles are using them to reclaim hours of their workweek. From technical execution to strategic judgment Most professional roles carry an unspoken assumption that a significant portion of your time […]
+In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Marketing and Global Services) organization. You will learn about: the two-layer architecture that separates batch processing from real-time interaction, the specialized AI agents that power intelligent routing and validation, key engineering patterns for production deployment, and how to build similar solutions with AWS services.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/the-ai-model-confidence-trap/' target='_blank'>The AI Model Confidence Trap</a></strong> — <em>2026-05-26 15:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/' target='_blank'>Powering agentic AI sales strategy with Amazon Bedrock AgentCore</a></strong> — <em>2026-05-27 18:00:07</em></summary>
 
-Why your AI model can be wrong with 99% confidence
-The post The AI Model Confidence Trap appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/stop-using-llms-like-giant-problem-solvers/' target='_blank'>Stop Using LLMs Like Giant Problem Solvers</a></strong> — <em>2026-05-26 13:30:00</em></summary>
-
-How I turned 100 messy pdfs into structured insights by building a deterministic loop around agents
-The post Stop Using LLMs Like Giant Problem Solvers appeared first on Towards Data Science.
+As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, but without orchestration, users carry the cognitive load of choosing between them. At AWS Sales, this meant more than 20 domain-specific agents deployed across the global organization, with representatives context-switching between systems instead of […]
 
 </details>
 
-<details><summary><strong><a href='https://spectrum.ieee.org/whales-ai-thermal-camera-tracking' target='_blank'>Thermal Cameras and AI Help Ships Steer Clear of Gray Whales</a></strong> — <em>2026-05-26 12:00:01</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/' target='_blank'>What’s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters</a></strong> — <em>2026-05-27 16:59:58</em></summary>
 
-On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commuters to their jobs at AI startups. Looking down at this marine traffic from Angel Island, located near the entrance to the bay, a group of excited scientists point to some sparkles on the surface of the water: Three gray whales are coming up for breath.A collaboration of government agencies and scientists hopes to keep interspecies traffic running safely, thanks to an AI-based whale detection system that launched on 19 May. Developed by WhaleSpotter, based in Somerville, Mass., the system uses an AI model to detect whales in footage from thermal cameras looking down at the bay from Point Blunt on Angel Island. Detections are verified by a human to prevent false alarms. Then the system warns nearby ships so they can slow down or reroute. While trained humans can spot the spray that whales produce when they exhale, thermal cameras powered by AI do an even better job—and they can keep an eye out 24/7, even at night and on foggy afternoons.For many whales, a trip to San Francisco is the end of their journey. A study published in April estimates an 18 percent mortality rate for gray whales that enter the bay. Seven have died here so far in 2026. In 2025, a record 21 gray whales died in and around the bay, and necropsies showed that 40 percent of those deaths were caused by ship strikes. “Last year was truly a crisis for gray whales,” says Douglas McCauley, director of the Benioff Ocean Science Laboratory at the University of California, Santa Barbara.The Bay Area is a new stop on gray whales’ route. They make the longest migration of any mammal, traveling between 15,000 and 20,000 kilometers round-trip from Alaska down to Baja California, Mexico, to breed. Historically, they made no stops along the way, gorging before their departure, then fasting on the journey.Since 2018, however, over 100 gray whales have detoured into the San Francisco Bay on their way back north. Scientists aren’t sure why they are stopping, but they suspect it is because record-low sea ice levels driven by rapid climate change are to blame. The theory is that it’s decimating the algae that fertilize the Arctic food chain gray whales rely on. Instead of heading south with a full tank, the whales may not be able to eat enough to sustain their entire migration, so they come to San Francisco Bay for a snack on the way home. Some end up staying for over a month.  Gray whales migrate from Alaska to Mexico every year. Recently, groups have begun to stop in the San Francisco Bay en route, putting them at risk for boat collisions.Sam Beebe“Gray whales are trying to be a brave new whale in a weird world,” says McCauley. Standing next to WhaleSpotter’s thermal camera, looking down at the bay, he says this is “a front-row view to climate change.” From its mount on a Coast Guard tower on Angel Island’s Blunt Point, the camera captures images covering a cone of water extending out about 7 km.AI Thermal Cameras Detect Whale SpoutsWhen whales come up for a breath, they expel a jet of air that’s hotter than its surroundings. WhaleSpotter’s technology was initially developed at the Woods Hole Oceanographic Institution in Massachusetts to recognize these distinctive spouts, even if they show up only in a pixel or two. The footage is then sent to a marine-mammal expert to verify the detection. If it’s real, the system will send an alert to the U.S. Coast Guard’s Vessel Traffic Service, which can then share that information with ships in the region. UC Santa Barbara researchers and scientists at the Marine Mammal Center will use data from the system to study the whales. The data are also available in an online map.The collaboration will soon add another camera installed on a ferry running between San Francisco and Vallejo to the north, providing a fuller picture of whales’ presence in the bay.WhaleSpotter’s systems are already in use on vessels around the world, including eight container ships owned by Honolulu-based shipping company Matson. WhaleSpotter says the technology reduces the risk of ship strikes by 90 percent.The San Francisco Bay system is the first to combine land-based and vessel-based monitors, and because it’s continuously monitoring one busy region during migration season—rather than looking for whales while crossing oceans—it’s already made an astonishing number of detections. As of 19 May, the system had been in operation for about a week and a half, and had already logged 6,600 whale detections. The scientists believe those may just be from a few whales hanging out in the bay in front of the cameras.  WhaleSpotter uses thermal cameras to watch for whale spouts, which are actually exhalations of compressed, warm air.Benioff Ocean Science Laboratory/UCSBThe camera system is good at detecting whales even before they’re visible to humans with binoculars—but without human intervention, it is still prone to false positives. A 2020 study using infrared cameras to detect marine mammals in the Atlantic Ocean off the shore of Canada found a high rate of false positives, mostly due to sea birds. So human verification is still necessary: If the system sends a warning when there is no whale, captains won’t take the information seriously in the future, says WhaleSpotter CEO Shawn Henry.Henry says human verifications are being fed back into the algorithm to improve it. The system is already capable of determining if it’s detecting the same whale taking another breath, so similar detections in rapid succession are not sent to human experts for verification, says Henry. He hopes the company will be able to improve the system further to eliminate the need for human verification. “I like the AI—it doesn’t get tired like humans,” says Henry. “We want to rely on AI as much as possible.”
+NVIDIA RTX provides game developers with direct paths to AI-driven characters, frame generation, and ray-traced rendering. This post walks through a meaningful...
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/the-domain-shift-moving-data-governance-from-product-triage-to-infrastructure-investment/' target='_blank'>The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment</a></strong> — <em>2026-05-26 12:00:00</em></summary>
+<details><summary><strong><a href='https://research.google/blog/private-analytics-via-zero-trust-aggregation/' target='_blank'>Private analytics via zero-trust aggregation</a></strong> — <em>2026-05-27 16:56:05</em></summary>
 
-How shifting the operational focus from isolated data products to systemic domain architecture resolves technical bottlenecks and optimizes platform investment.
-The post The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment appeared first on Towards Data Science.
+Security, Privacy and Abuse Prevention
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-effectively-run-many-claude-code-sessions-in-parallel/' target='_blank'>How to Effectively Run Many Claude Code Sessions in Parallel</a></strong> — <em>2026-05-27 16:30:00</em></summary>
+
+Keep an overview of all your coding agents that run in parallel
+The post How to Effectively Run Many Claude Code Sessions in Parallel appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/' target='_blank'>Extending Human Intelligence Through AI</a></strong> — <em>2026-05-27 16:00:00</em></summary>
+
+Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.
+The post Extending Human Intelligence Through AI appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/learning-from-pairwise-preferences-an-introduction-to-the-bradley-terry-model/' target='_blank'>Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model</a></strong> — <em>2026-05-27 15:00:00</em></summary>
+
+How to Turn Simple Head-to-Head Choices Into Probabilistic Rankings
+The post Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/most-ai-agents-fail-in-production-because-theyre-built-backwards/' target='_blank'>Most AI Agents Fail in Production Because They’re Built Backwards</a></strong> — <em>2026-05-27 13:30:00</em></summary>
+
+Good models don't save bad architecture, and most teams learn that the hard way.
+The post Most AI Agents Fail in Production Because They’re Built Backwards appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://spectrum.ieee.org/south-africa-ai-policy' target='_blank'>South Africa Has AI Leverage. Its Draft Policy Leaves It Unused</a></strong> — <em>2026-05-27 13:00:01</em></summary>
+
+This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence (AI); it is the exception with leverage, and the window to act on it is closing. It holds approximately 88% of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data center supply chains that make AI infrastructure possible. It hosts the largest data center market on the continent. Its existing hyperscaler relationships give it procurement leverage that most African states will never have. And a major geopolitical contest over AI infrastructure is being fought on its soil right now, between Chinese and American technology companies competing for control of the systems that will underpin an entire continent’s public sector.In physics, leverage requires three things: a fulcrum, a lever arm and the ability to apply force. The Bushveld Complex, the world’s largest platinum-group metal deposit, is the fulcrum: a mineral endowment that gives South Africa a position in the semiconductor supply chain that no other African state holds. The since-withdrawn draft policy is the lever arm. The unresolved “OPTION” provisions in the policy are where force would be applied. Without a policy that specifies what South Africa wants in return for market access, the lever arm sits unused, and the weight of two of the world’s largest technology ecosystems settles exactly where those ecosystems want it to settle.This makes South Africa a global test case. Not because its proposed means of governance is exemplary, but because it is the one developing country with enough structural leverage to negotiate genuinely different terms, and the one that is choosing, through inaction, not to. The recent announcement of a new panel to update the draft policy is an important opportunity. But the deeper failure is not that an AI policy contained bad references. It is that no verification process caught them before the document entered the public domain. That is a systems problem, not merely a political one. It points to a missing layer in how governments are adopting AI.The contest already underwayLast year, Huawei, pitched an emerging product bundle to tech executives across the continent. Huawei was now bundling access to the DeepSeek’s large language model with its own cloud and storage infrastructure. The price differential was stark: in some cases by more than 90%.At the same time, Microsoft announced plans to spend ZAR 5.4 billion ($300 million) by the end of 2027 on cloud and AI infrastructure in South Africa, building on a prior ZAR 20.4 billion investment. Google, AWS and Oracle already have cloud regions in the country. According to one analysis, the country’s data center market was valued at $2.16 billion in 2024, the largest in Africa.These are not commercially neutral investments. Huawei’s infrastructure reach has been explicitly linked to Chinese strategic objectives, including a documented track record of providing governments with surveillance infrastructure through its Safe Cities network. US hyperscaler investment comes with its own dependency structure: closed models, pricing set unilaterally and terms of access that no African government has meaningfully shaped. South Africa is being asked to choose between these dependency models without a policy that specifies what it wants in return.The leverage it hasThere is a particular irony in South Africa’s position. The country whose mines supply platinum-group metals essential to semiconductor manufacturing, and through them to AI compute, has drafted a policy that treats it as a consumer of AI systems rather than a stakeholder in their governance. South Africa digs up the minerals that make AI possible. It has no say over the AI built from them.The AI triad framework covers algorithms, compute, and data. South Africa has no frontier model development capacity. South Africa holds significant data assets in financial services, healthcare and agriculture, with no clear framework for their sovereign management. South Africa possesses PGM leverage of global significance on the compute axis, currently being transferred without meaningful condition. It also has exceptionally high solar irradiance and significant renewable energy potential. A country that can offer both critical mineral inputs and the energy to power the infrastructure those minerals help build occupies a negotiating position of unusual strength.The Draft Policy proposes no minimum terms for hyperscaler investment, no data sovereignty requirements, no technology transfer conditions and no compute visibility mechanism. Multiple provisions are explicitly left unresolved, marked “OPTION”, including the most consequential choices about how governance will function. Infrastructure decisions made now determine what is renegotiable later, and the answer is: very little.Three futures, one defaultThe three infrastructure futures on offer each create a structurally different form of dependency, and only one creates sovereign capability. The Huawei-hosted DeepSeek integration offers low cost and open-source weights, but with data stored on infrastructure potentially accessible under Chinese legal frameworks, creating surveillance dependency in a pattern already documented across Africa. The second is US closed-model dependency: higher capability, more reliable data protection, but complete API dependency on developers abroad. The third is locally hosted open-weight infrastructure: models governed under South African data sovereignty rules, on infrastructure subject to minimum terms, developed with South African data. As Nathan Lambert at Interconnects has observed, open-weight models are likely the only realistic way to get sovereign AI off the ground as a real effort, enabling local communities and economies to integrate meaningfully with the technology. But this requires procurement conditions, not goodwill.What binding governance looks likeThe GovAI “Governing Through the Cloud” framework identifies four roles compute providers should accept as conditions of operating at scale: securers (protecting model weights and training data), record keepers (maintaining infrastructure usage logs), verifiers (confirming customer compliance with safety standards) and enforcers (restricting access when violations occur). These are operational requirements, not theoretical categories — specific, enforceable, and well within the bargaining power of a market of South Africa’s size and mineral position.A detailed policy analysis submitted to the Department of Communications and Digital Technologies (DCDT) identifies the specific provisions the final policy must contain: mandatory minimum terms for foreign compute infrastructure investments above ZAR 500 million (~$30 million); a compute reporting threshold; a National AI Safety Institute mandate covering defensive monitoring of AI capability accumulation; and National AI Champion Sector designations to create data assets for domestic model development. Each provision converts a structural advantage into a governance instrument before that advantage is foreclosed by market reality. Just as modern software security increasingly depends on knowing what components are inside a system—model provider, training data, compute environment, evaluation methods, update cadence, human review points, and failure-reporting procedures—public-sector AI governance requires a clear account of the stack before deployment, not after a problem surfaces. A public institution that cannot verify the sources in its own AI policy is unlikely to be ready to verify the AI systems it procures, deploys, or regulates.Why this is the continental test caseSouth Africa’s choices will establish a regional precedent for what is commercially negotiable in AI infrastructure. If South Africa negotiates data sovereignty guarantees and technology transfer conditions as requirements for hyperscaler investment, it creates a replicable model. If Microsoft’s $300 million investment and Huawei’s infrastructure expansion proceed on standard commercial terms, as they are currently, it normalizes extractive AI infrastructure across the continent. The lesson is not specific to Africa. Governments everywhere are producing AI strategies while lacking AI assurance infrastructure. South Africa is an early warning, not an isolated case.The public comment period closed when the policy was withdrawn. But a parallel process remains live: the National Treasury’s Draft General Public Procurement Regulations—the legal instrument that will govern every government AI contract—closes for comment on June 15. Those regulations contain no AI-specific provisions.South Africa has more AI leverage than any country on the continent. Some argue, with force, that governance requirements risk deterring the infrastructure investment South Africa urgently needs: compute capacity, reliable energy, venture capital, and talent retention. That concern deserves a direct answer. Minimum procurement terms, compute reporting thresholds, and technology transfer conditions are not barriers to investment. They are the conditions under which investment serves the host country rather than extracting from it. Infrastructure built without minimum terms produces dependency. Infrastructure built with them produces leverage. To serve the public interest, its AI policy must use it.When late last month News24 reported AI-hallucinated references in the draft AI policy, Minister of Communications and Digital Technologies Solly Malatsi withdrew the draft policy. That was a mistake that could cost South Africa and the rest of the continent the initiative on this urgent issue. His more recent constitution of an independent panel is a belated step in the right direction, if it can turn South Africa’s leverage into policy. The panel—chaired by Prof Benjamin Rosman of the Wits Machine Intelligence and Neural Discovery Institute, and including Profs Vukosi Marivate and Alison Gillwald of Research ICT Africa, and Dr Jabu Mtsweni of the CSIR—has the technical and governance credibility to produce a stronger document. What it has not yet produced is a timeline. No revised draft has been scheduled. South Africa remains without a formal AI governance framework in the interim.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/they-requested-it-i-built-it-nobody-ever-used-it/' target='_blank'>They Requested It. I Built It. Nobody Ever Used It.</a></strong> — <em>2026-05-27 12:00:00</em></summary>
+
+Why good data work gets ignored after delivery.
+The post They Requested It. I Built It. Nobody Ever Used It. appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/cisco' target='_blank'>Cisco and OpenAI redefine enterprise engineering with Codex</a></strong> — <em>2026-05-27 11:00:00</em></summary>
+
+Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.
 
 </details>
 
