@@ -1,198 +1,294 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Summary of Recent Astrophysics Developments
 
-#### Understanding Stellar Companions
-A recent comprehensive survey has classified nearly all stars within ten parsecs, revealing that the majority possess at least one gravitationally bound companion. Conducted by researchers at the University of Madrid, this census is pivotal for future exoplanet observational campaigns, as it refines our understanding of the stellar environments that could support habitable planets. The implications for upcoming planet-hunting missions are significant, potentially guiding their design and objectives.
-
-Key items:
-1. **Definitive Census of Multiple Star Systems** - https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html - A thorough classification of stars within ten light-years, shedding light on their companion relationships.
-2. **NASA’s Webb Telescope Discovers a Planet with Unique Weather** - https://www.sciencedaily.com/releases/2026/05/260527023212.htm - Insights into atmospheric dynamics of exoplanets can be informed by stellar environments.
-
-#### Insights into Solar Activity
-Recent investigations have highlighted notable changes in the sun's internal dynamics, indicating an increasingly pronounced "active biorhythm" over recent solar cycles. This understanding is crucial for predicting solar activity, which can have significant effects on satellite operations and power grids on Earth. Additionally, rare observations of solar flares have provided unprecedented insights into the mechanisms behind these explosive events.
+#### 1. Insights into Galaxy Formation and Evolution
+Recent advancements in understanding galaxy formation have revealed that massive galaxies in the early universe halted star formation significantly earlier than previously thought. This finding suggests new mechanisms may govern the lifecycle of galaxies and their star formation rates. The implications are profound, potentially reshaping models of cosmic evolution and the influence of environmental factors on galaxies.
 
 Key items:
-1. **Listening to the Sun** - https://phys.org/news/2026-05-sun-reveals-previously-hidden-solar.html - New findings on the solar cycle's internal changes highlight the sun's evolving behavior.
-2. **Rare Observations of Solar Flares** - https://phys.org/news/2026-05-rare-reveal-x9-solar-flare.html - These observations could enhance our understanding of solar eruptions and their potential impacts on Earth.
+- A study found that the most massive galaxies ceased star formation about a billion years after the Big Bang, diverging from the ongoing star formation seen in the Milky Way. This discovery could challenge existing theories of galaxy evolution. (Source: https://phys.org/news/2026-05-massive-galaxies-early-universe-stars.html)
+- The James Webb Space Telescope has identified a black hole that formed before its host galaxy, raising questions about the traditional sequence of cosmic structure formation. (Source: https://www.space.com/astronomy/black-holes/james-webb-space-telescope-discovers-a-black-hole-that-formed-before-its-host-galaxy-scientists-arent-sure-how)
 
-#### Black Holes and Cosmic Mysteries
-Research utilizing the James Webb Space Telescope has uncovered a black hole that formed before its host galaxy, suggesting that massive black holes may have existed shortly after the Big Bang. This finding challenges existing models of black hole formation and evolution. Furthermore, efforts to locate intermediate-mass black holes through microlensing techniques are underway, which could illuminate gaps in our understanding of black hole hierarchies.
+#### 2. Dynamics of Planetary Systems and Stellar Interactions
+New research is enhancing our understanding of planetary systems, particularly the interactions between stars and their surrounding planets. Findings indicate that red dwarf stars can consume nearby planets, providing insights into the harsh environments of young stellar systems and their role in planetary evolution.
 
 Key items:
-1. **Webb Reveals Black Hole That Formed Before Its Galaxy** - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy - This finding suggests a new timeline for black hole formation in the universe.
-2. **Microlensing Fast Radio Bursts Might Reveal Intermediate-Mass Black Holes** - https://phys.org/news/2026-05-intermediate-mass-black-holes-microlensing.html - Aiming to uncover elusive black holes that bridge the gap between stellar and supermassive black holes.
+- Evidence has emerged showing that red dwarf stars can "eat" nearby planets, supporting theories about the destructive nature of young stellar environments. (Source: https://phys.org/news/2026-05-red-dwarf-stars-earth-planets.html)
+- A novel method has been developed to estimate the masses of newly forming planets based on the characteristics of their surrounding dust rings, improving our ability to study these distant worlds. (Source: https://phys.org/news/2026-05-astronomers-masses-newborn-planets.html)
+
+#### 3. Advancements in Martian Climate Research
+Mars remains a key focus for planetary climate studies, with recent findings from NASA's Curiosity Rover providing critical insights into the planet's ancient climate conditions. These studies highlight how environmental changes have shaped Mars' landscape over time.
+
+Key items:
+- New analyses of Martian samples show that variations in mineral crystallite sizes can serve as indicators of ancient climatic conditions, aiding our understanding of Mars' climate history. (Source: https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/)
+- Ongoing research in Gale Crater is documenting ancient climate changes, detailing how Mars transitioned from a once-wet environment to its current arid state. (Source: https://phys.org/news/2026-05-mineral-clues-gale-crater-track.html)
 
 ### Conclusion
-The field of astrophysics is currently marked by significant discoveries that enhance our understanding of stellar systems, solar dynamics, and black hole formation. These advancements not only deepen our cosmic knowledge but also have practical implications for future space exploration and technology. As researchers continue to unveil these complexities, the integration of observational data with theoretical models is poised to drive the next wave of astrophysical inquiry.
+The current trajectory in astrophysics is characterized by significant breakthroughs in galaxy evolution, planetary dynamics, and Martian climate history. The application of advanced observational technologies, such as the James Webb Space Telescope, alongside ongoing planetary missions, is yielding transformative insights. These developments not only challenge established paradigms but also enhance our understanding of cosmic processes, setting the stage for future explorations that may redefine our comprehension of the universe.
 
-### Top Sources:
-1. The definitive census of multiple star systems within ten parsecs - https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html - A thorough classification of stars within ten light-years, shedding light on their companion relationships.
-2. Listening to the sun reveals previously hidden changes to solar cycle - https://phys.org/news/2026-05-sun-reveals-previously-hidden-solar.html - New findings on the solar cycle's internal changes highlight the sun's evolving behavior.
-3. Where are all the intermediate mass black holes? Microlensing fast radio bursts might reveal them - https://phys.org/news/2026-05-intermediate-mass-black-holes-microlensing.html - Aiming to uncover elusive black holes that bridge the gap between stellar and supermassive black holes.
-4. Webb reveals black hole that formed before its galaxy - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy - This finding suggests a new timeline for black hole formation in the universe.
-5. Rare observations reveal an X9 solar flare before it erupts - https://phys.org/news/2026-05-rare-reveal-x9-solar-flare.html - These observations could enhance our understanding of solar eruptions and their potential impacts on Earth.
-6. Hubble spies faint irregular galaxy ESO 490-017 - https://phys.org/news/2026-05-hubble-spies-faint-irregular-galaxy.html - New insights into faint galaxies and their structures.
-7. Moon base missions face an unseen threat, and these simulations show where it could strike first - https://phys.org/news/2026-05-moon-base-missions-unseen-threat.html - Simulations for future lunar missions reveal potential operational challenges.
-8. NASA’s Fermi telescope reveals the power source behind monster supernovae - https://www.sciencedaily.com/releases/2026/05/260527023210.htm - The detection of gamma-ray signals from superluminous supernovae enhances our understanding of these cosmic events.
-9. NASA lays out moon base plans with landers, buggies and drones at the top of the list - https://phys.org/news/2026-05-nasa-lays-moon-base-landers.html - Detailed plans for establishing a permanent lunar presence.
-10. NASA’s Webb telescope discovers a planet where rock clouds vanish every night - https://www.sciencedaily.com/releases/2026/05/260527023212.htm - Insights into atmospheric dynamics of exoplanets can be informed by stellar environments.
+Top Sources:
+1. Why the most massive galaxies in the early universe stopped forming stars prematurely - https://phys.org/news/2026-05-massive-galaxies-early-universe-stars.html - Massive galaxies formed early but ceased star formation much sooner than expected.
+2. James Webb Space Telescope discovers a black hole that formed before its host galaxy - https://www.space.com/astronomy/black-holes/james-webb-space-telescope-discovers-a-black-hole-that-formed-before-its-host-galaxy-scientists-arent-sure-how - A black hole's formation predating its galaxy challenges existing theories.
+3. Red dwarf stars detected 'eating' Earth-like planets - https://phys.org/news/2026-05-red-dwarf-stars-earth-planets.html - Evidence supports the idea that young stars can consume nearby planets.
+4. Astronomers discover how to estimate masses of newborn planets using dust rings - https://phys.org/news/2026-05-astronomers-masses-newborn-planets.html - New methods allow for mass estimation of hidden newborn planets.
+5. NASA Uses Mineralogical Marker to Understand Ancient Martian Climate - https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/ - Research highlights mineral variations as climate markers on Mars.
+6. Mineral clues in Gale Crater track ancient Mars climate change - https://phys.org/news/2026-05-mineral-clues-gale-crater-track.html - Insights into Mars' transition from wet to dry environments.
+7. Shock waves show how baby stars' cradles get their radial shape in 3D simulations - https://phys.org/news/2026-05-baby-stars-cradles-radial-3d.html - Simulations reveal the formation of star nurseries.
+8. Most powerful 'ghost particle' ever may have come from a cosmic particle accelerator fed by a black hole - https://www.space.com/astronomy/black-holes/most-powerful-ghost-particle-ever-may-have-come-from-a-cosmic-particle-accelerator-fed-by-a-black-hole - A neutrino detected may provide insights into cosmic particle acceleration.
+9. NASA is hatching a 'fast-paced plan' to boost this space telescope - https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it - Plans to extend the operational life of the Swift space telescope.
+10. Growing Stem Cells in Space to Improve Cancer and Disease Treatments - https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/ - Research on stem cell production in microgravity for potential medical advancements.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html' target='_blank'>The definitive census of multiple star systems within ten parsecs</a></strong> — <em>2026-05-28 02:00:02</em></summary>
-
-Our sun is a loner. It lacks a stellar companion hurtling through interstellar space with it. But we've known for a long time that that's actually relatively rare—most stars have at least one gravitationally bound partner. Understanding how exactly those stars are related to each other is critical for observational campaigns—especially for those of exoplanets. So a new paper posted to the arXiv preprint server from researchers at the University of Madrid that categorizes almost every star within 10 light years into companion categories is a welcome addition to the literature on the subject, and could be used to inform the next round of planet-habitable planet-hunting satellites.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-sun-reveals-previously-hidden-solar.html' target='_blank'>Listening to the sun reveals previously hidden changes to solar cycle</a></strong> — <em>2026-05-28 00:10:02</em></summary>
-
-Internal changes due to the sun's "active biorhythm" have become increasingly "skin-deep" over the past four solar activity cycles, according to a new study.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-intermediate-mass-black-holes-microlensing.html' target='_blank'>Where are all the intermediate mass black holes? Microlensing fast radio bursts might reveal them</a></strong> — <em>2026-05-27 21:40:01</em></summary>
-
-Astrophysicists think that black hole masses are hierarchical. The largest are supermassive black holes (SMBH) like the one at the center of the Milky Way and other galaxies. Stellar mass black holes are born of collapsing stars, and are smaller. The smallest of all are the theoretical primordial black holes, which only formed in the weird physics of the early universe.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-sun-watching-telescope-on-iss-during-6-hour-spacewalk' target='_blank'>Russian cosmonauts install sun-watching telescope on ISS during 6-hour spacewalk</a></strong> — <em>2026-05-27 20:56:50</em></summary>
-
-Russian cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev worked to install and retrieve science experiments while on a spacewalk outside the International Space Station on Wednesday, May 27, 2026.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-hubble-spies-faint-irregular-galaxy.html' target='_blank'>Hubble spies faint irregular galaxy ESO 490-017</a></strong> — <em>2026-05-27 18:00:08</em></summary>
-
-This NASA Hubble Space Telescope image features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy's low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. Numerous red, orange, and beige dots are distant galaxies peppering the black background, many exhibiting distinct spiral structure.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-moon-base-missions-unseen-threat.html' target='_blank'>Moon base missions face an unseen threat, and these simulations show where it could strike first</a></strong> — <em>2026-05-27 18:00:04</em></summary>
-
-Researchers have developed a novel virtual model for simulating how astronauts in future moon base operations might interact with each other and with their environment, with preliminary simulations revealing potential opportunities to boost the chances of a successful mission. Raymond Vera and colleagues at George Mason University in Virginia, U.S., present these findings in PLOS One.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/china-shakes-up-its-space-programs-to-land-astronauts-on-the-moon-by-2030-we-will-spare-no-effort' target='_blank'>China shakes up its space programs to land astronauts on the moon by 2030: 'We will spare no effort'</a></strong> — <em>2026-05-27 18:00:00</em></summary>
-
-China is melding its robotic Chang'e lunar probe activities with the country's human spaceflight program in an effort to land astronauts on the moon by 2030.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-rare-reveal-x9-solar-flare.html' target='_blank'>Rare observations reveal an X9 solar flare before it erupts</a></strong> — <em>2026-05-27 17:40:03</em></summary>
-
-Solar flares are powerful bursts of radiation from the sun's surface, which can wreak havoc on Earth's power grids, damage orbiting satellites, and pose serious radiation risks to astronauts. Yet despite decades of study, the processes that trigger these eruptions remain poorly understood.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-spacexs-starship-v3-megarocket-after-flight-12-mishap' target='_blank'>FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap'</a></strong> — <em>2026-05-27 17:28:09</em></summary>
-
-The U.S. Federal Aviation Administration has declared the debut flight of SpaceX's Starship V3 vehicle a mishap and is requiring an investigation before the megarocket can fly again.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/what-is-star-city-the-secret-cold-war-cosmonaut-training-town-in-apple-tvs-new-for-all-mankind-spinoff' target='_blank'>What is Star City, the secret Cold War cosmonaut training town in Apple TV's new 'For All Mankind' spinoff?</a></strong> — <em>2026-05-27 16:00:00</em></summary>
-
-Here's everything you need to know about the forbidden city.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/lost-in-the-star-clouds-a-milky-way-odyssey/' target='_blank'>Lost in the Star Clouds — A Milky Way Odyssey</a></strong> — <em>2026-05-27 15:31:30</em></summary>
-
-I share my "discovery" of a new Milky Way star cloud that's been staring at me for ages.
-The post Lost in the Star Clouds — A Milky Way Odyssey appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy' target='_blank'>Webb reveals black hole that formed before its galaxy</a></strong> — <em>2026-05-27 15:00:00</em></summary>
-
-
-Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more than 13 billion light-years away. The results suggest that the 50-million-solar-mass black hole predates its host galaxy, possibly forming within the first second of the Big Bang, and must have been immense from the start.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy' target='_blank'>Webb reveals black hole that formed before its galaxy</a></strong> — <em>2026-05-27 15:00:00</em></summary>
-
-
-Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more than 13 billion light-years away. The results suggest that the 50-million-solar-mass black hole predates its host galaxy, possibly forming within the first second of the Big Bang, and must have been immense from the start.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had' target='_blank'>Every Lego Star Wars set released in 2026 that I wish I had</a></strong> — <em>2026-05-27 15:00:00</em></summary>
-
-Lego is going all out with Star Wars this year, from awesome mid-sided AT-AT through to a whole range of super-interactive Smart Brick-enabled models. Here are the sets I absolutely have to add to my Lego Star Wars collection.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade' target='_blank'>3 planets will line up in the night sky tonight: Here's where to look for the mini planetary parade</a></strong> — <em>2026-05-27 15:00:00</em></summary>
-
-Don't miss Jupiter, Venus and Mercury create a dazzling line in the western sky at sunset tonight.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-05-aliens-earth-aerospace-scientist-interstellar.html' target='_blank'>Could aliens ever visit Earth? An aerospace scientist unpacks the challenges of interstellar spaceflight</a></strong> — <em>2026-05-27 14:01:14</em></summary>
-
-On May 22, 2026, the Pentagon released a second batch of previously classified photos and videos showing what appear to be unexplained flying objects. These file dumps were the culmination of a process that was set in motion back in July 2023, when a group of government whistleblowers testified before Congress that the U.S. government was secretly in possession of extraterrestrial spacecraft and suspected alien body parts.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/05/Hot_surfaces_during_Europe_s_heatwave_seen_by_Sentinel-3' target='_blank'>Hot surfaces during Europe's heatwave 'seen' by Sentinel-3</a></strong> — <em>2026-05-27 14:00:00</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster' target='_blank'>Journey to the centre of a galaxy cluster</a></strong> — <em>2026-05-29 08:00:00</em></summary>
 
 
 	Image:
-			Europe is in the middle of a heatwave – Copernicus Sentinel-3 captured this image on Tuesday 26 May
+			Journey to the centre of a galaxy cluster
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/laser-beams-blast-through-the-cosmos-space-photo-of-the-day-for-may-27-2026' target='_blank'>Laser beams blast through the cosmos | Space photo of the day for May 27, 2026</a></strong> — <em>2026-05-27 14:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/' target='_blank'>Painting the Growing Season in the Maize Triangle</a></strong> — <em>2026-05-29 04:00:00</em></summary>
 
-Fear not, these lasers are just doing science.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/' target='_blank'>NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future</a></strong> — <em>2026-05-27 13:02:09</em></summary>
-
-Editor’s Note: This article was updated at 2:45 p.m. EDT on Wednesday, May 27, 2026, to correct the recipient of the Systems Engineering Leaps and Bounds Award. Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Base. NASA’s 2026 Lunabotics Challenge put those […]
+Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9' target='_blank'>NASA will reveal the Artemis 3 astronauts on June 9</a></strong> — <em>2026-05-27 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test' target='_blank'>Blue Origin's New Glenn rocket explodes in massive fireball during prelaunch test</a></strong> — <em>2026-05-29 03:41:25</em></summary>
 
-On June 9, NASA will reveal the astronauts who will fly on the Artemis 3 docking mission in Earth orbit next year.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/science/one-of-the-great-unresolved-embarrassments-of-physics-its-been-340-years-since-newton-and-scientists-still-havent-solved-the-secret-of-gravity' target='_blank'>'One of the great unresolved embarrassments of physics': It's been 340 years since Newton and scientists still haven't solved the secret of gravity</a></strong> — <em>2026-05-27 12:10:43</em></summary>
-
-Big G is the oldest fundamental constant in physics and remains the least clearly defined. One scientist has spent a decade attempting to crack the mystery of the gravitational constant, and it all came down to the opening of a single envelope.
+Blue Origin's fourth New Glenn rocket exploded during a prelaunch engine test on Thursday night (May 28). It could be a big setback for the company and for NASA's moon ambitions.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260527023212.htm' target='_blank'>NASA’s Webb telescope discovers a planet where rock clouds vanish every night</a></strong> — <em>2026-05-27 10:24:22</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-mineral-clues-gale-crater-track.html' target='_blank'>Mineral clues in Gale Crater track ancient Mars climate change</a></strong> — <em>2026-05-28 23:50:01</em></summary>
 
-A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discovered that WASP-94A b’s mornings are filled with clouds made of rock-like minerals, while its evenings are surprisingly clear. The finding gave scientists their clearest look yet into the planet’s atmosphere and revealed it’s far more Jupiter-like than previously believed.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/the-milky-way-may-have-devoured-another-galaxy-named-loki-and-astronomers-think-theyve-found-its-remains' target='_blank'>The Milky Way may have devoured another galaxy named Loki, and astronomers think they've found its remains</a></strong> — <em>2026-05-27 10:00:00</em></summary>
-
-Astronomers say that they have identified 20 stars that may have grown up together in a dwarf galaxy named "Loki" that eventually became part of our Milky Way.
+While NASA imagery has shown evidence of ancient rivers and lakes on Mars that transitioned to dry dunes, uncertainty remains over the timing of the environmental changes that may have contributed to these shifts.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/05/260527023210.htm' target='_blank'>NASA’s Fermi telescope reveals the power source behind monster supernovae</a></strong> — <em>2026-05-27 09:48:18</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-red-dwarf-stars-earth-planets.html' target='_blank'>Red dwarf stars detected 'eating' Earth-like planets</a></strong> — <em>2026-05-28 23:20:01</em></summary>
 
-NASA’s Fermi telescope has detected what may be the first confirmed gamma-ray signal from a superluminous supernova — one of the most extreme explosions in the universe. Scientists believe the blast was powered by a rapidly spinning magnetar, an exotic neutron star with unbelievably strong magnetic fields. The event, called SN 2017egm, erupted 440 million light-years away and may help explain why some supernovae become extraordinarily bright.
+Astronomers have found some of the strongest evidence yet that stars can swallow their own planets. A new study, published in Monthly Notices of the Royal Astronomical Society, supports the long-held belief that young stars are capable of "eating" nearby worlds as planetary systems form.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-05-nasa-lays-moon-base-landers.html' target='_blank'>NASA lays out moon base plans with landers, buggies and drones at the top of the list</a></strong> — <em>2026-05-27 08:32:28</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-05-baby-stars-cradles-radial-3d.html' target='_blank'>Shock waves show how baby stars' cradles get their radial shape in 3D simulations</a></strong> — <em>2026-05-28 22:40:03</em></summary>
 
-NASA is already ordering landers, rovers and drones for a sprawling moon base, less than two months after the Artemis II's record-breaking lunar flyaround.
+The universe is full of fascinating structures, and some of the most striking take shape inside the giant clouds where stars are born. There, streams of gas appear to converge from all directions toward a dense central hub, like spokes meeting at the center of a wheel.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/' target='_blank'>NASA’s X-59 Prepares for First Supersonic Flight</a></strong> — <em>2026-05-28 22:29:20</em></summary>
+
+NASA’s X-59 quiet supersonic research aircraft is preparing for some of its most significant flights yet. The X-plane is about to begin a new block of test flights that will include its first time flying faster than the speed of sound and other mission-critical objectives. “What comes next is the first time this one-of-a-kind aircraft […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/' target='_blank'>NASA’s X-59 Prepares for First Supersonic Flight</a></strong> — <em>2026-05-28 22:29:20</em></summary>
+
+NASA’s X-59 quiet supersonic research aircraft is preparing for some of its most significant flights yet. The X-plane is about to begin a new block of test flights that will include its first time flying faster than the speed of sound and other mission-critical objectives. “What comes next is the first time this one-of-a-kind aircraft […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/companies-like-spacex-want-electromagnetic-catapults-on-the-moon-could-they-be-used-as-weapons' target='_blank'>Companies like SpaceX want electromagnetic catapults on the moon. Could they be used as weapons?</a></strong> — <em>2026-05-28 22:00:00</em></summary>
+
+A new report stresses the strategic and security implications of placing mass drivers on the moon by arguing that these launchers could serve as valuable first strike weapons systems.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/' target='_blank'>I Am Artemis: Daniel Stubbs</a></strong> — <em>2026-05-28 21:58:20</em></summary>
+
+Listen to this audio excerpt from Daniel Stubbs, NASA aerospace engineer: If you’ve driven through a cloud of dust and dirt that temporarily obscured your view, you’ve gotten a partial picture of a potential problem that NASA’s human landing systems for Artemis will face when they land on the Moon. Daniel Stubbs, an aerospace engineer […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-peering-milky-side-roman-unveil.html' target='_blank'>Peering into the Milky Way's far side, Roman could unveil 100,000 worlds</a></strong> — <em>2026-05-28 21:50:03</em></summary>
+
+NASA's Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds—a staggering leap compared to the nearly 6,300 found so far thanks to NASA missions working in tandem with other observatories. And Roman will primarily find them in underexplored regions of the Milky Way.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-distant-star.html' target='_blank'>Something just passed between us and a distant star</a></strong> — <em>2026-05-28 21:20:06</em></summary>
+
+On the night of 18 December 2019, a star in our satellite galaxy, the Large Magellanic Cloud, briefly got brighter. Not dramatically nor explosively, just a smooth symmetrical rise and fall in brightness lasting about an hour, as though something had passed in front of it and bent its light toward us. Then it returned to normal and was never seen to vary again.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/' target='_blank'>New Landsat Science Team Holds First In-Person Meeting</a></strong> — <em>2026-05-28 21:03:52</em></summary>
+
+From May 5 to 7, the Landsat Science Team meeting convened at the Earth Resources Observation and Science (EROS) Center in Sioux Falls, SD. Co-moderated by Landsat 8, 9, and 10 Project Scientist Chris Neigh, the three-day event officially introduced the new 2026–2030 Science Team members.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-massive-galaxies-early-universe-stars.html' target='_blank'>Why the most massive galaxies in the early universe stopped forming stars prematurely</a></strong> — <em>2026-05-28 21:00:03</em></summary>
+
+Astronomical observations show that the most massive galaxies in the early universe formed approximately three to four billion years after the Big Bang and stopped producing stars very early in cosmic history, around one billion years after their formation. This strange behavior has puzzled experts in the field. For comparison, our galaxy, the Milky Way, is as old as the universe itself and continues to produce stars, albeit at a low rate, even 13.5 billion years after its formation.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-books/andy-weirs-the-martian-just-got-a-deluxe-edition-to-celebrate-the-books-15-year-anniversary-and-its-a-stunner' target='_blank'>Andy Weir's 'The Martian' just got a deluxe edition to celebrate the book's 15-year anniversary, and it's a stunner</a></strong> — <em>2026-05-28 21:00:00</em></summary>
+
+Before 'Project Hail Mary,' Weir wrote the quintessential space saga now being given a stunning makeover
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-solar-secret-hammerheads-space.html' target='_blank'>The solar wind's secret hammerheads and what they tell us about heat in space</a></strong> — <em>2026-05-28 20:00:04</em></summary>
+
+The proton sharks showed up on a Friday. In a routine data calibration meeting for NASA's Parker Solar Probe in 2020, a small group of scientists were scrolling through visualizations of their data showing solar winds. Suddenly, a weird shape flashed on the screen: Instead of the usual rounded blob of solar-wind protons, this distribution had a long, flattened, head-like structure jutting out to one side.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it' target='_blank'>NASA is hatching a 'fast-paced plan' to boost this space telescope. But first, they'll have to find it</a></strong> — <em>2026-05-28 20:00:00</em></summary>
+
+NASA is working hard to predict where in Earth orbit its Swift space telescope will be this fall, so that a private spacecraft can meet up with the observatory and boost its altitude.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/' target='_blank'>Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!</a></strong> — <em>2026-05-28 19:37:24</em></summary>
+
+Written by Abigail Fraeman, Deputy Project Scientist at Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, May 22, 2026 I spent this past weekend eagerly awaiting the downlink from Mars that would show us the results of Curiosity’s drill attempt at “Campo Marte.” A few weeks ago, when Curiosity drilled the “Atacama” […]
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-press-releases/close-encounter-jupiter-and-venus/' target='_blank'>Close Encounter: Jupiter and Venus</a></strong> — <em>2026-05-28 19:20:28</em></summary>
+
+The two brightest planets in our sky will be less than 2 degrees apart on June 9th at sunset.
+The post Close Encounter: Jupiter and Venus appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/' target='_blank'>NASA Uses Mineralogical Marker to Understand Ancient Martian Climate</a></strong> — <em>2026-05-28 18:22:00</em></summary>
+
+Scientists analyzed 20 Martian samples collected by NASA’s Curiosity Rover and found that differences in hematite crystallite size at varying elevations could serve as a new mineralogical marker for understanding Mars’ ancient climate.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/james-webb-space-telescope-discovers-a-black-hole-that-formed-before-its-host-galaxy-scientists-arent-sure-how' target='_blank'>James Webb Space Telescope discovers a black hole that formed before its host galaxy. Scientists aren't sure how</a></strong> — <em>2026-05-28 18:00:00</em></summary>
+
+Observations of "Little Red Dot" ancient galaxies by the James Webb Space Telescope could answer the question: which comes first, the black hole or its galaxy? The shocking answer could represent a complete paradigm shift.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/' target='_blank'>Nancy Grace Roman Space Telescope Poster</a></strong> — <em>2026-05-28 17:26:43</em></summary>
+
+NASA/Jenny Mottar Downloads Print high resolution PDF May 28, 2026 PDF (144.47 MB) Print high resolution image May 28, 2026 PNG (45.60 MB) Smaller image for web view May 28, 2026 PNG (3.75 MB)
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-dark-energy-equation-mathematicians-standard.html' target='_blank'>Taking dark energy out of the equation: Mathematicians challenge the standard cosmological model of the universe</a></strong> — <em>2026-05-28 17:20:06</em></summary>
+
+Mathematicians are challenging the idea that dark energy is responsible for the accelerating expansion of the universe. In a new paper published in Proceedings of the Royal Society A, mathematicians from the University of California, Davis, provide mathematical proof that instabilities inherent in the Einstein-Euler equations imply that the current model of the expanding universe is not viable.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/' target='_blank'>Contractor to Civil Servant: NASA Welcomes Kenny Heckle</a></strong> — <em>2026-05-28 16:58:55</em></summary>
+
+Kenny Heckle grew up in Orlando, just west of NASA’s Kennedy Space Center in Florida. An 80s child, he comes from a long line of union pipefitters and fabricators. Heckle recalls the day 42 years ago at KARS Park, which is a NASA Exchange–run recreation area for the agency’s workforce and their guests, when he […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/' target='_blank'>NASA Astronaut Andrew Morgan Retires</a></strong> — <em>2026-05-28 16:47:10</em></summary>
+
+May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morgan has retired from the agency to continue his military service. Morgan spent 272 days in space aboard the International Space Station. NASA selected Morgan to join its 21st astronaut class in August 2013. He launched to the space station […]
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/going-low-and-slow-in-testing/' target='_blank'>Going Low and Slow in Testing</a></strong> — <em>2026-05-28 16:01:59</em></summary>
+
+NASA’s X-59 quiet supersonic research aircraft flies above NASA’s Armstrong Flight Research Center in Edwards, California, on April 28, 2026, during testing focused on lower-speed and altitude flight conditions in support of NASA’s Quesst mission. The X-59 has completed initial test flights at high altitudes and near-supersonic speeds, opening the door for additional flights focused […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-supercontinent-ancient-earth-snowball-phase.html' target='_blank'>Bare supercontinent may have tipped ancient Earth into 'Snowball' phase</a></strong> — <em>2026-05-28 15:20:04</em></summary>
+
+About a billion years ago, Earth started to come into its own. It was past the awkwardness of its younger years full of growing pains and turmoil: comet strikes and slimy water, including the Great Oxidation Event that flipped the world upside down. Roughly a billion years ago, the planet began to advance and mature, with plant life developing about 700 million years ago, but still with the occasional wild climate parties to keep things interesting.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-spends-115-hours-capturing-horsehead-nebula-in-striking-detail-with-backyard-telescope' target='_blank'>Astrophotographer spends 115 hours capturing Horsehead Nebula in striking detail with backyard telescope</a></strong> — <em>2026-05-28 15:00:00</em></summary>
+
+The Horsehead Nebula cuts a dark silhouette against glowing clouds in the constellation Orion.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/' target='_blank'>How NASA Uses Light to Detect Waste From Mines</a></strong> — <em>2026-05-28 14:20:54</em></summary>
+
+Tens of thousands of abandoned mines threaten waterways across the American West, but identifying which sites urgently need cleanup is slow and expensive. Now, NASA’s EMIT instrument can analyze the unique light signatures of mine waste from space to help focus remediation efforts where they’re needed most.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-regolith-reveal-nanoscale-space-weathering.html' target='_blank'>Chang'e-5 regolith studies reveal nanoscale space-weathering processes</a></strong> — <em>2026-05-28 14:20:07</em></summary>
+
+On the moon, the lack of atmosphere and accompanying features such as biological activity, oxygen-rich air, flowing water and rain, wind, and most erosion allows the lunar regolith to preserve a long-term record of surface processes in the space environment.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/' target='_blank'>Growing Stem Cells in Space to Improve Cancer and Disease Treatments</a></strong> — <em>2026-05-28 14:00:00</em></summary>
+
+Expedition 74 astronauts aboard the International Space Station are continuing research efforts to manufacture large quantities of stem cells for therapies on Earth. Previous studies have focused on fine-tuning hardware that allows scientists to produce greater quantities of high-quality stem cells. Now, the InSPA-StemCellEX-H2 investigation is aiming to demonstrate large scale production of blood stem […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/astronaut-captures-aurora-magic-from-the-iss-space-photo-of-the-day-for-may-28-2026' target='_blank'>Astronaut captures aurora magic from the ISS | Space photo of the day for May 28, 2026</a></strong> — <em>2026-05-28 14:00:00</em></summary>
+
+This is one spectacular photograph.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-rare-blue-micromoon-weekend.html' target='_blank'>A rare blue micromoon rises this weekend</a></strong> — <em>2026-05-28 13:54:21</em></summary>
+
+Get set for a rare blue micromoon this weekend—a blue moon that's also the most distant and smallest-looking full moon of the year.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-v3-megarocket-after-its-historic-debut-flight' target='_blank'>What's next for SpaceX's Starship V3 megarocket after its historic debut flight?</a></strong> — <em>2026-05-28 13:00:00</em></summary>
+
+SpaceX's "V3" Starship megarocket did pretty well on its debut flight last week. What's next for the powerful next-gen vehicle?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/how-to-catch-the-perfect-full-moonrise-just-in-time-for-the-blue-moon-show-on-may-30' target='_blank'>How to catch the perfect full moonrise — just in time for the Blue Moon show on May 30</a></strong> — <em>2026-05-28 13:00:00</em></summary>
+
+A rare second full moon arrives this week — and if you get the timing wrong, you'll miss its magic. Here's how to plan it precisely.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/05/MTG-I2_embarks_on_journey_to_Europe_s_Spaceport' target='_blank'>MTG-I2 embarks on journey to Europe’s Spaceport</a></strong> — <em>2026-05-28 12:00:00</em></summary>
+
+
+	Image:
+			The Meteosat Third Generation-Imager2 satellite sets sail from France to French Guiana
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/most-powerful-ghost-particle-ever-may-have-come-from-a-cosmic-particle-accelerator-fed-by-a-black-hole' target='_blank'>Most powerful 'ghost particle' ever may have come from a cosmic particle accelerator fed by a black hole</a></strong> — <em>2026-05-28 12:00:00</em></summary>
+
+The most energetic "ghost particle" neutrino ever detected may have been blasted at Earth by blazars, suggesting that these events and their black hole engines are powerful cosmic particle accelerators.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/enjoy-the-season-5-finale-of-for-all-mankind-and-be-first-to-view-spinoff-series-star-city-anywhere-with-these-exclusive-vpn-deals-save-87-percent-off-and-a-bonus-free-usd30-amazon-gift-card' target='_blank'>Enjoy the Season 5 finale of 'For All Mankind' and be first to view spinoff series 'Star City' anywhere with these exclusive VPN deals — save 87% off and a bonus free $30 Amazon Gift Card</a></strong> — <em>2026-05-28 11:00:00</em></summary>
+
+Surfshark comes recommended as one of the best VPN services, and offers online security and convenience, now with a $415 discount and a $30 Amazon voucher.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mercury/where-did-mercury-get-its-water-ice-maybe-from-a-single-slow-asteroid-impact-in-one-mercurian-day' target='_blank'>Where did Mercury get its water ice? Maybe from a single slow asteroid impact</a></strong> — <em>2026-05-28 10:00:00</em></summary>
+
+Mercury may have gotten much of its polar ice within a single Mercurian day following a massive asteroid impact, a new study suggests.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-astronomers-masses-newborn-planets.html' target='_blank'>Astronomers discover how to estimate masses of newborn planets using dust rings</a></strong> — <em>2026-05-28 09:00:01</em></summary>
+
+A team of astronomers, led by University of Warwick in collaboration with researchers at MIT and McMaster, have developed a novel method to use the properties of dust rings around stars to estimate the masses of newborn planets. Published in The Astrophysical Journal, this research offers astronomers a new way to find and characterize planets that are too deeply embedded in their birth environment to be seen directly.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-05-spacex-starship-rockets-grounded-pending.html' target='_blank'>SpaceX's Starship rockets are grounded pending investigation after test flight</a></strong> — <em>2026-05-28 08:53:27</em></summary>
+
+SpaceX Starship launches are on hold pending an investigation into last week's test flight.
 
 </details>
 
