@@ -2,93 +2,167 @@
 
     ### Major Themes in Recent AI Developments
 
-#### Enhanced Natural Language Processing Capabilities
-Recent advancements in natural language processing (NLP) have focused on improving the efficiency and contextual understanding of language models. OpenAI's introduction of GPT-4.5 showcases enhanced performance in generating coherent and contextually relevant text, significantly improving upon its predecessor. Additionally, Stanford's work on the "Zero-Shot Transfer" model demonstrates the ability to adapt to new languages without extensive retraining, indicating a shift toward more versatile language models that can operate across diverse linguistic landscapes.
+#### Advancements in AI Infrastructure and Deployment
+Recent developments in AI infrastructure are enabling more efficient and secure deployment of AI models across various environments. NVIDIA's JetPack 7.2 enhances the capability to deploy agentic AI on edge devices, optimizing memory usage for real-time processing. Concurrently, Amazon Bedrock's AgentCore Gateway introduces new security features that improve credential management and observability, allowing organizations to better control access to AI applications. These advancements indicate a clear trend toward integrating AI systems that are not only robust but also capable of functioning seamlessly in real-world scenarios.
 
-Key items:
-1. OpenAI Unveils GPT-4.5: A Leap in Language Model Performance - https://openai.com/research/gpt-4-5 - Highlights improvements in text generation and contextual understanding.
-2. Stanford's Zero-Shot Transfer Model for Multilingual NLP - https://stanford.edu/research/zero-shot-transfer-nlp - Discusses innovative approaches to language adaptation without extensive retraining.
+Key Items:
+1. Building a secure auth code flow setup using AgentCore Gateway with MCP clients - https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/ - This guide assists in implementing OAuth for secure AI assistant requests.
+2. Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2 - https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/ - Discusses optimized AI agent deployment for NVIDIA devices.
+3. Extending MCP support for Amazon Bedrock AgentCore Gateway - https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/ - Focuses on credential management and security for AI servers.
 
-#### Breakthroughs in AI for Healthcare
-AI's role in healthcare continues to expand, with notable innovations aimed at improving diagnostic accuracy and patient outcomes. Researchers at MIT have developed a deep learning model that predicts patient deterioration more accurately than existing methods, allowing for timely interventions. Additionally, a collaboration between Google Health and several hospitals has led to the creation of an AI system that can analyze medical imaging with unprecedented precision, underscoring the transformative potential of AI in clinical settings.
+#### Innovative AI Models and Performance Enhancements
+The introduction of advanced AI models is propelling innovation across various sectors. OpenAI's latest models, including GPT-5.5 and Codex, are now available on Amazon Bedrock, enabling enterprises to leverage powerful tools for diverse applications. Additionally, Majestic Labs has developed a Prometheus server, which boasts an impressive 128 terabytes of memory, addressing the memory limitations of large language models (LLMs) and enhancing their performance for high-speed data processing.
 
-Key items:
-1. MIT's Deep Learning Model for Predicting Patient Deterioration - https://mit.edu/research/predicting-deterioration - Explores advancements in predictive healthcare analytics.
-2. Google Health's AI System for Medical Imaging Analysis - https://googlehealth.com/research/ai-imaging-precision - Details the impact of AI on diagnostic imaging accuracy.
-
-#### Advances in AI Ethics and Fairness
-As AI technologies proliferate, the focus on ethical considerations and fairness in AI systems has intensified. The Partnership on AI has released a comprehensive framework aimed at ensuring fairness and transparency in AI algorithms, addressing biases that may arise during model training. Moreover, research from the University of California, Berkeley highlights the importance of explainability in AI, proposing methods to make decision-making processes of AI systems more transparent to users.
-
-Key items:
-1. Partnership on AI's Framework for Ethical AI Development - https://partnershiponai.org/ethical-ai-framework - Discusses guidelines for promoting fairness in AI systems.
-2. UC Berkeley's Research on Explainability in AI - https://berkeley.edu/research/explainability-ai - Highlights methods for enhancing transparency in AI decision-making.
+Key Items:
+1. OpenAI models and Codex on Amazon Bedrock are now generally available - https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/ - New models accessible for enterprise applications.
+2. New Server Hopes to Break Through AI’s “Memory Wall” - https://spectrum.ieee.org/huge-memory-ai-server - Majestic Labs introduces a server with extreme memory capacity to boost LLM performance.
 
 ### Conclusion
-The current trajectory of AI research is characterized by significant strides in natural language processing, healthcare applications, and ethical frameworks. As organizations like OpenAI and MIT lead the charge in developing more capable and responsible AI systems, the emphasis on versatility, accuracy, and fairness is becoming increasingly critical. This evolving landscape not only reflects the technological advancements within the field but also underscores the importance of addressing ethical considerations as AI continues to integrate into various sectors.
+The current AI landscape is characterized by significant advancements in infrastructure and model capabilities, paving the way for more secure and efficient AI applications. As organizations increasingly adopt these technologies, we can anticipate enhanced performance and broader applicability across various industries. The continuous innovation in AI models and deployment strategies reflects a growing maturity in the field, positioning AI as a critical driver of future technological advancements.
 
 ### Top Sources:
-1. OpenAI Unveils GPT-4.5: A Leap in Language Model Performance - https://openai.com/research/gpt-4-5 - Highlights improvements in text generation and contextual understanding.
-2. Stanford's Zero-Shot Transfer Model for Multilingual NLP - https://stanford.edu/research/zero-shot-transfer-nlp - Discusses innovative approaches to language adaptation without extensive retraining.
-3. MIT's Deep Learning Model for Predicting Patient Deterioration - https://mit.edu/research/predicting-deterioration - Explores advancements in predictive healthcare analytics.
-4. Google Health's AI System for Medical Imaging Analysis - https://googlehealth.com/research/ai-imaging-precision - Details the impact of AI on diagnostic imaging accuracy.
-5. Partnership on AI's Framework for Ethical AI Development - https://partnershiponai.org/ethical-ai-framework - Discusses guidelines for promoting fairness in AI systems.
-6. UC Berkeley's Research on Explainability in AI - https://berkeley.edu/research/explainability-ai - Highlights methods for enhancing transparency in AI decision-making.
-7. The Future of AI: Trends in Machine Learning and Automation - https://www.example.com/future-of-ai-trends - Examines emerging trends in AI and their implications.
-8. Breakthroughs in Neural Network Architectures - https://www.example.com/neural-network-architectures - Reviews recent advancements in neural network designs and their applications.
-9. Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost - https://towardsdatascience.com/rerankers-arent-magic-either-when-the-cross-encoder-layer-is-worth-the-cost-enterprise-document-intelligence-vol-1-2bis/ - Analyzes the effectiveness of cross-encoders in document retrieval.
-10. Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs - https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/ - Discusses optimizations in knowledge graph systems.
+1. Building a secure auth code flow setup using AgentCore Gateway with MCP clients - https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/ - Guide for implementing OAuth for secure AI assistant requests.
+2. Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2 - https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/ - Optimized AI agent deployment on NVIDIA devices.
+3. Extending MCP support for Amazon Bedrock AgentCore Gateway - https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/ - Centralized credential management for AI servers.
+4. OpenAI models and Codex on Amazon Bedrock are now generally available - https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/ - New models for enterprise applications.
+5. New Server Hopes to Break Through AI’s “Memory Wall” - https://spectrum.ieee.org/huge-memory-ai-server - Majestic Labs develops a server with extreme memory capacity.
+6. Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark - https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/ - Discusses multi-node clustering for AI agents.
+7. Transforming rare cancer research with Amazon Quick - https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/ - Use of AI in biomedical data integration for research.
+8. Accelerate LLM model loading and increase context windows with GPUDirect - https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/ - Improving LLM inference performance.
+9. Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway - https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/ - Demonstrating security mechanisms for AI agents.
+10. AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/ - Operational challenges in deploying AI agents.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/' target='_blank'>How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo</a></strong> — <em>2026-06-01 04:49:15</em></summary>
+    <details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/' target='_blank'>Building a secure auth code flow setup using AgentCore Gateway with MCP clients</a></strong> — <em>2026-06-02 03:23:35</em></summary>
 
-Developing autonomous vehicle (AV) policies requires bridging an important gap between training and deployment. Vision-language-action (VLA) models that can...
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/' target='_blank'>Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3</a></strong> — <em>2026-06-01 04:43:58</em></summary>
-
-Physical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what's...
+This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock AgentCore Gateway. By the end of this guide, you will have a production-ready setup where each AI assistant request is authenticated with a valid user identity token issued from your organization’s identity provider.
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/' target='_blank'>Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security</a></strong> — <em>2026-06-01 04:21:42</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/' target='_blank'>Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2</a></strong> — <em>2026-06-02 02:00:00</em></summary>
 
-The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/' target='_blank'>NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories</a></strong> — <em>2026-06-01 03:59:15</em></summary>
-
-Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems....
+As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...
 
 </details>
 
-<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/' target='_blank'>NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale</a></strong> — <em>2026-06-01 03:36:52</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/' target='_blank'>Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity</a></strong> — <em>2026-06-01 22:16:28</em></summary>
 
-AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale...
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/solving-a-murder-mystery-using-bayesian-inference/' target='_blank'>Solving a Murder Mystery Using Bayesian Inference</a></strong> — <em>2026-05-31 17:00:00</em></summary>
-
-How Knives Out teaches Bayesian thinking (without you realizing it) 
-The post Solving a Murder Mystery Using Bayesian Inference appeared first on Towards Data Science.
+Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how it is managed. With this ability, you can extend your organization’s existing secrets governance processes to AgentCore. You can provide an existing, preconfigured AWS Secrets Manager secret to use with your credential provider resources. You retain full control over its encryption configuration, rotation, replication, tags, and resource policies, just as you would manage other secrets in Secrets Manager. You can also choose a secret from another AWS account within the same AWS Region, though cross-Region secret sharing isn’t supported. This also supports secrets brought in through AWS Secrets Manager external connectors, enabling integration with third-party secret managers.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/rerankers-arent-magic-either-when-the-cross-encoder-layer-is-worth-the-cost-enterprise-document-intelligence-vol-1-2bis/' target='_blank'>Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost</a></strong> — <em>2026-05-31 15:00:00</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/' target='_blank'>Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark</a></strong> — <em>2026-06-01 22:00:00</em></summary>
 
-Enterprise Document Intelligence [Vol. 1 #2bis] Why stacking a reranker on top of weak retrieval doesn’t save it, what cross-encoders actually fix vs what they don’t, and where the editorial position of the series lands.
-The post Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost appeared first on Towards Data Science.
+The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent...
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/' target='_blank'>Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs</a></strong> — <em>2026-05-31 13:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/' target='_blank'>Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries</a></strong> — <em>2026-06-01 21:54:16</em></summary>
 
-Structure-guided NER optimization for enterprise GraphRAG systems
-The post Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs appeared first on Towards Data Science.
+In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available datasets from PubMed and other open biomedical repositories. It covers the end-to-end workflow: defining a research objective, configuring data sources, reviewing the AI-generated research plan, running the investigation, and iterating on results using the revision and versioning system.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/' target='_blank'>OpenAI models and Codex on Amazon Bedrock are now generally available</a></strong> — <em>2026-06-01 21:31:12</em></summary>
+
+GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy them in production applications and agents today, on Bedrock’s high performance inference engine. 
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/rag-is-not-machine-learning-and-the-ml-toolkit-solves-the-wrong-problem/' target='_blank'>RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem</a></strong> — <em>2026-06-01 18:49:53</em></summary>
+
+Enterprise Document Intelligence [Vol.1 #3] - Why the ML toolkit (hyperparameter sweeps, train/test splits, explainability frameworks) solves the wrong problem, and what to use instead
+The post RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/' target='_blank'>Extending MCP support for Amazon Bedrock AgentCore Gateway</a></strong> — <em>2026-06-01 18:35:03</em></summary>
+
+While deploying Model Context Protocol (MCP) servers in production, enterprises need fine-grained access control across servers, observability into which teams use which tools, security guarantees against data exfiltration, and centralized credential management, all at scale. Amazon Bedrock AgentCore Gateway sits between MCP servers and the clients that consume them, centralizing credential management, observability, and secure […]
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/' target='_blank'>Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway</a></strong> — <em>2026-06-01 17:54:22</em></summary>
+
+In this post, we use a lakehouse data agent to demonstrate how you can use Policy for deterministic access control and Lambda interceptors for dynamic validation. We then show how to combine Lambda interceptors and Policy to implement a geography-based access control which requires both dynamic validation and deterministic access control.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/' target='_blank'>Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments</a></strong> — <em>2026-06-01 17:30:12</em></summary>
+
+In this post, we address several key risks that surface when designing an agentic payment system, and how to address them with the capabilities of AgentCore payments.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-combining-claude-code-and-codex-for-max-coding-power/' target='_blank'>How to Combine Claude Code and Codex for Maximum Coding Power</a></strong> — <em>2026-06-01 17:30:00</em></summary>
+
+Get the most out of each coding model to have a very powerful coding setup 
+The post How to Combine Claude Code and Codex for Maximum Coding Power appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/our-views-on-ai-policy-and-political-advocacy' target='_blank'>Our views on AI policy and political advocacy</a></strong> — <em>2026-06-01 17:00:00</em></summary>
+
+Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/' target='_blank'>AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore</a></strong> — <em>2026-06-01 16:12:18</em></summary>
+
+When you build agentic AI solutions, you face unique operational challenges. Agents make unpredictable decisions, costs spiral unexpectedly, and debugging non-deterministic failures seems impossible. Agentic AI applications don't just execute predetermined workflows. They reason, adapt, and make autonomous decisions, and DevOps practices need to be adapted. That's where AgentOps comes in, the operational discipline for deploying, managing, and continuously improving AI agents in production.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/' target='_blank'>Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant</a></strong> — <em>2026-06-01 16:07:19</em></summary>
+
+If you’re iterating on deploying large language models (LLMs) on AWS GPU instances, you’ve probably noticed the larger the model to be loaded into GPU High Bandwidth Memory (HBM), the longer the painful wait until the GPUs are ready for inference. As models grow to hundreds of billions of parameters and GPU environments grow ever […]
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/' target='_blank'>Amazon Quick integration with time-series databases for market intelligence using MCP</a></strong> — <em>2026-06-01 16:01:24</em></summary>
+
+In this post, we walk through a practical implementation using KDB-X MCP server integration with Amazon Quick, demonstrating how traders and analysts can ask questions using conversational language and receive actionable insights from datasets. You can apply this same integration pattern across various domains, from financial market analysis to IoT sensor monitoring to DevOps performance dashboards, where you need to simplify access to time series insights.
+
+</details>
+
+<details><summary><strong><a href='https://spectrum.ieee.org/huge-memory-ai-server' target='_blank'>New Server Hopes to Break Through AI’s “Memory Wall”</a></strong> — <em>2026-06-01 15:00:01</em></summary>
+
+Memory is arguably the most serious constraint on modern AI large language models (LLMs). According to one influential paper, LLM token generation is an inherently memory-bound task, meaning the rate at which models output text is limited by how quickly data can be read in from memory. The severity of this bottleneck grows with model size. This creates a “memory wall” that holds back LLM inference performance.AI hardware startup Majestic Labs is taking a direct—and comprehensive—approach to solving this problem. It’s developing a new AI server, Prometheus, with up to 128 terabytes of memory. That’s over 60 times more than Nvidia’s DGX B300 server, a cutting-edge AI processing rack. Sha Rabii, co-founder and president of Majestic Labs, believes that this drastic increase in memory will provide his company an edge. While he acknowledges that “Nvidia’s done a phenomenal job creating a system that can scale out,” he argues that it becomes less economical as models grow and “ends up greatly over-provisioning on compute and starving on memory.”DRAM-Centric Architecture for LLM MemoryMajestic Labs plans to surmount the “memory wall” with an architecture that fundamentally differs from competitors’. Nvidia’s current servers have fast high-bandwidth memory (HBM), which is typically used to read in an LLM’s model weights. In addition, there’s an often larger but slower pool of dynamic random access memory (DRAM), which handles LLM and server overhead. Majestic instead goes all in on DRAM (specifically LPDDR6) in a unified architecture. Rabii says that most memory interfaces are designed to operate over a short physical distance—sometimes only a few millimeters. That limits how much memory can be placed. “You get this shoreline at the compute die where you can put your HBM. If you wanted to put more, you can’t,” Rabii explains. To solve that, Majestic uses a proprietary memory interface constructed from miniature copper cables that’s effective up to a meter. This is paired with custom memory aggregation chips that sit physically next to memory modules and coordinate memory across the server. “It’s an endpoint for that high-speed interface and fans out to many, many commodity DRAM chips,” explains Rabii. In addition to addressing large pools of memory, Majestic says this design offers memory bandwidth up to 25.6 terabytes per second. Ignite AI Processor for LLM AccelerationMore memory is good, but it needs to be paired with AI acceleration, something akin to Nvidia’s GPU. Majestic’s solution to this is Ignite, a custom AI processing unit that serves as the server’s compute engine. The Prometheus server contains 12 Ignite chips. Ignite combines data-center-class ARM application cores with RISC-V vector and tensor cores on a single die, all sharing the same memory space. The ARM cores act as an on-chip host processor to orchestrate the AI model. The RISC-V cores carry out the actual LLM processing. The result is a single chip that handles multiple aspects of LLM inference demands without handing off between processors. Majestic Labs has yet to reveal specific metrics for Prometheus’ compute performance.Rabii acknowledges that software is important as well, given that many AI frameworks are already entrenched. “We’re trying to reduce friction as much as possible in every aspect of our customer adoption, whether it’s physical or software,” he says. Prometheus will support PyTorch, vLLM, and OpenAI’s Triton inference frameworks without requiring code modifications. That means existing models compatible with these frameworks can run as-is.Prometheus Server Design and PricingAll of this combines in the server itself, which is built into an Open Compute Project-compliant from factor 21 inches wide and 36 inches deep. Up to four servers can fit in a server rack; power draw is expected to total up to 120 kilowatts per rack; and heat will be managed with cold-plate liquid cooling. The server’s memory design is modular, which means servers purchased with less than the maximum of 128 TB of memory can be upgraded at a later date. Despite the breadth of the project, Majestic wants to position Prometheus on price, too—which might be a surprise given how much memory each server can contain. Majestic argues that this will be possible because it uses DRAM instead of HBM. Pricing has not yet been announced, as Prometheus is expected to ship in 2027.“Our customers’ capital expenditure will come down by, depending on the workload, 10 to 50 times, and the power consumption comes down by a similar amount,” Rabii claims.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/ensuring-data-integrity-with-cryptographic-hashing-and-the-ethereum-blockchain/' target='_blank'>Ensuring Data Integrity with Cryptographic Hashing and the Ethereum Blockchain</a></strong> — <em>2026-06-01 15:00:00</em></summary>
+
+Applying blockchain primitives to dataset versioning, provenance, and integrity assurance
+The post Ensuring Data Integrity with Cryptographic Hashing and the Ethereum Blockchain appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/its-the-lessons-we-learned-along-the-way-or-is-it/' target='_blank'>It’s the Lessons We Learned Along the Way. Or, Is It?</a></strong> — <em>2026-06-01 13:30:00</em></summary>
+
+Research projects in the age of AI
+The post It’s the Lessons We Learned Along the Way. Or, Is It? appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/escaping-the-valley-of-choice-in-bi-how-agentic-bi-will-kill-data-analysts/' target='_blank'>Escaping the Valley of Choice in BI</a></strong> — <em>2026-06-01 12:00:00</em></summary>
+
+Why Agentic BI threatens an entire profession
+The post Escaping the Valley of Choice in BI appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/stargate-michigan-data-center' target='_blank'>Building the infrastructure for the Intelligence Age in Michigan</a></strong> — <em>2026-06-01 12:00:00</em></summary>
+
+OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws' target='_blank'>OpenAI frontier models and Codex are now available on AWS</a></strong> — <em>2026-06-01 10:00:00</em></summary>
+
+OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.
 
 </details>
 
