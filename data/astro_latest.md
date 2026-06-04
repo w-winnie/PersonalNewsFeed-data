@@ -1,229 +1,299 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics Developments
+    ### Summary of Recent Developments in Astrophysics
 
-#### Black Holes and Cosmic Evolution
-Recent discoveries regarding supermassive black holes (SMBH) are reshaping our understanding of cosmic evolution. The James Webb Space Telescope (JWST) has identified a population of overmassive black holes that existed just 2 billion years after the Big Bang, prompting debates about their formation mechanisms. Additionally, the observation of a dormant black hole that dramatically revived and brightened tenfold within three years underscores the dynamic nature of these celestial entities, suggesting that our models of black hole growth may need significant revision.
-
-Key Items:
-1. JWST's discovery of early overmassive black holes prompts reevaluation of growth timelines - https://phys.org/news/2026-06-jwst-early-overmassive-black-holes.html
-2. A dormant black hole revives dramatically, brightening tenfold in under three years - https://phys.org/news/2026-06-dormant-black-hole-revives-years.html
-
-#### Exoplanet Atmospheres and Habitability
-New insights into exoplanet atmospheres, particularly those of "hot Jupiters," reveal complex dynamics that could affect their habitability. Observations indicate winds exceeding 15,000 mph, providing the first evidence of magnetic fields on these distant worlds. Moreover, research suggests that many exoplanets may possess smoggy atmospheres similar to diesel exhaust, complicating our understanding of their potential to support life and the processes that shape their atmospheres.
+#### Advancements in Exoplanet and Astrobiology Research
+Recent developments in astrobiology are enhancing our understanding of environments that could support life beyond Earth. The ExoMars Rosalind Franklin rover is poised to investigate extensive clay deposits on Mars, which may indicate historical water presence and potential habitability. Simultaneously, the James Webb Space Telescope's detection of methane and peculiar chemistry on interstellar comet 3I/ATLAS suggests complex organic processes may occur outside our solar system. These findings are critical for identifying life-supporting conditions in diverse extraterrestrial environments.
 
 Key Items:
-1. Discovery of winds on hot Jupiters suggests the presence of magnetic fields - https://www.space.com/astronomy/exoplanets/hot-jupiter-winds-blasting-at-over-15-000-mph-reveal-1st-evidence-of-exoplanets-with-magnetic-fields
-2. Study reveals many exoplanets may have atmospheres resembling polluted conditions - https://phys.org/news/2026-06-mini-neptune-exoplanets-smoggy-atmospheres.html
+1. ExoMars rover targets clay deposits, hinting at past water presence - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life
+2. Webb detects methane on interstellar comet 3I/ATLAS, revealing unexpected chemistry - https://www.sciencedaily.com/releases/2026/06/260603023116.htm
 
-#### Geological Insights into Celestial Bodies
-Research on celestial bodies is yielding surprising insights into their formation and evolution. The dwarf planet Ceres has revealed unexpectedly complex surface features, suggesting a more dynamic geological history than previously understood. Additionally, a rare meteorite has provided definitive evidence of a giant protoplanet that existed in the early solar system, challenging established theories about planetary development.
+#### New Insights into Cosmic Structures and Phenomena
+A significant advancement in understanding cosmic magnetism has been achieved with the release of the largest magnetic map of the universe, which will facilitate studies on how magnetic fields influence galaxy formation and dynamics. Additionally, statistical evidence for recoiling supermassive black holes has been uncovered, providing new insights into their behavior during galactic mergers. These discoveries contribute to a deeper comprehension of the universe's structure and the fundamental forces at play.
 
 Key Items:
-1. Ceres' surface complexity suggests a more dynamic history than previously thought - https://phys.org/news/2026-06-ceres-surface-complex-previously-thought.html
-2. A rare meteorite offers definitive evidence of a giant early planet's existence - https://phys.org/news/2026-06-rare-meteorite-evidence-giant-early.html
+1. Largest magnetic map of the universe released, aiding studies of intergalactic magnetism - https://phys.org/news/2026-06-universe-hidden-magnetic-fields.html
+2. Evidence for recoiling supermassive black holes uncovered, shedding light on galactic dynamics - https://phys.org/news/2026-06-astronomers-uncover-statistical-evidence-recoiling.html
+
+#### Technological Innovations in Observational Astronomy
+Technological advancements in observational astronomy are on the rise, exemplified by the operational debut of the next-generation Very Large Array prototype, which promises to enhance radio observations significantly. This follows the Hobby-Eberly Telescope Dark Energy Experiment's (HETDEX) release of a comprehensive dataset, providing valuable information about early galaxy formation. These innovations are crucial for expanding our observational capabilities and understanding the universe's complexities.
+
+Key Items:
+1. New Very Large Array prototype gathers first light, enhancing radio astronomy capabilities - https://phys.org/news/2026-06-generation-large-array-prototype.html
+2. HETDEX releases extensive dataset for studying early universe - https://phys.org/news/2026-06-hetdex-massive-cosmic-noon-dataset.html
 
 ### Conclusion
-The current landscape of astrophysics is marked by significant discoveries that challenge existing theories and expand our understanding of the universe. Observational advancements, particularly from instruments like the JWST, are uncovering unexpected phenomena across various domains, from black holes to exoplanets and celestial geology. As researchers delve deeper into these complexities, the field appears poised for transformative breakthroughs that could redefine our cosmic narrative.
+The current landscape in astrophysics is marked by a dynamic interplay of exploration and technological innovation. As researchers delve deeper into the potential for life beyond Earth and refine our understanding of cosmic structures, the field is poised for transformative insights. The integration of new technologies and methodologies will likely accelerate discoveries, enriching our comprehension of both the origins of life and the fundamental mechanisms governing the universe. 
 
-### Top Sources
-1. Are JWST's early, overmassive black holes just normal-range outliers? - https://phys.org/news/2026-06-jwst-early-overmassive-black-holes.html - New findings challenge black hole formation models.
-2. Dormant black hole revives in under three years, brightening 10-fold in nearby galaxy - https://phys.org/news/2026-06-dormant-black-hole-revives-years.html - Observations reveal dynamic behavior of black holes.
-3. Hot Jupiter winds blasting at over 15,000 mph reveal 1st evidence of exoplanets with magnetic fields - https://www.space.com/astronomy/exoplanets/hot-jupiter-winds-blasting-at-over-15-000-mph-reveal-1st-evidence-of-exoplanets-with-magnetic-fields - Significant discovery in exoplanet atmospheric research.
-4. Mini-Neptune exoplanets may have smoggy atmospheres similar to diesel exhaust - https://phys.org/news/2026-06-mini-neptune-exoplanets-smoggy-atmospheres.html - Insights into the atmospheres of distant planets.
-5. Ceres' surface is much more complex than previously thought - https://phys.org/news/2026-06-ceres-surface-complex-previously-thought.html - New geological findings on the dwarf planet.
-6. Rare meteorite provides evidence of giant early planet - https://phys.org/news/2026-06-rare-meteorite-evidence-giant-early.html - Discovery challenges existing theories on planetary evolution.
-7. Strange winds on seven hot Jupiters reveal strongest signs yet of exoplanet magnetic activity - https://phys.org/news/2026-06-strange-hot-jupiters-reveal-strongest.html - Key evidence for magnetic fields in exoplanets.
-8. A stellar “Rosetta stone” reveals the source of mysterious cosmic signals - https://www.sciencedaily.com/releases/2026/06/260602021631.htm - Breakthrough in understanding cosmic radio signals.
-9. Small Magellanic Cloud is being pulled apart, reshaping how astronomers read its past - https://phys.org/news/2026-06-small-magellanic-cloud-reshaping-astronomers.html - New insights into galactic dynamics.
-10. Icy moons' ability to host life could be revealed through an ecology-based method - https://phys.org/news/2026-06-icy-moons-ability-host-life.html - Potential for life detection in icy environments.
+### Top Sources:
+1. ExoMars rover targets vast bed of clay in search for life - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life - New study reveals extensive clay deposits at the ExoMars landing site.
+2. NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS - https://www.sciencedaily.com/releases/2026/06/260603023116.htm - First direct detection of methane on an interstellar comet.
+3. Most detailed map of the universe's hidden magnetic fields released - https://phys.org/news/2026-06-universe-hidden-magnetic-fields.html - Largest magnetic map aids understanding of cosmic magnetism.
+4. Astronomers uncover statistical evidence for recoiling supermassive black holes - https://phys.org/news/2026-06-astronomers-uncover-statistical-evidence-recoiling.html - New insights into dynamics of black holes in galactic collisions.
+5. The next-generation Very Large Array prototype gathers its first light - https://phys.org/news/2026-06-generation-large-array-prototype.html - New radio telescope prototype enhances observational capabilities.
+6. HETDEX opens massive Cosmic Noon dataset to scientists, novices and AI - https://phys.org/news/2026-06-hetdex-massive-cosmic-noon-dataset.html - Extensive dataset released for early universe studies.
+7. NASA Finds New Way Earth May Have Received Elements Needed for Life - https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/ - New insights into Earth's early habitability.
+8. Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun! - https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/ - Update on NASA's Curiosity rover activities on Mars.
+9. Sun erupts with 3 colossal solar flares in less than 24 hours, boosting chances for northern lights - https://www.space.com/stargazing/auroras/sun-erupts-with-3-colossal-solar-flares-in-less-than-24-hours-boosting-chances-for-northern-lights - Recent solar activity may affect Earth's atmosphere.
+10. Brightness 'gap' in ancient star cluster reveals missing red dwarfs - https://phys.org/news/2026-06-brightness-gap-ancient-star-cluster.html - Discovery of missing stellar populations in ancient clusters.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-06-spacex-scramble-bandwagon.html' target='_blank'>Before SpaceX goes public, a scramble to get on bandwagon</a></strong> — <em>2026-06-03 08:10:01</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand' target='_blank'>A new chapter for ESA’s brand</a></strong> — <em>2026-06-04 08:00:00</em></summary>
 
-As SpaceX prepares its long-awaited stock market debut, investors everywhere are scrambling to get a piece of the action—through investment funds, related company stocks, and even online prediction markets.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-jwst-early-overmassive-black-holes.html' target='_blank'>Are JWST's early, overmassive black holes just normal-range outliers?</a></strong> — <em>2026-06-03 03:20:01</em></summary>
-
-Ever since the JWST revealed a population of SMBH in the early universe that were overmassive, scientists have been working hard to explain them. These black holes existed when the universe was only about 2 billion years old, during Cosmic Noon, and according to our models of black hole growth, there simply wasn't enough time for them to grow so massive.
+Last year, the European Space Agency (ESA) unveiled its long-term vision for the decades ahead with ESA Strategy 2040. Framed around five encompassing goals which demonstrate the important role space can play in every aspect of citizens’ lives across Europe. Today, ESA is taking a decisive step forward to bring this vision to life through a comprehensive brand transformation.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-heavy-neutron-star.html' target='_blank'>How heavy can a neutron star get?</a></strong> — <em>2026-06-03 02:00:01</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life' target='_blank'>ExoMars rover targets vast bed of clay in search for life</a></strong> — <em>2026-06-04 06:30:00</em></summary>
 
-The physics of neutron stars are almost too fantastic to believe: something the weight of two suns compacted to a sphere the size of a city. Each teaspoon of its material would weigh billions of tons. If you've done any reading on the topic, you've heard these facts before. But despite the intense interest these extreme objects hold, we are still actively learning lots about them.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-ceres-surface-complex-previously-thought.html' target='_blank'>Ceres' surface is much more complex than previously thought</a></strong> — <em>2026-06-02 22:10:01</em></summary>
-
-The long, puzzling dwarf planet Ceres, in reality the first named asteroid, has surface features that are much more complex than previously thought. Or at least that's the conclusion of a recent paper presented at the European Geosciences Union 2026 General Assembly in Vienna.
+In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-small-magellanic-cloud-reshaping-astronomers.html' target='_blank'>Small Magellanic Cloud is being pulled apart, reshaping how astronomers read its past</a></strong> — <em>2026-06-02 22:00:04</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260603023116.htm' target='_blank'>NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS</a></strong> — <em>2026-06-04 05:17:24</em></summary>
 
-Using more than a decade of observations from the VISTA Survey of the Magellanic Clouds (VMC), researchers measured the motions of millions of stars across the Small Magellanic Cloud with unprecedented precision. The new study, published in Astronomy & Astrophysics, provides direct evidence of a galaxy-wide tidal disruption of the Small Magellanic Cloud from its interaction with the Large Magellanic Cloud.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-movie-has-tremendous-heart-we-sat-down-with-the-director-of-masters-of-the-universe-to-learn-how-he-found-the-power-for-the-new-he-man' target='_blank'>'The movie has tremendous heart': We sat down with the director of 'Masters of the Universe' to learn how he found 'the power' for the new He-Man</a></strong> — <em>2026-06-02 22:00:00</em></summary>
-
-"My compass was about trying to please the eight-year-old version of myself who discovered He-Man for the first time."
+NASA's James Webb Space Telescope has uncovered unusual chemistry in interstellar comet 3I/ATLAS, including the first direct detection of methane on a visitor from another star system. The comet also contains exceptionally high levels of carbon dioxide, making it unlike most comets born in our solar system. Scientists believe the methane was hidden beneath the surface and only emerged after solar heating reached deeper icy layers.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/scientists-locate-source-of-mysterious-radio-signals-after-20-year-search-a-vampire-star-and-its-victim' target='_blank'>Scientists locate source of mysterious radio signals after 20 year search: A vampire star and its victim</a></strong> — <em>2026-06-02 21:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/' target='_blank'>A Moonlit Earth as Seen From Artemis II</a></strong> — <em>2026-06-04 04:01:00</em></summary>
 
-The origin of enigmatic long-period radio bursts has been shown to be from the clash of magnetic fields as a white dwarf steals matter from a close red dwarf star.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-rare-meteorite-evidence-giant-early.html' target='_blank'>Rare meteorite provides evidence of giant early planet</a></strong> — <em>2026-06-02 20:10:01</em></summary>
-
-Four-and-a-half billion years ago, a massive world—possibly as big as the moon or even Mars—orbited our sun before crashing into another celestial body and shattering into rubble. Now, in a paper published in the journal Earth and Planetary Science Letters, scientists report the first definitive evidence that this lost planetary embryo (protoplanet) existed. Its unique geological makeup challenges long-held assumptions about how planets evolve.
+An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video' target='_blank'>China launches debut mission of Falcon 9-like rocket with no advance notice (video)</a></strong> — <em>2026-06-02 20:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/' target='_blank'>Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!</a></strong> — <em>2026-06-04 01:28:11</em></summary>
 
-China launched its partially reusable Long March 12B rocket for the first time ever on Monday (June 1), sending it up without issuing airspace closure notices ahead of time.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-kamooalewa-asteroid-lunar-tianwen.html' target='_blank'>Kamo'oalewa asteroid's lunar origin challenged ahead of Tianwen-2 arrival</a></strong> — <em>2026-06-02 19:20:03</em></summary>
-
-China's Tianwen-2 sample-return mission is well on its way to its target, an asteroid called Kamo'oalewa. The spacecraft left Earth in May 2025 and should return in late 2027 with samples of a space rock that scientists had assumed originated from the moon. However, a new study published in Nature Communications suggests that we may be mistaken about the asteroid's origin.
+By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wisely and on top of the drilling, we also […]
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-explosion-blue-ceo-rocket-fly.html' target='_blank'>Despite explosion Blue Origin CEO says rocket to fly before year-end</a></strong> — <em>2026-06-02 19:00:02</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-generation-large-array-prototype.html' target='_blank'>The next-generation Very Large Array prototype gathers its first light</a></strong> — <em>2026-06-04 01:20:02</em></summary>
 
-The CEO of Blue Origin vowed its New Glenn rocket "will fly again before the end of this year" after a recent ground test ended in a massive fireball that damaged the launch platform.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/casios-the-mandalorian-and-grogu-watches-will-show-you-the-time-as-well-as-the-way' target='_blank'>Casio's 'The Mandalorian and Grogu' watches will show you the time, as well as the way</a></strong> — <em>2026-06-02 19:00:00</em></summary>
-
-Casio G-Shock takes timely inspiration from the galaxy far, far away
+The Very Large Array, the iconic field of radio antennas featured in the film "Contact" (inspired by Carl Sagan's novel), has a long and distinguished history of service. But after more than 45 years of studying the radio sky and probing the mysteries of the universe, the U.S. National Science Foundation National Radio Astronomy Observatory, which operates the VLA, is looking to create a new generation of telescopes that will pick up where the VLA leaves off.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/spacex-wins-usd4-billion-space-force-contract-for-satellites-that-target-airborne-threats-anywhere-on-earth' target='_blank'>SpaceX wins $4 billion Space Force contract for satellites that target 'airborne threats' anywhere on Earth</a></strong> — <em>2026-06-02 18:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-asteroid-dirt-fluffier-thought.html' target='_blank'>Asteroid dirt is 'fluffier' than we thought</a></strong> — <em>2026-06-04 00:40:04</em></summary>
 
-The U.S Space Force has awarded SpaceX $4.16 billion to help the military track airborne targets using satellites.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-french-astronaut-fly-commercial-space.html' target='_blank'>French astronaut to fly to commercial space station under deal</a></strong> — <em>2026-06-02 17:40:01</em></summary>
-
-Two French astronauts are to blast into space next year, one of whom will stay on board the world's first commercial space station, under a new deal sealed between France and the U.S. company Vast.
+The strength of gravity is different on every body in the solar system. Whether it's the crushing weight of Jupiter or the minuscule pull of a small asteroid, this fundamental force of physics still has a major impact on the material those bodies are made up of. A new paper from researchers at the University of Duisburg-Essen and the German Aerospace Center (DLR) showcases just how different it can be by letting planetary simulants freefall inside a giant drop tower and measuring how "fluffy" the space dirt got. The findings are published on the arXiv preprint server.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/total-war-warhammer-40-000-release-date-gameplay-factions-and-everything-else-we-know' target='_blank'>'Total War: Warhammer 40,000': Release window, gameplay, factions & everything else we know about this upcoming grimdark sci-fi strategy game</a></strong> — <em>2026-06-02 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-jupiter-redirected-life-ingredients-earth.html' target='_blank'>How Jupiter may have redirected life's ingredients toward Earth 4.5 billion years ago</a></strong> — <em>2026-06-03 22:50:01</em></summary>
 
-After the fantastic Total War: Warhammer trilogy, Creative Assembly is marching into the grim darkness of Warhammer 40K's far future.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-mini-neptune-exoplanets-smoggy-atmospheres.html' target='_blank'>'Mini-Neptune' exoplanets may have smoggy atmospheres similar to diesel exhaust</a></strong> — <em>2026-06-02 16:20:04</em></summary>
-
-The astronauts circling Earth on the Artemis mission sent back beautiful clear photos of the continents, clouds, and oceans. But we might be the exception. Many planets in the universe may be hazed in clouds of soot, according to a new study by University of Chicago scientists. Their analysis explains a curious trend seen by astronomers training telescopes on distant planets beyond our own solar system. Many of these worlds had atmospheres that returned strangely featureless readings.
+NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published in Science Advances, examines this history by looking at the ratio of phosphorus to nitrogen in iron meteorites and in younger objects known as chondrites.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/look-up/' target='_blank'>Look Up!</a></strong> — <em>2026-06-02 16:06:20</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-interstellar-3iatlas-reveals-technosignatures-hour.html' target='_blank'>Interstellar object 3I/ATLAS reveals no technosignatures in seven-hour radio scan</a></strong> — <em>2026-06-03 22:30:01</em></summary>
 
-Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola, monitoring the automated approach and docking of the SpaceX Dragon cargo spacecraft to the International Space Station on May 17, 2026. The orbital outpost was soaring 259 miles above the […]
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/hot-jupiter-winds-blasting-at-over-15-000-mph-reveal-1st-evidence-of-exoplanets-with-magnetic-fields' target='_blank'>'Hot Jupiter' winds blasting at over 15,000 mph reveal 1st evidence of exoplanets with magnetic fields</a></strong> — <em>2026-06-02 16:00:00</em></summary>
-
-Astronomers have discovered the first evidence of magnetic worlds beyond the solar system thanks to their high-speed, violent winds, representing a major step forward in exoplanet research.
+Scientists at the SETI Institute recently searched for technological signals from 3I/ATLAS, the third interstellar object observed in our solar system. Using the Allen Telescope Array (ATA) at the Hat Creek Radio Observatory in Northern California, the team scanned a wide range of radio frequencies for signs of extraterrestrial technology and found none, as expected based on other astronomical observations showing that the object exhibits natural comet-like composition and behavior. The paper is published in The Astronomical Journal.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-blue-rocket-explosion-fuel-tanks.html' target='_blank'>Blue Origin says rocket explosion spared fuel tanks and key launch pad parts</a></strong> — <em>2026-06-02 15:10:12</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say' target='_blank'>Can black holes turn into white holes? It's not such a crazy idea, scientists say</a></strong> — <em>2026-06-03 22:00:00</em></summary>
 
-Jeff Bezos' Blue Origin said Tuesday that last week's rocket explosion spared fuel tanks and some other critical parts of the launch pad.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/10-easy-places-to-see-the-total-solar-eclipse-2026-from-spains-major-vacation-destinations' target='_blank'>10 easy places to see the total solar eclipse 2026 from Spain's major vacation destinations</a></strong> — <em>2026-06-02 15:00:00</em></summary>
-
-From urban beaches and hidden capes to lighthouses and mountain peaks, here's where to see the total solar eclipse on Aug. 12, 2026, if you're on Spain's east coast or in the Balearic Islands.
+New research suggests primordial black holes born during the Big Bang could live much longer than previously estimated — long enough to become energy-spewing white holes.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-satellites-small-briefcase-space-lot.html' target='_blank'>For satellites as small as a briefcase, getting around in space just got a whole lot easier</a></strong> — <em>2026-06-02 14:00:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-space-weather.html' target='_blank'>We can predict space weather—what if we could also stop it?</a></strong> — <em>2026-06-03 21:00:01</em></summary>
 
-MIT engineers are testing a new propulsion system that combines the power and speed of conventional chemical thrusters with the precision and fuel-efficiency of electrical thrusters. The system could enable the design of nimbler, more flexible small satellites, which could perform both fast, powerful maneuvers and slower, precise adjustments, depending on the mission and moment at hand.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/celestron-origin-intelligent-home-observatory-mark-ii-smart-telescope-review' target='_blank'>Celestron Origin Intelligent Home Observatory Mark II smart telescope review</a></strong> — <em>2026-06-02 14:00:00</em></summary>
-
-The Celestron Origin Mark II smart telescope will have you capturing crisp images of deep-sky objects within minutes of taking it out of the box.
+The weather on Earth can get pretty messy sometimes. But in space, it can be wild, and the effects can be far-reaching. Solar flares, giant explosions on the sun, can send out streams of energy that block radio communications and fry satellite electronics. Geomagnetic storms, caused by variations in solar wind, can mess with GPS signals and spark current surges on Earth that overload power grids.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/student-powered-moon-rovers-put-to-the-test-space-photo-of-the-day-for-june-2-2026' target='_blank'>Student-powered 'moon' rovers put to the test | Space photo of the day for June 2, 2026</a></strong> — <em>2026-06-02 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-brightness-gap-ancient-star-cluster.html' target='_blank'>Brightness 'gap' in ancient star cluster reveals missing red dwarfs</a></strong> — <em>2026-06-03 20:40:04</em></summary>
 
-Hundreds of students came together to design, build, and test rovers on an Earth obstacle course to prepare for the moon as part of a NASA challenge.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-dormant-black-hole-revives-years.html' target='_blank'>Dormant black hole revives in under three years, brightening 10-fold in nearby galaxy</a></strong> — <em>2026-06-02 13:00:01</em></summary>
-
-Astronomers monitoring a nearby active galaxy for six years have watched its supermassive black hole dramatically wake up, brightening by a factor of 10 across ultraviolet and X-ray wavelengths. The paper outlining the study was posted to the preprint server arXiv on May 18.
+Scientists from the Space Telescope Science Institute (STScI) in Baltimore, Maryland, sought to study one stellar subject and ended up finding something even more exciting. The team's results published today in Astronomy & Astrophysics.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms' target='_blank'>Massive boom over northeastern US was a meteor explosion as powerful as 300 tons of TNT, NASA confirms</a></strong> — <em>2026-06-02 13:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-sunrise-iii-rare-high-altitude.html' target='_blank'>Sunrise III data release opens rare high-altitude solar views that could sharpen space weather forecasts</a></strong> — <em>2026-06-03 20:40:01</em></summary>
 
-Footage from a satellite confirmed that a May 30 sonic boom heard over the northeastern US was from a meteor, NASA stated.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-astrobiology-looming-statistical-crisis.html' target='_blank'>Astrobiology's looming statistical crisis</a></strong> — <em>2026-06-02 12:20:03</em></summary>
-
-Multi-billion-dollar space telescope programs aren't only feats of aerospace engineering. They also feature "lies, damn lies, and statistics." Or at least statistics. They definitely feature those, as does all good observational astronomy. The problem with statistics is, in order to get a clear definitive answer, you need lots of samples. And, to put it mildly, it's hard to find lots of samples of planets with alien life on them. And even harder to prove that the signals we think are caused by alien life aren't caused by some other non-biological process. Or at least that's the theory underpinning a new paper available on the arXiv preprint server from David Kipping of Columbia University (and Cool Worlds YouTube fame).
+Close to 100 scientists from all over Europe, the United States, and Japan are gathering this week at the Institute for Solar Physics (KIS) in Freiburg to present and discuss the first scientific results from the successful third flight of the balloon-borne solar observatory SUNRISE. KIS is a key contributor to the SUNRISE project. The meeting marks a milestone in the study of the sun by bringing together researchers from all over the world who are analyzing unprecedented new data gathered by the SUNRISE III project.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/impulse-spacex-500-million-investment-space-ultra-mobile-spacecraft' target='_blank'>Unlocking 'the true space age': Impulse Space raises $500 million to build out fleet of ultra-mobile spacecraft</a></strong> — <em>2026-06-02 12:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/forget-masters-of-the-universe-the-best-live-action-he-man-and-skeletor-encounter-was-in-an-insurance-commercial' target='_blank'>Forget 'Masters of the Universe', the best live-action He-Man and Skeletor encounter was in an insurance commercial</a></strong> — <em>2026-06-03 20:00:00</em></summary>
 
-Impulse Space — which was founded by Tom Mueller, SpaceX's first-ever employee — just raised $500 million to build out the ultra-mobile spacecraft that it believes will transform the space economy.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260602021631.htm' target='_blank'>A stellar “Rosetta stone” reveals the source of mysterious cosmic signals</a></strong> — <em>2026-06-02 11:08:18</em></summary>
-
-Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoning material from a nearby red dwarf companion. As the stolen matter spirals inward, the system unleashes powerful radio waves and X-rays every 1.4 hours.
+He-Man and Skeletor had the power … the power to dance as the Ballroom Masters of the Universe.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/will-spacex-still-be-a-launch-company-after-its-historic-ipo' target='_blank'>Will SpaceX still be a launch company after its historic IPO?</a></strong> — <em>2026-06-02 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/the-mirror-passed-with-flying-colors-nasa-just-took-its-last-look-at-the-nancy-grace-roman-space-telescope-before-launch' target='_blank'>'The mirror passed with flying colors': NASA just took its last look at the Nancy Grace Roman Space Telescope before launch</a></strong> — <em>2026-06-03 19:00:00</em></summary>
 
-What does SpaceX's coming IPO mean for the company, investors and markets in general?
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-icy-moons-ability-host-life.html' target='_blank'>Icy moons' ability to host life could be revealed through an ecology-based method</a></strong> — <em>2026-06-02 09:40:01</em></summary>
-
-New observatories and spacecraft missions are probing environments in our solar system that could potentially host life but have long remained hidden. Icy moons like Saturn's Enceladus and Jupiter's Europa likely contain oceans beneath frozen outer shells. But a layer of ice prohibits space probes from sampling them directly.
+NASA engineers completed their final inspection of the Roman telescope's primary mirror and are now preparing to ship the telescope to its Florida launch site.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-strange-hot-jupiters-reveal-strongest.html' target='_blank'>Strange winds on seven hot Jupiters reveal strongest signs yet of exoplanet magnetic activity</a></strong> — <em>2026-06-02 09:00:01</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/' target='_blank'>NASA Finds New Way Earth May Have Received Elements Needed for Life</a></strong> — <em>2026-06-03 18:01:00</em></summary>
 
-A team of astronomers has found the strongest evidence yet that some planets outside our solar system may be magnetic. Using the European Southern Observatory's Very Large Telescope (ESO's VLT) and the Gemini North telescope, the researchers measured wind speeds on seven very hot, Jupiter-like exoplanets.
+NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/best-one-season-space-and-sci-fi-shows-of-all-time' target='_blank'>The 9 best one-season space and sci-fi shows of all time</a></strong> — <em>2026-06-03 18:00:00</em></summary>
+
+One-and-done still hits the sweet spot with these (inter)stellar space shows.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-universe-hidden-magnetic-fields.html' target='_blank'>Most detailed map of the universe's hidden magnetic fields released</a></strong> — <em>2026-06-03 17:40:02</em></summary>
+
+The largest magnetic map of the universe ever produced—five times larger than all previous efforts combined—marks the beginning of a new generation of research into intergalactic magnetism. Magnetic fields influence how galaxies grow, how matter moves through space, and how the universe has evolved over billions of years.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/' target='_blank'>International Sea Level Satellite Observes El Niño Precursor</a></strong> — <em>2026-06-03 17:27:22</em></summary>
+
+Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/our-choice-for-the-best-deep-space-viewing-telescope-now-with-usd200-off-this-telescope-deal-is-worth-grabbing-fast' target='_blank'>Our choice for the best deep-space viewing telescope — now with $200 off, this telescope deal is worth grabbing fast</a></strong> — <em>2026-06-03 17:00:00</em></summary>
+
+Expert tester rated the Celestron NexStar 8SE telescope with an impressive review and it's now at its best price of the year in this early Amazon Prime Day deal.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-impact-missile-meteorite-composition.html' target='_blank'>Studying impact flashes to detect missile and meteorite composition</a></strong> — <em>2026-06-03 16:40:05</em></summary>
+
+Southwest Research Institute, or SwRI, is studying impact flashes generated by high-speed collisions. One application of understanding impact flashes is to remotely identify what materials are involved in the collisions. Advances in understanding optical impact flashes can be highly beneficial for missile defense, making it possible to determine the composition of an intercepted missile and its payload.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-hetdex-massive-cosmic-noon-dataset.html' target='_blank'>HETDEX opens massive Cosmic Noon dataset to scientists, novices and AI</a></strong> — <em>2026-06-03 16:33:25</em></summary>
+
+The Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)—which recently completed the largest survey ever taken of the early universe—has released all of its immense, information-rich database to the public. Built from more than half a petabyte of raw and processed data, it will allow astronomers to study how the first galaxies formed and evolved, measure how gas and stars were distributed within these galaxies, map the large-scale structure of the cosmos, and investigate rare and unexpected objects not easily found in traditional surveys.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/venus-jupiter-converge-in-stunning-june-9th-dusk-conjunction/' target='_blank'>Venus, Jupiter Converge in Stunning June 9th Dusk Conjunction</a></strong> — <em>2026-06-03 16:28:36</em></summary>
+
+A beautiful conjunction is coming, and all you need are your eyes to enjoy it. 
+The post Venus, Jupiter Converge in Stunning June 9th Dusk Conjunction appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-bbq-sauce-phase-link-red.html' target='_blank'>'BBQ sauce' phase may link little red dots to quasars</a></strong> — <em>2026-06-03 16:20:05</em></summary>
+
+Everyone knows that finding the right sauce recipe can make or break a barbecue, but now astronomers are using BBQSORS (pronounced "barbecue sauce") as part of the recipe to explain quasars, some of the brightest objects in the universe. These results were made possible by data from a new instrument on the Subaru Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-mars-mission-nasa-declares-maven.html' target='_blank'>Mars mission ends: NASA declares Maven dead after six months of silence</a></strong> — <em>2026-06-03 16:19:05</em></summary>
+
+After six months of radio silence, NASA's Maven spacecraft around Mars has been declared dead.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion' target='_blank'>Blue Origin says New Glenn rocket will launch again 'before the end of the year' after explosion</a></strong> — <em>2026-06-03 16:00:00</em></summary>
+
+After its rocket explosion, Blue Origin wants to complete repairs and put another New Glenn on the launchpad before the end of 2026, according to CEO Dave Limp. That's very ambitious.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260603023107.htm' target='_blank'>Venus will disappear behind the Moon in a rare June sky event</a></strong> — <em>2026-06-03 15:54:24</em></summary>
+
+June's night sky delivers several must-see events, starting with a close encounter between Venus and Jupiter after sunset. Mercury joins the pair to form a rare three-planet lineup, while the Moon puts on a special show by passing in front of Venus for viewers in parts of the Americas. The month also marks the start of astronomical summer and the return of spectacular deep-sky targets like the Ring Nebula and Veil Nebula.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/' target='_blank'>Journey to the Center of the Virgo Cluster</a></strong> — <em>2026-06-03 15:48:44</em></summary>
+
+The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation Coma Berenices (Berenice’s Hair). M88 is an active galaxy, which means that its center harbors […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/auroras/sun-erupts-with-3-colossal-solar-flares-in-less-than-24-hours-boosting-chances-for-northern-lights' target='_blank'>Sun erupts with 3 colossal solar flares in less than 24 hours, boosting chances for northern lights</a></strong> — <em>2026-06-03 15:39:55</em></summary>
+
+A trio of major solar flares triggered radio blackouts across Earth and may spark impressive northern lights as possible solar storms head our way.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence' target='_blank'>Like 'the loss of a loved one': NASA's Mars orbiter MAVEN is officially dead after months of radio silence</a></strong> — <em>2026-06-03 15:32:16</em></summary>
+
+NASA has declared its MAVEN Mars orbiter dead after Red Planet anomaly led to months of lost contact.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view' target='_blank'>Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view</a></strong> — <em>2026-06-03 15:00:00</em></summary>
+
+With the eclipse occurring near sunset over a complex landscape, eclipse chasers must do their research before the big moment on Aug. 12, 2026. Here's what to do.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-solar-edge-closer-reality-interstellar.html' target='_blank'>Solar sails edge closer to reality, but interstellar travel is another story</a></strong> — <em>2026-06-03 14:20:02</em></summary>
+
+From planetary rovers and asteroid sample return missions to the recent Artemis II flight above the far side of the moon, we are seemingly good at doing space. But our achievements still do not match many of our space dreams, science fiction or otherwise.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/happy-pride-month-remembering-sally-rides-historic-legacy-space-photo-of-the-day-for-june-3-2026' target='_blank'>Happy Pride Month! Remembering Sally Ride's historic legacy | Space photo of the day for June 3, 2026</a></strong> — <em>2026-06-03 14:00:00</em></summary>
+
+In June 1983, Sally Ride became the first American woman to fly to space. Nearly three decades later, we learned that she had also been an LGBTQ trailblazer.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/mars-maven-mission-may-be-lost-in-space/' target='_blank'>Mars MAVEN Mission Lost; NASA Says Farewell</a></strong> — <em>2026-06-03 13:57:00</em></summary>
+
+NASA is working to restore communications with its MAVEN Mars Orbiter mission.
+The post Mars MAVEN Mission Lost; NASA Says Farewell appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/' target='_blank'>NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System</a></strong> — <em>2026-06-03 13:50:10</em></summary>
+
+A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-distant-blazar-op-emits-high.html' target='_blank'>Distant blazar OP 313 emits very high-energy gamma rays above 100 GeV</a></strong> — <em>2026-06-03 13:20:04</em></summary>
+
+An international team of astronomers have employed one of the Large-Sized Telescopes (LSTs) at the Cherenkov Telescope Array Observatory (CTAO) to observe a distant blazar known as OP 313. Results of the observational campaign, published May 26 on the arXiv preprint server, shed more light on the behavior and nature of this object.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/' target='_blank'>NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today</a></strong> — <em>2026-06-03 13:12:05</em></summary>
+
+The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after […]
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/should-we-store-mars-samples-on-the-moon-to-keep-alien-germs-away-from-earth' target='_blank'>Scientists call for a secure lunar quarantine facility for extraterrestrial samples: 'The moon may become humanity's first line of biological defense'</a></strong> — <em>2026-06-03 13:00:00</em></summary>
+
+Scientists propose that a moon base could act as an isolated first line of biological defense against extraterrestrial samples that might be harmful to Earth's biosphere.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-astronomers-uncover-statistical-evidence-recoiling.html' target='_blank'>Astronomers uncover statistical evidence for recoiling supermassive black holes</a></strong> — <em>2026-06-03 12:40:01</em></summary>
+
+Galactic collisions are events of breathtaking proportions. The supermassive black holes (SMBHs) at their centers plunge into a chaotic orbital dance that eventually coalesce into a single remnant. On their way to that point, they could eventually get "kicked" out of the center of their galaxy—and finding these "recoiling" black holes has been a challenge of cosmology for decades. A new paper, made available on the arXiv preprint server by an international team, used a novel idea to track down these fast-moving behemoths.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/new-stargate-show-cancelled-at-amazon-mgm' target='_blank'>New 'Stargate' show cancelled at Amazon MGM</a></strong> — <em>2026-06-03 12:31:52</em></summary>
+
+Chevron seven will not lock
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-captures-breathtaking-view-of-548-galaxies-from-a-balcony' target='_blank'>Astrophotographer captures breathtaking view of 548 galaxies from a balcony</a></strong> — <em>2026-06-03 12:00:00</em></summary>
+
+Over 60 hours of light data was used to create this stunning view of the gravitationally bound "Leo Triplet" galaxies.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/this-star-system-creates-a-rare-triple-eclipse-heres-what-that-would-look-like' target='_blank'>This star system creates a rare triple eclipse. Here's what that would look like</a></strong> — <em>2026-06-03 10:00:00</em></summary>
+
+A triple star system in which the stars all eclipse one another from our vantage point is standing out as one of the best studied stellar trios.
 
 </details>
 
