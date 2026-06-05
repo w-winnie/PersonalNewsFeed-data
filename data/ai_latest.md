@@ -2,149 +2,124 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. Enhanced Questioning Capabilities in AI
-Recent research from MIT has revealed significant advancements in AI's ability to ask effective questions, a crucial skill for improving human-AI interactions. By utilizing the game "Battleship," researchers demonstrated that a smaller AI model could outperform larger models in this task, suggesting that efficiency in AI design could lead to more capable systems. This development highlights the potential for streamlined AI models to engage in more meaningful dialogues and decision-making processes.
+#### Bridging AI Education and Industry Needs
+Recent efforts are increasingly focused on aligning AI education with industry demands to prepare a skilled workforce. The PATH initiative, launched by MIT RAISE in collaboration with Georgia State University, aims to connect universities, community colleges, and industry stakeholders. This initiative underscores the growing recognition of the need for educational frameworks that equip students with practical skills relevant to the evolving job market in AI.
 
 Key Items:
-- MIT's study showcases a small AI model's superior performance in question-asking during gameplay.
-- The findings emphasize the cost-effectiveness of smaller models, which could influence future AI development strategies.
+1. PATH Initiative - https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604 - A new initiative to enhance AI training and career opportunities.
+2. NSF Support for AI and Physics Institute - https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604 - Continued funding for an AI institute focused on fundamental physics, fostering interdisciplinary research.
 
-#### 2. Operational Efficiency in AI Systems
-Amazon has introduced Bedrock Ops Alert, a proactive monitoring solution designed to enhance the operational efficiency of AI systems. This solution employs a three-layered architecture to dynamically adjust alarm thresholds and classify alarms, which could significantly minimize downtime and improve reliability in production environments. Such innovations are essential as AI systems become increasingly integrated into critical business operations.
-
-Key Items:
-- Bedrock Ops Alert aims to streamline incident management for AI operations.
-- Its architecture promotes easy deployment across various industries, potentially setting a new standard for operational monitoring.
-
-#### 3. Innovations in Tabular Data Processing
-Fundamental has launched NEXUS, a large tabular model now available on Amazon SageMaker JumpStart, aimed at simplifying the handling of enterprise datasets. This model is designed to enhance the deployment and execution of predictions, providing a scalable solution for businesses seeking to leverage large datasets effectively. The integration with SageMaker JumpStart makes this powerful tool more accessible to a wider range of users.
+#### Enhanced AI Models for Real-World Applications
+The deployment of advanced AI models is becoming more efficient, with significant implications for practical applications. NVIDIA's Nemotron 3 Ultra, recently made available on Amazon SageMaker JumpStart, offers improvements in inference speed and cost-effectiveness for complex AI tasks. This development reflects a trend toward more capable AI systems that can efficiently handle intricate reasoning tasks, enhancing their usability in various sectors.
 
 Key Items:
-- NEXUS offers a robust solution for managing structured data in enterprises.
-- Its availability on SageMaker JumpStart facilitates easier model deployment.
+1. NVIDIA Nemotron 3 Ultra on SageMaker - https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/ - New model providing faster inference and lower costs for AI workloads.
+2. Fine-Tuning Chronos-2 - https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/ - Techniques to optimize a time-series foundation model for specific applications.
 
-#### 4. Improved Tool-Calling Accuracy for Language Models
-Amazon's recent advancements in Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) are set to enhance the tool-calling accuracy of small language models. These techniques allow developers to focus on training without the burden of managing infrastructure, making the process more efficient and user-friendly. This trend reflects a growing emphasis on improving practical applications of AI in various domains.
+#### Innovations in AI Configuration Management
+Airbnb's Sitar-agent represents a significant advancement in managing dynamic configurations across services. This Kubernetes sidecar enhances the reliability and efficiency of configuration delivery, addressing the complexities of scaling and maintaining operational safety in AI-driven environments. Such innovations are crucial as organizations increasingly depend on AI to manage diverse workloads and improve service reliability.
 
 Key Items:
-- The SFT and DPO techniques aim to boost the performance of language models in real-world applications.
-- These developments signal a shift towards more accessible AI training methodologies.
+1. Sitar-agent at Airbnb - https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4 - An exploration of the architecture and operational decisions behind Airbnb's configuration management system.
 
 ### Conclusion
-The current AI landscape is marked by a strong emphasis on enhancing operational efficiency, improving interaction capabilities, and simplifying deployment processes. Breakthroughs from leading institutions like MIT and Amazon indicate a concerted effort to make AI systems more effective and user-friendly. As these advancements continue to emerge, they promise to reshape the integration of AI across diverse sectors, fostering innovation and enhancing user experiences.
+The current landscape of AI research and development is characterized by a concerted effort to bridge educational gaps, enhance model capabilities, and improve operational management. As the industry pushes for greater efficiency and alignment with real-world applications, these trends indicate a maturation in the field. The collaboration between academia and industry is increasingly vital in shaping the future of AI technologies, ensuring that advancements are both innovative and applicable.
 
 ### Top Sources:
-1. Teaching AI agents to ask better questions by playing “Battleship” - https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603 - MIT researchers showcase a small AI model outperforming larger ones in question-asking.
-2. How to build self-driving AI operations on Amazon Bedrock at scale - https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/ - Amazon introduces a comprehensive monitoring solution for AI operations.
-3. Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart - https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/ - NEXUS simplifies enterprise dataset processing on SageMaker.
-4. Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/ - New techniques enhance the accuracy of small language models.
-5. I Spent May Evaluating Different Engines for OCR - https://towardsdatascience.com/i-spent-may-evaluating-different-engines-for-ocr/ - A comparative analysis of OCR engines on human documents.
-6. Reducing container cold start times using SOCI index on DLAMI and DLC - https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/ - Techniques to improve container performance in AI workloads.
-7. Introducing new capabilities to GPT-Rosalind - https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind - OpenAI enhances GPT-Rosalind for advanced life sciences research.
-8. How Wasmer used Codex to build a Node.js runtime for the edge - https://openai.com/index/wasmer - Codex accelerates development for edge computing applications.
-9. What AI Agents Should Never Do on Their Own - https://towardsdatascience.com/what-ai-agents-should-never-do-on-their-own/ - Guidelines for safe AI agent operations.
-10. Why AI Is NOT Stealing Your Job - https://towardsdatascience.com/why-ai-is-not-stealing-your-job/ - A discussion on the role of AI in the job market.
+1. PATH to boost AI training and career opportunities - https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604 - New initiative to enhance AI training and career opportunities.
+2. NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery - https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604 - Continued funding for an AI institute focused on fundamental physics.
+3. NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart - https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/ - New model providing faster inference and lower costs for AI workloads.
+4. Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model - https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/ - Techniques to optimize a time-series foundation model for specific applications.
+5. Sitar-agent: Building a reliable dynamic configuration sidecar at scale - https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4 - Overview of Airbnb's configuration management system.
+6. Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce - https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/ - Addressing challenges in geospatial machine learning.
+7. How Endava is redesigning software delivery around AI agents - https://openai.com/index/endava-frontiers - A look at AI integration in software delivery processes.
+8. Dreaming: Better memory for a more helpful ChatGPT - https://openai.com/index/chatgpt-memory-dreaming - Introduction of a new memory system for ChatGPT.
+9. Towards passive heart health monitoring via smartphone camera - https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/ - Exploring health monitoring using smartphone technology.
+10. FPN Paper Walkthrough: Leveraging the Internal Pyramid - https://towardsdatascience.com/fpn-paper-walkthrough-leveraging-the-internal-pyramid/ - Insights into deep learning models for object detection.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603' target='_blank'>Teaching AI agents to ask better questions by playing “Battleship”</a></strong> — <em>2026-06-03 21:00:00</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604' target='_blank'>PATH to boost AI training and career opportunities for industry-aligned jobs</a></strong> — <em>2026-06-04 19:50:00</em></summary>
 
-MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603' target='_blank'>Tod Machover receives George Peabody Medal for contributions to music and technology</a></strong> — <em>2026-06-03 20:50:00</em></summary>
-
-The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.
+MIT RAISE and Georgia State University announce an initiative to connect universities, community colleges, industry, and government to expand industry-aligned AI training and career pathways.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/' target='_blank'>How to build self-driving AI operations on Amazon Bedrock at scale</a></strong> — <em>2026-06-03 20:14:16</em></summary>
+<details><summary><strong><a href='https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/' target='_blank'>Towards passive heart health monitoring via smartphone camera</a></strong> — <em>2026-06-04 19:47:12</em></summary>
 
-In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your own environment.
-
-</details>
-
-<details><summary><strong><a href='https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/' target='_blank'>The next chapter in flood resilience: Open sourcing Google’s hydrology framework</a></strong> — <em>2026-06-03 18:37:32</em></summary>
-
-Climate & Sustainability
+Health & Bioscience
 
 </details>
 
-<details><summary><strong><a href='https://spectrum.ieee.org/7-ways-engineers-flourish-ai' target='_blank'>7 Ways New Engineers Can Flourish in the Age of AI</a></strong> — <em>2026-06-03 18:00:02</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-navigate-the-shift-from-prompt-based-tools-to-workflow-driven-ai/' target='_blank'>How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI</a></strong> — <em>2026-06-04 17:04:27</em></summary>
 
-New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition.Here are seven tips to help keep young professionals in demand no matter how quickly the field’s tools evolve.1. Master the fundamentals first. AI tools can help you code, but you still need strong fundamentals in:Data structures and algorithms for problem-solving.Operating systems, databases, and networking for system-level understanding.Core programming languages such as C++, Java, and Python.AI can autocomplete syntax, but if you don’t understand how things work under the hood, you’re likely to struggle to debug or optimize.2. Learn how to work with AI, not against it. The best engineers will not try to out-code AI. Instead, they will learn to: Write clear prompts to generate better code snippets.Review and debug AI-generated code for accuracy, performance, and security.Use AI for productivity boosts while still exercising judgment.Think of AI as a teammate. The real skill is knowing when to trust it and when not to.3. Build projects that showcase end-to-end thinking. Employers increasingly look for engineers who can design and build systems, not just solve problems. Create projects that show you can: Define requirements clearly.Use AI tools responsibly within the workflow.Deliver a product that scales and is maintainable.4. Sharpen your system design skills early. Even junior engineers are now asked questions about basic system design with AI. Expect to explain to prospective employers: How you would responsibly integrate AI into a system.How to design fallbacks when AI fails.How to ensure scalability and reliability.5. Develop strong communication skills. Today’s engineers don’t just code in isolation. You will be expected to: Explain design choices to teammates and stakeholders.Document decisions clearly.Collaborate effectively in cross-functional teams.This is one area where AI cannot replace you. Clear communication is a career accelerant.6. Stay curious and keep learning. The tech industry moves fast, and AI is accelerating that pace. Cultivate habits such as:Following industry news, blogs, and open-source projects.Experimenting with new AI tools, frameworks, and libraries.Engaging in communities such as GitHub, IEEE Collabratec, LinkedIn, and Medium. Employers value engineers who keep themselves sharp and relevant.7. Think beyond coding. AI will increasingly handle routine coding tasks. The differentiators for you will be: Problem-framing: Can you take a vague idea and turn it into a solution?Architectural judgment: Can you design systems that scale and last?Ethical awareness: Can you spot risks in AI use and address them responsibly?For more career advice, subscribe to the IEEE Spectrum Career Alert Newsletter. The biweekly newsletter features the latest information on jobs, education, management, and the engineering workplace.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/' target='_blank'>Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart</a></strong> — <em>2026-06-03 17:55:37</em></summary>
-
-In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets.
+Abacus.AI and the case for unified AI workflows
+The post How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/i-spent-may-evaluating-different-engines-for-ocr/' target='_blank'>I Spent May Evaluating Different Engines for OCR</a></strong> — <em>2026-06-03 16:30:00</em></summary>
+<details><summary><strong><a href='https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4' target='_blank'>Sitar-agent: Building a reliable dynamic configuration sidecar at scale</a></strong> — <em>2026-06-04 17:01:04</em></summary>
 
-Testing fourteen engines on ninety-three human documents
-The post I Spent May Evaluating Different Engines for OCR appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/' target='_blank'>Reducing container cold start times using SOCI index on DLAMI and DLC</a></strong> — <em>2026-06-03 16:26:35</em></summary>
-
-In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and how to quickly and efficiently use this tool in your workloads today.
+How Airbnb built a Kubernetes sidecar to deliver dynamic configuration reliably at scale.By: Bo Teng, Cosmo Qiu, Siyuan Zhou, Ankur Soni, Xin Huang, Willis HarveyIntroductionIn our previous post, we explored Airbnb’s dynamic configuration system, Sitar, with a focus on service architecture and configuration change safety. Now for the harder question: once a config change is committed, which happens several times each minute, how does it actually reach the thousands of Airbnb’s service instances reliably, quickly, and without redeploying the services?This post describes sitar agent: a lightweight Kubernetes sidecar that runs alongside every subscribed service pod, continuously synchronizing the latest configurations from the service backend and making them available on the local filesystem for reads. In this post, we will first go through the configuration delivery life cycle, and then discuss some key design choices for the sitar-agent sidecar.Config delivery life cycleThe diagram below illustrates the end-to-end journey of a configuration change, from the developer-facing layer to the production service fleet.Sitar config delivery lifecycleStep 1 — Config creation/updateDevelopers create or update configuration values through either Git flow or the web UI. These changes are committed to the Sitar Service, where they are stored with full versioning, change logs, and ACL enforcement.Step 2 — Hourly snapshot uploadThe Snapshot Service periodically packages the full state of all config groups and uploads compressed snapshots to AWS S3.Step 3.1 — Preload snapshot from S3 (on pod startup)When a production service pod starts, the sitar-agent sidecar runs first. It downloads the latest snapshot for each subscribed tenant’s configs from S3 to the mounted disk (shared between sitar-agent and the main container). This allows the agent to bootstrap from a known-good state without fetching every config from the Sitar Service from scratch on every restart. Preloading the snapshots from S3 enables faster restarts, makes the service resilient to transient Sitar Service unavailability, and avoids load spikes during deployments.Step 3.2 — Preload latest config from Sitar Service (on pod startup)After loading the S3 snapshot, the agent performs an initial sync with the Sitar Service to catch up on any changes published since the last snapshot. Once this step succeeds, the agent signals readiness, unblocking the application main container from starting.Step 4 — Periodic updateAfter startup, the agent enters a continuous polling loop (order of seconds with jitter). On each cycle, the sitar agent queries the Sitar Service for changes across all subscribed groups.Step 5 — Read configThe application main container reads configurations from the mounted disk through the Sitar client library, which maintains an in-memory cache. The client detects file changes and refreshes its cache transparently.With the delivery lifecycle in mind, the following sections walk through the major architectural choices that shaped the sidecar’s design.Key design decisionsIn 2024, the sitar-agent underwent a full rewrite from Ruby to Java, Airbnb’s mainstream JVM language, giving the team an opportunity to modernize the architecture alongside the language migration. The snapshot-based S3 preload introduced in the previous section is one outcome of this effort: it dramatically reduces cold start time for the pod and decouples startup reliability from Sitar Service availability. The rewrite also led to several other deliberate design decisions around reliability, performance, and operational safety. The sections below walk through each of these choices.Requirements for the Sitar SystemBefore diving into specific design choices, it helps to understand the constraints that shaped every decision. At Airbnb, dynamic configuration delivery isn’t just a convenience: it controls critical features across thousands of services. That means configs must always be available, even when the Sitar Service itself is down; a slightly stale value is tolerable, but an unreadable config is not. At the same time, when an engineer pushes a change, it needs to reach every subscribed service within tens of seconds, not minutes. Making that work at scale is non-trivial: with tens of thousands of pods fetching updates simultaneously, the system has to absorb that load without degrading. And since Airbnb’s service fleet spans Java, Python, Go, Typescript, and Ruby, the solution needs to serve all of them, ideally minimizing the effort of maintaining separate per-language implementations.The above requirements for reliability, performance, scalability, and multi-language support aren’t independent. As you’ll see, most of our design decisions, described below, come back to balancing one against another.Main container vs sidecarThe question of whether sitar-agent should run as a sidecar container or a process in the main container surfaced as a key architectural decision during the Java rewrite. We evaluated the pros and cons of each option as follows:Pros of moving to the main container:Cost reduction. This is the main driver for moving to the main container: running the agent as a library eliminates the per-pod JVM overhead, allowing memory and CPU to be shared with the main container.Reduced operational surface. One fewer container means one fewer component for service owners to configure and tune. However, this advantage weakens when considering Airbnb’s multi-language service fleet.Cons of moving to the main container:Multi-language complexity. Airbnb service languages span Java, Python, Go, Typescript, and Ruby. A library approach would require the existing sidecar logic to be implemented in all languages, significantly increasing development and maintenance effort.No isolation. Bugs or resource spikes in sitar logic can crash or starve the main container, and vice versa. This coupling increases incident blast radius and complicates resource attribution during debugging.Operational noise. Having the logs for Sitar and its cpu/memory usage mixed with the main process logs and its metrics makes it harder to debug both sitar and main process issues.Optimizability. Having a separate container allows the container to be optimized for its purpose, and eases testing and debugging.Decision:Despite the cost savings and reduced operational surface which would result from moving the sitar-agent logic to the main container, the projected savings were insufficient to justify the tradeoffs in reliability and operational overhead, and the development overhead of supporting the sidecar logic in multiple languages. We therefore decided to maintain the sitar-agent as an isolated sidecar container.The pull model and server-side optimizationSitar-agent fetches configuration updates by polling the Sitar service every 10 seconds. This is a pull model: the agent drives the update cycle by periodically asking the server for changes. This pull-based architecture, while being simple and easy to maintain, generates unnecessary load on the server when there is no update needed.A push-based architecture change can greatly reduce the server-side load and change propagation time, at the expense of a more complicated architecture. In order to keep the current simple architecture while reducing the service-side load, the sitar system implements the following optimizations:Since the sitar config is mostly changed manually, which takes longer than several seconds, a slight delay in config update delivery is acceptable. Therefore, a server-side cache with a short TTL (10s) is a great way to reduce sitar server-side processing. Most of the sitar-agent calls to services hit the cache layer without triggering heavy server-side compute or database access, thus greatly reducing the resource usage of handling requests.When there is a cache miss and the request actually triggers database access, it passes along a token (last scanned db row), which tells the service to skip scanning for changes before the last fetch, thus greatly reducing server-side processing and database access time during each periodic pull.Given the above optimizations, the sitar-service can scale and perform quite well in handling the pull request from all service pods at Airbnb, and we can preserve the simple, stateless server-with-pull architecture.Decision:For sitar’s use case, polling latency on the order of seconds is acceptable; dynamic config is not a real-time signaling mechanism, and most config changes are manual, making a few seconds of propagation delay inconsequential. The pull model’s stateless simplicity is a strong operational advantage at Airbnb’s scale. The team elected to keep the pull model and invest instead in reducing per-poll cost.Local datastore selectionSitar-agent maintains a local on-disk key-value store that the main container reads from. The legacy datastore is a Sparkey-backed internal implementation, with a thin layer around the Sparkey datastore for concurrent coordination. As the usage of Sitar continues to grow and evolve, the mismatch of the Sparkey-backed datastore and sitar’s needs have become evident:Sparkey is purpose-built for write-once, read-many workloads with no support for multi-thread read-write coordination. This requires a wrapper around the Sparkey datastore for concurrent coordination to support sitar’s frequent write to the datastore, adding to complexity and potentially becoming a source of latent bugs.Sparkey doesn’t include native concurrency support by design, and we needed an external locking mechanism that locks the entire datastore file on write. As update frequency increased across the datastore, this lock contention began to limit concurrent read/write performance.Since Sparkey’s design requires re-indexing of the entire datastore on each write, writing frequently to the Sparkey backed datastore became increasingly expensive. However, as Sitar has become widely used across almost all Airbnb services, the write to the datastore is very frequent; we see updates in configs in almost every pull cycle (every ~10 seconds)Sparkey has limited multi-language support: it does not have implementations in all languages Airbnb services require, and supporting all languages in Airbnb would require complex interop.The team evaluated and benchmarked two candidates to replace the legacy Sparkey-based datastore: SQLite and RocksDB. A matrix of experiments were run across varying dataset sizes, read QPS, and memory allocations, fixing two of the three dimensions and varying the third in each run. We also researched community support, open source activity, supported languages, and adoption breadth of both. The following summarizes our findings:SQLite:Pros:Mature, widely-adopted library with officially maintained bindings for Java, TypeScript/Node.js, Python, Go and Ruby: all languages used by sitar’s service consumers.Built-in write-ahead logging (WAL) mode supports concurrent reads during writes, eliminating the need for a custom concurrency wrapper.Simple operational model: a single file, no background compaction or tuning required.Read and write performance is dramatically better than the Sparkey-backed datastore, and sufficient for sitar’s workload.Cons:Read latency is 2–3x slower than RocksDB, and increases linearly with data size.Write latency also increases with larger data sizes.RocksDB:Pros:Best raw read/write performance across all test dimensions.Consistent read high-QPS performance; tested up to 1500 ops/sec with minimal degradation.Cons:A more complex operational model; requires tuning of compaction, block cache, column families, and memory settings.The multi-language library ecosystem is less mature and less uniformly maintained than SQLite’s.Higher operational burden for a team without deep RocksDB expertise.Decision:In our tests, both RocksDB and SQLite significantly outperform Sparkey-backed datastores for our workload across all three test dimensions: data size, memory allocation, and read QPS. While RocksDB delivers better raw performance, sitar-agent’s workload operates comfortably within SQLite’s envelope. SQLite’s first-class multi-language library support, native WAL-based concurrent access model, and simpler operational footprint made it the better overall fit for a team supporting multiple language runtimes. The team selected SQLite as the replacement for the Sparkey-backed datastore.Safe migration from Sparkey to SQLiteOperational safety was a top priority. Beyond extensive testing, we also we relied on two mechanisms to keep the rollout safe:Shadow reads: Before migrating each service, we ran a shadow read-and-compare phase; services continued reading from Sparkey while SQLite results were fetched in parallel for validation.Feature flag-gated gradual rollout: We migrated incrementally, starting from the least critical services and progressing toward the most critical. Some critical Tier 0 services were onboarded last, with dedicated coordination at each step.ConclusionsSitar-agent sits at the core of Airbnb’s dynamic configuration delivery system. This post walked through how it works and the key tradeoffs we navigated during the Java rewrite: between cost and isolation, simplicity and push-based efficiency, and raw performance and operational practicality. Every decision came back to the same constraints: configs must always be available, changes must propagate quickly across a fleet of tens of thousands of pods, and the solution must work across Airbnb’s polyglot service stack without compounding the maintenance burden.If this type of work interests you, check out some of our related positions!AcknowledgmentsOur progress with Sitar would not have been possible without the support and contributions of many people. We’d like to thank Craig Sosin, Nikolaj Nielsen, Daniel Fagnan, Alex Edwards, Nick Morgan, Carolina Calderon, Hanfei Lin, Yunong Liu, Lucas Rosa Galego, Yann Ramin, Denis Sheahan, Richa Khandelwal, Swetha Vaidy, Adam Kocoloski, Adam Miskiewicz, and all the other engineers and teams at Airbnb who joined design reviews and offered valuable feedback, as this work would not have been possible without them.All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.Sitar-agent: Building a reliable dynamic configuration sidecar at scale was originally published in The Airbnb Tech Blog on Medium, where people are continuing the conversation by highlighting and responding to this story.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/' target='_blank'>Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI</a></strong> — <em>2026-06-03 15:56:50</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/' target='_blank'>NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart</a></strong> — <em>2026-06-04 16:59:08</em></summary>
 
-In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/why-ai-is-not-stealing-your-job/' target='_blank'>Why AI Is NOT Stealing Your Job</a></strong> — <em>2026-06-03 15:00:00</em></summary>
-
-AI does not decide who gets fired. Companies do.
-The post Why AI Is NOT Stealing Your Job appeared first on Towards Data Science.
+Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/i-built-a-c-backend-so-my-gpu-would-stop-eating-air/' target='_blank'>I Built a C++ Backend So My GPU Would Stop Eating Air</a></strong> — <em>2026-06-03 13:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/' target='_blank'>Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model</a></strong> — <em>2026-06-04 16:30:00</em></summary>
 
-A comprehensive guide to optimizing LLM inference by eliminating padding overhead with hardware-aware sequence packing.
-The post I Built a C++ Backend So My GPU Would Stop Eating Air appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind' target='_blank'>Introducing new capabilities to GPT-Rosalind</a></strong> — <em>2026-06-03 13:15:00</em></summary>
-
-GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.
+In Part 1 of this series, we introduced Chronos-2, a time-series foundation model. We got our hands dirty by walking through a real case study and saw what Chronos-2 can do straight out of the box, with no training. But as we noted at the end of Part 1, zero-shot isn’t always enough. In cases […]
+The post Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/what-ai-agents-should-never-do-on-their-own/' target='_blank'>What AI Agents Should Never Do on Their Own</a></strong> — <em>2026-06-03 12:00:00</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604' target='_blank'>NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery</a></strong> — <em>2026-06-04 16:00:00</em></summary>
 
-How to set the rules that keep agents effective and out of trouble
-The post What AI Agents Should Never Do on Their Own appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/wasmer' target='_blank'>How Wasmer used Codex to build a Node.js runtime for the edge</a></strong> — <em>2026-06-03 12:00:00</em></summary>
-
-See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
+IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundamental physics.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/frontier-safety-blueprint' target='_blank'>A blueprint for democratic governance of frontier AI</a></strong> — <em>2026-06-03 10:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/' target='_blank'>Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce</a></strong> — <em>2026-06-04 15:00:00</em></summary>
 
-OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.
+When images, mosaics, and data cubes exist in abundance, but field labels are expensive, rare, and imperfect.
+The post Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/public-policy-agenda' target='_blank'>OpenAI public policy agenda</a></strong> — <em>2026-06-03 10:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/fpn-paper-walkthrough-leveraging-the-internal-pyramid/' target='_blank'>FPN Paper Walkthrough: Leveraging the Internal Pyramid</a></strong> — <em>2026-06-04 13:30:00</em></summary>
 
-OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.
+Understanding how FPN allows deep learning models detecting small objects and how to implement it from scratch
+The post FPN Paper Walkthrough: Leveraging the Internal Pyramid appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/' target='_blank'>NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents</a></strong> — <em>2026-06-04 13:02:49</em></summary>
+
+Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/endava-frontiers' target='_blank'>How Endava is redesigning software delivery around AI agents</a></strong> — <em>2026-06-04 12:00:00</em></summary>
+
+Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/is-an-online-masters-degree-in-ai-a-good-idea/' target='_blank'>Is an Online Master’s Degree in AI a Good Idea?</a></strong> — <em>2026-06-04 12:00:00</em></summary>
+
+A look at the real-world value of online graduate AI programs, combining hard data with firsthand experience of a big tech machine learning engineer
+The post Is an Online Master’s Degree in AI a Good Idea? appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/chatgpt-memory-dreaming' target='_blank'>Dreaming: Better memory for a more helpful ChatGPT</a></strong> — <em>2026-06-04 09:00:00</em></summary>
+
+ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.
 
 </details>
 
