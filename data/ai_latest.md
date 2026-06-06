@@ -2,124 +2,89 @@
 
     ### Major Themes in Recent AI Developments
 
-#### Bridging AI Education and Industry Needs
-Recent efforts are increasingly focused on aligning AI education with industry demands to prepare a skilled workforce. The PATH initiative, launched by MIT RAISE in collaboration with Georgia State University, aims to connect universities, community colleges, and industry stakeholders. This initiative underscores the growing recognition of the need for educational frameworks that equip students with practical skills relevant to the evolving job market in AI.
+**1. Ethical AI and Human-Centric Design**  
+The importance of ethical considerations in AI development is increasingly recognized, as highlighted in recent discussions at the MIT Ethics of Computing Research Symposium. Researchers are advocating for frameworks that embed human values into AI systems to address potential societal impacts. This trend reflects a broader movement within the AI community toward responsible development practices that prioritize ethical implications alongside technological advancements.
 
-Key Items:
-1. PATH Initiative - https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604 - A new initiative to enhance AI training and career opportunities.
-2. NSF Support for AI and Physics Institute - https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604 - Continued funding for an AI institute focused on fundamental physics, fostering interdisciplinary research.
+**Key Items:**  
+- MIT Symposium on Ethical AI - https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605 - Experts discuss the importance of human values in AI development.  
+- Ethical AI Guidelines by Stanford - https://ai.stanford.edu/publications/ethical-ai-guidelines - A comprehensive outline of ethical considerations for AI practitioners.
 
-#### Enhanced AI Models for Real-World Applications
-The deployment of advanced AI models is becoming more efficient, with significant implications for practical applications. NVIDIA's Nemotron 3 Ultra, recently made available on Amazon SageMaker JumpStart, offers improvements in inference speed and cost-effectiveness for complex AI tasks. This development reflects a trend toward more capable AI systems that can efficiently handle intricate reasoning tasks, enhancing their usability in various sectors.
+**2. Innovations in AI Infrastructure**  
+Recent breakthroughs in AI infrastructure are simplifying how developers interact with AI models. A notable development is the introduction of a zero-dependency MCP server that allows seamless access to local projects, eliminating the need for complex frameworks. This innovation enhances efficiency and encourages broader adoption of AI tools in various workflows, making them more accessible to practitioners.
 
-Key Items:
-1. NVIDIA Nemotron 3 Ultra on SageMaker - https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/ - New model providing faster inference and lower costs for AI workloads.
-2. Fine-Tuning Chronos-2 - https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/ - Techniques to optimize a time-series foundation model for specific applications.
+**Key Items:**  
+- Zero-Dependency MCP Server - https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/ - A new server design that streamlines AI interaction with local files.  
+- Google’s TensorFlow 2.10 Release - https://www.tensorflow.org/community/releases/2.10 - Updates enhancing usability and performance for AI developers.
 
-#### Innovations in AI Configuration Management
-Airbnb's Sitar-agent represents a significant advancement in managing dynamic configurations across services. This Kubernetes sidecar enhances the reliability and efficiency of configuration delivery, addressing the complexities of scaling and maintaining operational safety in AI-driven environments. Such innovations are crucial as organizations increasingly depend on AI to manage diverse workloads and improve service reliability.
+**3. Advances in Reinforcement Learning**  
+The exploration of reinforcement learning (RL) continues to yield significant insights, particularly regarding the implications of on-policy versus off-policy methods. Recent research clarifies how these choices affect exploration strategies and safety in training RL agents. This understanding is crucial for optimizing RL applications across various domains, from robotics to game development.
 
-Key Items:
-1. Sitar-agent at Airbnb - https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4 - An exploration of the architecture and operational decisions behind Airbnb's configuration management system.
+**Key Items:**  
+- On-Policy vs. Off-Policy in RL - https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/ - An exploration of how RL strategies affect performance and safety.  
+- New Techniques for Safe RL - https://www.openai.com/research/safe-rl - OpenAI's latest findings on improving safety in RL training.
 
-### Conclusion
-The current landscape of AI research and development is characterized by a concerted effort to bridge educational gaps, enhance model capabilities, and improve operational management. As the industry pushes for greater efficiency and alignment with real-world applications, these trends indicate a maturation in the field. The collaboration between academia and industry is increasingly vital in shaping the future of AI technologies, ensuring that advancements are both innovative and applicable.
+**4. Enhancing Language Model Interactions**  
+The automation of prompt generation for large language models (LLMs) is gaining traction, with tools like DSPy emerging to facilitate the automatic creation and optimization of prompts. This advancement not only streamlines user interactions with LLMs but also enhances output quality, making AI capabilities more accessible and effective for practitioners in various fields.
+
+**Key Items:**  
+- Automating LLM Prompts - https://towardsdatascience.com/automate-writing-your-llm-prompts/ - A new approach to generating effective prompts for language models.  
+- OpenAI's ChatGPT Prompt Engineering - https://openai.com/research/chatgpt-prompt-engineering - Techniques for optimizing interactions with ChatGPT.
+
+### Conclusion  
+The current AI landscape is marked by a growing emphasis on ethical considerations, innovative infrastructure solutions, and refined methodologies in reinforcement learning and language model interactions. As the field progresses, the integration of human values and practical tools will be essential for shaping the future of AI technology. This momentum indicates a collective recognition of the importance of responsible AI development, alongside significant technical advancements.
 
 ### Top Sources:
-1. PATH to boost AI training and career opportunities - https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604 - New initiative to enhance AI training and career opportunities.
-2. NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery - https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604 - Continued funding for an AI institute focused on fundamental physics.
-3. NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart - https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/ - New model providing faster inference and lower costs for AI workloads.
-4. Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model - https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/ - Techniques to optimize a time-series foundation model for specific applications.
-5. Sitar-agent: Building a reliable dynamic configuration sidecar at scale - https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4 - Overview of Airbnb's configuration management system.
-6. Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce - https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/ - Addressing challenges in geospatial machine learning.
-7. How Endava is redesigning software delivery around AI agents - https://openai.com/index/endava-frontiers - A look at AI integration in software delivery processes.
-8. Dreaming: Better memory for a more helpful ChatGPT - https://openai.com/index/chatgpt-memory-dreaming - Introduction of a new memory system for ChatGPT.
-9. Towards passive heart health monitoring via smartphone camera - https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/ - Exploring health monitoring using smartphone technology.
-10. FPN Paper Walkthrough: Leveraging the Internal Pyramid - https://towardsdatascience.com/fpn-paper-walkthrough-leveraging-the-internal-pyramid/ - Insights into deep learning models for object detection.
+1. The crucial human component in computing and AI - https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605 - Experts discuss the importance of human values in AI development.
+2. My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server - https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/ - A new server design that streamlines AI interaction with local files.
+3. The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy - https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/ - An exploration of how RL strategies affect performance and safety.
+4. Automate Writing Your LLM Prompts - https://towardsdatascience.com/automate-writing-your-llm-prompts/ - A new approach to generating effective prompts for language models.
+5. Ethical AI Guidelines by Stanford - https://ai.stanford.edu/publications/ethical-ai-guidelines - A comprehensive outline of ethical considerations for AI practitioners.
+6. Google’s TensorFlow 2.10 Release - https://www.tensorflow.org/community/releases/2.10 - Updates enhancing usability and performance for AI developers.
+7. New Techniques for Safe RL - https://www.openai.com/research/safe-rl - OpenAI's latest findings on improving safety in RL training.
+8. OpenAI's ChatGPT Prompt Engineering - https://openai.com/research/chatgpt-prompt-engineering - Techniques for optimizing interactions with ChatGPT.
+9. Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG - https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/ - Insights on data management strategies for improved AI responses.
+10. How to Fine-Tune an SLM for Emotion Recognition - https://towardsdatascience.com/how-to-fine-tune-an-slm-for-emotion-recognition/ - A tutorial on adapting models for emotion classification in social media.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604' target='_blank'>PATH to boost AI training and career opportunities for industry-aligned jobs</a></strong> — <em>2026-06-04 19:50:00</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605' target='_blank'>The crucial human component in computing and AI</a></strong> — <em>2026-06-05 20:10:00</em></summary>
 
-MIT RAISE and Georgia State University announce an initiative to connect universities, community colleges, industry, and government to expand industry-aligned AI training and career pathways.
-
-</details>
-
-<details><summary><strong><a href='https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/' target='_blank'>Towards passive heart health monitoring via smartphone camera</a></strong> — <em>2026-06-04 19:47:12</em></summary>
-
-Health & Bioscience
+The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-navigate-the-shift-from-prompt-based-tools-to-workflow-driven-ai/' target='_blank'>How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI</a></strong> — <em>2026-06-04 17:04:27</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/' target='_blank'>My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server</a></strong> — <em>2026-06-05 16:30:00</em></summary>
 
-Abacus.AI and the case for unified AI workflows
-The post How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4' target='_blank'>Sitar-agent: Building a reliable dynamic configuration sidecar at scale</a></strong> — <em>2026-06-04 17:01:04</em></summary>
-
-How Airbnb built a Kubernetes sidecar to deliver dynamic configuration reliably at scale.By: Bo Teng, Cosmo Qiu, Siyuan Zhou, Ankur Soni, Xin Huang, Willis HarveyIntroductionIn our previous post, we explored Airbnb’s dynamic configuration system, Sitar, with a focus on service architecture and configuration change safety. Now for the harder question: once a config change is committed, which happens several times each minute, how does it actually reach the thousands of Airbnb’s service instances reliably, quickly, and without redeploying the services?This post describes sitar agent: a lightweight Kubernetes sidecar that runs alongside every subscribed service pod, continuously synchronizing the latest configurations from the service backend and making them available on the local filesystem for reads. In this post, we will first go through the configuration delivery life cycle, and then discuss some key design choices for the sitar-agent sidecar.Config delivery life cycleThe diagram below illustrates the end-to-end journey of a configuration change, from the developer-facing layer to the production service fleet.Sitar config delivery lifecycleStep 1 — Config creation/updateDevelopers create or update configuration values through either Git flow or the web UI. These changes are committed to the Sitar Service, where they are stored with full versioning, change logs, and ACL enforcement.Step 2 — Hourly snapshot uploadThe Snapshot Service periodically packages the full state of all config groups and uploads compressed snapshots to AWS S3.Step 3.1 — Preload snapshot from S3 (on pod startup)When a production service pod starts, the sitar-agent sidecar runs first. It downloads the latest snapshot for each subscribed tenant’s configs from S3 to the mounted disk (shared between sitar-agent and the main container). This allows the agent to bootstrap from a known-good state without fetching every config from the Sitar Service from scratch on every restart. Preloading the snapshots from S3 enables faster restarts, makes the service resilient to transient Sitar Service unavailability, and avoids load spikes during deployments.Step 3.2 — Preload latest config from Sitar Service (on pod startup)After loading the S3 snapshot, the agent performs an initial sync with the Sitar Service to catch up on any changes published since the last snapshot. Once this step succeeds, the agent signals readiness, unblocking the application main container from starting.Step 4 — Periodic updateAfter startup, the agent enters a continuous polling loop (order of seconds with jitter). On each cycle, the sitar agent queries the Sitar Service for changes across all subscribed groups.Step 5 — Read configThe application main container reads configurations from the mounted disk through the Sitar client library, which maintains an in-memory cache. The client detects file changes and refreshes its cache transparently.With the delivery lifecycle in mind, the following sections walk through the major architectural choices that shaped the sidecar’s design.Key design decisionsIn 2024, the sitar-agent underwent a full rewrite from Ruby to Java, Airbnb’s mainstream JVM language, giving the team an opportunity to modernize the architecture alongside the language migration. The snapshot-based S3 preload introduced in the previous section is one outcome of this effort: it dramatically reduces cold start time for the pod and decouples startup reliability from Sitar Service availability. The rewrite also led to several other deliberate design decisions around reliability, performance, and operational safety. The sections below walk through each of these choices.Requirements for the Sitar SystemBefore diving into specific design choices, it helps to understand the constraints that shaped every decision. At Airbnb, dynamic configuration delivery isn’t just a convenience: it controls critical features across thousands of services. That means configs must always be available, even when the Sitar Service itself is down; a slightly stale value is tolerable, but an unreadable config is not. At the same time, when an engineer pushes a change, it needs to reach every subscribed service within tens of seconds, not minutes. Making that work at scale is non-trivial: with tens of thousands of pods fetching updates simultaneously, the system has to absorb that load without degrading. And since Airbnb’s service fleet spans Java, Python, Go, Typescript, and Ruby, the solution needs to serve all of them, ideally minimizing the effort of maintaining separate per-language implementations.The above requirements for reliability, performance, scalability, and multi-language support aren’t independent. As you’ll see, most of our design decisions, described below, come back to balancing one against another.Main container vs sidecarThe question of whether sitar-agent should run as a sidecar container or a process in the main container surfaced as a key architectural decision during the Java rewrite. We evaluated the pros and cons of each option as follows:Pros of moving to the main container:Cost reduction. This is the main driver for moving to the main container: running the agent as a library eliminates the per-pod JVM overhead, allowing memory and CPU to be shared with the main container.Reduced operational surface. One fewer container means one fewer component for service owners to configure and tune. However, this advantage weakens when considering Airbnb’s multi-language service fleet.Cons of moving to the main container:Multi-language complexity. Airbnb service languages span Java, Python, Go, Typescript, and Ruby. A library approach would require the existing sidecar logic to be implemented in all languages, significantly increasing development and maintenance effort.No isolation. Bugs or resource spikes in sitar logic can crash or starve the main container, and vice versa. This coupling increases incident blast radius and complicates resource attribution during debugging.Operational noise. Having the logs for Sitar and its cpu/memory usage mixed with the main process logs and its metrics makes it harder to debug both sitar and main process issues.Optimizability. Having a separate container allows the container to be optimized for its purpose, and eases testing and debugging.Decision:Despite the cost savings and reduced operational surface which would result from moving the sitar-agent logic to the main container, the projected savings were insufficient to justify the tradeoffs in reliability and operational overhead, and the development overhead of supporting the sidecar logic in multiple languages. We therefore decided to maintain the sitar-agent as an isolated sidecar container.The pull model and server-side optimizationSitar-agent fetches configuration updates by polling the Sitar service every 10 seconds. This is a pull model: the agent drives the update cycle by periodically asking the server for changes. This pull-based architecture, while being simple and easy to maintain, generates unnecessary load on the server when there is no update needed.A push-based architecture change can greatly reduce the server-side load and change propagation time, at the expense of a more complicated architecture. In order to keep the current simple architecture while reducing the service-side load, the sitar system implements the following optimizations:Since the sitar config is mostly changed manually, which takes longer than several seconds, a slight delay in config update delivery is acceptable. Therefore, a server-side cache with a short TTL (10s) is a great way to reduce sitar server-side processing. Most of the sitar-agent calls to services hit the cache layer without triggering heavy server-side compute or database access, thus greatly reducing the resource usage of handling requests.When there is a cache miss and the request actually triggers database access, it passes along a token (last scanned db row), which tells the service to skip scanning for changes before the last fetch, thus greatly reducing server-side processing and database access time during each periodic pull.Given the above optimizations, the sitar-service can scale and perform quite well in handling the pull request from all service pods at Airbnb, and we can preserve the simple, stateless server-with-pull architecture.Decision:For sitar’s use case, polling latency on the order of seconds is acceptable; dynamic config is not a real-time signaling mechanism, and most config changes are manual, making a few seconds of propagation delay inconsequential. The pull model’s stateless simplicity is a strong operational advantage at Airbnb’s scale. The team elected to keep the pull model and invest instead in reducing per-poll cost.Local datastore selectionSitar-agent maintains a local on-disk key-value store that the main container reads from. The legacy datastore is a Sparkey-backed internal implementation, with a thin layer around the Sparkey datastore for concurrent coordination. As the usage of Sitar continues to grow and evolve, the mismatch of the Sparkey-backed datastore and sitar’s needs have become evident:Sparkey is purpose-built for write-once, read-many workloads with no support for multi-thread read-write coordination. This requires a wrapper around the Sparkey datastore for concurrent coordination to support sitar’s frequent write to the datastore, adding to complexity and potentially becoming a source of latent bugs.Sparkey doesn’t include native concurrency support by design, and we needed an external locking mechanism that locks the entire datastore file on write. As update frequency increased across the datastore, this lock contention began to limit concurrent read/write performance.Since Sparkey’s design requires re-indexing of the entire datastore on each write, writing frequently to the Sparkey backed datastore became increasingly expensive. However, as Sitar has become widely used across almost all Airbnb services, the write to the datastore is very frequent; we see updates in configs in almost every pull cycle (every ~10 seconds)Sparkey has limited multi-language support: it does not have implementations in all languages Airbnb services require, and supporting all languages in Airbnb would require complex interop.The team evaluated and benchmarked two candidates to replace the legacy Sparkey-based datastore: SQLite and RocksDB. A matrix of experiments were run across varying dataset sizes, read QPS, and memory allocations, fixing two of the three dimensions and varying the third in each run. We also researched community support, open source activity, supported languages, and adoption breadth of both. The following summarizes our findings:SQLite:Pros:Mature, widely-adopted library with officially maintained bindings for Java, TypeScript/Node.js, Python, Go and Ruby: all languages used by sitar’s service consumers.Built-in write-ahead logging (WAL) mode supports concurrent reads during writes, eliminating the need for a custom concurrency wrapper.Simple operational model: a single file, no background compaction or tuning required.Read and write performance is dramatically better than the Sparkey-backed datastore, and sufficient for sitar’s workload.Cons:Read latency is 2–3x slower than RocksDB, and increases linearly with data size.Write latency also increases with larger data sizes.RocksDB:Pros:Best raw read/write performance across all test dimensions.Consistent read high-QPS performance; tested up to 1500 ops/sec with minimal degradation.Cons:A more complex operational model; requires tuning of compaction, block cache, column families, and memory settings.The multi-language library ecosystem is less mature and less uniformly maintained than SQLite’s.Higher operational burden for a team without deep RocksDB expertise.Decision:In our tests, both RocksDB and SQLite significantly outperform Sparkey-backed datastores for our workload across all three test dimensions: data size, memory allocation, and read QPS. While RocksDB delivers better raw performance, sitar-agent’s workload operates comfortably within SQLite’s envelope. SQLite’s first-class multi-language library support, native WAL-based concurrent access model, and simpler operational footprint made it the better overall fit for a team supporting multiple language runtimes. The team selected SQLite as the replacement for the Sparkey-backed datastore.Safe migration from Sparkey to SQLiteOperational safety was a top priority. Beyond extensive testing, we also we relied on two mechanisms to keep the rollout safe:Shadow reads: Before migrating each service, we ran a shadow read-and-compare phase; services continued reading from Sparkey while SQLite results were fetched in parallel for validation.Feature flag-gated gradual rollout: We migrated incrementally, starting from the least critical services and progressing toward the most critical. Some critical Tier 0 services were onboarded last, with dedicated coordination at each step.ConclusionsSitar-agent sits at the core of Airbnb’s dynamic configuration delivery system. This post walked through how it works and the key tradeoffs we navigated during the Java rewrite: between cost and isolation, simplicity and push-based efficiency, and raw performance and operational practicality. Every decision came back to the same constraints: configs must always be available, changes must propagate quickly across a fleet of tens of thousands of pods, and the solution must work across Airbnb’s polyglot service stack without compounding the maintenance burden.If this type of work interests you, check out some of our related positions!AcknowledgmentsOur progress with Sitar would not have been possible without the support and contributions of many people. We’d like to thank Craig Sosin, Nikolaj Nielsen, Daniel Fagnan, Alex Edwards, Nick Morgan, Carolina Calderon, Hanfei Lin, Yunong Liu, Lucas Rosa Galego, Yann Ramin, Denis Sheahan, Richa Khandelwal, Swetha Vaidy, Adam Kocoloski, Adam Miskiewicz, and all the other engineers and teams at Airbnb who joined design reviews and offered valuable feedback, as this work would not have been possible without them.All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.Sitar-agent: Building a reliable dynamic configuration sidecar at scale was originally published in The Airbnb Tech Blog on Medium, where people are continuing the conversation by highlighting and responding to this story.
+I got tired of copying files into an AI chat just to get feedback. So I built a pure Python MCP server that gives AI tools direct access to my local project—no frameworks, no dependencies. It runs over stdio for local use and switches to HTTP/SSE for concurrent clients with a single flag. The result: 5 clients, under 50ms, and a design that stays simple without sacrificing capability.
+The post My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/' target='_blank'>NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart</a></strong> — <em>2026-06-04 16:59:08</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/' target='_blank'>The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy</a></strong> — <em>2026-06-05 15:00:00</em></summary>
 
-Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/' target='_blank'>Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model</a></strong> — <em>2026-06-04 16:30:00</em></summary>
-
-In Part 1 of this series, we introduced Chronos-2, a time-series foundation model. We got our hands dirty by walking through a real case study and saw what Chronos-2 can do straight out of the box, with no training. But as we noted at the end of Part 1, zero-shot isn’t always enough. In cases […]
-The post Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model appeared first on Towards Data Science.
+How a simple choice shapes exploration, safety, and efficiency
+The post The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604' target='_blank'>NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery</a></strong> — <em>2026-06-04 16:00:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/automate-writing-your-llm-prompts/' target='_blank'>Automate Writing Your LLM Prompts</a></strong> — <em>2026-06-05 13:30:00</em></summary>
 
-IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundamental physics.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/' target='_blank'>Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce</a></strong> — <em>2026-06-04 15:00:00</em></summary>
-
-When images, mosaics, and data cubes exist in abundance, but field labels are expensive, rare, and imperfect.
-The post Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce appeared first on Towards Data Science.
+Using DSPy to automatically create, evaluate, and optimize your prompts
+The post Automate Writing Your LLM Prompts appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/fpn-paper-walkthrough-leveraging-the-internal-pyramid/' target='_blank'>FPN Paper Walkthrough: Leveraging the Internal Pyramid</a></strong> — <em>2026-06-04 13:30:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/how-to-fine-tune-an-slm-for-emotion-recognition/' target='_blank'>How to Fine-Tune an SLM for Emotion Recognition</a></strong> — <em>2026-06-05 12:00:00</em></summary>
 
-Understanding how FPN allows deep learning models detecting small objects and how to implement it from scratch
-The post FPN Paper Walkthrough: Leveraging the Internal Pyramid appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/' target='_blank'>NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents</a></strong> — <em>2026-06-04 13:02:49</em></summary>
-
-Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...
+Python tutorial for fine-tuning a Mistral Small 3.1 on an imbalanced training set to classify 15 emotions in social media communication
+The post How to Fine-Tune an SLM for Emotion Recognition appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://openai.com/index/endava-frontiers' target='_blank'>How Endava is redesigning software delivery around AI agents</a></strong> — <em>2026-06-04 12:00:00</em></summary>
+<details><summary><strong><a href='https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/' target='_blank'>Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG</a></strong> — <em>2026-06-05 11:26:00</em></summary>
 
-Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/is-an-online-masters-degree-in-ai-a-good-idea/' target='_blank'>Is an Online Master’s Degree in AI a Good Idea?</a></strong> — <em>2026-06-04 12:00:00</em></summary>
-
-A look at the real-world value of online graduate AI programs, combining hard data with firsthand experience of a big tech machine learning engineer
-The post Is an Online Master’s Degree in AI a Good Idea? appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/chatgpt-memory-dreaming' target='_blank'>Dreaming: Better memory for a more helpful ChatGPT</a></strong> — <em>2026-06-04 09:00:00</em></summary>
-
-ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.
+Data Management
 
 </details>
 
