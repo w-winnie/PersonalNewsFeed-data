@@ -1,88 +1,90 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Themes in Recent Astrophysics Developments
 
-#### Innovations in Spacecraft Thermal Management
-Recent research led by Davoud Jafari at the University of Twente has explored the capabilities of advanced smart materials in microgravity aboard the Air Zero G aircraft. This work, part of the #SmartSkin project, combines additive manufacturing techniques with boiling heat transfer and electric field control to improve thermal management systems for spacecraft. The results indicate a promising direction for developing more efficient heat regulation strategies in extreme space environments, potentially enhancing the performance and safety of future missions.
-
-Key Items:
-1. The experimental smart surfaces demonstrated significant potential for improving thermal management in spacecraft.
-2. The integration of diverse technologies within the project could lead to novel solutions in spacecraft design and operation.
-
-#### New Insights into Galaxy Formation and Dynamics
-Using the Multi-Unit Spectroscopic Explorer (MUSE) on the Very Large Telescope, astronomers have mapped the peculiar spiral galaxy W2246f, unveiling its ancient core and active star formation processes. Published on May 27, these observations shed light on the galaxy's evolutionary history and current dynamics, contributing valuable data to the understanding of star formation mechanisms in various galactic environments. This study enhances the broader discourse on how galaxies evolve and the factors influencing their development over cosmic time.
+#### 1. Probing Cosmic Signals
+Recent advancements in the detection of cosmic signals have unveiled new sources that could deepen our understanding of the universe. The identification of ASKAP J1745, a new source of repeating radio bursts from a binary star system, presents a significant opportunity for researchers to decode similar enigmatic signals, potentially linked to neutron stars or black holes. Additionally, studies are investigating the role of interstellar comets in the Milky Way's dark matter puzzle, suggesting these celestial bodies might help explain some of the galaxy's missing mass.
 
 Key Items:
-1. MUSE's detailed observations of W2246f offer fresh insights into the galaxy's formation and ongoing stellar activity.
-2. The findings contribute to a deeper understanding of star formation processes in spiral galaxies, influencing future research directions.
+- ASKAP J1745’s discovery of repeating radio bursts offers new insights into cosmic signal sources. [Link](https://phys.org/news/2026-06-mysterious-space-astronomers-rosetta-stone.html)
+- A study proposes that interstellar comets could influence dark matter calculations in the Milky Way. [Link](https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html)
+
+#### 2. Innovations in Lunar Exploration
+Technological advancements are significantly enhancing our capabilities for lunar exploration. A team from Tokyo Metropolitan University has developed a compact X-ray telescope designed to map the Moon's surface composition within two years. This innovation is critical for understanding the Moon's geological history and assessing its resource potential, especially as global interest in lunar missions continues to rise.
+
+Key Item:
+- A new compact X-ray telescope could enable comprehensive mapping of the Moon's surface elements in just two years. [Link](https://phys.org/news/2026-06-lunar-orbiter-concept-reveal-key.html)
+
+#### 3. Exoplanet Atmospheric Dynamics
+The exploration of exoplanets is advancing, particularly in the realm of atmospheric studies. Research focused on the TRAPPIST-1 system, which contains seven planets, has revealed complexities in forecasting weather on tidally locked worlds. Understanding these atmospheric dynamics is essential for evaluating the habitability of these distant planets and their potential to support life.
+
+Key Item:
+- New methods for forecasting weather on TRAPPIST-1 planets could enhance our understanding of their habitability. [Link](https://phys.org/news/2026-06-faster-alien-weather.html)
 
 ### Conclusion
-The current trajectory of astrophysical research highlights significant advancements in both materials science and observational astronomy. Innovations in smart materials promise to revolutionize thermal management in spacecraft, while detailed studies of galaxy evolution enhance our understanding of cosmic structures and their formation processes. As these fields converge, they not only prepare us for future explorations but also deepen our comprehension of the universe's intricate dynamics.
+The field of astrophysics is currently characterized by significant progress in understanding cosmic phenomena, lunar exploration, and exoplanetary atmospheres. These developments highlight the integration of novel technologies and observational techniques, which are essential for addressing the complexities of our universe. As researchers continue to uncover new insights, the implications of these findings are poised to reshape our comprehension of both the cosmos and our role within it.
 
 ### Top Sources:
-1. Smart surfaces face zero gravity test in boiling heat experiments - https://phys.org/news/2026-06-smart-surfaces-gravity.html - Research on advanced smart surfaces for spacecraft thermal management.
-2. MUSE maps spiral galaxy W2246f, uncovering old core and ongoing star formation across disk - https://phys.org/news/2026-06-muse-spiral-galaxy-w2246f-uncovering.html - New insights into the evolution and dynamics of a peculiar spiral galaxy.
+1. Mysterious signals keep coming from space: Astronomers find their 'Rosetta stone' - https://phys.org/news/2026-06-mysterious-space-astronomers-rosetta-stone.html - Discovery of a new source of repeating radio bursts from a binary star system.
+2. Could the Milky Way's missing mass be hiding in a swarm of interstellar comets? - https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html - Research suggests interstellar comets may account for missing dark matter in the Milky Way.
+3. Lunar orbiter concept could reveal five key elements across moon in two years - https://phys.org/news/2026-06-lunar-orbiter-concept-reveal-key.html - A compact X-ray telescope could map the Moon's chemical composition in two years.
+4. A faster way to forecast alien weather - https://phys.org/news/2026-06-faster-alien-weather.html - New methods for predicting weather on tidally locked exoplanets in the TRAPPIST-1 system.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-06-smart-surfaces-gravity.html' target='_blank'>Smart surfaces face zero gravity test in boiling heat experiments</a></strong> — <em>2026-06-06 16:30:01</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/ESA_and_EBRD_to_advance_Earth_observation_for_development_and_impact_finance' target='_blank'>ESA and EBRD to advance Earth observation for development and impact finance</a></strong> — <em>2026-06-08 07:15:00</em></summary>
 
-A research team led by Davoud Jafari at the University of Twente, in collaboration with the University of Pisa, has completed a series of parabolic flight experiments to investigate advanced smart surfaces under rapidly changing gravity conditions. Conducted aboard the Air Zero G aircraft operated by Novespace, the campaign integrated additive manufacturing, boiling heat transfer and electric field control into a single experimental platform as part of the #SmartSkin project.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-muse-spiral-galaxy-w2246f-uncovering.html' target='_blank'>MUSE maps spiral galaxy W2246f, uncovering old core and ongoing star formation across disk</a></strong> — <em>2026-06-06 16:00:01</em></summary>
-
-Astronomers have employed the Multi-Unit Spectroscopic Explorer (MUSE) on the Very Large Telescope (VLT) to perform deep spectroscopic observations of a peculiar spiral galaxy known as W2246f. Results of the observational campaign, published May 27 on the pre-print server arXiv, offer new insights into how this galaxy evolved and shed more light on its nature.
+The European Space Agency (ESA) signed an agreement with the European Bank for Reconstruction and Development (EBRD), hailing a new era of cooperation with the aim of advancing the use of Earth observation data and services for development and impact finance initiatives.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview' target='_blank'>How 'Spider-Noir' captured the multiverse in True-Hue Full Color and Authentic Black & White (interview)</a></strong> — <em>2026-06-06 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-mysterious-space-astronomers-rosetta-stone.html' target='_blank'>Mysterious signals keep coming from space: Astronomers find their 'Rosetta stone'</a></strong> — <em>2026-06-08 00:30:04</em></summary>
 
-'It was such a great playground to play in, and I hope that it opens up more projects like this for creatives to embrace and trust.'
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl' target='_blank'>Who is Lobo, the cigar-smoking alien bounty hunter in 'Supergirl'?</a></strong> — <em>2026-06-06 14:00:00</em></summary>
-
-Jason Momoa will star as the psycho space biker this summer, but who exactly is Lobo?
+A pair of stars spiraling around each other. That's the origin of a new source of repeating radio bursts we've detected, called ASKAP J1745.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin' target='_blank'>This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin</a></strong> — <em>2026-06-06 13:15:37</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html' target='_blank'>Could the Milky Way's missing mass be hiding in a swarm of interstellar comets?</a></strong> — <em>2026-06-07 21:00:04</em></summary>
 
-On Episode 212 of This Week In Space, Rod Pyle and Tariq Malik are joined by Apollo legend Gerry Griffin live from the International Space Development Conference (ISDC) in McLean, Virginia.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-spacex-pre-ipo-ai-google.html' target='_blank'>SpaceX signs pre-IPO deal to provide AI computing to Google</a></strong> — <em>2026-06-06 12:20:01</em></summary>
-
-SpaceX on Friday signed a blockbuster cloud computing agreement under which Google will pay the Elon Musk-founded rocket company $920 million per month for access to a massive cluster of AI chips, according to a disclosure in its initial public offering filing.
+3I/ATLAS has caused quite a stir over the last year, inviting astronomers to update what they know about other solar systems as well as our own. However, this third interstellar visitor may have an unexpected impact on our understanding of dark matter. A new paper, available on the arXiv preprint server from researchers at the University of Hamburg, attempts to calculate the impact that the presence of large amounts of interstellar objects, or ISOs, would have on our calculation of dark matter in our galaxy.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/neil-degrasse-tyson-narrates-new-trailer-for-upcoming-broadway-musical-galileo' target='_blank'>Neil deGrasse Tyson narrates new trailer for upcoming Broadway musical, 'Galileo'</a></strong> — <em>2026-06-06 12:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-lunar-orbiter-concept-reveal-key.html' target='_blank'>Lunar orbiter concept could reveal five key elements across moon in two years</a></strong> — <em>2026-06-07 19:48:23</em></summary>
 
-Raúl Esparza will reprise his lead role as the famous Renaissance astronomer this fall in 'Galileo'.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-spacex-denied-fast-track-sp.html' target='_blank'>SpaceX denied fast track to S&P 500 after IPO</a></strong> — <em>2026-06-06 11:26:02</em></summary>
-
-SpaceX has been denied a fast track into the S&P 500 when the rocket and satellite company goes public, in a ruling that cuts off quick access to one of the biggest pools of Wall Street money.
+Researchers from Tokyo Metropolitan University have used simulations to show that a newly developed, compact X-ray telescope could be used to map the chemical composition of the entire lunar surface, a vital breakthrough for understanding its geological evolution. Detailed modeling of the detector and a realistic satellite mission show that two years would be enough to map five key elements, while an array of 5-by-5 detectors could improve resolution and get results faster.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-astronauts-briefly-leak-international-space.html' target='_blank'>Astronauts briefly take shelter during repair to fix leak on the International Space Station</a></strong> — <em>2026-06-06 11:19:51</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-faster-alien-weather.html' target='_blank'>A faster way to forecast alien weather</a></strong> — <em>2026-06-07 18:00:01</em></summary>
 
-NASA on Friday temporarily ordered astronauts to take shelter during repairs to fix a fresh leak aboard the International Space Station.
+The TRAPPIST-1 system, located about 41 light years from Earth, has been a focal point of much exoplanetary discussion—mainly because it has seven confirmed planets orbiting a dim M-dwarf star. Two of those planets—TRAPPIST-1e and -1f—are thought to be in the star's habitable zone. However, the habitable zone of M-dwarfs is so close to the star itself, the planets are likely tidally locked to it, meaning they have a permanent day and night side, with a "twilight terminator" in between.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/i-resisted-smart-telescopes-for-years-then-one-changed-my-life' target='_blank'>I resisted smart telescopes for years — then one changed my life</a></strong> — <em>2026-06-06 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart' target='_blank'>Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart</a></strong> — <em>2026-06-07 14:00:00</em></summary>
 
-The last dark skies of spring are the perfect time to get to know a new smart telescope and go deep-sky stargazing.
+The Magellanic Clouds are a pair of dwarf galaxies passing the Milky Way probably for the first time, but as they move they have been interacting with each other for billions of years.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/solar-eclipses/10-best-spanish-beaches-to-see-the-total-solar-eclipse-2026' target='_blank'>10 best Spanish beaches to see the total solar eclipse 2026</a></strong> — <em>2026-06-07 13:00:00</em></summary>
+
+On Aug. 12, 2026, some of the best beaches in the world will play host to totality.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/rick-and-morty-creators-on-their-inspirations-as-season-9-tackles-the-multiverse-evolution-and-a-kung-fu-fight-in-a-trader-joes-parking-lot-interview' target='_blank'>'Rick and Morty' creators on their inspirations as season 9 tackles the multiverse, evolution, and a kung-fu fight in a Trader Joe's parking lot (interview)</a></strong> — <em>2026-06-07 12:00:00</em></summary>
+
+'This season in a lot of ways is a celebration and I think you can feel it in everything'
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions' target='_blank'>Could meteor storms harm NASA's future moon missions?</a></strong> — <em>2026-06-07 10:00:00</em></summary>
+
+"If a major meteor shower outburst or storm is forecast during a mission or crew activity, the mission would be delayed or the crew kept inside until the outburst or storm is over."
 
 </details>
 
