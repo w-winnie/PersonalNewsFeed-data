@@ -1,240 +1,210 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Space Exploration
+    ### Summary of Recent Developments in Astrophysics
 
-#### 1. The Elusiveness of Planet Nine
-Recent observations of Kuiper Belt objects have introduced new complexities to the search for the hypothesized Planet Nine. Initial data suggested that the orbits of these distant bodies were influenced by a massive, unseen planet. However, the latest findings indicate more stable orbital motions than anticipated, implying that if Planet Nine exists, it may reside much farther from the Sun than previously theorized. This revelation underscores the necessity for ongoing exploration of the outer solar system to either confirm or refute the existence of this elusive planet.
+**Innovative Lunar Missions**  
+NASA's Artemis III mission is set to propel lunar exploration into a new era, with the recent announcement of its astronaut crew, including European astronaut Luca Parmitano. Scheduled for 2027, this mission aims to validate essential technologies for future lunar landings and underscores the importance of international collaboration in space exploration. The integration of European Space Agency contributions into NASA's plans highlights a unified approach to advancing human presence on the Moon.
 
-#### 2. Gravitational Wave Astronomy Expands
-The latest release of gravitational wave detections has nearly doubled the catalog of known signals from merging black holes, marking a significant advancement in this field. Enhanced detection technologies have facilitated this surge, yielding crucial insights into the dynamics of black hole mergers and the fundamental nature of gravity. This increase in data not only enriches our understanding of black hole formation and evolution but also establishes gravitational wave astronomy as an increasingly vital tool for cosmic exploration.
+Key items:  
+1. The announcement of the Artemis III crew emphasizes international partnerships in space exploration.  
+2. Parmitano’s role as pilot reflects the growing involvement of European astronauts in NASA-led missions.  
+3. The mission will test critical rendezvous and docking capabilities, vital for subsequent lunar operations.
 
-#### 3. James Webb Space Telescope Breakthroughs
-The James Webb Space Telescope (JWST) continues to revolutionize our understanding of the universe, with notable discoveries including the earliest known flickering quasar, which existed when the universe was only 850 million years old. This quasar, powered by a supermassive black hole, provides critical insights into the early growth of black holes. Additionally, JWST's investigations into the so-called "Little Red Dots" offer new theories regarding black holes that are in a feeding frenzy, highlighting its transformative potential in cosmic studies.
+**Revolutionary Insights into Black Hole Dynamics**  
+A recent study has uncovered supermassive black hole winds in a distant quasar, traveling at speeds reaching 30% of the speed of light. This finding challenges established models of black hole outflows and suggests a profound impact on galaxy formation and evolution. The intensity of these winds, likened to a hypothetical "Category 79 hurricane," indicates the powerful feedback mechanisms at play between black holes and their host galaxies.
 
-#### 4. Machine Learning in Stellar Physics
-A recent study has leveraged machine learning to enhance simulations of neutron star mergers, particularly focusing on the r-process nucleosynthesis responsible for heavy element creation. This innovative approach allows for more precise modeling of the energy dynamics during these catastrophic events, deepening our understanding of element formation in the universe. The integration of AI into astrophysical research exemplifies a broader trend of utilizing advanced computational methods to address complex scientific challenges.
+Key items:  
+1. The extraordinary speeds of black hole winds offer new perspectives on quasar environments and their dynamics.  
+2. This research enhances our understanding of how black holes can shape their surrounding galaxies through energetic outflows.
 
-### Conclusion
-The field of astrophysics is currently characterized by significant advancements in our understanding of the universe's structure and evolution. From the ongoing quest for Planet Nine to breakthroughs in gravitational wave astronomy and the transformative discoveries from the James Webb Space Telescope, researchers are employing innovative techniques to expand our cosmic knowledge. The integration of machine learning into astrophysical modeling further signifies an exciting era of exploration and understanding that is rapidly unfolding.
+**Advancements in Propulsion Technology**  
+A groundbreaking dual-mode propulsion system is on the verge of in-space testing, merging chemical and electrical thrusters using a single monopropellant fuel. This innovation promises to streamline spacecraft design and reduce mass, which is particularly advantageous for ambitious missions to Mars. By improving propulsion efficiency, this technology could pave the way for more sustainable and effective space travel.
+
+Key items:  
+1. The dual-mode propulsion system represents a significant technological advancement for future spacecraft.  
+2. Successful testing could lead to its application in various interplanetary missions, enhancing overall mission capabilities.
+
+### Conclusion  
+The current landscape in astrophysics is marked by a convergence of innovative technologies and collaborative international efforts. The Artemis III mission is poised to revitalize lunar exploration, while groundbreaking discoveries related to black holes and advancements in propulsion systems reflect a dynamic period of scientific inquiry. These developments not only expand our understanding of the universe but also lay the groundwork for future explorations beyond Earth.
 
 ### Top Sources:
-1. Planet Nine Mystery Deepens - https://www.sciencedaily.com/releases/2026/06/260608040009.htm - New findings challenge the existence of a hidden planet beyond Neptune.
-2. Gravitational-Wave Detections Surge with Latest Release - https://skyandtelescope.org/astronomy-news/gravitational-wave-detections-surge-with-latest-release/ - Nearly double the known signals from colliding black holes reported.
-3. James Webb Space Telescope Weighs Sleeping Giant Black Hole - https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass - JWST measures a dormant supermassive black hole 10 billion light-years away.
-4. Black Hole Feeding Bursts Explained - https://phys.org/news/2026-06-black-hole-jwst-red-dots.html - New theories on JWST's "Little Red Dots" potentially linked to black hole activity.
-5. Neutron Star Merger Simulations Gain New Precision - https://phys.org/news/2026-06-neutron-star-merger-simulations-gain.html - Machine learning enhances understanding of element formation in neutron star mergers.
-6. MIT Astronomers Discover Earliest Known Flickering Quasar - https://news.mit.edu/2026/mit-astronomers-discover-earliest-known-flickering-quasar-0608 - Discovery sheds light on black hole growth in the early universe.
-7. Cosmic Bombardment May Have Opened Earth's Crust - https://phys.org/news/2026-06-cosmic-bombardment-earth-crust-prebiotic.html - Insights into prebiotic chemistry from ancient cosmic impacts.
-8. Upcoming Telescopes Could Shed Light on Dark Matter - https://phys.org/news/2026-06-upcoming-telescopes-dark.html - Future telescopes are expected to enhance our understanding of dark matter.
-9. Artemis II Moon Mission Research Continues on Earth - https://phys.org/news/2026-06-artemis-ii-moon-mission-earth.html - Data from Artemis II will inform future lunar exploration.
-10. NASA's INCUS Mission on Road to Launch - https://phys.org/news/2026-06-nasa-incus-mission-road-storms.html - Preparation for the first space-based survey of tropical convective storms continues.
+1. Italian astronaut to pilot Artemis III mission - https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html - Luca Parmitano will pilot the Artemis III mission in 2027.
+2. NASA unveils Artemis III astronauts to test technology for a future moon landing - https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html - NASA announces the crew for Artemis III, focusing on lunar mission preparations.
+3. These record-breaking black hole winds could create a category 79 hurricane on Earth - https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth - Discovery of extreme black hole winds challenges existing astrophysical models.
+4. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test - https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test - Innovative propulsion system could enhance future Mars missions.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/' target='_blank'>San Francisco’s Metropolitan Mosaic</a></strong> — <em>2026-06-09 04:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html' target='_blank'>Italian astronaut to pilot Artemis III mission</a></strong> — <em>2026-06-10 08:10:02</em></summary>
 
-Urban development, green spaces, and maritime activity converge in this Northern California city.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260608040009.htm' target='_blank'>Planet nine mystery deepens as new discovery challenges hidden planet theory</a></strong> — <em>2026-06-09 01:52:02</em></summary>
-
-Astronomers have spent years searching for a possible hidden giant planet far beyond Neptune. Unusual orbits among distant Kuiper Belt objects have fueled the Planet Nine theory, but recent discoveries are challenging the idea by showing more stable motion than expected. If Planet Nine exists, it may be much farther away than originally thought.
+Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission, which he will pilot near Earth in 2027 to test two lunar modules.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-artemis-ii-moon-mission-earth.html' target='_blank'>Artemis II moon mission research continues on Earth</a></strong> — <em>2026-06-09 01:00:03</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/' target='_blank'>Tyndall’s Trail of Bergs</a></strong> — <em>2026-06-10 04:01:00</em></summary>
 
-Since NASA's Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a moon base and develops an enduring human presence there.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-incus-mission-road-storms.html' target='_blank'>NASA's INCUS mission on road to launch, study storms from space</a></strong> — <em>2026-06-09 00:40:03</em></summary>
-
-Teams working on NASA's INCUS (Investigation of Convective Updrafts) mission, the first space-based survey of the dynamics of tropical convective storms, have completed assembly and tested two of the mission's small satellites, or SmallSats. Testing continues on the third SmallSat and is scheduled for completion no earlier than September ahead of a 2027 launch.
+Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-cosmic-bombardment-earth-crust-prebiotic.html' target='_blank'>Cosmic bombardment may have opened Earth's crust for prebiotic chemistry</a></strong> — <em>2026-06-08 23:40:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html' target='_blank'>NASA unveils Artemis III astronauts to test technology for a future moon landing</a></strong> — <em>2026-06-09 23:40:02</em></summary>
 
-Asteroids and planetesimals regularly bombarded Earth between about 4.6 billion and 3.5 billion years ago, during the Hadean and Archean eons. Because few rocks today are more than 4 billion years old, our understanding of the planet's environment during that time is limited. However, samples from the moon and its cratered surface hint at the period's rate of cosmic impacts.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-upcoming-telescopes-dark.html' target='_blank'>Upcoming telescopes could shed light on dark matter</a></strong> — <em>2026-06-08 22:40:04</em></summary>
-
-NASA's plans to return astronauts to the moon through the Artemis program and ultimately send humans to Mars highlight just how far space exploration has come. Yet while the moon and Mars remain compelling destinations filled with scientific mysteries, looking beyond our solar system raises even deeper questions about the universe itself.
+NASA on Tuesday revealed the crew for its Artemis III mission, the next step in the space agency's plan to eventually land astronauts on the moon.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-star-captures-primordial-black-hole.html' target='_blank'>What happens to a star that captures a primordial black hole?</a></strong> — <em>2026-06-08 21:20:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth' target='_blank'>These record-breaking black hole winds could create a category 79 hurricane on Earth</a></strong> — <em>2026-06-09 21:04:27</em></summary>
 
-We don't know whether theorized primordial black holes (PBH) are real. If they are, they formed in the very early universe, when physics was much different. They had no stellar progenitors and were created by the direct collapse of densely packed subatomic matter. Theorists have wondered whether PBH could be dark matter, or a component of dark matter.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms' target='_blank'>Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms</a></strong> — <em>2026-06-08 21:00:00</em></summary>
-
-Scientists have proposed a spacecraft-based system to actively strengthen Earth's magnetic shield and reduce the impact of powerful solar storms.
+Astronomers have discovered a distant quasar powered by a feeding supermassive black hole blasting out winds at record-breaking speeds for such an outflow seen in ultraviolet light, traveling at 30% the speed of light.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-medicines-space.html' target='_blank'>Plants could be used to grow medicines in space, study shows</a></strong> — <em>2026-06-08 20:20:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test' target='_blank'>Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test</a></strong> — <em>2026-06-09 20:00:00</em></summary>
 
-Astronauts on long space missions may one day use plants to produce fresh stocks of medicines on demand, thanks to new research by engineers at the University of California San Diego. The team developed a simple method to grow and repeatedly harvest pharmaceuticals from plants under space-like conditions, without destroying the plants or generating large amounts of waste.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass' target='_blank'>James Webb Space Telescope weighs 'sleeping giant' black hole from 10 billion light-years away — and it's 6 billion times our sun's mass</a></strong> — <em>2026-06-08 20:00:00</em></summary>
-
-Using the James Webb Space Telescope, and with a little help from Einstein, astronomers have "weighed" a sleeping giant, a dormant supermassive black hole located a staggering 10 billion light-years away.
+A new propulsion system feeds the same "monopropellant" fuel into electrical and chemical thrusters, potentially saving on mass and complications for future missions to Mars.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/' target='_blank'>How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup</a></strong> — <em>2026-06-08 19:36:08</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2026/mit-spurs-future-of-urban-technology-policy-0609' target='_blank'>MIT SPURS looks to the future of urban technology and policy</a></strong> — <em>2026-06-09 20:00:00</em></summary>
 
-As the FIFA World Cup approaches, NASA is bringing space science and engineering to soccer fans worldwide. From June 11 to July 19, 2026, NASA will host an exhibit at FIFA Fan Festival™ Houston where visitors can learn how research aboard the International Space Station benefits life on Earth and experience missions in low Earth orbit, the Moon, and beyond through the Artemis program.  On June 11, as the FIFA World Cup begins, NASA’s exhibit […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-neutron-star-merger-simulations-gain.html' target='_blank'>Neutron star merger simulations gain new precision with AI-driven r-process heating</a></strong> — <em>2026-06-08 19:00:07</em></summary>
-
-Using a novel simulation model based on machine learning, an international research team at GSI/FAIR has succeeded in gaining a deeper understanding of element formation in stellar events such as neutron star mergers. For the first time, the scientists used deep learning with a neural network to model the energy release during r-process nucleosynthesis in hydrodynamic simulations. The results are published in the journal Physical Review D.
+As the international program approaches its 60th year, leaders are reshaping its curriculum to address emerging technologies and the policies shaping their use in urban planning.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/why-do-venus-and-jupiter-meet-up-in-the-sky-so-often-its-a-symptom-of-a-solar-system-that-supports-life-on-earth' target='_blank'>Why do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth</a></strong> — <em>2026-06-08 19:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/alan-hale-1958-2026/' target='_blank'>Alan Hale (1958-2026)</a></strong> — <em>2026-06-09 19:42:56</em></summary>
 
-As it turns out, the conditions that set Venus and Jupiter up for their conjunctions in the sky are the same that are critical for life to survive on Earth.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/evolution-at-25-a-perfect-fusion-of-ghostbusters-and-men-in-black-thats-become-a-sci-fi-comedy-classic' target='_blank'>'Evolution' at 25: A perfect fusion of 'Ghostbusters' and 'Men in Black' that's become a sci-fi comedy classic</a></strong> — <em>2026-06-08 18:00:00</em></summary>
-
-Pour out a bottle of Head & Shoulders for Ivan Reitman's Evolution on its 25-year anniversary.
+Astronomer and comet-hunter Alan Hale passed away on Saturday, June 6th, at 67 years old in his home in Cloudcroft, New Mexico. 
+The post Alan Hale (1958-2026) appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit' target='_blank'>This former Paralympic athlete could become the 1st person with a physical disability to live in orbit</a></strong> — <em>2026-06-08 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-dino-asteroid-fueled-underground-life.html' target='_blank'>Dino-killing asteroid may have fueled underground life for 8 million years</a></strong> — <em>2026-06-09 19:20:02</em></summary>
 
-European Space Agency astronaut John McFall could be headed to the private Haven-1 space station as soon as 2027.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/gravitational-wave-detections-surge-with-latest-release/' target='_blank'>Gravitational-Wave Detections Surge with Latest Release</a></strong> — <em>2026-06-08 16:57:28</em></summary>
-
-Astronomers have released the newest list of gravitational-wave detections, almost doubling the number of known signals from colliding black holes. 
-The post Gravitational-Wave Detections Surge with Latest Release appeared first on Sky & Telescope.
+The asteroid that caused the extinction of the dinosaurs also created an underground environment suited to supporting new life, and new research suggests it lasted for millions of years longer than previously suspected.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog' target='_blank'>Watch SpaceX set new rocket reuse record with 35th launch — and landing — of a Falcon 9 booster (video)</a></strong> — <em>2026-06-08 16:30:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing' target='_blank'>Do galaxies have a 'kill switch' that makes them stop growing?</a></strong> — <em>2026-06-09 18:00:00</em></summary>
 
-A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from the Cape Canaveral Space Force Station in Florida on Monday, June 8, 2026. The first stage booster flew for a record 35th time.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-books/essential-ufo-reading-list' target='_blank'>Get ready for the next Pentagon file drop with our essential UFO reading list</a></strong> — <em>2026-06-08 16:00:00</em></summary>
-
-With the next tranche of declassified files from the Pentagon expected any day now, dive deeper into the UFO phenomenon with these 15 books covering its history, impact and possible explanations.
+Above a certain threshold, galaxies stop growing , no matter how much raw material they have on hand. The question is: what flips the switch?
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/supersonic/' target='_blank'>Supersonic!</a></strong> — <em>2026-06-08 15:28:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-meerkat-reveals-electron-sites-solar.html' target='_blank'>MeerKAT reveals three electron acceleration sites in one solar flare</a></strong> — <em>2026-06-09 17:40:01</em></summary>
 
-On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on flying qualities at both […]
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/' target='_blank'>NASA’s INCUS Satellites Progress Toward Launch</a></strong> — <em>2026-06-08 15:22:07</em></summary>
-
-Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical […]
+Solar flares are the most explosive energy-release events in the solar corona, leading to intense particle acceleration, plasma heating and bulk plasma motions on short timescales. Core questions during solar flares remain unresolved, including how and where particle acceleration occurs, and how energized electrons propagate through coronal magnetic structures.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-black-hole-jwst-red-dots.html' target='_blank'>Black hole feeding bursts may explain JWST's Little Red Dots in early universe</a></strong> — <em>2026-06-08 15:20:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-spacex-orbit-east-india-company.html' target='_blank'>SpaceX's hold over orbit matches East India Company's grip on maritime trade</a></strong> — <em>2026-06-09 17:20:08</em></summary>
 
-A new theoretical study may have cracked one of the most puzzling discoveries of the James Webb Space Telescope (JWST): Little Red Dots, spotted across the early universe. The paper, posted to the arXiv preprint server on May 29, argues that these objects could be black holes caught in rare, violent bursts of feeding at a rate exceeding theoretical limits.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-astronomers-earliest-flickering-quasar.html' target='_blank'>Astronomers discover the earliest known flickering quasar</a></strong> — <em>2026-06-08 15:04:52</em></summary>
-
-A supermassive black hole lies at the heart of every galaxy, including the Milky Way. When a black hole is active, it pulls material in as a whirlpool of high-temperature gas and dust. As this cosmic material piles up and falls onto a black hole, it lights up its vicinity, radiating a huge amount of energy.
+Elon Musk's SpaceX holds sway over the emerging space economy in a way that has more in common with notorious colonial-era trading companies than the competitive markets of today's textbooks, according to a new study.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/dont-miss-jupiter-and-venus-meet-in-a-dazzling-conjunction-on-june-9-heres-where-and-when-to-look' target='_blank'>Don't miss Jupiter and Venus meet in a dazzling conjunction tonight: Here's where and when to look</a></strong> — <em>2026-06-08 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot' target='_blank'>Artemis III NASA announcement highlights: Luca Parmitano assigned as pilot</a></strong> — <em>2026-06-09 17:20:00</em></summary>
 
-Jupiter and Venus meet in the western sky tonight (June 9) — here's how to see it.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-artemis-ii-livestreamed-def-videos.html' target='_blank'>How Artemis II livestreamed hi-def videos and images from the moon to Earth</a></strong> — <em>2026-06-08 14:40:03</em></summary>
-
-This April, humanity had front-row seats to space as the Artemis II Orion spacecraft transmitted crystal-clear footage of its historic journey around the moon from more than 250,000 miles (about 402,000 kilometers) back to Earth at speeds on par with home internet connections.
+	Video: 
+			00:07:18
+				On 9 June, NASA announced the crew for the Artemis III mission, which includes ESA astronaut Luca Parmitano as pilot. ESA is also providing its third European Service Module for this crewed test flight in Earth orbit, which will be key for the mission’s objective to test rendezvous and docking capabilities ahead of future lunar landing missions. Along with Luca, three NASA astronauts will fly on this mission: commander Randy Bresnik and lander specialists Frank Rubio and Andre Douglas. The crew now begins a rigorous training schedule to learn the Orion spacecraft systems, as well as the operations of the human landing systems, to prepare for an ambitious series of demonstrations ahead of a Moon landing mission.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-alien-stricter-verification-disclosure.html' target='_blank'>Alien signal claims face stricter verification under updated disclosure rules</a></strong> — <em>2026-06-08 14:00:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew' target='_blank'>NASA reveals Artemis 3 astronaut crew</a></strong> — <em>2026-06-09 17:03:39</em></summary>
 
-The IAA SETI Committee has updated rules for evaluating and revealing the detection of extraterrestrial intelligence.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/astronaut-spots-mount-vesuvius-from-space-space-photo-of-the-day-for-june-8-2026' target='_blank'>Astronaut spots Mount Vesuvius from space | Space photo of the day for June 8, 2026</a></strong> — <em>2026-06-08 14:00:00</em></summary>
-
-"From orbit, volcanoes are some of the most beautiful natural sights."
+NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8' target='_blank'>Incoming CME could spark impressive northern lights over the northern US tonight</a></strong> — <em>2026-06-08 12:33:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-italian-luca-parmitano-european-artemis.html' target='_blank'>Italian Luca Parmitano to be first European to join an Artemis mission: NASA</a></strong> — <em>2026-06-09 17:01:53</em></summary>
 
-A coronal mass ejection is currently racing toward Earth and could trigger G2 to G3 geomagnetic storm conditions on June 8, potentially boosting aurora displays across northern latitudes.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon' target='_blank'>'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon</a></strong> — <em>2026-06-08 12:00:00</em></summary>
-
-Prada (yes, that Prada) and Axiom Space are taking spacesuits up a notch with this liquid cooling ventilation garment.
+Luca Parmitano, an Italian astronaut, will be the pilot of NASA's Artemis 3 mission, the first European to join one of the program's missions, the U.S. space agency announced Tuesday.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260606075858.htm' target='_blank'>What is space-time? A mystery at the heart of reality</a></strong> — <em>2026-06-08 11:28:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/dont-miss-the-moon-and-saturn-put-on-a-spectacular-show-before-sunrise-june-10' target='_blank'>Don't miss the moon and Saturn put on a spectacular show before sunrise June 10</a></strong> — <em>2026-06-09 17:00:00</em></summary>
 
-What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together in a timeless "block universe." The argument suggests that physicists may be blurring the difference between things that exist and things that merely occur, creating deep confusion about what space-time actually is.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/rare-daytime-meteors-peak-this-week-heres-how-to-see-and-even-hear-them' target='_blank'>Rare daytime meteor shower peak this week — here's how to see (and even hear) them</a></strong> — <em>2026-06-08 11:00:00</em></summary>
-
-Most meteor showers are seen after dark, but the Arietids offer a rare chance to spot shooting stars in the dawn sky.
+Set your alarm for June 10 as Saturn shines beside a bright crescent moon in the predawn sky.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist' target='_blank'>Is this the next Artemis crew? A look at the astronauts on NASA's shortlist</a></strong> — <em>2026-06-08 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/Luca_Parmitano_on_Artemis_III_selection' target='_blank'>Luca Parmitano on Artemis III selection</a></strong> — <em>2026-06-09 16:30:00</em></summary>
 
-On June 9, NASA will reveal the astronauts who will fly on the Artemis 3 docking mission in Earth orbit next year. Here's a look at the contenders.
 
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/mit-astronomers-discover-earliest-known-flickering-quasar-0608' target='_blank'>MIT astronomers discover the earliest known flickering quasar</a></strong> — <em>2026-06-08 09:00:00</em></summary>
-
-When the universe was just 850 million years old, this voracious black hole was already surprisingly mature, a new study finds.
+	Video: 
+			00:03:53
+				ESA astronaut Luca Parmitano talks about his assignment as the test pilot for the Artemis III mission, announced by NASA on 9 June 2026 in a press conference at the Johnson Space Center in Houston, United States.Artemis III is planned as a crewed test flight in Earth orbit to demonstrate systems and operations required for future lunar landing missions planned from Artemis IV onwards.ESA is also providing its third European Service Module for this mission, the powerhouse of the NASA Orion spacecraft which houses the crew during their journey.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/mit-astronomers-discover-earliest-known-flickering-quasar-0608' target='_blank'>MIT astronomers discover the earliest known flickering quasar</a></strong> — <em>2026-06-08 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_Luca_Parmitano_joins_NASA_s_Artemis_III_mission_as_pilot' target='_blank'>ESA astronaut Luca Parmitano joins NASA’s Artemis III mission as pilot</a></strong> — <em>2026-06-09 16:30:00</em></summary>
 
-When the universe was just 850 million years old, this voracious black hole was already surprisingly mature, a new study finds.
+
+NASA has announced the crew for the Artemis III mission, which includes ESA astronaut Luca Parmitano as pilot. ESA is also providing its third European Service Module for this crewed test flight in Earth orbit, which will be key for the mission’s objective to test rendezvous and docking capabilities ahead of future lunar landing missions.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026' target='_blank'>ESA at ILA Berlin International Airshow 2026</a></strong> — <em>2026-06-08 08:18:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions' target='_blank'>'This is actually taking a page out of the Communist Party playbook': New White House proposal could deny scientists funding based on their political opinions</a></strong> — <em>2026-06-09 15:00:00</em></summary>
+
+"It replaces expertise with political appointees, globally decouples the U.S. and completely guts our scientific ecosystem."
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/astronaut-captures-snake-like-auroras-from-a-spacex-dragon-space-photo-of-the-day-for-june-9-2026' target='_blank'>Astronaut captures snake-like auroras from a SpaceX Dragon | Space photo of the day for June 9, 2026</a></strong> — <em>2026-06-09 14:00:00</em></summary>
+
+NASA astronaut Jessica Meir captured a breathtaking view of auroras on Earth from orbit while sheltering with her fellow astronauts in a SpaceX Dragon spacecraft.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/why-steven-spielbergs-disclosure-day-feels-like-the-most-exciting-sci-fi-release-of-the-year' target='_blank'>Why Steven Spielberg's 'Disclosure Day' feels like the most exciting sci-fi release of the year</a></strong> — <em>2026-06-09 13:30:00</em></summary>
+
+The director of 'Close Encounters' and 'ET', an original story, 'X-Files'-style conspiracy theories… 'Disclosure Day' is a welcome escape from the mega-franchises.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-dark-deficient-twins-fornax-cluster.html' target='_blank'>Possible dark matter-deficient twins discovered in the Fornax Cluster</a></strong> — <em>2026-06-09 13:20:03</em></summary>
+
+Astronomers have identified a possible new example of one of the universe's strangest galaxy types: galaxies that appear to contain little or no dark matter. The newly studied pair, FCC 224 and FCC 240, on the outskirts of the Fornax Cluster, share several unusual traits with the only known pair of controversial dark-matter-deficient galaxies. The findings were uploaded to the arXiv preprint server on May 22.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/how-should-we-handle-alien-detection-in-a-world-of-ai-deepfakes-and-social-media-this-committee-is-writing-the-rulebook' target='_blank'>How should we handle alien detection in a world of AI, deepfakes and social media? This committee is writing the rulebook</a></strong> — <em>2026-06-09 13:00:00</em></summary>
+
+As Steven Spielberg's alien conspiracy thriller "Disclosure Day" heads to theaters, Space.com talks to the astronomer who has led efforts to make sure any real alien detection will not be kept a secret.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/amazons-satellites-are-impacting-astronomy/' target='_blank'>Amazon's Satellites Are Impacting Astronomy</a></strong> — <em>2026-06-09 12:53:59</em></summary>
+
+The satellites being launched by Amazon are brighter than IAU-recommended limits — which means they'll interfere with astronomy. 
+The post Amazon's Satellites Are Impacting Astronomy appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Space_Engineering_Technology/We_re_back_Proba-3_ready_for_more_science' target='_blank'>We’re back: Proba-3 ready for more science</a></strong> — <em>2026-06-09 12:00:00</em></summary>
 
 
-Under the theme 'Space4Future', the European Space Agency (ESA) will welcome visitors to the Space Pavilion at ILA Berlin International Airshow, Hall B, from 10 to 14 June. From Moon exploration to climate monitoring, from navigation and telecommunication to European launchers, visitors to the pavilion will discover how space is shaping our future.
+The Proba-3 mission’s Coronagraph spacecraft and its main scientific instrument, ASPIICS, are both at full health, ready to resume routine formation flying operations and deliver more breathtaking artificial eclipses.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/watch-the-jupiter-venus-conjunction-unfold-live-online-june-9' target='_blank'>Watch the Jupiter-Venus conjunction unfold live online today</a></strong> — <em>2026-06-09 12:00:00</em></summary>
+
+The livestream begins at 3:30 p.m. (1930 GMT) on June 9.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-space-telescopes-overwhelmed-satellite-trails.html' target='_blank'>Space telescopes are now overwhelmed by satellite trails</a></strong> — <em>2026-06-09 11:20:02</em></summary>
+
+Unfortunately, there's more bad news to report on the clear skies front. A new paper, available on the arXiv preprint server from researchers at NASA's Ames Research Center, reports that 73.3% of images the agency's new SPHEREx space telescope collected between May and September of last year were contaminated by at least one artificial satellite trail. And it's only going to get worse from here.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260608040015.htm' target='_blank'>Scientists think they solved the mystery of the Amaterasu particle</a></strong> — <em>2026-06-09 11:18:10</em></summary>
+
+The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help explain how these rare particles reach Earth and provide new clues about the powerful cosmic explosions that create them.
 
 </details>
 
