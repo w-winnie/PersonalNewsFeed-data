@@ -1,182 +1,244 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Recent Developments in Astrophysics and Space Exploration
 
-#### Stellar Evolution and Supernova Insights
-Recent advancements have significantly refined our understanding of stellar evolution, particularly during the final stages of a star's life. A study from Caltech proposes that sun-like stars undergo minor eruptions when transitioning to white dwarfs, which can impart significant momentum changes to their remaining mass. Furthermore, NASA's Chandra X-ray Observatory has documented unexpected brightness fluctuations in supernova remnants in the galaxy M83 over a 14-year period, suggesting that these remnants are more dynamic than previously thought. This could reshape theories about the fading processes of supernova debris.
+#### Enhancing Space Observatories
+NASA is exploring a groundbreaking mission to boost the orbit of the Neil Gehrels Swift Observatory, a key player in rapid-response observations of transient astronomical phenomena. This initiative involves launching a spacecraft to rendezvous with Swift, potentially extending its operational life by several years. Such efforts reflect a broader trend in the astrophysics community aimed at maximizing the utility of existing space telescopes, especially as new missions are on the horizon and older telescopes face challenges like orbital decay.
 
-Key Items:
-1. **Star Kicks** - Caltech's model indicates mass ejections during stellar death lead to momentum changes.
-2. **Flickering Supernova Remnants** - Chandra's findings challenge existing theories on the evolution of supernova remnants.
+Key items:
+1. NASA's Swift Observatory may receive an orbit boost to extend its operational life, as discussed in a recent press conference. - https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live
+2. A Q&A session elaborated on the mission's significance, emphasizing the unique nature of this orbital boost effort. - https://phys.org/news/2026-06-qa-boosting-nasa-swift-observatory.html
 
-#### Planetary Dynamics and Cosmic Impacts
-New research has shed light on Venus's unusual retrograde rotation, attributing it to a high-velocity impact from a moon-sized body early in its history. This explanation was presented at the European Geosciences Union meeting and addresses longstanding questions about Venus's rotational behavior. Additionally, investigations into Earth's deep-sea crust have revealed the ongoing deposition of plutonium from ancient kilonova events, highlighting the lasting geological influence of such cosmic explosions.
+#### Insights into Galactic Formation
+Recent findings from the James Webb and Hubble Space Telescopes have reshaped our understanding of the Milky Way's formation, particularly through the study of Terzan 5. This research identifies Terzan 5 not as a globular cluster but as a new class of galactic relics termed 'bulge fossil fragments.' This discovery enhances our comprehension of the conditions and processes that influenced early galaxy formation, illustrating the potential of combining observational data from multiple telescopes.
 
-Key Items:
-1. **Venus's Rotation** - A new model links Venus's spin to a significant impact event.
-2. **Kilonova Remnants** - Evidence shows that kilonova debris continues to affect Earth's crust.
+Key items:
+1. Researchers confirmed that Terzan 5 is a 'bulge fossil fragment,' providing new perspectives on the Milky Way's evolutionary history. - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation
+2. The study underscores the collaborative power of Webb and Hubble in advancing our understanding of cosmic history. - https://phys.org/news/2026-06-webb-hubble-reveal-history-relic.html
 
-#### Origins of Life and Astrobiology Advances
-Research from Caltech has identified a chemical pathway that may elucidate how the building blocks of DNA and RNA formed on early Earth, emphasizing the role of simple molecular interactions in the emergence of life. Additionally, Saturn's moon Titan has been highlighted as a prime target for astrobiological research due to its rich organic chemistry and environmental conditions that may resemble those conducive to life.
+#### Advances in Understanding Black Holes
+Significant progress has been made in understanding supermassive black holes, particularly through observations from NASA's Chandra X-ray Observatory. New data has revealed intricate details about the jets emitted by black holes, such as M87, and has shown that these black holes can emit delayed radio signals years after consuming stars. These findings provide valuable insights into the growth processes of black holes and their interactions with surrounding matter.
 
-Key Items:
-1. **DNA Building Blocks** - A novel benzene reaction may clarify the origins of life's precursors.
-2. **Titan's Potential** - Studies underscore Titan's significance for future astrobiological missions.
+Key items:
+1. The Chandra Observatory provided the finest X-ray detail of the jet from the M87 black hole, enhancing our understanding of black hole dynamics. - https://phys.org/news/2026-06-chandra-tracks-m87-black-hole.html
+2. Research found that supermassive black holes can produce delayed radio emissions, offering insights into their energetic feedback mechanisms. - https://phys.org/news/2026-06-black-holes-unleash-delayed-radio.html
 
 ### Conclusion
-The current landscape of astrophysics is marked by a series of pivotal discoveries that enhance our understanding of stellar life cycles, planetary dynamics, and the origins of life. Researchers are increasingly integrating observational data with theoretical models, leading to fresh insights that could have broad implications for both fundamental astrophysics and the search for extraterrestrial life. This collaborative approach is fostering a deeper comprehension of the cosmos and its myriad processes.
+The current landscape of astrophysics is characterized by innovative missions aimed at extending the capabilities of existing observatories and groundbreaking discoveries that deepen our understanding of galactic evolution and black hole dynamics. As researchers harness advanced technologies and collaborative efforts, the field is poised for significant advancements, promising new insights into the fundamental workings of the universe.
 
-Top Sources:
-1. Watch SpaceX Dragon cargo capsule head home to Earth today - https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth - SpaceX's Dragon capsule returns from the ISS.
-2. Venus' strange rotation was likely triggered by a high-velocity, moon-sized impactor - https://phys.org/news/2026-06-venus-strange-rotation-triggered-high.html - New models explain Venus's retrograde spin.
-3. A star's death throes involve a lot of kicking - https://phys.org/news/2026-06-star-death-throes-involve-lot.html - Study reveals dynamics of mass loss in dying stars.
-4. Chandra reveals flickering supernova remnants in M83 over 14 years - https://phys.org/news/2026-06-chandra-reveals-flickering-supernova-remnants.html - Observations of supernova remnants challenge fading theories.
-5. Benzene reaction may explain how DNA and RNA building blocks formed on early Earth - https://phys.org/news/2026-06-benzene-reaction-dna-rna-blocks.html - Novel chemical pathways for life's precursors.
-6. Deep-sea crust uncovers steady plutonium rain from ancient kilonova debris - https://phys.org/news/2026-06-deep-sea-crust-uncovers-steady.html - Kilonova remnants continue to impact Earth.
-7. Lithium spike reveals sun-like star likely swallowed its planet - https://phys.org/news/2026-06-lithium-spike-reveals-sun-star.html - Astronomers find evidence of a planet-eating star.
-8. New study assesses Titan's resources and their potential uses - https://phys.org/news/2026-06-titan-resources-potential.html - Titan's unique environment highlights astrobiological potential.
-9. The galaxy's spin is hiding in the hum of gravitational waves - https://phys.org/news/2026-06-galaxy-gravitational.html - LISA aims to detect gravitational waves from white dwarf pairs.
-10. NASA X-ray spacecraft discovers supernova wreckage at the heart of the Milky Way - https://www.space.com/astronomy/stars/nasa-x-ray-spacecraft-discovers-supernova-wreckage-at-the-heart-of-the-milky-way - Discovery of a supernova explosion's remnants.
+### Top Sources:
+1. NASA discussing bold mission to boost Swift space telescope today - https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live - NASA is considering a mission to extend the life of the Swift Observatory.
+2. Q&A: Boosting NASA's Swift Observatory to support continued space observation - https://phys.org/news/2026-06-qa-boosting-nasa-swift-observatory.html - Insights into the mission's significance and operational details.
+3. Webb and Hubble reveal the history of a relic of Milky Way's formation - https://phys.org/news/2026-06-webb-hubble-reveal-history-relic.html - New findings on Terzan 5 redefine its role in galactic history.
+4. Chandra tracks M87 black hole's evolving jet in finest X-ray detail yet - https://phys.org/news/2026-06-chandra-tracks-m87-black-hole.html - Detailed observations of the M87 black hole's jet.
+5. Black holes unleash delayed radio 'burps' years after tearing apart stars - https://phys.org/news/2026-06-black-holes-unleash-delayed-radio.html - New findings on black hole feedback mechanisms.
+6. Webb & Hubble reveal relic of our galaxy’s formation - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation - Confirmation of Terzan 5 as a new class of galactic relic.
+7. Powerful UFO spotted blasting from a distant black hole - https://phys.org/news/2026-06-powerful-ufo-blasting-distant-black.html - Observations of extreme outflows from supermassive black holes.
+8. NASA's SpaceX CRS-34 Dragon returns packed with space station science - https://phys.org/news/2026-06-nasa-spacex-crs-dragon-space.html - Insights from recent cargo missions to the ISS.
+9. Future Martian colonists will need a new relativistic clock - https://phys.org/news/2026-06-future-martian-colonists-relativistic-clock.html - Research on timekeeping for future Mars missions.
+10. Young disk around WRAY 15-1880 may contain a primitive planetary system - https://phys.org/news/2026-06-young-disk-wray-primitive-planetary.html - Discoveries related to potential planetary systems around young stars.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth' target='_blank'>Watch SpaceX Dragon cargo capsule head home to Earth today</a></strong> — <em>2026-06-16 04:05:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-06-sessions-spacex-world-valuable-companies.html' target='_blank'>After three sessions, SpaceX already among world's most valuable companies</a></strong> — <em>2026-06-17 08:30:04</em></summary>
 
-A SpaceX Dragon cargo spacecraft is scheduled to begin its journey back to Earth today (June 16), and you can watch the action live.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-venus-strange-rotation-triggered-high.html' target='_blank'>Venus' strange rotation was likely triggered by a high-velocity, moon-sized impactor</a></strong> — <em>2026-06-16 01:20:01</em></summary>
-
-Venus' bizarre and extraordinarily slow retrograde rotation on its axis has long puzzled planetary scientists. But in a new paper presented at the recent European Geosciences Union General Assembly in Vienna, the authors argue that their models indicate a high-angle, moon-sized, high-velocity impactor likely triggered Venus' strange 248-day rotation. And it probably happened within the first 50 million years of Venus' formation.
+SpaceX shares surged again Tuesday, lifting Elon Musk's rocket company into the world's top five in market value for most of the session as a record-breaking IPO gave way to a torrid buying frenzy.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-star-death-throes-involve-lot.html' target='_blank'>A star's death throes involve a lot of kicking</a></strong> — <em>2026-06-15 21:40:05</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live' target='_blank'>NASA discussing bold mission to boost Swift space telescope today: Listen live</a></strong> — <em>2026-06-17 04:05:00</em></summary>
 
-When stars like our sun age, they puff up into red giants. Their bubbling outer mass gradually escapes into space, and their remaining cores contract into white dwarfs. Since most stars end their lives this way, the universe is teeming with white dwarfs. A new study from Caltech's Jim Fuller, professor of theoretical astrophysics, proposes a new model of the final death throes of sun-like stars that shows how escaping mass from the stars' surfaces leads to a series of little kicks.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-chandra-reveals-flickering-supernova-remnants.html' target='_blank'>Chandra reveals flickering supernova remnants in M83 over 14 years</a></strong> — <em>2026-06-15 21:20:07</em></summary>
-
-The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas. So when astronomers pointed NASA's Chandra X-ray Observatory at the nearby galaxy Messier 83 (M83), they did not expect to find a population of supernova remnants, or the debris from these explosions, showing dramatic changes in their brightness. The new results have been presented at the American Astronomical Society meeting in Pasadena, California, and published in The Astrophysical Journal.
+NASA will discuss an ambitious mission to boost the orbit of its Swift space telescope during a press conference today (June 17), and you can listen to it live.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-benzene-reaction-dna-rna-blocks.html' target='_blank'>Benzene reaction may explain how DNA and RNA building blocks formed on early Earth</a></strong> — <em>2026-06-15 20:20:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-alien-probes-backyard-weve.html' target='_blank'>Are alien probes hiding in our backyard? A new study says we've barely looked</a></strong> — <em>2026-06-17 01:40:05</em></summary>
 
-Caltech researchers have identified a novel chemical reaction that could explain the formation of the building blocks of DNA and RNA, the molecules that encode all of life's functions. The work is an important step toward understanding how life may have emerged on Earth and potentially elsewhere in the universe, showing the straightforward and efficient pathways through which simple molecules can give rise to complex biological precursors.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/astrobotic-unveils-griffin-1-lunar-lander-for-nasa-moon-base-mission' target='_blank'>Astrobotic unveils Griffin-1 lunar lander for NASA Moon Base mission</a></strong> — <em>2026-06-15 20:00:00</em></summary>
-
-Astrobotic unveiled its next lander headed to the moon: Griffin-1, which will carry one of the heaviest payloads ever delivered to the lunar surface.
+Even at this early stage in our spacefaring age, humanity has already begun sending probes that will eventually reach other solar systems, even if that was not their original intention. Five robotic explorers—Pioneer 10 and 11, Voyager 1 and 2, and New Horizons—are all on escape trajectories out of the solar system and might someday enter another one. They will no longer be operational at that point, but they serve as proof of concept that spacefaring civilizations do indeed build interstellar probes.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-deep-sea-crust-uncovers-steady.html' target='_blank'>Deep-sea crust uncovers steady plutonium rain from ancient kilonova debris</a></strong> — <em>2026-06-15 19:40:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-qa-boosting-nasa-swift-observatory.html' target='_blank'>Q&A: Boosting NASA's Swift Observatory to support continued space observation</a></strong> — <em>2026-06-17 00:20:01</em></summary>
 
-Debris is still raining down on Earth more than 100 million years after the giant cosmic explosion that created it. A study published this week in Nature Astronomy by an international team reached this conclusion using measurements of rare isotopes within a slow-growing ferromanganese crust recovered from the depths of the Pacific Ocean.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly' target='_blank'>SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)</a></strong> — <em>2026-06-15 19:27:41</em></summary>
-
-A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Monday, June 15, 2026.
+NASA's "rapid-response" space telescope is slowly falling out of orbit, but a daring mission this summer could allow the Neil Gehrels Swift Observatory to continue scanning the sky for many more years to come. In the first mission of its kind, a spacecraft will launch from Earth and rendezvous with Swift to boost it to a higher altitude and extend its life.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/these-are-the-7-best-sci-fi-games-i-saw-at-summer-game-fest-2026' target='_blank'>These are the 7 best sci-fi games I saw at Summer Game Fest 2026</a></strong> — <em>2026-06-15 19:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-webb-hubble-reveal-history-relic.html' target='_blank'>Webb and Hubble reveal the history of a relic of Milky Way's formation</a></strong> — <em>2026-06-16 23:30:01</em></summary>
 
-This is where the fun begins.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-lithium-spike-reveals-sun-star.html' target='_blank'>Lithium spike reveals sun-like star likely swallowed its planet</a></strong> — <em>2026-06-15 18:40:02</em></summary>
-
-A team of astronomers, led by Brooke Kotten of the University of Michigan, has shown that TOI-5882—a sunlike star located some 1,300 light-years away—has likely eaten one of its planets.
+Researchers using two of humanity's most powerful observatories—NASA's James Webb and Hubble Space Telescopes—have definitively shown that Terzan 5 is not a globular star cluster, as it was once classified, offering new insight into how galaxies like our own form and evolve over time.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-titan-resources-potential.html' target='_blank'>New study assesses Titan's resources and their potential uses</a></strong> — <em>2026-06-15 18:00:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-quantum-lab-aboard-space-station.html' target='_blank'>Quantum lab aboard space station gets 'chilly' upgrade</a></strong> — <em>2026-06-16 22:20:06</em></summary>
 
-Saturn's largest moon, Titan, is a unique environment in our solar system. It is the only moon (or body beyond Earth) to have a dense, nitrogen-rich atmosphere, and its methane cycle is very similar to Earth's hydrological cycle, in which solid and liquid methane evaporate to form clouds and return to the surface as precipitation. In addition, its prebiotic surface environment and rich organic chemistry make it a prime destination for astrobiology missions, such as NASA's Dragonfly mission (set to launch no earlier than July 2028).
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-galaxy-gravitational.html' target='_blank'>The galaxy's spin is hiding in the hum of gravitational waves</a></strong> — <em>2026-06-15 17:20:12</em></summary>
-
-Picture the Milky Way not as a silent pinwheel of stars but as something that quietly sings. Scattered through it are millions of pairs of dead stars, mostly white dwarfs, whirling around each other and stirring ripples in spacetime as they go. Individually, these ripples are far too faint to notice. Together, they blur into a constant background hum, and a planned European space mission called LISA is being built to listen for it.
+Astronauts aboard the International Space Station have switched on NASA's newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technologies. By leveraging the unique environment of microgravity in space, the lab can accomplish cutting-edge science impossible to do anywhere else.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day' target='_blank'>'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day'</a></strong> — <em>2026-06-15 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-asteroid-comet-meteor-meteorite-streaking.html' target='_blank'>Asteroid or comet? Meteor or meteorite? How to identify and classify the rocks you see streaking through the sky</a></strong> — <em>2026-06-16 21:40:05</em></summary>
 
-'The truth is, everybody came with their A-game. Because the script called for it. Steven definitely calls for it.'
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/nasa-x-ray-spacecraft-discovers-supernova-wreckage-at-the-heart-of-the-milky-way' target='_blank'>NASA X-ray spacecraft discovers supernova wreckage at the heart of the Milky Way</a></strong> — <em>2026-06-15 16:00:00</em></summary>
-
-NASA's Chandra X-ray spacecraft has detected the supernova wreckage of a dead star that erupted 1,700 years ago and ejected debris at 2 million miles per hour.
+Have you ever been out at night and seen a streak of light blast across the sky and disappear? Ever wonder where that shooting star came from, or how it got to be in your sky?
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/see-venus-disappear-in-broad-daylight-on-june-17th/' target='_blank'>See Venus Disappear in Broad Daylight on June 17th</a></strong> — <em>2026-06-15 15:12:52</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity' target='_blank'>NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity</a></strong> — <em>2026-06-16 21:00:00</em></summary>
 
-On June 17th, much of North America can watch the Moon occult Venus in the daytime sky. All you need are binoculars.
-The post See Venus Disappear in Broad Daylight on June 17th appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-alma-star-gas-early-galaxies.html' target='_blank'>ALMA makes first direct detection of star-forming gas in early galaxies</a></strong> — <em>2026-06-15 15:00:12</em></summary>
-
-In the early universe, the first galaxies began to take shape roughly a million years after the Big Bang. Within these young systems, stars formed from vast reservoirs of cold gas, gradually building the structures we see in the cosmos today. Understanding this star-forming gas is key to explaining how galaxies grew, but directly tracing its neutral component has remained challenging, especially at great distances.
+"We could already see changes in the jet, but never with this level of detail in X-rays."
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip' target='_blank'>Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip</a></strong> — <em>2026-06-15 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-charm-row-faint-galaxies-dark.html' target='_blank'>Third time's the charm for a row of faint galaxies without dark matter</a></strong> — <em>2026-06-16 20:50:01</em></summary>
 
-A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-swarm-of-stars-in-a-strange-irregular-galaxy-space-photo-of-the-day-for-15-2026' target='_blank'>Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for June 15, 2026</a></strong> — <em>2026-06-15 14:00:00</em></summary>
-
-This faint galaxy is hard to look away from.
+A Yale-led team of astronomers has found a third galaxy devoid of dark matter—located alongside the other two in a formation that has never been seen before. Astronomers have followed a faint, cosmic trail of gas to a third galaxy that has no dark matter.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/sun/scientists-find-strange-changes-on-sun-hours-before-a-powerful-x9-solar-flare-i-was-not-expecting-what-i-found' target='_blank'>Scientists find strange changes on sun hours before a powerful X9 solar flare: 'I was not expecting what I found'</a></strong> — <em>2026-06-15 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03' target='_blank'>Watch European rocket launch record-breaking mission for Amazon on June 17</a></strong> — <em>2026-06-16 20:01:58</em></summary>
 
-These results could benefit space weather forecasts.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_bigger_booster_more_powerful_Ariane_6_launch' target='_blank'>Watch live: bigger booster, more powerful Ariane 6 launch</a></strong> — <em>2026-06-15 12:10:00</em></summary>
-
-
+An Ariane 6 heavy-lift rocket will  launch a record-breaking load to orbit early on Wednesday morning (June 17), and you can watch the action live.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Pacific_warming_signals_El_Nino_has_stirred' target='_blank'>Pacific warming signals El Niño has stirred</a></strong> — <em>2026-06-15 11:45:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-future-martian-colonists-relativistic-clock.html' target='_blank'>Future Martian colonists will need a new relativistic clock</a></strong> — <em>2026-06-16 19:40:02</em></summary>
 
-
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/our-experts-recommend-these-image-stabilized-canon-binoculars-for-stunning-steady-views-of-the-night-sky-now-usd100-off-in-this-early-anti-prime-day-deal' target='_blank'>Our experts recommend these image-stabilized Canon binoculars for stunning, steady views of the night sky, now $100 off in this early anti-Prime Day deal</a></strong> — <em>2026-06-15 11:28:33</em></summary>
-
-We rank these Canon 18x50 IS binoculars as the best for shake-free, high-magnification stargazing. Take advantage of this summer binocular deal for fantastic views of June’s moon and Mercury conjunction.
+We think of atomic clocks as the definitive timekeepers. They are famous for being accurate down to the picosecond. Unfortunately, they are still subject to general relativity, so if you put them on a different planet, they will track time slightly faster or slower than on Earth, depending on the planet's gravity. In Mars' case, an atomic clock on its surface is sitting in a slightly shallower gravity well, meaning that time moves slightly faster there. Therefore, as we begin to expand our technological footprint on the red planet, we will need a way to standardize how time is measured there. Dr. Slava Turyshev, a researcher at NASA's Jet Propulsion Laboratory, proposes just such a framework in a new paper available on the arXiv preprint server.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/we-have-4-fundamental-forces-of-nature-quantum-gravity-could-help-lead-us-to-a-mysterious-5th' target='_blank'>We have 4 fundamental forces of nature. 'Quantum gravity' could help lead us to a mysterious 5th</a></strong> — <em>2026-06-15 10:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-deep-magma-oceans-ferric-iron.html' target='_blank'>Deep magma oceans may have locked ferric iron into majorite on Earth and Mars</a></strong> — <em>2026-06-16 18:20:05</em></summary>
 
-Scientists think a new framework for quantum gravity could offer clues about a mysterious 5th fundamental force of nature.
+In rocky planets such as Earth and Mars, the oxidation state of the mantle is thought to strongly influence the melting temperature of mantle materials (i.e., magma generation), the composition of volcanic gases, and ultimately the evolution of surface environments. In particular, during the solidification of the "magma ocean," which is believed to have been widespread during the early stages of planetary formation, the oxidation state in which iron is incorporated into minerals is considered crucial for understanding subsequent mantle evolution.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/how-to-see-the-moon-hide-venus-in-a-rare-daytime-sky-show-on-june-17' target='_blank'>Look up! The moon and Venus will stage a rare daytime disappearing act today</a></strong> — <em>2026-06-16 18:00:00</em></summary>
+
+The moon will briefly hide Venus during a rare daytime occultation on June 17, visible from parts of North America.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation' target='_blank'>Webb & Hubble reveal relic of our galaxy’s formation</a></strong> — <em>2026-06-16 17:15:00</em></summary>
+
+
+Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments.' Terzan 5 is the prototype of these remnants of our galaxy's early formation. Using the NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space Telescopes researchers have shown that Terzan 5 is not a globular star cluster as it was once classified. Instead, it is something much odder and rarer. 
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation' target='_blank'>Webb & Hubble reveal relic of our galaxy’s formation</a></strong> — <em>2026-06-16 17:15:00</em></summary>
+
+
+Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments.' Terzan 5 is the prototype of these remnants of our galaxy's early formation. Using the NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space Telescopes researchers have shown that Terzan 5 is not a globular star cluster as it was once classified. Instead, it is something much odder and rarer. 
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-black-holes-unleash-delayed-radio.html' target='_blank'>Black holes unleash delayed radio 'burps' years after tearing apart stars</a></strong> — <em>2026-06-16 17:00:03</em></summary>
+
+Astronomers using the U.S. National Science Foundation Very Large Array (NSF VLA) have found that when a supermassive black hole tears apart an unlucky star, the fireworks are not over when the first flash fades. Years after the initial outburst, many of these black holes "burp" out streams of material that slam into surrounding gas and glow in radio waves, giving the NSF VLA a front-row seat to how black holes grow and blast energy back into their galaxies.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-spacex-crs-dragon-space.html' target='_blank'>NASA's SpaceX CRS-34 Dragon returns packed with space station science</a></strong> — <em>2026-06-16 17:00:01</em></summary>
+
+Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardware, are heading back to research teams on Earth for further analysis, advancing NASA's work to prepare humans for exploration beyond low Earth orbit and to deliver benefits back home.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/the-nikon-z-fc-is-our-choice-as-the-best-budget-camera-this-retro-inspired-beauty-is-at-its-best-price-of-the-year-in-this-early-amazon-prime-day-deal' target='_blank'>The Nikon Z fc is our choice as the best budget camera — this retro-inspired beauty is at its best price of the year in this early Amazon Prime Day deal</a></strong> — <em>2026-06-16 16:35:24</em></summary>
+
+Our expert was impressed with the looks and performance of this mirrorless APS-C Nikon. This excellent all-round performer is now at its best price this year
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-chandra-tracks-m87-black-hole.html' target='_blank'>Chandra tracks M87 black hole's evolving jet in finest X-ray detail yet</a></strong> — <em>2026-06-16 16:20:05</em></summary>
+
+An international team of astronomers led by Camille Poitras, a Ph.D. student in the Faculty of Science and Engineering at Laval University, has produced the most detailed X-ray view ever obtained of the jet launched by the supermassive black hole in the galaxy M87. By combining observations from NASA's Chandra X-ray Observatory acquired between 2012 and 2025 with advanced image-processing techniques, the researchers were able to track the evolution of jet structures with unprecedented detail.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video' target='_blank'>Watch a fireball burn a 300 mile path above the Midwest US (video)</a></strong> — <em>2026-06-16 16:00:00</em></summary>
+
+The fireball traveled 300 miles in a matter of seconds before disintegrating in spectacular fashion.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/dont-miss-the-moon-lead-a-dazzling-mini-planet-parade-on-june-17' target='_blank'>The crescent moon joins 3 planets in a beautiful sunset sky show tonight</a></strong> — <em>2026-06-16 15:00:00</em></summary>
+
+The crescent moon will shine alongside Jupiter, Venus and Mercury as it passes through the Beehive open star cluster on June 17.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-revealing-black-hole-mighty-star.html' target='_blank'>Revealing how and when a black hole's mighty winds can squash star formation</a></strong> — <em>2026-06-16 14:00:06</em></summary>
+
+Thanks to the X-Ray Imaging and Spectroscopy Mission, or XRISM, University of Michigan researchers are helping chip away at one of astronomy's cosmic mysteries: The universe's most massive galaxies appear to be missing stars.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/spacex-ipo-brings-starship-to-nyc-space-photo-of-the-day-for-june-16-2026' target='_blank'>SpaceX IPO brings Starship to NYC | Space photo of the day for June 16, 2026</a></strong> — <em>2026-06-16 14:00:00</em></summary>
+
+Elon Musk became the world's first trillionaire shortly after SpaceX debuted on the Nasdaq.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-earth-life-jupiter-moon-europa.html' target='_blank'>Could Earth have sent life to Jupiter's moon Europa?</a></strong> — <em>2026-06-16 13:20:07</em></summary>
+
+Could Earth have seeded Jupiter's moon Europa with bacterial life, where it could have taken hold in Europa's ocean and perhaps evolved into something more? That's the hypothesis of a new paper in the International Journal of Astrobiology by Zaza Osmanov of the Free University of Tbilisi in Georgia.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-laser-interferometer-space-antenna-asteroid.html' target='_blank'>Laser Interferometer Space Antenna could double as an asteroid scale</a></strong> — <em>2026-06-16 13:20:02</em></summary>
+
+One of the hardest things to calculate for an asteroid is its mass—but it is such a critical feature. It determines how much of an impact it would have if it hits something, or how many resources are potentially available on it. But to accurately measure it, we typically use optical sensing and a guesstimate of its density based on its spectral profile.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-alien-megastructures-moon.html' target='_blank'>The best place to look for alien megastructures might be moon dust</a></strong> — <em>2026-06-16 13:00:03</em></summary>
+
+Our search for technosignatures—clear signs of advanced civilizations beyond Earth—takes many forms. Many are driven by the famous Drake equation, which attempts to estimate how many technological civilizations there are in the Milky Way. However, there's a big fat question mark at the end of that equation in the form of a variable intended to account for the "longevity" of a civilization. And to be clear, that doesn't mean how long the civilization itself survives. It simply means how long it actively creates a signature that is detectable by our current technology.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/move-over-mass-effect-exodus-just-got-an-extended-gameplay-reveal-and-we-are-beyond-hyped-for-this-sci-fi-rpg' target='_blank'>Move over 'Mass Effect': 'Exodus' just got an extended gameplay reveal, and we are beyond hyped for this sci-fi RPG</a></strong> — <em>2026-06-16 13:00:00</em></summary>
+
+Travel deep into the Centauri Cluster to the planet Sang in this riveting sneak peek
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-young-disk-wray-primitive-planetary.html' target='_blank'>Young disk around WRAY 15-1880 may contain a primitive planetary system</a></strong> — <em>2026-06-16 12:20:01</em></summary>
+
+Italian astronomers have used the Very Large Telescope (VLT) to perform polarimetric observations of the star WRAY 15-1880 and its young circumstellar disk. Results of the new observations, presented June 10 on the arXiv preprint server, suggest that this disk may host a primitive planetary system.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch' target='_blank'>SpaceX launches 3 huge BlueBird direct-to-cell satellites from Florida</a></strong> — <em>2026-06-16 12:00:00</em></summary>
+
+A SpaceX Falcon 9 rocket launched three of AST SpaceMobile's giant BlueBird direct-to-cell satellites early Wednesday morning (June 17).
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/little-red-dot-is-a-cocooned-black-hole/' target='_blank'>"Little Red Dot" Is a Cocooned Black Hole</a></strong> — <em>2026-06-16 12:00:00</em></summary>
+
+A deep spectrum of a mysterious "little red dot" reveals a supermassive black hole cocooned in gas so dense it's opaque — but glowing in the infrared.
+The post "Little Red Dot" Is a Cocooned Black Hole appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-powerful-ufo-blasting-distant-black.html' target='_blank'>Powerful UFO spotted blasting from a distant black hole</a></strong> — <em>2026-06-16 11:00:01</em></summary>
+
+Astronomers have detected one of the most powerful ultra-fast outflows ever seen from a distant supermassive black hole. Using XMM-Newton and NuSTAR, a team studied a hyper-luminous quasar at cosmic noon and found two distinct wind components blasting away from the black hole, details of which are outlined in a paper submitted to the arXiv preprint server on June 3. The study has been submitted to the journal Astronomy & Astrophysics and is currently under minor revision.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-forecasts-extreme-weather-on-exoplanet-that-rains-rubies-and-sapphires' target='_blank'>James Webb Space Telescope forecasts extreme weather on exoplanet that rains rubies and sapphires</a></strong> — <em>2026-06-16 10:00:00</em></summary>
+
+"With its unprecedented observational quality, JWST gives us the most detailed glimpses into distant planets to date."
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-spacex-skyrocket-money-billion.html' target='_blank'>SpaceX shares skyrocket as money raised hits $85.7 billion</a></strong> — <em>2026-06-16 09:20:01</em></summary>
+
+SpaceX shares shot 20% higher Monday as the company said it raised a record-breaking $85.7 billion.
 
 </details>
 
