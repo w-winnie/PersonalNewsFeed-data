@@ -2,271 +2,246 @@
 
     ### Summary of Recent Developments in Astrophysics
 
-#### 1. Stellar Influence on Galactic Evolution
-Recent findings underscore the significant impact of young stars on their surrounding galactic environments. A comprehensive study utilizing data from the James Webb Space Telescope and other observatories analyzed around 18,000 star-forming regions in nearby spiral galaxies. The results indicate that stellar activity plays a crucial role in shaping galactic structures, suggesting a dynamic interplay between star formation and galactic evolution that challenges previous models.
+#### 1. Enhancements in Satellite Navigation
+Recent advancements in satellite navigation technology have significant implications for the Internet of Things (IoT). The European Space Agency's Galileo program has introduced the E5a Quasi Pilot signal across 12 satellites, improving access to navigation signals for low-power devices. This upgrade is expected to enhance location-based services and facilitate the growth of smart city applications, making satellite navigation more accessible to a broader range of technologies.
 
-Key items:
-- A study published in June 2026 highlights how young stellar formations influence their environments, revealing a more complex relationship between stars and galaxies.
-- This research is part of the PHANGS survey, which aims to enhance understanding of star formation processes and their effects on galactic structures.
+Key Items:
+- The E5a Quasi Pilot signal was deployed in April 2026.
+- This upgrade specifically benefits emerging low-power devices, which are crucial for IoT.
+- It marks a pivotal step toward more user-friendly satellite navigation for mass-market applications.
 
-#### 2. Insights into Exoplanetary Atmospheres
-The James Webb Space Telescope continues to revolutionize our understanding of exoplanets, particularly in extreme conditions. Observations of HD 80606 b, a gas giant with a highly eccentric orbit, show its atmosphere undergoing extreme heating as it approaches its host star, providing critical data on exoplanetary atmospheres.
+#### 2. Insights into Cosmic Phenomena
+Recent studies are reshaping our understanding of cosmic phenomena, particularly the interactions between supermassive black holes and their host galaxies. Observations of galaxy NGC 4151 indicate that black hole winds can strip away star-forming material, resulting in diminished stellar populations. Additionally, new findings suggest that long gamma-ray bursts are more likely to originate from collapsing stars rather than neutron star mergers, offering fresh perspectives on these energetic events.
 
-Key items:
-- A recent discovery of a hot Jupiter with an unusual atmospheric hot spot challenges existing atmospheric models.
-- Another study identified a lava planet with a hydrogen-rich atmosphere, showcasing the diversity of exoplanetary environments and their implications for habitability.
+Key Items:
+- XRISM observations highlight the role of black hole winds in depleting galaxies of gas.
+- Long gamma-ray bursts are now linked to the collapse of massive stars, altering previous assumptions.
+- These insights could significantly influence theories on galaxy evolution and stellar explosions.
 
-#### 3. New Techniques in Cosmic Phenomena Analysis
-Innovative techniques, particularly machine learning, are being applied to longstanding astrophysical questions. A recent study re-evaluated the Galactic Center Excess, a mysterious gamma-ray glow at the Milky Way's center, reinforcing the notion that dark matter remains a plausible explanation for this enigmatic signal.
+#### 3. Advancements in Exoplanet Research and Astrobiology
+The James Webb Space Telescope (JWST) has made notable contributions to exoplanet research, particularly with the detection of salty clouds in the atmosphere of a cold exoplanet known as the "Pink Planet." This finding enhances our understanding of planetary atmospheres and their potential for habitability. Concurrently, advancements in Mars rover technology are improving the detection of biosignatures, as demonstrated by a recent test that successfully distinguished between different biosignature molecules.
 
-Key items:
-- The research suggests that while the origin of the gamma-ray glow is still debated, dark matter cannot be ruled out, highlighting the complexity of cosmic phenomena.
-- This trend reflects a broader movement in astrophysics toward employing advanced computational methods to deepen our understanding of cosmic mysteries.
+Key Items:
+- JWST's discovery of salty atmospheres suggests complex atmospheric chemistry on exoplanets.
+- Enhanced rover technology on Mars is refining our approach to searching for signs of life.
+- These developments illustrate the growing intersection of astrobiology and planetary science.
 
 ### Conclusion
-The current state of astrophysics is marked by an enhanced exploration of stellar dynamics, exoplanetary atmospheres, and the application of sophisticated analytical techniques. The integration of advanced observational tools like the James Webb Space Telescope and computational methods is yielding new insights into the cosmos, refining theoretical frameworks, and shaping our understanding of galactic evolution and planetary systems. As researchers continue to uncover the complexities of the universe, the implications for fundamental cosmic processes are increasingly profound.
+The current landscape of astrophysics is characterized by significant technological advancements and transformative scientific discoveries. From improving satellite navigation systems that support IoT to uncovering new insights into cosmic phenomena and advancing our understanding of exoplanets, researchers are making strides that could fundamentally alter our comprehension of the universe. As these fields continue to progress, the implications for technology and our exploration of planetary systems are profound, signaling an exciting era for astrophysics.
 
 ### Top Sources:
-1. Young stellar activity drives galactic evolution across the universe - https://phys.org/news/2026-06-young-stellar-galactic-evolution-universe.html - New study reveals how young stars shape their galactic environments.
-2. NASA's Webb catches exoplanet getting roasted - https://phys.org/news/2026-06-nasa-webb-exoplanet-roasted.html - Observations of HD 80606 b show extreme atmospheric conditions.
-3. Dark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center - https://phys.org/news/2026-06-dark-gamma-ray-milky-center.html - Machine learning analysis suggests dark matter remains a contender for explaining gamma-ray emissions.
-4. Oddball exoplanet challenges what it means to be a hot Jupiter - https://phys.org/news/2026-06-oddball-exoplanet-hot-jupiter.html - Research on CoRoT-2 b reveals unexpected atmospheric characteristics.
-5. Supernova origins explored through primordial black holes - https://phys.org/news/2026-06-supernova-explored-primordial-black-holes.html - New research connects primordial black holes to Type Ia supernovae.
-6. Radar echoes from Europa reveal secrets beneath the ice - https://phys.org/news/2026-06-radar-echoes-europa-reveal-secrets.html - Extensive radar study uncovers surface properties of Jupiter's moon Europa.
-7. Dozens of active dust devils caught swirling across Mars canyon system - https://phys.org/news/2026-06-dozens-devils-caught-swirling-mars.html - Mars Express captures images of dust devils on Mars.
-8. Mineral garnet discovered in Mars meteorite may reveal how the red planet evolved billions of years ago - https://phys.org/news/2026-06-mineral-garnet-mars-meteorite-reveal.html - New findings provide insights into Mars' geological history.
-9. The search for dark matter: New insights from the Galactic Center - https://www.sciencenews.org/article/dark-matter-galactic-center-excess - Research sheds light on the ongoing mystery of dark matter.
-10. The role of cosmic dust in star formation revealed - https://www.nature.com/articles/s41586-026-01234-5 - Study highlights the importance of cosmic dust in the star formation process.
+1. Galileo signal updated for internet-of-things use - https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use - New signal component enhances accessibility for IoT devices.
+2. Black hole winds may be robbing giant galaxies of their future stars - https://www.sciencedaily.com/releases/2026/06/260618041454.htm - Study suggests black holes deplete star-forming material in galaxies.
+3. Long gamma-ray bursts may trace collapsing stars rather than neutron-star mergers - https://phys.org/news/2026-06-gamma-ray-collapsing-stars-neutron.html - New research shifts understanding of gamma-ray burst origins.
+4. James Webb Space Telescope finds a salty surprise on famous 'Pink Planet' - https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet - Discovery of salty clouds enhances knowledge of exoplanet atmospheres.
+5. Mars life search gets boost as rover test distinguishes mirrored biosignature molecules - https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html - Advancements in rover technology improve biosignature detection.
+6. Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy - https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy - First link between a galaxy and a high-energy neutrino event.
+7. Fermi mission uncovers possible sibling supernova remnants - https://phys.org/news/2026-06-fermi-mission-uncovers-sibling-supernova.html - Study reveals potential connections between supernova explosions.
+8. Hubble glimpses merging galaxy clusters - https://phys.org/news/2026-06-hubble-glimpses-merging-galaxy-clusters.html - New observations of merging clusters provide insights into cosmic structure.
+9. Alpha Magnetic Spectrometer reveals four cosmic ray classes across 20 elements, defying current models - https://phys.org/news/2026-06-alpha-magnetic-spectrometer-reveals-cosmic.html - Findings challenge existing models of cosmic ray origins.
+10. Ripple-like rings of the 'Bullseye galaxy' could be explained by dark matter - https://phys.org/news/2026-06-ripple-bullseye-galaxy-dark.html - New theory links galaxy structure to dark matter behavior.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/' target='_blank'>El Niño Is Underway</a></strong> — <em>2026-06-18 04:00:00</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use' target='_blank'>Galileo signal updated for internet-of-things use</a></strong> — <em>2026-06-19 13:55:00</em></summary>
 
-Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-lava-planet-hydrogen-rich-atmosphere.html' target='_blank'>Lava planet has hydrogen-rich, active atmosphere</a></strong> — <em>2026-06-17 23:00:01</em></summary>
-
-It's 2158, and you're chugging away on your Ph.D. in planetary volcanology from the University of Utopia Planitia on Mars. Graduate students still get paid a sub-living wage, so you've been stuck eating freeze-dried ramen for the past three years. You've completed studying Jupiter's moon Io, but now you have to leave the solar system for a good exoplanet analog. While Io's volcanism is caused by tidal heating, you need an exoplanet whose volcanism is caused by extreme heat from its host star. You recently secured funding from the Exoplanet Research Institute for a faster-than-light (FTL) ship, but the exoplanet is required to be less than 50 light-years away.
+In April, Galileo marked a step forward with the deployment of a new signal component, known as E5a Quasi Pilot, on 12 satellites of Europe’s satellite navigation constellation. This upgrade makes Galileo signals easier to access, particularly on emerging mass-market, low-power devices used for Internet of Things and smart city applications.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-young-stellar-galactic-evolution-universe.html' target='_blank'>Young stellar activity drives galactic evolution across the universe</a></strong> — <em>2026-06-17 22:40:01</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-june-19-28/' target='_blank'>This Week's Sky at a Glance, June 19 – 28</a></strong> — <em>2026-06-19 08:42:00</em></summary>
 
-Astronomers have revealed new details about how young stars shape their galactic surroundings in a new study. Researchers analyzed about 18,000 star-forming regions in nearby spiral galaxies using data from powerful instruments like the James Webb Space Telescope, Hubble Space Telescope and the Atacama Large Millimeter/submillimeter Array, whose observations were made as part of the PHANGS survey—a collaboration aimed at better understanding galactic evolution.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/' target='_blank'>NASA Announces Public-Private Partnership to Advance Mars Science</a></strong> — <em>2026-06-17 22:29:09</em></summary>
-
-NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment […]
+The Moon as it will appear in an amateur telescope at 10 p.m. EDT Friday the 19th. This week Venus and Jupiter continue moving apart low in the western twilight. Vega and Arcturus shine equally high after dark. And watch Beta Lyrae self-eclipse.
+The post This Week's Sky at a Glance, June 19 – 28 appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/one-of-these-twin-stars-has-likely-been-snacking-on-exoplanets' target='_blank'>One of these twin stars has likely been snacking on exoplanets</a></strong> — <em>2026-06-17 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images' target='_blank'>Earth from Space celebrates 1000 images</a></strong> — <em>2026-06-19 08:00:00</em></summary>
 
-Astronomers have discovered chemical differences between binary stars that indicate one has devoured at least one planet.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-mars-mission-simulations-reveal-key.html' target='_blank'>Mars mission simulations reveal key to teamwork under pressure</a></strong> — <em>2026-06-17 20:00:01</em></summary>
-
-Whether it's to the moon or Mars, a NASA mission requires some essential preparations: designing and developing the spacecraft, astronaut training and safety checks, clear goals, and strategies and procedures for maintaining communication between crews on Earth and in space.
+	Image:
+			ESA’s Earth from Space series reaches its 1000th image with a return to the vibrant waters of southern Florida, Cuba and the Bahamas – the same region featured in the very first edition in 2004.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/' target='_blank'>Search for Hidden Cosmic Companions in Sun’s Backyard</a></strong> — <em>2026-06-17 19:40:03</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260618041454.htm' target='_blank'>Black hole winds may be robbing giant galaxies of their future stars</a></strong> — <em>2026-06-19 04:26:43</em></summary>
 
-Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-supernova-explored-primordial-black-holes.html' target='_blank'>Supernova origins explored through primordial black holes</a></strong> — <em>2026-06-17 19:20:06</em></summary>
-
-Dr. Shing-Chi Leung, assistant professor of physics at SUNY Polytechnic Institute, has published the article "Primordial Black Hole Triggered Type Ia Supernovae II: Comparison with Supernova Remnants and Galactic Chemical Evolution" in The Astrophysical Journal. The paper was co-authored by SUNY Poly student Seth Walther, a senior majoring in electrical and computer engineering and applied mathematics with a minor in physics; Alexander Kusenko (UCLA); Ken'ichi Nomoto (Kavli IPMU, recipient of the 2026 Shaw Prize in Astronomy and the 2026 Gruber Cosmology Prize); and Tomoharu Suzuki (Chubu University).
+Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy called NGC 4151, researchers found strong evidence that supermassive black holes can unleash powerful winds that blow away the raw material needed to make new stars.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star' target='_blank'>James Webb Space Telescope discovers extreme exoplanet being roasted by its home star</a></strong> — <em>2026-06-17 19:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260618041501.htm' target='_blank'>SpaceX wants to build AI data centers in space. Will it work?</a></strong> — <em>2026-06-19 03:43:09</em></summary>
 
-Who ordered the roasted exoplanet? Astronomers using the James Webb Space Telescope found a world that really puts the "hot" in "Hot Jupiter."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-lofar-reveals-spike-radio-pairs.html' target='_blank'>LOFAR reveals spike-like repeating radio burst pairs in the solar corona</a></strong> — <em>2026-06-17 18:40:01</em></summary>
-
-The solar atmosphere is a turbulent and magnetized environment, with the release of magnetic energy readily manifesting as emission across the electromagnetic spectrum. Solar radio emission dominates the radio sky, with the brightest solar radio bursts generated via the plasma emission process. The emission has a complex frequency-time structure with many features that are yet to be understood.
+The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-dozens-devils-caught-swirling-mars.html' target='_blank'>Dozens of active dust devils caught swirling across Mars canyon system</a></strong> — <em>2026-06-17 18:20:02</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-gamma-ray-collapsing-stars-neutron.html' target='_blank'>Long gamma-ray bursts may trace collapsing stars rather than neutron-star mergers</a></strong> — <em>2026-06-18 22:40:01</em></summary>
 
-The European Space Agency's Mars Express has captured part of Mars's Mamers Valles, a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/warframes-new-constellations-update-puts-the-focus-back-among-the-stars' target='_blank'>'Warframe''s new Constellations update puts the focus back among the stars (interview)</a></strong> — <em>2026-06-17 18:00:00</em></summary>
-
-With its latest major update, Digital Extremes makes space for old mechanics and new ideas in the cosmos.
+Long-duration gamma-ray bursts are some of the most energetic events in the universe, releasing more energy in just a few seconds than the sun emits in 10 billion years. Los Alamos National Laboratory scientists, having discovered gamma-ray bursts more than 50 years ago, continue to add to the understanding of these mysterious events.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-high-res-secret-alien-life.html' target='_blank'>'High-res' is the secret to finding alien life with the next great space telescope</a></strong> — <em>2026-06-17 17:20:09</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-energetic-neutral-atoms-uranus-odd.html' target='_blank'>Energetic neutral atoms may help map Uranus's odd magnetic environment</a></strong> — <em>2026-06-18 22:20:02</em></summary>
 
-We're still in the definition phase of the Habitable Worlds Observatory (HWO), but it seems like every week a new research group comes out with a paper helping to shape what is becoming one of the most important space telescopes of the 2040s. A new paper posted to the arXiv preprint server from a team of researchers led by Daniel Jaffe of the University of Texas at Austin contributes to this ongoing definition work by arguing that it's time HWO adopted a high-resolution near-IR spectroscopy capability—which sounds great in practice, but so far hasn't been attempted because of technological limitations. But, according to the paper, two recent inventions finally make a working version of an extremely high-resolution exoplanet hunter viable.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-groundbreaking-astronaut-christina-koch-spanish.html' target='_blank'>Groundbreaking US astronaut Christina Koch wins top Spanish award</a></strong> — <em>2026-06-17 16:40:01</em></summary>
-
-US astronaut Christina Koch, the first woman to take part in a lunar mission, was named Wednesday the winner of a top Spanish prize for having "helped extend the frontiers of humanity."
+Sending a spacecraft to the underexplored planet Uranus is at the top of many planetary scientists' wish lists. But which spacecraft-mounted instruments would be most useful for answering questions about the mysterious ice giant?
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-2000s' target='_blank'>The 10 best sci-fi TV shows of the 2000s</a></strong> — <em>2026-06-17 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html' target='_blank'>Asteroid Donaldjohanson wobbles as it rotates, Lucy flyby reveals</a></strong> — <em>2026-06-18 21:20:02</em></summary>
 
-From 'Battlestar Galactica' and 'Lost,' to 'Fringe' and 'Invader Zim,' this all-star roster of sci-fi programming will have you revisiting all these sensational series.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/see-venus-disappear-in-broad-daylight-on-june-17th/' target='_blank'>See Venus Disappear in Broad Daylight on June 17th</a></strong> — <em>2026-06-17 15:12:52</em></summary>
-
-On June 17th, much of North America can watch the Moon occult Venus in the daytime sky. All you need are binoculars.
-The post See Venus Disappear in Broad Daylight on June 17th appeared first on Sky & Telescope.
+Southwest Research Institute (SwRI) scientists studying the inner main-belt asteroid Donaldjohanson have found that its rotation wobbles. Rather than rolling through space in a steady pattern, Donaldjohanson turns on two axes, rotating end over end once every 10.5 Earth days while wobbling around its horizontal axis every 26.5 days. The findings are published in the journal Science.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session' target='_blank'>347th ESA Council: Media information session</a></strong> — <em>2026-06-17 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy' target='_blank'>Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy</a></strong> — <em>2026-06-18 21:00:00</em></summary>
+
+"If confirmed, Shadow Blaster would be the first-ever individual dusty star-forming galaxy directly linked to a high-energy neutrino event."
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-fermi-mission-uncovers-sibling-supernova.html' target='_blank'>Fermi mission uncovers possible sibling supernova remnants</a></strong> — <em>2026-06-18 20:40:05</em></summary>
+
+A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star's detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up, too.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-telescope-mirror-stability-exoplanet.html' target='_blank'>How a telescope's mirror stability makes or breaks exoplanet detection</a></strong> — <em>2026-06-18 20:20:01</em></summary>
+
+Finding life beyond our solar system is a major goal of modern astronomy. NASA's planned Habitable Worlds Observatory (HWO) aims to take direct images of Earth-sized planets around stars other than our sun. This task, however, is extraordinarily difficult, given that these planets are roughly 10 billion times fainter than their host stars. To detect them, scientists must find ways to suppress nearly all of the nearby starlight, which would otherwise overwhelm the faint planetary signal.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-alpha-magnetic-spectrometer-reveals-cosmic.html' target='_blank'>Alpha Magnetic Spectrometer reveals four cosmic ray classes across 20 elements, defying current models</a></strong> — <em>2026-06-18 20:00:05</em></summary>
+
+Millions of light-years away, millions of years ago, a star exploded. In this violent process, it ejected incredible amounts of mass, including carbon, nitrogen and oxygen—the building blocks of life. In fact, the star may have produced elements on the periodic table all the way up to iron. As it exploded, it spewed these elements into deep space. Only a burnt-out core remained.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-hubble-glimpses-merging-galaxy-clusters.html' target='_blank'>Hubble glimpses merging galaxy clusters</a></strong> — <em>2026-06-18 20:00:04</em></summary>
+
+This NASA Hubble Space Telescope image features a galaxy cluster called CL0016+1609, or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. X-ray observations of this cluster revealed that it is two clusters merging along our line of sight.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet' target='_blank'>James Webb Space Telescope finds a salty surprise on famous 'Pink Planet'</a></strong> — <em>2026-06-18 20:00:00</em></summary>
+
+Using the James Webb Space Telescope, astronomers have discovered that one of the coldest exoplanets ever discovered, the so-called Pink Planet, harbors a salty surprise.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/uncategorized/lucys-first-asteroid-flyby-sheds-light-on-a-double-lobed-asteroid/' target='_blank'>Lucy's First Asteroid Flyby Sheds Light on a Double-lobed Asteroid</a></strong> — <em>2026-06-18 18:21:42</em></summary>
+
+On its way to future encounters with Trojan asteroids, the Lucy spacecraft made a practice run past tiny asteroid 52246 Donaldjohanson on April 20, 2025. Today, the Lucy team, led […]
+The post Lucy's First Asteroid Flyby Sheds Light on a Double-lobed Asteroid appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html' target='_blank'>Mars life search gets boost as rover test distinguishes mirrored biosignature molecules</a></strong> — <em>2026-06-18 18:20:05</em></summary>
+
+Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely warm, humid and surrounded by a dense atmosphere. Whether simple microorganisms could have evolved at that time remains an open question.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/jared-letos-unreal-skeletor-transformation-for-masters-of-the-universe-only-took-15-minutes-interview' target='_blank'>Jared Leto's unreal Skeletor transformation for 'Masters of the Universe' only took '15 minutes' (interview)</a></strong> — <em>2026-06-18 18:00:00</em></summary>
+
+'He was a joy to work with on set, he really was. He was a lot of fun and there was this charismatic presence every day.'
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro' target='_blank'>Watch SpaceX launch new batch of US spy satellites from California early on June 19</a></strong> — <em>2026-06-18 17:00:00</em></summary>
+
+SpaceX will launch the latest batch of spy satellites for the U.S. government early Friday morning (June 19), and you can watch the action live.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal' target='_blank'>You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal</a></strong> — <em>2026-06-18 16:26:02</em></summary>
+
+The Fujinon Techno-Stabi TS-L 1640 image-stabilized binoculars are perfect for steady stargazing with 16x magnification, 40mm objective lenses and strong image stabilization, on sale for $1,125 at Walmart.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/sun-like-star-may-have-swallowed-an-exoplanet-with-help-from-a-mysterious-companion-you-are-what-you-eat-right' target='_blank'>Sun-like star may have swallowed an exoplanet with help from a mysterious companion: 'You are what you eat, right?'</a></strong> — <em>2026-06-18 16:00:00</em></summary>
+
+"That's what makes this field so exciting. You really are solving a mystery."
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-hidden-electric-space-quietly-earth.html' target='_blank'>Hidden electric space waves are quietly cleaning Earth's 'killer' electrons</a></strong> — <em>2026-06-18 15:20:07</em></summary>
+
+High above our heads, a silent battle is unfolding within Earth's magnetic shield. For decades, scientists have tracked "killer electrons"—ultrafast particles capable of piercing satellite armor and endangering astronauts as they zip through the Van Allen radiation belts. While we knew these dangerous particles eventually leak out of the belts and into the atmosphere, the primary mechanism "cleaning" the highest-energy electrons has remained a persistent mystery of space weather.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights' target='_blank'>Sophie Adenot's mid-mission highlights</a></strong> — <em>2026-06-18 15:15:00</em></summary>
 
 
 	Video: 
-			00:49:43
-				Watch the replay of the media information session where ESA Director General Josef Aschbacher and outgoing ESA Council Chair Renato Krpoun provide an update on the main outcomes of the 347th ESA Council meeting, held at ESA Headquarters in Paris on 16–17 June 2026.
+			00:02:03
+				Sophie is halfway through the εpsilon mission onboard the ISS, and she has already accomplished so much. Between hundreds of hours of scientific research and thousands of photographs taken from space, she has taken the time to share many unforgettable moments with us — inspiring millions along the way on social media.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/' target='_blank'>Hubble Sees Swarm of Galaxies</a></strong> — <em>2026-06-17 14:56:13</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-captures-a-cosmic-lagoon-glowing-5-200-light-years-from-earth-photo' target='_blank'>Astrophotographer captures a cosmic lagoon glowing 5,200 light-years from Earth (photo)</a></strong> — <em>2026-06-18 15:00:00</em></summary>
 
-Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-payload-electronics-flight-software-nasa.html' target='_blank'>Payload electronics and flight software being developed for NASA's Landsat 10 spacecraft</a></strong> — <em>2026-06-17 14:20:11</em></summary>
-
-Southwest Research Institute (SwRI) is developing electronics and flight software for the NASA/U.S. Geological Survey (USGS) Landsat 10 satellite, which is set to launch in 2031 to collect new and improved Earth observation data. The mission continues NASA's and USGS's partnership on the ongoing Landsat program, which has launched nine satellites since 1972 and provided more than 10 million images of Earth's surface.
+The Lagoon Nebula is best spotted in the months surrounding August in the Northern Hemisphere.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-mineral-garnet-mars-meteorite-reveal.html' target='_blank'>Mineral garnet discovered in Mars meteorite may reveal how the red planet evolved billions of years ago</a></strong> — <em>2026-06-17 14:00:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-famous-pink-planet-harbors-salty.html' target='_blank'>Famous 'Pink Planet' harbors a salty surprise</a></strong> — <em>2026-06-18 14:00:09</em></summary>
 
-An international team of scientists has identified a completely new type of rock from the red planet and, for the first time, discovered the mineral garnet in a Martian sample. The breakthrough offers a rare glimpse into Mars' ancient past and could help researchers piece together the planet's 4.5-billion-year geological history. The discovery was made by an international research team including James Darling, professor of Earth and planetary science, from the University of Portsmouth's School of the Environment and Life Sciences.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026' target='_blank'>A volcanic eruption seen from space | Space photo of the day for June 17, 2026</a></strong> — <em>2026-06-17 14:00:00</em></summary>
-
-Hawaii's Kīlauea volcano shot out lava for the 49th time that we know of.
+Northwestern University-led astronomers have discovered salty skies surrounding the universe's famous "Pink Planet." For more than a decade, the ancient, rosy-hazed world kept astronomers guessing. One of the coldest known planetary-mass companions ever directly imaged, the elusive object is too faint for astronomers to dissect its light from Earth. But new observations from the James Webb Space Telescope (JWST) reveal an atmosphere filled with exotic chemistry—and salty clouds unlike anything seen before.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_with_more_powerful_boosters_a_new_record_for_Europe' target='_blank'>Ariane 6 launches with more powerful boosters: a new record for Europe</a></strong> — <em>2026-06-17 13:50:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/these-mars-valleys-are-hiding-30-dust-devils-space-photo-of-the-day-for-june-18-2026' target='_blank'>These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026</a></strong> — <em>2026-06-18 14:00:00</em></summary>
 
-
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-dark-gamma-ray-milky-center.html' target='_blank'>Dark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center, machine learning shows</a></strong> — <em>2026-06-17 13:20:01</em></summary>
-
-An international research collaboration between the University of Vienna and Lawrence Berkeley National Laboratory in the United States has used machine learning to re-examine one of the most debated signals in astrophysics. The so-called Galactic Center Excess (GCE), a faint, roughly spherical glow of gamma rays at the center of the Milky Way, has fascinated physicists for more than a decade. The new results suggest that an explanation in terms of dark matter cannot currently be ruled out. The results have now been published in the journal Physical Review Letters.
+Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet — and dust devils dot the alien landscape.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/First_Ariane_6_liftoff_with_most_powerful_boosters' target='_blank'>First Ariane 6 liftoff with most powerful boosters</a></strong> — <em>2026-06-17 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering' target='_blank'>'It's quite a bit more than we expected': Satellite reveals immense scale of GPS signal tampering</a></strong> — <em>2026-06-18 13:00:00</em></summary>
 
-
-	Video: 
-			00:03:05
-				On the 17th of June Ariane 6 flight VA269 soared to orbit from Europe's Spaceport in French Guiana. The latest generation of Europe's largest and most powerful rocket launched 36 satellites for Amazon's Leo constellation. The debut of the four new boosters based on the P160C solid-propellant rocket motor allowed 36 satellites to be launched, four more than the two Leo launches Ariane 6 had delivered before.  Ariane 6 is Europe’s heavy-lift launcher and a key element of ESA’s efforts to ensure autonomous access to space for Europe’s citizens. The new P160C boosters increase considerably performance, payload capacity and competitiveness, allowing for more satellites to be launched, further elevating the future of Europe.Watch the full replay of the live event
+For the first time, an experimental satellite has mapped the scale of GPS jamming across Europe and the Middle East from space.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-webb-exoplanet-roasted.html' target='_blank'>NASA's Webb catches exoplanet getting roasted</a></strong> — <em>2026-06-17 12:40:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-ripple-bullseye-galaxy-dark.html' target='_blank'>Ripple-like rings of the 'Bullseye galaxy' could be explained by dark matter</a></strong> — <em>2026-06-18 12:40:01</em></summary>
 
-One well-done gas giant, coming right up! That's the latest from researchers analyzing NASA's James Webb Space Telescope observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its sun-like star. The research team is presenting its study and preliminary findings Tuesday at the 248th meeting of the American Astronomical Society (AAS248) in Pasadena, California.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-radar-echoes-europa-reveal-secrets.html' target='_blank'>Radar echoes from Europa reveal secrets beneath the ice</a></strong> — <em>2026-06-17 12:20:06</em></summary>
-
-A team of scientists has used NASA's Goldstone Solar System Radar and the U.S. National Science Foundation Green Bank Telescope (NSF GBT) to carry out the most extensive radar study to date of Europa, the ocean world orbiting Jupiter. By repeatedly "pinging" Europa with 3.5-centimeter (1.4-inch) radio waves between 2011 and 2024, the team measured how the moon reflects radar signals and confirmed that its icy surface scatters radio energy in an unusually strong and complex way not seen on rocky worlds.
+Two U.S. physicists have suggested that the nine concentric rings surrounding the galaxy LEDA 1313424, also known as the Bullseye galaxy, could have emerged through the quantum behavior of particles of dark matter. Through analysis published in The Astrophysical Journal, Pierre Sikivie and Yuxin Zhao at the University of Florida argue that the extraordinary structure wasn't created by a collision between galaxies, as previous theories had suggested—but by a Bose-Einstein condensate of axions.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/was-life-delivered-to-earth-by-asteroids-with-a-helping-hand-from-jupiter' target='_blank'>Was life delivered to Earth by asteroids with a helping hand from Jupiter?</a></strong> — <em>2026-06-17 12:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/astronomers-solve-the-mystery-of-black-holes-delayed-cosmic-burps' target='_blank'>Astronomers solve the mystery of black holes' delayed cosmic 'burps'</a></strong> — <em>2026-06-18 12:00:00</em></summary>
 
-Earth may have gotten some of the key ingredients for life from asteroids in the inner solar system, but not without assistance from Jupiter.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-blogs/ancient-skies-the-moon-that-returns-once-in-a-generation/' target='_blank'>Ancient Skies: The Moon That Returns Once in a Generation</a></strong> — <em>2026-06-17 12:00:00</em></summary>
-
-The 18.6-year cycle of the lunar standstill belongs to the Moon. But recognizing it belongs to us. For centuries, people have watched carefully enough, remembered long enough, and taught faithfully enough to discover patterns that unfolded across generations.
-The post Ancient Skies: The Moon That Returns Once in a Generation appeared first on Sky & Telescope.
+A new study reveals why black holes let out massive radio "burps" years after eating stars, giving astronomers a chemical blueprint to predict them early.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-oddball-exoplanet-hot-jupiter.html' target='_blank'>Oddball exoplanet challenges what it means to be a hot Jupiter</a></strong> — <em>2026-06-17 11:20:09</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/shadow-blaster-galaxy-might-have-sent-high-energy-neutrino-to-earth/' target='_blank'>“Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth</a></strong> — <em>2026-06-18 12:00:00</em></summary>
 
-New research led by a scientist at IPAC—a science and data center for astrophysics and planetary science at Caltech—studying the hot Jupiter CoRoT-2 b has settled on one of the three leading hypotheses explaining why its atmosphere has a hot spot in the opposite direction from that seen on all other exoplanets of this type.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter' target='_blank'>'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter</a></strong> — <em>2026-06-17 10:00:00</em></summary>
-
-NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.
+A star-forming galaxy in the early universe might have sent a ghostly particle known as a neutrino crashing into the ice at Earth’s South Pole, after an 11 billion-year journey through space. 
+The post “Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/About_Us/Corporate_news/ESA_Council_appoints_two_new_directors' target='_blank'>ESA Council appoints two new directors</a></strong> — <em>2026-06-17 09:44:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-texas-wine-grapes-space-mission.html' target='_blank'>Texas wine grapes launch to space for research mission</a></strong> — <em>2026-06-18 11:20:03</em></summary>
 
-
-The European Space Agency Council has approved the appointment of two new directors: Christine Klein as Director of Controlling, Finance and Operational Procurement, and Jean-Luc Trullemans as Director of Strategy, Legal and External Affairs.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June' target='_blank'>ESA Impact: a look at ESA’s spring milestones</a></strong> — <em>2026-06-17 09:24:00</em></summary>
-
-
-ESA Impact: a look at ESA’s spring milestones
-
+Researchers from Texas A&M AgriLife are sending hundreds of grape seeds to the International Space Station, where the seeds will spend approximately six months exposed to cosmic radiation before returning to Earth for planting and study. The project could produce what researchers believe to be the first wine made from grapes grown from seeds that traveled through space.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/stream-season-3-of-silo-in-safety-anywhere-with-70-percent-off-24-months-of-protonvpn-plus' target='_blank'>Stream Season 3 of Silo in safety, anywhere, with 70% off 24 months of ProtonVPN Plus</a></strong> — <em>2026-06-17 09:06:17</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260616103131.htm' target='_blank'>Could cosmic memory explain dark matter, dark energy, and black holes?</a></strong> — <em>2026-06-18 10:31:23</em></summary>
 
-Can't wait for Season 3 of Silo? Watch this post-apocalyptic smash wherever you are and stay safe online with this superb ProtonVPN deal.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-neutrino-ghost-distant-shadow-blaster.html' target='_blank'>Tracing a neutrino ghost to a distant 'shadow blaster' galaxy</a></strong> — <em>2026-06-17 09:00:01</em></summary>
-
-Neutrinos are one of the fundamental particles of the universe. They live a ghostly existence with no electric charge, very little mass and extremely few interactions with matter. They are also the most abundant particles with mass in the universe and can be created through a variety of processes, such as the decay of heavy particles, nuclear reactions in the sun and the explosions of stars.
+A new theory suggests the universe is constantly recording its own history in the fabric of spacetime. If correct, this cosmic memory could help solve some of the biggest puzzles in physics, from black holes to dark matter and the universe’s ultimate fate.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight' target='_blank'>Dozens of dust devils hidden in plain sight</a></strong> — <em>2026-06-17 09:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/nasas-perseverance-rover-just-ran-a-marathon-on-mars-could-you-do-the-same' target='_blank'>NASA's Perseverance rover just ran a marathon on Mars. Could you do the same?</a></strong> — <em>2026-06-18 10:00:00</em></summary>
 
-
-The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight' target='_blank'>Dozens of dust devils hidden in plain sight</a></strong> — <em>2026-06-17 09:00:00</em></summary>
-
-
-The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.
+Percy has now traveled more than 26.2 miles on the Red Planet! Could you?
 
 </details>
 
