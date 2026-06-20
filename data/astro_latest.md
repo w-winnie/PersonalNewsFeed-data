@@ -1,53 +1,161 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Emerging Mars Missions and Technologies
+Recent developments in Mars exploration highlight an increasing collaboration between NASA and private companies. The upcoming Aeolus mission, set for 2028, will utilize a private partner to design and launch a new Mars orbiter capable of providing daily measurements of the Martian environment, marking a significant leap in our ability to monitor planetary conditions. This partnership not only reflects a trend of public-private collaboration in space but also promises to enhance our understanding of Mars' atmospheric dynamics.
 
-#### 1. Enhancements in Satellite Navigation
-Recent advancements in satellite navigation technology have significant implications for the Internet of Things (IoT). The European Space Agency's Galileo program has introduced the E5a Quasi Pilot signal across 12 satellites, improving access to navigation signals for low-power devices. This upgrade is expected to enhance location-based services and facilitate the growth of smart city applications, making satellite navigation more accessible to a broader range of technologies.
+Key items illustrating this theme include:
+1. NASA's Aeolus mission - https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex - A new Mars orbiter will offer unprecedented environmental data.
+2. NASA's Swift space observatory - https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it - A plan is underway to save the Swift telescope from falling out of orbit, highlighting challenges in maintaining space assets.
 
-Key Items:
-- The E5a Quasi Pilot signal was deployed in April 2026.
-- This upgrade specifically benefits emerging low-power devices, which are crucial for IoT.
-- It marks a pivotal step toward more user-friendly satellite navigation for mass-market applications.
+### Insights into Cosmic Structures
+The James Webb Space Telescope (JWST) has made groundbreaking discoveries regarding early galaxy clusters, revealing a surprisingly well-formed cluster that challenges existing paradigms of cosmic evolution. This cluster, characterized by significant gravitational lensing, suggests that galaxy formation occurred more rapidly than previously believed during the universe's "cosmic noon." Such findings could reshape our understanding of the timeline and processes involved in the formation of cosmic structures.
 
-#### 2. Insights into Cosmic Phenomena
-Recent studies are reshaping our understanding of cosmic phenomena, particularly the interactions between supermassive black holes and their host galaxies. Observations of galaxy NGC 4151 indicate that black hole winds can strip away star-forming material, resulting in diminished stellar populations. Additionally, new findings suggest that long gamma-ray bursts are more likely to originate from collapsing stars rather than neutron star mergers, offering fresh perspectives on these energetic events.
+Key items illustrating this theme include:
+1. JWST's discovery - https://phys.org/news/2026-06-jwst-images-abnormally-galaxy-cluster.html - A distant galaxy cluster challenges theories of early cosmic structure formation.
+2. Bullet Cluster analysis - https://phys.org/news/2026-06-bullet-cluster-reopen-dark-debate.html - New data suggests alternative explanations for dark matter, potentially reducing its previously assumed abundance.
 
-Key Items:
-- XRISM observations highlight the role of black hole winds in depleting galaxies of gas.
-- Long gamma-ray bursts are now linked to the collapse of massive stars, altering previous assumptions.
-- These insights could significantly influence theories on galaxy evolution and stellar explosions.
+### Innovations in Space Research
+NASA's focus on space weather has led to the selection of a new mission concept aimed at understanding its effects on Earth's atmosphere and technology. This mission reflects an increasing recognition of the need to predict and mitigate the impacts of solar activity on critical infrastructure, which is essential for both terrestrial and space operations. Additionally, research into human health in space, including the study of menstruation in microgravity, highlights the importance of addressing biological challenges for long-duration missions.
 
-#### 3. Advancements in Exoplanet Research and Astrobiology
-The James Webb Space Telescope (JWST) has made notable contributions to exoplanet research, particularly with the detection of salty clouds in the atmosphere of a cold exoplanet known as the "Pink Planet." This finding enhances our understanding of planetary atmospheres and their potential for habitability. Concurrently, advancements in Mars rover technology are improving the detection of biosignatures, as demonstrated by a recent test that successfully distinguished between different biosignature molecules.
-
-Key Items:
-- JWST's discovery of salty atmospheres suggests complex atmospheric chemistry on exoplanets.
-- Enhanced rover technology on Mars is refining our approach to searching for signs of life.
-- These developments illustrate the growing intersection of astrobiology and planetary science.
+Key items illustrating this theme include:
+1. Space weather mission - https://phys.org/news/2026-06-nasa-mission-space-weather-impacts.html - A new mission will study the effects of space weather on Earth's atmosphere.
+2. Operation Period study - https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period - Research will explore menstruation in space, addressing human health in extraterrestrial environments.
 
 ### Conclusion
-The current landscape of astrophysics is characterized by significant technological advancements and transformative scientific discoveries. From improving satellite navigation systems that support IoT to uncovering new insights into cosmic phenomena and advancing our understanding of exoplanets, researchers are making strides that could fundamentally alter our comprehension of the universe. As these fields continue to progress, the implications for technology and our exploration of planetary systems are profound, signaling an exciting era for astrophysics.
+The current landscape of astrophysics is marked by significant advancements in Mars exploration, insights into cosmic structures, and innovations in space research. The integration of private sector capabilities alongside groundbreaking scientific discoveries is enhancing our understanding of the universe and the complexities of human presence in space. As missions evolve and new technologies are developed, the potential for deeper insights into both cosmic phenomena and the challenges of long-duration spaceflight continues to grow.
 
-### Top Sources:
-1. Galileo signal updated for internet-of-things use - https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use - New signal component enhances accessibility for IoT devices.
-2. Black hole winds may be robbing giant galaxies of their future stars - https://www.sciencedaily.com/releases/2026/06/260618041454.htm - Study suggests black holes deplete star-forming material in galaxies.
-3. Long gamma-ray bursts may trace collapsing stars rather than neutron-star mergers - https://phys.org/news/2026-06-gamma-ray-collapsing-stars-neutron.html - New research shifts understanding of gamma-ray burst origins.
-4. James Webb Space Telescope finds a salty surprise on famous 'Pink Planet' - https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet - Discovery of salty clouds enhances knowledge of exoplanet atmospheres.
-5. Mars life search gets boost as rover test distinguishes mirrored biosignature molecules - https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html - Advancements in rover technology improve biosignature detection.
-6. Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy - https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy - First link between a galaxy and a high-energy neutrino event.
-7. Fermi mission uncovers possible sibling supernova remnants - https://phys.org/news/2026-06-fermi-mission-uncovers-sibling-supernova.html - Study reveals potential connections between supernova explosions.
-8. Hubble glimpses merging galaxy clusters - https://phys.org/news/2026-06-hubble-glimpses-merging-galaxy-clusters.html - New observations of merging clusters provide insights into cosmic structure.
-9. Alpha Magnetic Spectrometer reveals four cosmic ray classes across 20 elements, defying current models - https://phys.org/news/2026-06-alpha-magnetic-spectrometer-reveals-cosmic.html - Findings challenge existing models of cosmic ray origins.
-10. Ripple-like rings of the 'Bullseye galaxy' could be explained by dark matter - https://phys.org/news/2026-06-ripple-bullseye-galaxy-dark.html - New theory links galaxy structure to dark matter behavior.
+Top Sources:
+1. NASA's Aeolus mission - https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex - A new Mars orbiter will offer unprecedented environmental data.
+2. JWST's discovery - https://phys.org/news/2026-06-jwst-images-abnormally-galaxy-cluster.html - A distant galaxy cluster challenges theories of early cosmic structure formation.
+3. Bullet Cluster analysis - https://phys.org/news/2026-06-bullet-cluster-reopen-dark-debate.html - New data suggests alternative explanations for dark matter, potentially reducing its previously assumed abundance.
+4. NASA's Swift space observatory - https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it - A plan is underway to save the Swift telescope from falling out of orbit.
+5. Space weather mission - https://phys.org/news/2026-06-nasa-mission-space-weather-impacts.html - A new mission will study the effects of space weather on Earth's atmosphere.
+6. Operation Period study - https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period - Research will explore menstruation in space, addressing human health in extraterrestrial environments.
+7. Galileo signal update - https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for-internet-of-things-use - New signal components enhance accessibility for IoT devices.
+8. Shadow Blaster galaxy - https://www.sciencedaily.com/releases/2026/06/260619020510.htm - A galaxy may reveal a new source of cosmic neutrinos.
+9. Desert rover prototype test - https://phys.org/news/2026-06-field-nasa-advanced-rover-prototype.html - NASA tests advanced rover capabilities for lunar missions.
+10. Einstein’s cosmological constant - https://www.sciencedaily.com/releases/2026/06/260619020516.htm - New findings could explain the stability of the universe's expansion rate.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use' target='_blank'>Galileo signal updated for internet-of-things use</a></strong> — <em>2026-06-19 13:55:00</em></summary>
+    <details><summary><strong><a href='https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex' target='_blank'>A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX</a></strong> — <em>2026-06-19 21:00:00</em></summary>
+
+A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-is-not-like-life-that-weve-experienced-star-city-cast-on-struggling-to-relate-to-the-brutality-of-soviet-existence-in-apple-tvs-for-all-mankind-spin-off' target='_blank'>'This is not like life that we’ve experienced' 'Star City' cast on struggling to relate to the brutality of Soviet existence in Apple TV's For All Mankind' spin-off</a></strong> — <em>2026-06-19 20:00:00</em></summary>
+
+"I don’t have a relatable thing. This is not like life that we’ve experienced."
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-sun-engulf-earth-scientists.html' target='_blank'>The Sun may not engulf Earth after all, scientists say</a></strong> — <em>2026-06-19 19:40:02</em></summary>
+
+Need some good news on a Friday after a long week? The Earth may not be engulfed by the expanding fireball of the dying sun, which has long been assumed to be our home planet's ultimate fate, according to scientists.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-jwst-images-abnormally-galaxy-cluster.html' target='_blank'>New JWST images of abnormally well-developed galaxy cluster open up the 'cosmic noon' frontier</a></strong> — <em>2026-06-19 18:20:01</em></summary>
+
+A stunningly concentrated and hefty galaxy cluster, from a time in the universe's history when such massive structures aren't expected to have fully formed yet, is challenging cosmic evolution theories. Across a series of three recent papers, a team led by researchers from IPAC—a science and data center for astrophysics and planetary science at Caltech—have revealed that the cluster is the most distant example of strong gravitational lensing with a galaxy cluster.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect' target='_blank'>The most unpredictable meteor shower of the year peaks next week. Here's what to expect</a></strong> — <em>2026-06-19 18:00:00</em></summary>
+
+The June Bootids usually produce just a handful of meteors, but this notoriously unpredictable shower has a history of surprise outbursts.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it' target='_blank'>'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it.</a></strong> — <em>2026-06-19 16:00:00</em></summary>
+
+NASA's Swift space observatory is falling out of orbit. Can a commercial company build a spacecraft in nine months to save it?
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-biocontainment-facility-moon-earth.html' target='_blank'>NASA should build a biocontainment facility on the moon to protect Earth, researchers advise</a></strong> — <em>2026-06-19 15:20:04</em></summary>
+
+A biocontainment facility designed to protect Earth from potentially hazardous biotic contaminants from space should be part of a planned NASA base on the moon, a policy paper maintains.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period' target='_blank'>Menstruation in space will be studied for 1st time with 'Operation Period'</a></strong> — <em>2026-06-19 15:00:00</em></summary>
+
+Maybe the next Sally Ride won't be asked the "100 tampons" question.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-bullet-cluster-reopen-dark-debate.html' target='_blank'>Bullet Cluster observations reopen dark matter debate with MOND-compatible explanation</a></strong> — <em>2026-06-19 14:20:06</em></summary>
+
+The Bullet Cluster has so far been considered evidence of the existence of dark matter. An international team of researchers has now analyzed new data and current images from the James Webb Space Telescope (JWST). According to the team, the observations are also consistent with an alternative explanation that does not involve dark matter. If the latter is, in fact, present, it is likely to be in smaller quantities than postulated so far.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20' target='_blank'>The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20</a></strong> — <em>2026-06-19 14:00:00</em></summary>
+
+
+	Video: 
+			00:23:49
+				Meet the voices astronauts hear in space. At ESA’s European Astronaut Centre in Cologne, Germany, the EUROCOM team is the link between crew and ground, guiding astronauts like ESA astronaut Sophie Adenot through their daily work on the International Space Station. Join us as EUROCOM expert Andreas Orth explains how complex operations are translated into clear, real-time communication and what it means to be the one voice connecting Earth and orbit.This interview was recorded in March 2026.Listen on all major podcast platforms.Keep exploring with ESA Explores.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/annie-easley-a-hero-of-nasa-space-photo-of-the-day-for-june-19-2026' target='_blank'>Annie Easley, a hero of NASA | Space photo of the day for June 19, 2026</a></strong> — <em>2026-06-19 14:00:00</em></summary>
+
+Easley was a human computer for the agency who helped with building the Centaur upper-stage rocket.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use' target='_blank'>Galileo signal updated for internet-of-things use</a></strong> — <em>2026-06-19 13:55:00</em></summary>
 
 
 In April, Galileo marked a step forward with the deployment of a new signal component, known as E5a Quasi Pilot, on 12 satellites of Europe’s satellite navigation constellation. This upgrade makes Galileo signals easier to access, particularly on emerging mass-market, low-power devices used for Internet of Things and smart city applications.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260619020510.htm' target='_blank'>Scientists expected a black hole but found a neutrino factory powered by stars</a></strong> — <em>2026-06-19 13:21:45</em></summary>
+
+A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-energy neutrinos.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_June_2026' target='_blank'>Week in images: 15-19 June 2026</a></strong> — <em>2026-06-19 13:10:00</em></summary>
+
+
+Week in images: 15-19 June 2026
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/want-to-start-stargazing-heres-why-june-is-the-perfect-time-for-newcomers' target='_blank'>Want to start stargazing? Here's why June is the perfect time for newcomers</a></strong> — <em>2026-06-19 13:00:00</em></summary>
+
+Short nights and bright stars make the midsummer night sky surprisingly beginner-friendly.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-field-nasa-advanced-rover-prototype.html' target='_blank'>Desert field test with NASA advanced rover prototype</a></strong> — <em>2026-06-19 11:20:01</em></summary>
+
+A prototype four-wheel rover developed at NASA's Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a test bed for autonomy software developed for a potential lunar mission requiring higher speeds and much greater mileage than can be achieved with current planetary rovers.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-mission-space-weather-impacts.html' target='_blank'>NASA mission to study space weather impacts of Earth's atmosphere</a></strong> — <em>2026-06-19 11:00:01</em></summary>
+
+NASA selected a mission concept to research how space weather and dynamics within Earth's atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year' target='_blank'>Juicy new details emerge about an asteroid NASA's Lucy spacecraft flew by last year</a></strong> — <em>2026-06-19 10:00:00</em></summary>
+
+Evidence of chemical alteration by liquid water has been found on the asteroid Donaldjohanson, which formed further from the sun before being shoved inwards.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260619020516.htm' target='_blank'>Einstein’s “biggest blunder” may finally have an explanation</a></strong> — <em>2026-06-19 09:43:07</em></summary>
+
+Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.
 
 </details>
 
@@ -55,193 +163,6 @@ In April, Galileo marked a step forward with the deployment of a new signal comp
 
 The Moon as it will appear in an amateur telescope at 10 p.m. EDT Friday the 19th. This week Venus and Jupiter continue moving apart low in the western twilight. Vega and Arcturus shine equally high after dark. And watch Beta Lyrae self-eclipse.
 The post This Week's Sky at a Glance, June 19 – 28 appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images' target='_blank'>Earth from Space celebrates 1000 images</a></strong> — <em>2026-06-19 08:00:00</em></summary>
-
-
-	Image:
-			ESA’s Earth from Space series reaches its 1000th image with a return to the vibrant waters of southern Florida, Cuba and the Bahamas – the same region featured in the very first edition in 2004.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260618041454.htm' target='_blank'>Black hole winds may be robbing giant galaxies of their future stars</a></strong> — <em>2026-06-19 04:26:43</em></summary>
-
-Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy called NGC 4151, researchers found strong evidence that supermassive black holes can unleash powerful winds that blow away the raw material needed to make new stars.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260618041501.htm' target='_blank'>SpaceX wants to build AI data centers in space. Will it work?</a></strong> — <em>2026-06-19 03:43:09</em></summary>
-
-The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-gamma-ray-collapsing-stars-neutron.html' target='_blank'>Long gamma-ray bursts may trace collapsing stars rather than neutron-star mergers</a></strong> — <em>2026-06-18 22:40:01</em></summary>
-
-Long-duration gamma-ray bursts are some of the most energetic events in the universe, releasing more energy in just a few seconds than the sun emits in 10 billion years. Los Alamos National Laboratory scientists, having discovered gamma-ray bursts more than 50 years ago, continue to add to the understanding of these mysterious events.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-energetic-neutral-atoms-uranus-odd.html' target='_blank'>Energetic neutral atoms may help map Uranus's odd magnetic environment</a></strong> — <em>2026-06-18 22:20:02</em></summary>
-
-Sending a spacecraft to the underexplored planet Uranus is at the top of many planetary scientists' wish lists. But which spacecraft-mounted instruments would be most useful for answering questions about the mysterious ice giant?
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html' target='_blank'>Asteroid Donaldjohanson wobbles as it rotates, Lucy flyby reveals</a></strong> — <em>2026-06-18 21:20:02</em></summary>
-
-Southwest Research Institute (SwRI) scientists studying the inner main-belt asteroid Donaldjohanson have found that its rotation wobbles. Rather than rolling through space in a steady pattern, Donaldjohanson turns on two axes, rotating end over end once every 10.5 Earth days while wobbling around its horizontal axis every 26.5 days. The findings are published in the journal Science.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy' target='_blank'>Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy</a></strong> — <em>2026-06-18 21:00:00</em></summary>
-
-"If confirmed, Shadow Blaster would be the first-ever individual dusty star-forming galaxy directly linked to a high-energy neutrino event."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-fermi-mission-uncovers-sibling-supernova.html' target='_blank'>Fermi mission uncovers possible sibling supernova remnants</a></strong> — <em>2026-06-18 20:40:05</em></summary>
-
-A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star's detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up, too.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-telescope-mirror-stability-exoplanet.html' target='_blank'>How a telescope's mirror stability makes or breaks exoplanet detection</a></strong> — <em>2026-06-18 20:20:01</em></summary>
-
-Finding life beyond our solar system is a major goal of modern astronomy. NASA's planned Habitable Worlds Observatory (HWO) aims to take direct images of Earth-sized planets around stars other than our sun. This task, however, is extraordinarily difficult, given that these planets are roughly 10 billion times fainter than their host stars. To detect them, scientists must find ways to suppress nearly all of the nearby starlight, which would otherwise overwhelm the faint planetary signal.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-alpha-magnetic-spectrometer-reveals-cosmic.html' target='_blank'>Alpha Magnetic Spectrometer reveals four cosmic ray classes across 20 elements, defying current models</a></strong> — <em>2026-06-18 20:00:05</em></summary>
-
-Millions of light-years away, millions of years ago, a star exploded. In this violent process, it ejected incredible amounts of mass, including carbon, nitrogen and oxygen—the building blocks of life. In fact, the star may have produced elements on the periodic table all the way up to iron. As it exploded, it spewed these elements into deep space. Only a burnt-out core remained.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-hubble-glimpses-merging-galaxy-clusters.html' target='_blank'>Hubble glimpses merging galaxy clusters</a></strong> — <em>2026-06-18 20:00:04</em></summary>
-
-This NASA Hubble Space Telescope image features a galaxy cluster called CL0016+1609, or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. X-ray observations of this cluster revealed that it is two clusters merging along our line of sight.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet' target='_blank'>James Webb Space Telescope finds a salty surprise on famous 'Pink Planet'</a></strong> — <em>2026-06-18 20:00:00</em></summary>
-
-Using the James Webb Space Telescope, astronomers have discovered that one of the coldest exoplanets ever discovered, the so-called Pink Planet, harbors a salty surprise.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/uncategorized/lucys-first-asteroid-flyby-sheds-light-on-a-double-lobed-asteroid/' target='_blank'>Lucy's First Asteroid Flyby Sheds Light on a Double-lobed Asteroid</a></strong> — <em>2026-06-18 18:21:42</em></summary>
-
-On its way to future encounters with Trojan asteroids, the Lucy spacecraft made a practice run past tiny asteroid 52246 Donaldjohanson on April 20, 2025. Today, the Lucy team, led […]
-The post Lucy's First Asteroid Flyby Sheds Light on a Double-lobed Asteroid appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html' target='_blank'>Mars life search gets boost as rover test distinguishes mirrored biosignature molecules</a></strong> — <em>2026-06-18 18:20:05</em></summary>
-
-Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely warm, humid and surrounded by a dense atmosphere. Whether simple microorganisms could have evolved at that time remains an open question.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/jared-letos-unreal-skeletor-transformation-for-masters-of-the-universe-only-took-15-minutes-interview' target='_blank'>Jared Leto's unreal Skeletor transformation for 'Masters of the Universe' only took '15 minutes' (interview)</a></strong> — <em>2026-06-18 18:00:00</em></summary>
-
-'He was a joy to work with on set, he really was. He was a lot of fun and there was this charismatic presence every day.'
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro' target='_blank'>Watch SpaceX launch new batch of US spy satellites from California early on June 19</a></strong> — <em>2026-06-18 17:00:00</em></summary>
-
-SpaceX will launch the latest batch of spy satellites for the U.S. government early Friday morning (June 19), and you can watch the action live.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal' target='_blank'>You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal</a></strong> — <em>2026-06-18 16:26:02</em></summary>
-
-The Fujinon Techno-Stabi TS-L 1640 image-stabilized binoculars are perfect for steady stargazing with 16x magnification, 40mm objective lenses and strong image stabilization, on sale for $1,125 at Walmart.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/sun-like-star-may-have-swallowed-an-exoplanet-with-help-from-a-mysterious-companion-you-are-what-you-eat-right' target='_blank'>Sun-like star may have swallowed an exoplanet with help from a mysterious companion: 'You are what you eat, right?'</a></strong> — <em>2026-06-18 16:00:00</em></summary>
-
-"That's what makes this field so exciting. You really are solving a mystery."
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-hidden-electric-space-quietly-earth.html' target='_blank'>Hidden electric space waves are quietly cleaning Earth's 'killer' electrons</a></strong> — <em>2026-06-18 15:20:07</em></summary>
-
-High above our heads, a silent battle is unfolding within Earth's magnetic shield. For decades, scientists have tracked "killer electrons"—ultrafast particles capable of piercing satellite armor and endangering astronauts as they zip through the Van Allen radiation belts. While we knew these dangerous particles eventually leak out of the belts and into the atmosphere, the primary mechanism "cleaning" the highest-energy electrons has remained a persistent mystery of space weather.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights' target='_blank'>Sophie Adenot's mid-mission highlights</a></strong> — <em>2026-06-18 15:15:00</em></summary>
-
-
-	Video: 
-			00:02:03
-				Sophie is halfway through the εpsilon mission onboard the ISS, and she has already accomplished so much. Between hundreds of hours of scientific research and thousands of photographs taken from space, she has taken the time to share many unforgettable moments with us — inspiring millions along the way on social media.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-captures-a-cosmic-lagoon-glowing-5-200-light-years-from-earth-photo' target='_blank'>Astrophotographer captures a cosmic lagoon glowing 5,200 light-years from Earth (photo)</a></strong> — <em>2026-06-18 15:00:00</em></summary>
-
-The Lagoon Nebula is best spotted in the months surrounding August in the Northern Hemisphere.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-famous-pink-planet-harbors-salty.html' target='_blank'>Famous 'Pink Planet' harbors a salty surprise</a></strong> — <em>2026-06-18 14:00:09</em></summary>
-
-Northwestern University-led astronomers have discovered salty skies surrounding the universe's famous "Pink Planet." For more than a decade, the ancient, rosy-hazed world kept astronomers guessing. One of the coldest known planetary-mass companions ever directly imaged, the elusive object is too faint for astronomers to dissect its light from Earth. But new observations from the James Webb Space Telescope (JWST) reveal an atmosphere filled with exotic chemistry—and salty clouds unlike anything seen before.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/earth/these-mars-valleys-are-hiding-30-dust-devils-space-photo-of-the-day-for-june-18-2026' target='_blank'>These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026</a></strong> — <em>2026-06-18 14:00:00</em></summary>
-
-Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet — and dust devils dot the alien landscape.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering' target='_blank'>'It's quite a bit more than we expected': Satellite reveals immense scale of GPS signal tampering</a></strong> — <em>2026-06-18 13:00:00</em></summary>
-
-For the first time, an experimental satellite has mapped the scale of GPS jamming across Europe and the Middle East from space.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-ripple-bullseye-galaxy-dark.html' target='_blank'>Ripple-like rings of the 'Bullseye galaxy' could be explained by dark matter</a></strong> — <em>2026-06-18 12:40:01</em></summary>
-
-Two U.S. physicists have suggested that the nine concentric rings surrounding the galaxy LEDA 1313424, also known as the Bullseye galaxy, could have emerged through the quantum behavior of particles of dark matter. Through analysis published in The Astrophysical Journal, Pierre Sikivie and Yuxin Zhao at the University of Florida argue that the extraordinary structure wasn't created by a collision between galaxies, as previous theories had suggested—but by a Bose-Einstein condensate of axions.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/astronomers-solve-the-mystery-of-black-holes-delayed-cosmic-burps' target='_blank'>Astronomers solve the mystery of black holes' delayed cosmic 'burps'</a></strong> — <em>2026-06-18 12:00:00</em></summary>
-
-A new study reveals why black holes let out massive radio "burps" years after eating stars, giving astronomers a chemical blueprint to predict them early.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/shadow-blaster-galaxy-might-have-sent-high-energy-neutrino-to-earth/' target='_blank'>“Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth</a></strong> — <em>2026-06-18 12:00:00</em></summary>
-
-A star-forming galaxy in the early universe might have sent a ghostly particle known as a neutrino crashing into the ice at Earth’s South Pole, after an 11 billion-year journey through space. 
-The post “Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-texas-wine-grapes-space-mission.html' target='_blank'>Texas wine grapes launch to space for research mission</a></strong> — <em>2026-06-18 11:20:03</em></summary>
-
-Researchers from Texas A&M AgriLife are sending hundreds of grape seeds to the International Space Station, where the seeds will spend approximately six months exposed to cosmic radiation before returning to Earth for planting and study. The project could produce what researchers believe to be the first wine made from grapes grown from seeds that traveled through space.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260616103131.htm' target='_blank'>Could cosmic memory explain dark matter, dark energy, and black holes?</a></strong> — <em>2026-06-18 10:31:23</em></summary>
-
-A new theory suggests the universe is constantly recording its own history in the fabric of spacetime. If correct, this cosmic memory could help solve some of the biggest puzzles in physics, from black holes to dark matter and the universe’s ultimate fate.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/nasas-perseverance-rover-just-ran-a-marathon-on-mars-could-you-do-the-same' target='_blank'>NASA's Perseverance rover just ran a marathon on Mars. Could you do the same?</a></strong> — <em>2026-06-18 10:00:00</em></summary>
-
-Percy has now traveled more than 26.2 miles on the Red Planet! Could you?
 
 </details>
 
