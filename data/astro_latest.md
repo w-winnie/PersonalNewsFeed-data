@@ -2,95 +2,114 @@
 
     ### Recent Developments in Astrophysics
 
-#### Advancements in Stellar Evolution Research
-Recent observations of supernova SN 2021yfj have provided astronomers with valuable insights into the lifecycle of massive stars and the nucleosynthesis process. This supernova, which revealed material from the star's inner layers, has confirmed existing theories regarding how stars produce the elements that are foundational to life. Such discoveries not only deepen our understanding of stellar evolution but also illuminate the origins of the elements found throughout the cosmos.
+#### Advancements in Imaging Techniques: The Solar Gravitational Lens
+Recent research has highlighted the potential of the Solar Gravitational Lens (SGL) as a transformative tool for astrophysical imaging. Dr. Slava Turyshev's work demonstrates that the SGL can effectively map not only exoplanets but also white dwarfs and black holes, providing a novel method for observing these elusive celestial objects. This advancement could significantly enhance our understanding of stellar remnants, although the technical challenges associated with high-resolution imaging remain a critical hurdle to overcome.
 
-Key items:
-1. **SN 2021yfj** - Detailed observations have confirmed theories about elemental formation in massive stars.
-   - Link: https://www.sciencedaily.com/releases/2026/06/260616103133.htm
-2. **Millisecond Pulsar Discovery** - The Murchison Widefield Array has identified a new millisecond pulsar, enhancing our understanding of neutron stars and their environments.
-   - Link: https://phys.org/news/2026-06-millisecond-pulsar-murchison-widefield-array.html
-3. **Cosmic Shock Waves** - A newly observed cosmic structure resembling a "bow-and-arrow" suggests a significant shock wave from a galaxy collision, offering insights into galaxy cluster dynamics.
-   - Link: https://www.space.com/astronomy/galaxies/strange-glowing-bow-and-arrow-structure-may-be-a-giant-cosmic-shock-wave-created-by-a-supersonic-galaxy-collision
+Key Items:
+1. **SGL Imaging Potential** - A new paper emphasizes the SGL's capability to image white dwarfs and black holes, expanding its application beyond exoplanets. [Link](https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html)
+2. **Challenges Ahead** - Achieving high-resolution imaging through the SGL will require overcoming significant technical hurdles.
 
-#### Innovations in Space Technology
-The aerospace sector continues to witness significant technological advancements, particularly in launch capabilities. Blue Origin's plans to repair and relaunch the New Glenn rocket highlight a commitment to resilience following setbacks. Furthermore, NASA's use of drones for medical logistics, demonstrated by the successful delivery of a human kidney, suggests that aerospace technology may increasingly intersect with healthcare applications.
+#### Clarifying Stellar Classifications: The Case of Phoebe
+A recent reanalysis of data from the Dark Energy Camera has clarified the nature of the star known as "Phoebe," confirming it as a variable star rather than a primordial black hole. This finding underscores the importance of precise data interpretation in astrophysics, refining our understanding of stellar classifications and the characteristics that differentiate stars from black holes.
 
-Key items:
-1. **Blue Origin's New Glenn** - The company is working to repair and prepare the New Glenn rocket for future launches, demonstrating resilience in the face of challenges.
-   - Link: https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video
-2. **Drone Kidney Delivery** - NASA's successful drone delivery of a human kidney signals a potential future for aerospace technology in enhancing medical transport logistics.
-   - Link: https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport
+Key Items:
+1. **Phoebe's True Nature** - The reanalysis concludes that Phoebe is a variable star, not a primordial black hole. [Link](https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html)
+2. **Implications for Black Hole Research** - This clarification enhances the criteria for identifying primordial black holes, contributing to the broader understanding of stellar evolution.
 
-### Synthesis
-The current atmosphere in astrophysics is characterized by a strong interplay between groundbreaking discoveries in stellar phenomena and notable advancements in space technology. Insights from supernovae and pulsar studies are refining our understanding of cosmic processes, while innovations in aerospace capabilities are paving the way for more integrated applications in everyday life, including healthcare. This momentum suggests a future where our grasp of the universe and our technological capabilities continue to expand in tandem.
+#### Insights from the James Webb Space Telescope
+The James Webb Space Telescope (JWST) has made significant advances in exoplanetary studies by revealing the atmospheric composition of a distant exoplanet nicknamed the “Pink Planet.” The detection of exotic salt clouds, along with water vapor and other gases, marks an important milestone that enriches our knowledge of planetary atmospheres and raises questions about the potential for habitability in similar environments.
 
-### Top Sources:
-1. A rare supernova peeled back a star’s layers and revealed a hidden secret - https://www.sciencedaily.com/releases/2026/06/260616103133.htm - Discovery enhances understanding of stellar evolution and nucleosynthesis.
-2. New millisecond pulsar discovered with the Murchison Widefield Array - https://phys.org/news/2026-06-millisecond-pulsar-murchison-widefield-array.html - Discovery contributes to knowledge of neutron stars and their environments.
-3. Strange glowing 'bow-and-arrow' structure may be a giant cosmic shock wave created by a supersonic galaxy collision - https://www.space.com/astronomy/galaxies/strange-glowing-bow-and-arrow-structure-may-be-a-giant-cosmic-shock-wave-created-by-a-supersonic-galaxy-collision - Observations provide insights into dynamics of galaxy clusters.
-4. Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video) - https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video - Company aims for resilience and rapid recovery in launch capabilities.
-5. NASA used a drone to deliver a human kidney. Is this the future of transplant transport? - https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport - Successful test indicates potential for aerospace technology in medical logistics.
-6. A large, harmless asteroid will zip past Earth this weekend - https://phys.org/news/2026-06-large-harmless-asteroid-earth-weekend.html - Asteroid poses no threat, highlighting ongoing monitoring efforts.
-7. 'Logan's Run' at 50: Remembering this disco-age sci-fi classic on its golden anniversary - https://www.space.com/entertainment/space-movies-shows/logans-run-at-50-remembering-this-disco-age-sci-fi-classic-on-its-golden-anniversary - Cultural reflection on a classic sci-fi film.
-8. This Week In Space podcast: Episode 216 — Dark Matter Intelligence - https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence - Discussion on dark matter and the potential for extraterrestrial intelligence.
-9. SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster - https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster - Reflection on the cultural impact of space-themed media.
-10. This Week In Space podcast: Episode 216 — Dark Matter Intelligence - https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence - Exploration of dark matter and its implications for understanding the universe.
+Key Items:
+1. **Atmospheric Composition** - JWST's observations reveal a complex mix of gases, including previously unconfirmed salty clouds. [Link](https://www.sciencedaily.com/releases/2026/06/260623014009.htm)
+2. **Broader Implications** - These findings may inform future searches for life-supporting conditions on exoplanets.
+
+### Conclusion
+The current landscape in astrophysics is characterized by significant advancements in observational techniques and data analysis, leading to deeper insights into both stellar and planetary phenomena. As researchers refine their methodologies and tools, the field is poised for greater understanding of the universe's complexities, from mapping stellar remnants to characterizing exoplanetary atmospheres. This momentum reflects a robust confidence in unraveling cosmic mysteries while emphasizing the necessity for rigorous scrutiny of existing theories and data.
+
+Top Sources:
+1. The solar gravitational lens could map white dwarfs and black holes - https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html - New research highlights the SGL's potential for imaging stellar remnants.
+2. Reanalysis suggests 'Phoebe' is a variable star, not a primordial black hole - https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html - A study clarifies the true nature of the star Phoebe.
+3. James Webb uncovers exotic salt clouds on a mysterious pink world - https://www.sciencedaily.com/releases/2026/06/260623014009.htm - Webb discovers complex atmospheric components on an exoplanet.
+4. 12 billion years old, this interstellar comet is older than our solar system - https://phys.org/news/2026-06-billion-years-interstellar-comet-older.html - A newly discovered comet offers insights into the early solar system.
+5. Off-center stellar death points to wandering supermassive black hole stripped of its own galaxy - https://phys.org/news/2026-06-center-stellar-death-supermassive-black.html - Research reveals details about a supermassive black hole's unusual location.
+6. Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids' - https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids - The Hayabusa2 probe prepares for a risky asteroid flyby.
+7. SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly - SpaceX continues its satellite deployment efforts.
+8. NASA races to save Swift telescope from falling back to Earth with daring rescue mission - https://phys.org/news/2026-06-nasa-swift-telescope-falling-earth.html - NASA's urgent efforts to preserve the Swift telescope's functionality.
+9. Watch China's Tiangong space station cross the moon in stunning amateur footage - https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage - Amateur footage captures the Tiangong space station's transit.
+10. Could future astronauts use oysters as water filters? Here's why one company thinks so - https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so - Innovative water filtration solutions for space missions are being explored.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260616103133.htm' target='_blank'>A rare supernova peeled back a star’s layers and revealed a hidden secret</a></strong> — <em>2026-06-28 01:14:15</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html' target='_blank'>The solar gravitational lens could map white dwarfs and black holes</a></strong> — <em>2026-06-28 21:00:21</em></summary>
 
-Astronomers studying the rare supernova SN 2021yfj discovered material from one of the deepest layers of a dying star, providing a rare look at its hidden interior. The finding confirms key theories about how massive stars forge the elements that help build planets, worlds, and life.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/logans-run-at-50-remembering-this-disco-age-sci-fi-classic-on-its-golden-anniversary' target='_blank'>'Logan's Run' at 50: Remembering this disco-age sci-fi classic on its golden anniversary</a></strong> — <em>2026-06-27 18:00:00</em></summary>
-
-Check your life-clock crystal and make sure it’s not blinking red!
+It feels like every few months we get to report on another academic paper singing the praises of the Solar Gravitational Lens (SGL). Partly, this is due to Dr. Slava Turyshev's astounding productivity in pumping out academic articles, but partly because such a groundbreaking mission has lots of positive aspects—as well as challenges that need to be addressed. A new paper, posted to the arXiv preprint server from Dr. Turyshev, stresses an often overlooked feature of the SGL: how useful it can be for imaging things other than faraway exoplanets.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-millisecond-pulsar-murchison-widefield-array.html' target='_blank'>New millisecond pulsar discovered with the Murchison Widefield Array</a></strong> — <em>2026-06-27 16:40:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html' target='_blank'>Reanalysis suggests 'Phoebe' is a variable star, not a primordial black hole</a></strong> — <em>2026-06-28 18:20:01</em></summary>
 
-Using the Murchison Widefield Array (MWA), astronomers have discovered a new millisecond pulsar as part of the ongoing Southern-sky MWA Rapid Two-metre (SMART) survey. The discovery is reported in a research paper published June 17 on the arXiv preprint server. The work has also been accepted for publication in The Astrophysical Journal Letters.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence' target='_blank'>This Week In Space podcast: Episode 216 — Dark Matter Intelligence</a></strong> — <em>2026-06-27 15:10:46</em></summary>
-
-On Episode 216 of This Week In Space, Rod Pyle and Tariq Malik talk with physicist Dr. Daniel Whiteson about other intelligences is beyond our scope.
+A new study debunks a recent claim that astronomers may have detected a lunar-mass primordial black hole. In a reanalysis of observations from the Dark Energy Camera (DECam), researchers found that the star nicknamed "Phoebe" was simply doing something ordinary that many stars do: changing its brightness naturally over time. The new findings have been reported in a paper posted to the arXiv preprint server on June 17.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster' target='_blank'>SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster</a></strong> — <em>2026-06-27 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260623014009.htm' target='_blank'>James Webb uncovers exotic salt clouds on a mysterious pink world</a></strong> — <em>2026-06-28 18:15:53</em></summary>
 
-After the Challenger tragedy, nobody wanted to see a film about five kids on an adventure in space.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video' target='_blank'>Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)</a></strong> — <em>2026-06-27 13:00:00</em></summary>
-
-After its rocket explosion, Blue Origin wants to complete repairs and put another New Glenn on the launch pad before the end of 2026, according to CEO Dave Limp. That's very ambitious.
+Astronomers have finally cracked the mystery of the famous “Pink Planet,” a strange world 57 light-years away that has puzzled scientists for more than a decade. Using the James Webb Space Telescope, researchers discovered that its atmosphere contains water vapor, methane, carbon dioxide, ammonia, and something never directly confirmed before in such an object: salty clouds.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport' target='_blank'>NASA used a drone to deliver a human kidney. Is this the future of transplant transport?</a></strong> — <em>2026-06-27 12:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-billion-years-interstellar-comet-older.html' target='_blank'>12 billion years old, this interstellar comet is older than our solar system</a></strong> — <em>2026-06-28 18:00:01</em></summary>
 
-The drone flew beyond line of sight with a kidney not viable for organ transplant, to test the concept for future deliveries to patients.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-large-harmless-asteroid-earth-weekend.html' target='_blank'>A large, harmless asteroid will zip past Earth this weekend</a></strong> — <em>2026-06-27 11:01:35</em></summary>
-
-A large asteroid will zip past Earth this weekend, but don't worry: It poses no danger.
+One year ago, on July 1, 2025, astronomers discovered a fascinating new object moving through the solar system. Detected by the Asteroid Terrestrial-impact Last Alert System (ATLAS), the object was quickly recognized as something special.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/strange-glowing-bow-and-arrow-structure-may-be-a-giant-cosmic-shock-wave-created-by-a-supersonic-galaxy-collision' target='_blank'>Strange glowing 'bow-and-arrow' structure may be a giant cosmic shock wave created by a supersonic galaxy collision</a></strong> — <em>2026-06-27 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly' target='_blank'>SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)</a></strong> — <em>2026-06-28 16:21:56</em></summary>
 
-A bizarre "bow-and-arrow" radio galaxy nearly 1.8 million light-years across could reveal how galaxy clusters sculpt some of the universe's largest structures.
+A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 28, 2026.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-swift-telescope-falling-earth.html' target='_blank'>NASA races to save Swift telescope from falling back to Earth with daring rescue mission</a></strong> — <em>2026-06-28 15:23:34</em></summary>
+
+NASA is racing to save an aging telescope from falling back to Earth with a daring rescue mission.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure' target='_blank'>'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure</a></strong> — <em>2026-06-28 15:00:00</em></summary>
+
+Brandon Routh's only outing in the cape is more than just a love letter to Richard Donner's classic original movie.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids' target='_blank'>Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'</a></strong> — <em>2026-06-28 14:00:00</em></summary>
+
+Having already delivered samples of the asteroid Ryugu to Earth, Hayabusa2 will soon attempt one of the closest, riskiest space-rock flybys in spaceflight history.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-center-stellar-death-supermassive-black.html' target='_blank'>Off-center stellar death points to wandering supermassive black hole stripped of its own galaxy</a></strong> — <em>2026-06-28 13:20:01</em></summary>
+
+Astronomers have uncovered new details about the black hole that ripped apart a star in a tidal disruption event named AT2024tvd. Findings suggest it is a wandering supermassive black hole—the kind that is not located at the center of a visible galaxy. The paper outlining this research was published in The Astrophysical Journal Letters on June 12.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage' target='_blank'>Watch China's Tiangong space station cross the moon in stunning amateur footage</a></strong> — <em>2026-06-28 13:00:00</em></summary>
+
+The Tiangong space station approaches Tycho Crater in stunning amateur transit footage.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9' target='_blank'>SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida</a></strong> — <em>2026-06-28 12:00:00</em></summary>
+
+SpaceX launched a big SiriusXM radio satellite to orbit from Florida's Space Coast tonight (June 28).
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so' target='_blank'>Could future astronauts use oysters as water filters? Here's why one company thinks so</a></strong> — <em>2026-06-28 10:00:00</em></summary>
+
+A prototype oyster habitat used for water filtration is aiming for an eventual space launch after an early-stage prototype was demonstrated to the public earlier this year.
 
 </details>
 
