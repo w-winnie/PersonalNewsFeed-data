@@ -1,115 +1,230 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Advancements in Imaging Techniques: The Solar Gravitational Lens
-Recent research has highlighted the potential of the Solar Gravitational Lens (SGL) as a transformative tool for astrophysical imaging. Dr. Slava Turyshev's work demonstrates that the SGL can effectively map not only exoplanets but also white dwarfs and black holes, providing a novel method for observing these elusive celestial objects. This advancement could significantly enhance our understanding of stellar remnants, although the technical challenges associated with high-resolution imaging remain a critical hurdle to overcome.
+**1. Planetary Defense and Asteroid Awareness**  
+Recent discussions surrounding planetary defense underscore the increasing importance of public education on asteroids and the need for proactive measures to mitigate potential threats. Asteroid Day has served as a platform to highlight historical milestones in asteroid research, emphasizing that as observational capabilities improve, so does our responsibility to prepare for possible impacts.
 
-Key Items:
-1. **SGL Imaging Potential** - A new paper emphasizes the SGL's capability to image white dwarfs and black holes, expanding its application beyond exoplanets. [Link](https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html)
-2. **Challenges Ahead** - Achieving high-resolution imaging through the SGL will require overcoming significant technical hurdles.
+Key Items:  
+- Asteroid Day emphasizes the significance of public awareness and preparedness in planetary defense strategies. [Read more](https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history).
 
-#### Clarifying Stellar Classifications: The Case of Phoebe
-A recent reanalysis of data from the Dark Energy Camera has clarified the nature of the star known as "Phoebe," confirming it as a variable star rather than a primordial black hole. This finding underscores the importance of precise data interpretation in astrophysics, refining our understanding of stellar classifications and the characteristics that differentiate stars from black holes.
+**2. Robotics in Space Exploration**  
+NASA's latest initiative to rescue the aging Swift telescope showcases a shift towards employing robotics for space maintenance. This mission not only aims to prolong the life of existing spacecraft but also sets a precedent for future missions that may depend on robotic systems for maintenance and repair.
 
-Key Items:
-1. **Phoebe's True Nature** - The reanalysis concludes that Phoebe is a variable star, not a primordial black hole. [Link](https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html)
-2. **Implications for Black Hole Research** - This clarification enhances the criteria for identifying primordial black holes, contributing to the broader understanding of stellar evolution.
+Key Items:  
+- NASA is deploying a robotic system to prevent the Swift telescope from re-entering Earth's atmosphere prematurely. [Read more](https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html).  
+- Testing of a new cryocoupler for in-space refueling aims to support upcoming deep-space missions. [Read more](https://phys.org/news/2026-06-nasa-refuel-device-future-space.html).
 
-#### Insights from the James Webb Space Telescope
-The James Webb Space Telescope (JWST) has made significant advances in exoplanetary studies by revealing the atmospheric composition of a distant exoplanet nicknamed the “Pink Planet.” The detection of exotic salt clouds, along with water vapor and other gases, marks an important milestone that enriches our knowledge of planetary atmospheres and raises questions about the potential for habitability in similar environments.
+**3. Insights into Cosmic Phenomena**  
+Data from the New Horizons mission has revealed significant details about the behavior of solar wind as it interacts with interstellar matter. Additionally, advancements in AI for analyzing Type Ia supernovae could revolutionize our understanding of cosmic distances, enhancing our knowledge of dark energy.
 
-Key Items:
-1. **Atmospheric Composition** - JWST's observations reveal a complex mix of gases, including previously unconfirmed salty clouds. [Link](https://www.sciencedaily.com/releases/2026/06/260623014009.htm)
-2. **Broader Implications** - These findings may inform future searches for life-supporting conditions on exoplanets.
+Key Items:  
+- New Horizons data indicates a gradual slowdown of solar wind as it approaches interstellar space. [Read more](https://phys.org/news/2026-06-horizons-tracks-solar-slowdown-interstellar.html).  
+- An AI framework for supernova analysis promises to improve measurements of cosmic expansion, essential for future astronomical surveys. [Read more](https://www.sciencedaily.com/releases/2026/06/260621060315.htm).
 
-### Conclusion
-The current landscape in astrophysics is characterized by significant advancements in observational techniques and data analysis, leading to deeper insights into both stellar and planetary phenomena. As researchers refine their methodologies and tools, the field is poised for greater understanding of the universe's complexities, from mapping stellar remnants to characterizing exoplanetary atmospheres. This momentum reflects a robust confidence in unraveling cosmic mysteries while emphasizing the necessity for rigorous scrutiny of existing theories and data.
+**4. Rethinking the Search for Extraterrestrial Life**  
+A growing concern among astrobiologists highlights the risk of missing potential biosignatures of extraterrestrial life due to biases in current detection methods. This calls for a reassessment of our approaches to searching for life beyond Earth, advocating for more inclusive methodologies that consider diverse life forms.
 
-Top Sources:
-1. The solar gravitational lens could map white dwarfs and black holes - https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html - New research highlights the SGL's potential for imaging stellar remnants.
-2. Reanalysis suggests 'Phoebe' is a variable star, not a primordial black hole - https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html - A study clarifies the true nature of the star Phoebe.
-3. James Webb uncovers exotic salt clouds on a mysterious pink world - https://www.sciencedaily.com/releases/2026/06/260623014009.htm - Webb discovers complex atmospheric components on an exoplanet.
-4. 12 billion years old, this interstellar comet is older than our solar system - https://phys.org/news/2026-06-billion-years-interstellar-comet-older.html - A newly discovered comet offers insights into the early solar system.
-5. Off-center stellar death points to wandering supermassive black hole stripped of its own galaxy - https://phys.org/news/2026-06-center-stellar-death-supermassive-black.html - Research reveals details about a supermassive black hole's unusual location.
-6. Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids' - https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids - The Hayabusa2 probe prepares for a risky asteroid flyby.
-7. SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly - SpaceX continues its satellite deployment efforts.
-8. NASA races to save Swift telescope from falling back to Earth with daring rescue mission - https://phys.org/news/2026-06-nasa-swift-telescope-falling-earth.html - NASA's urgent efforts to preserve the Swift telescope's functionality.
-9. Watch China's Tiangong space station cross the moon in stunning amateur footage - https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage - Amateur footage captures the Tiangong space station's transit.
-10. Could future astronauts use oysters as water filters? Here's why one company thinks so - https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so - Innovative water filtration solutions for space missions are being explored.
+Key Items:  
+- Researchers emphasize the need to reevaluate biosignature detection methods to avoid overlooking evidence of extraterrestrial life. [Read more](https://www.sciencedaily.com/releases/2026/06/260623083121.htm).  
+- New insights into Europa's ice shell reveal its potential to harbor life, focusing on its subsurface ocean. [Read more](https://phys.org/news/2026-06-europa-ice-shell-secrets-ground.html).
+
+### Conclusion  
+The current landscape in astrophysics reflects a dynamic interplay of technology and exploration, with significant advancements in planetary defense, robotics, and our understanding of cosmic phenomena. The emphasis on refining methodologies for detecting extraterrestrial life, coupled with innovative applications of AI and robotics, suggests a future where human and robotic efforts are increasingly integrated. This period is marked by a commitment to not only explore but also to protect and understand our universe more comprehensively.
+
+### Top Sources:
+1. Asteroid Day & eight other key dates in asteroid history - https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history - Highlights the importance of asteroid awareness and planetary defense.
+2. NASA launches robot to rescue aging Swift telescope from fiery demise - https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html - A mission to save the Swift telescope using robotics.
+3. Why scientists fear we're missing evidence of extraterrestrial life - https://www.sciencedaily.com/releases/2026/06/260623083121.htm - Discusses the potential for overlooked biosignatures in the search for extraterrestrial life.
+4. New Horizons tracks solar wind slowdown as interstellar atoms add drag - https://phys.org/news/2026-06-horizons-tracks-solar-slowdown-interstellar.html - Insights into solar wind behavior at the edge of the solar system.
+5. Millions of exploding stars could soon reveal dark energy's secrets - https://www.sciencedaily.com/releases/2026/06/260621060315.htm - AI framework for analyzing supernovae to improve cosmic distance measurements.
+6. NASA tests new refuel device for future in-space refueling missions - https://phys.org/news/2026-06-nasa-refuel-device-future-space.html - Development of a cryocoupler for spacecraft refueling.
+7. Europa's ice shell secrets unlocked by ground radar study - https://phys.org/news/2026-06-europa-ice-shell-secrets-ground.html - Research into Europa's potential for life.
+8. Ultra-faint galaxy discovered near Andromeda may be 12.5 billion years old - https://phys.org/news/2026-06-ultra-faint-galaxy-andromeda-billion.html - Discovery of a new ancient galaxy.
+9. Nova V612 Scuti's light curve becomes audio, revealing how stellar shocks evolved - https://phys.org/news/2026-06-nova-v612-scuti-audio-revealing.html - Innovative use of audio to study stellar explosions.
+10. The rise of space AI might explain the Fermi paradox - https://phys.org/news/2026-06-space-ai-fermi-paradox.html - Explores the implications of AI in space exploration.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html' target='_blank'>The solar gravitational lens could map white dwarfs and black holes</a></strong> — <em>2026-06-28 21:00:21</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history' target='_blank'>Asteroid Day & eight other key dates in asteroid history</a></strong> — <em>2026-06-30 09:30:00</em></summary>
 
-It feels like every few months we get to report on another academic paper singing the praises of the Solar Gravitational Lens (SGL). Partly, this is due to Dr. Slava Turyshev's astounding productivity in pumping out academic articles, but partly because such a groundbreaking mission has lots of positive aspects—as well as challenges that need to be addressed. A new paper, posted to the arXiv preprint server from Dr. Turyshev, stresses an often overlooked feature of the SGL: how useful it can be for imaging things other than faraway exoplanets.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html' target='_blank'>Reanalysis suggests 'Phoebe' is a variable star, not a primordial black hole</a></strong> — <em>2026-06-28 18:20:01</em></summary>
-
-A new study debunks a recent claim that astronomers may have detected a lunar-mass primordial black hole. In a reanalysis of observations from the Dark Energy Camera (DECam), researchers found that the star nicknamed "Phoebe" was simply doing something ordinary that many stars do: changing its brightness naturally over time. The new findings have been reported in a paper posted to the arXiv preprint server on June 17.
+Happy Asteroid Day! Today is the annual UN-recognised global event to promote public education on asteroids and planetary defence. But why today, of all days? Read on to find out – and find out the other key dates in our current golden age of asteroids!
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260623014009.htm' target='_blank'>James Webb uncovers exotic salt clouds on a mysterious pink world</a></strong> — <em>2026-06-28 18:15:53</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html' target='_blank'>NASA launches robot to rescue aging Swift telescope from fiery demise</a></strong> — <em>2026-06-30 07:47:05</em></summary>
 
-Astronomers have finally cracked the mystery of the famous “Pink Planet,” a strange world 57 light-years away that has puzzled scientists for more than a decade. Using the James Webb Space Telescope, researchers discovered that its atmosphere contains water vapor, methane, carbon dioxide, ammonia, and something never directly confirmed before in such an object: salty clouds.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-billion-years-interstellar-comet-older.html' target='_blank'>12 billion years old, this interstellar comet is older than our solar system</a></strong> — <em>2026-06-28 18:00:01</em></summary>
-
-One year ago, on July 1, 2025, astronomers discovered a fascinating new object moving through the solar system. Detected by the Asteroid Terrestrial-impact Last Alert System (ATLAS), the object was quickly recognized as something special.
+NASA on Tuesday is set to launch a daring robotic rescue mission, a long-shot bid to prevent one of its aging telescopes from vanishing into dust.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly' target='_blank'>SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)</a></strong> — <em>2026-06-28 16:21:56</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260623083121.htm' target='_blank'>Why scientists fear we're missing evidence of extraterrestrial life</a></strong> — <em>2026-06-30 02:34:31</em></summary>
 
-A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 28, 2026.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-swift-telescope-falling-earth.html' target='_blank'>NASA races to save Swift telescope from falling back to Earth with daring rescue mission</a></strong> — <em>2026-06-28 15:23:34</em></summary>
-
-NASA is racing to save an aging telescope from falling back to Earth with a daring rescue mission.
+Scientists are raising concerns that we may be overlooking evidence of extraterrestrial life even when it is present. Hidden biosignatures, limitations in detection technology, and assumptions about what life should look like can all create dangerous false negatives. The researchers say future missions should focus not only on finding life, but also on understanding how signs of life could be missed.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure' target='_blank'>'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure</a></strong> — <em>2026-06-28 15:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-space-ai-fermi-paradox.html' target='_blank'>The rise of space AI might explain the Fermi paradox</a></strong> — <em>2026-06-30 02:00:01</em></summary>
 
-Brandon Routh's only outing in the cape is more than just a love letter to Richard Donner's classic original movie.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids' target='_blank'>Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'</a></strong> — <em>2026-06-28 14:00:00</em></summary>
-
-Having already delivered samples of the asteroid Ryugu to Earth, Hayabusa2 will soon attempt one of the closest, riskiest space-rock flybys in spaceflight history.
+Artificial intelligence (AI) is continuing to have a disruptive impact on ever more parts of humanity. But what does it mean in the long run? A new paper, available as a preprint on arXiv from Austrian researcher Sergey Ivliev, extrapolates what the wide-scale adoption of AI means for the future of humanity in space—and in particular, what it means for the ultimate question of whether we're truly alone in the galaxy.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-center-stellar-death-supermassive-black.html' target='_blank'>Off-center stellar death points to wandering supermassive black hole stripped of its own galaxy</a></strong> — <em>2026-06-28 13:20:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-orbital-mechanics-giant-mirrors.html' target='_blank'>Testing the orbital mechanics of giant mirrors</a></strong> — <em>2026-06-29 23:40:07</em></summary>
 
-Astronomers have uncovered new details about the black hole that ripped apart a star in a tidal disruption event named AT2024tvd. Findings suggest it is a wandering supermassive black hole—the kind that is not located at the center of a visible galaxy. The paper outlining this research was published in The Astrophysical Journal Letters on June 12.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage' target='_blank'>Watch China's Tiangong space station cross the moon in stunning amateur footage</a></strong> — <em>2026-06-28 13:00:00</em></summary>
-
-The Tiangong space station approaches Tycho Crater in stunning amateur transit footage.
+Giant mirrors in space have been a staple of science fiction for decades. But so far, there's been very little work looking at the actual physics behind the concept—possibly because we're still so far from making them ourselves. Still, they could potentially serve as a passive technosignature if we manage to find one. In order to do that, though, we have to understand what we're looking for. That is the purpose of a new paper, available as a preprint on arXiv, by Shauna Sallmen of the University of Wisconsin–La Crosse and Eric Korpela of UC Berkeley.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9' target='_blank'>SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida</a></strong> — <em>2026-06-28 12:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-horizons-tracks-solar-slowdown-interstellar.html' target='_blank'>New Horizons tracks solar wind slowdown as interstellar atoms add drag</a></strong> — <em>2026-06-29 23:20:31</em></summary>
 
-SpaceX launched a big SiriusXM radio satellite to orbit from Florida's Space Coast tonight (June 28).
+A new Southwest Research Institute (SwRI) study based on data from NASA's New Horizons spacecraft has uncovered insights into why the solar wind gradually slows as it moves toward the edge of the solar system and the boundary with interstellar space. The study "The Gradual Slowing of the Solar Wind in the Outer Heliosphere" is published in The Astrophysical Journal.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so' target='_blank'>Could future astronauts use oysters as water filters? Here's why one company thinks so</a></strong> — <em>2026-06-28 10:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion' target='_blank'>'The start of a new era': Rocket Lab buying satellite-communications company Iridium for $8 billion</a></strong> — <em>2026-06-29 22:00:00</em></summary>
 
-A prototype oyster habitat used for water filtration is aiming for an eventual space launch after an early-stage prototype was demonstrated to the public earlier this year.
+California-based launch company Rocket Lab has inked a landmark $8 billion deal to acquire long-time satellite communications giant Iridium.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/06/260621060315.htm' target='_blank'>Millions of exploding stars could soon reveal dark energy's secrets</a></strong> — <em>2026-06-29 21:57:17</em></summary>
+
+A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed for the flood of data expected from the upcoming Vera C. Rubin Observatory and may greatly improve our understanding of dark energy.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-nasa-refuel-device-future-space.html' target='_blank'>NASA tests new refuel device for future in-space refueling missions</a></strong> — <em>2026-06-29 21:40:01</em></summary>
+
+For NASA's next generation of deep-space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up before departure, known as a cryocoupler.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game' target='_blank'>It's been 25 years since'A.I. Artificial Intelligence', and we think this was Spielberg at the top of his sci-fi game</a></strong> — <em>2026-06-29 21:00:00</em></summary>
+
+Two cinematic geniuses united to create one of Hollywood’s most arresting android movies
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-fix-iss-huge-robotic-arm-during-june-30-spacewalk' target='_blank'>Watch 2 NASA astronauts fix ISS' huge robotic arm during spacewalk today</a></strong> — <em>2026-06-29 20:00:00</em></summary>
+
+NASA astronauts Chris Williams and Jessica Meir will fix the International Space Station's Canadarm2 during a spacewalk today (June 30), and you can watch the action live.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-avalanches-asteroid-vesta-method-regolith.html' target='_blank'>Analyzing avalanches on asteroid Vesta offers new method for understanding regolith processes</a></strong> — <em>2026-06-29 19:40:01</em></summary>
+
+A study conducted at the Institut de Physique du Globe de Paris uses images from NASA's Dawn mission and a Bayesian inversion of the Hapke photometric model to analyze avalanches and ejecta deposits on the asteroid Vesta. The results show that the brightest deposits correspond to the most recently mobilized surfaces, offering a new way to track the evolution of regolith on airless bodies. The paper is published in Astronomy & Astrophysics.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/starseeker-astroneer-expeditions-takes-space-exploration-in-a-different-and-friendlier-direction-and-we-chatted-with-system-eras-creative-director-about-it-interview' target='_blank'>'Starseeker: Astroneer Expeditions' takes space exploration in a different (and friendlier) direction, and we chatted with System Era's creative director about it (interview)</a></strong> — <em>2026-06-29 19:00:00</em></summary>
+
+The follow-up to Astroneer isn't what veteran space explorers expected, but it might be exactly what we need.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere' target='_blank'>NASA to launch rescue mission June 30 to save Swift space telescope from burning up in Earth's atmosphere</a></strong> — <em>2026-06-29 18:00:00</em></summary>
+
+Northrop Grumman will launch a rocket from an airplane to save NASA's SWIFT space telescope from falling out of orbit.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-nova-v612-scuti-audio-revealing.html' target='_blank'>Nova V612 Scuti's light curve becomes audio, revealing how stellar shocks evolved</a></strong> — <em>2026-06-29 17:40:04</em></summary>
+
+Researchers in the Department of Physics & Astronomy at Texas Tech University recently used audio to represent the spectacular explosion of a star in deep space while also delving into the data to better understand how the phenomenon unfolded.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-solar-storms-cosmic-rays-earth.html' target='_blank'>Solar storms leave their mark on cosmic rays that reach Earth</a></strong> — <em>2026-06-29 17:00:05</em></summary>
+
+A new study has revealed an unexpected link between solar storms and the flux of high-energy cosmic rays arriving at Earth. The findings, made using one of the world's largest cosmic ray detectors, could open up a new way to probe the magnetic structures inside solar storms—and potentially improve our ability to forecast their effects on Earth. The research has been published in Physical Review Letters.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/this-stars-light-has-been-crossing-space-since-the-american-revolution-heres-how-to-find-it' target='_blank'>This star's light has been crossing space since the American Revolution. Here's how to find it</a></strong> — <em>2026-06-29 17:00:00</em></summary>
+
+This star's light left its surface around the same time that the U.S. was founded.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-europa-ice-shell-secrets-ground.html' target='_blank'>Europa's ice shell secrets unlocked by ground radar study</a></strong> — <em>2026-06-29 15:20:01</em></summary>
+
+Jupiter's moon Europa has become high-value real estate for astrobiologists and the search for life beyond Earth. This is because the small moon, which is slightly smaller than Earth's moon, boasts a massive subsurface ocean of liquid water that scientists estimate contains about double the amount of water in all Earth's oceans combined. As seen on Earth, water equals life, so scientists are eager to continue exploring Europa in any way possible to determine if it could harbor life as we know it, or even as we don't know it.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/light-pollution-may-be-erasing-millions-of-dollars-in-value-at-us-dark-sky-parks' target='_blank'>Light pollution may be erasing millions of dollars in value at US dark-sky parks</a></strong> — <em>2026-06-29 15:00:00</em></summary>
+
+Researchers combined satellite data and visitor surveys at dark-sky parks to quantify the economic value of dark skies amid rising light pollution.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/' target='_blank'>NextSTEP-3 A: Lunar Enabling Technology</a></strong> — <em>2026-06-29 14:56:54</em></summary>
+
+Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29, 2026 – Draft BAA and Appendix A Issued | News Release   NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.  This solicitation seeks to close key technology gaps and […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-ultra-faint-galaxy-andromeda-billion.html' target='_blank'>Ultra-faint galaxy discovered near Andromeda may be 12.5 billion years old</a></strong> — <em>2026-06-29 14:40:01</em></summary>
+
+A new ultra-faint dwarf galaxy has been discovered in the vicinity of Andromeda (M31), the Milky Way's large neighboring galaxy. The new study, published in Astronomy & Astrophysics suggests that the galaxy, named And XXXVI, is one of the faintest satellite galaxies discovered around Andromeda to date.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/This_Month_at_ESA_June_2026' target='_blank'>This Month at ESA: June 2026</a></strong> — <em>2026-06-29 14:00:00</em></summary>
+
+
+	Video: 
+			00:03:15
+				What did space have in store for Europe this month? This June, ESA astronaut Luca Parmitano was named pilot of NASA's Artemis III mission, Ariane 6 set a new European launch record, Proba-3 returned to operations, ESA satellites detected early signs of El Niño, Euclid unveiled its most detailed view yet of the Milky Way's galactic centre, and Sophie Adenot reached the halfway point of her εpsilon mission aboard the International Space Station.Join us for another month of European space achievements.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/mars-rovers/mars-orbiter-watches-perseverance-rover-cross-the-marathon-finish-line-space-photo-of-the-day-for-june-29-2026' target='_blank'>Mars orbiter watches Perseverance rover cross the marathon finish line | Space photo of the day for June 29, 2026</a></strong> — <em>2026-06-29 14:00:00</em></summary>
+
+With the speed at which the rover completed this marathon, and how well it continues to explore on Mars, who knows, maybe Perseverance will be the first to manage an ultramarathon on the Red Planet.
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/radio-astronomers-measure-a-brighter-sky-than-they-expected/' target='_blank'>Radio Astronomers Measure a Brighter Sky Than They Expected</a></strong> — <em>2026-06-29 13:30:00</em></summary>
+
+Astronomers have underestimated just how bright the low-frequency radio sky is, new measurements show.
+The post Radio Astronomers Measure a Brighter Sky Than They Expected appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/06/Sentinel-1_shows_ground_displacement_after_Venezuela_earthquakes' target='_blank'>Sentinel-1 shows ground displacement after Venezuela earthquakes</a></strong> — <em>2026-06-29 13:00:00</em></summary>
+
+
+	Image:
+			The map is an interferogram derived from the comparison of Sentinel-1 data on two dates: on the 18 June before the earthquakes and on 25 June a day after.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon' target='_blank'>How NASA's 'America 250' celebrations are reaching from the sky to the moon</a></strong> — <em>2026-06-29 13:00:00</em></summary>
+
+NASA has big plans for July 4 — the 250th anniversary of the ratification of the Declaration of Independence — which involves both aircraft and spacecraft.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw' target='_blank'>The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw</a></strong> — <em>2026-06-29 12:00:00</em></summary>
+
+Using the James Webb Space Telescope, astronomers have spotted a massive and densely packed galaxy cluster at "cosmic noon" before such structures were thought to be possible.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-giant-exoplanet-magnetic-host-star.html' target='_blank'>Giant exoplanet may hold a magnetic grip on its host star</a></strong> — <em>2026-06-29 11:40:01</em></summary>
+
+Within their planetary systems, stars are continuously shaping their orbiting planets through gravity, radiation and magnetic forces. So far, this relationship has appeared to be a one-way street.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon' target='_blank'>The Strawberry Moon rises tonight. Here's what to expect from June's full moon</a></strong> — <em>2026-06-29 10:00:00</em></summary>
+
+Don't miss June's full Strawberry Moon rise tonight (June 29), marking the first full moon of summer with a golden glow and an eye-catching moon illusion.
 
 </details>
 
