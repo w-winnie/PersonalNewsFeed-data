@@ -1,297 +1,253 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics and Space Exploration
+    ### Summary of Recent Developments in Astrophysics
 
-#### Unveiling Hidden Worlds in the Milky Way
-The European Space Agency’s Euclid space telescope has made significant strides in mapping the Milky Way's center, revealing millions of stars and potentially thousands of hidden planets through gravitational microlensing. This extensive imaging campaign, lasting 26 hours, not only charts the evolution of stars from formation to older populations but also enhances our understanding of the distribution of unseen celestial bodies. These findings broaden Euclid's mission, originally focused on dark matter and dark energy, and could reshape our understanding of galactic structures.
+**1. Exoplanet Detection and Characterization Enhancements**  
+Recent advancements in exoplanet research are transforming our understanding of potentially habitable worlds. A new star activity catalog has been introduced, which significantly refines the criteria for identifying exoplanets by integrating stellar characteristics like activity and rotation. This is crucial as stellar behavior can directly impact the atmospheres of orbiting planets. Additionally, NASA's Transiting Exoplanet Survey Satellite (TESS) has successfully utilized gravitational microlensing to discover a distant exoplanet, showcasing innovative detection methods that may reveal more hidden planets in existing data.
 
-Key Items:
-1. Euclid's imaging reveals dense stellar populations and hidden planets via gravitational microlensing. - https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo
-2. The ability to detect planets indirectly through changes in light offers new insights into galactic structures and evolution.
+Key Items:  
+- The new star activity catalog enhances the search for habitable worlds by integrating stellar behavior into assessments. [Link](https://phys.org/news/2026-07-star-sharpen-habitable-worlds.html)  
+- TESS's detection of a distant planet via microlensing opens new avenues for exoplanet identification. [Link](https://phys.org/news/2026-07-tess-planet-years.html)  
 
-#### Breakthroughs in Time-Domain Astronomy
-Recent advancements in time-domain astronomy have been exemplified by the Submillimeter Array (SMA), which successfully demonstrated rapid-response capabilities for observing gamma-ray bursts (GRBs). This achievement marks the first time such early observations have been captured at millimeter and submillimeter wavelengths, paving the way for enhanced understanding of transient cosmic events and their implications for astrophysics.
+**2. Reevaluation of Galactic Structures**  
+Significant insights into solar and galactic phenomena have emerged, particularly regarding the heating of the solar corona. New research suggests that cosmic dust grains may be pivotal in understanding this heating mechanism, challenging long-standing theories. Furthermore, revised measurements from the XMM-Newton and Chandra telescopes indicate that the Milky Way's outer spiral arms are farther away than previously estimated, which could alter our understanding of galactic dynamics and structure.
 
-Key Items:
-1. SMA's new rapid-response system captured the earliest observations of a gamma-ray burst within minutes of detection. - https://phys.org/news/2026-06-cosmic-eruption-caught-submillimeter-array.html
-2. This capability could revolutionize how astronomers study transient phenomena, allowing for more immediate and detailed data collection.
+Key Items:  
+- Research suggests charged cosmic dust influences energy transfer in the solar corona. [Link](https://phys.org/news/2026-07-cosmic-play-key-role-mystery.html)  
+- X-ray observations have led to a significant revision in the distance measurements of the Milky Way's outer arms. [Link](https://phys.org/news/2026-07-xmm-newton-chandra-distance-milky.html)  
 
-#### Insights from the James Webb Space Telescope
-The James Webb Space Telescope (JWST) continues to provide groundbreaking insights, including the identification of a source likely in the process of becoming a "Little Red Dot," a type of early galaxy. This discovery enhances our understanding of galaxy formation at high redshifts and may offer clues about the early universe's conditions.
+**3. Challenges from Space Debris and Satellite Proliferation**  
+The increasing number of satellites poses a significant threat to observational astronomy. Recent studies indicate that launching millions of additional satellites could severely disrupt astronomical observations, with estimates suggesting that exceeding 100,000 satellites may render ground-based telescopes ineffective. This situation highlights the urgent need for strategies to manage space debris and satellite launches to preserve the integrity of astronomical research.
 
-Key Items:
-1. JWST detected a source that may evolve into a Little Red Dot, providing vital information on early galaxy formation. - https://phys.org/news/2026-06-astronomers-enigmatic-source-red-dot.html
-2. The findings were presented at the European Astronomical Society meeting, emphasizing their significance in cosmic evolution studies.
+Key Items:  
+- A study warns that the planned launch of 1.7 million satellites could have catastrophic effects on astronomy. [Link](https://phys.org/news/2026-07-orbit-overload-devastate-astronomy-million.html)  
+- The growing issue of space debris poses risks to operational satellites and future missions. [Link](https://phys.org/news/2026-07-tons-space-junk-clutters-earth.html)  
 
-### Synthesis
-The current landscape of astrophysics is characterized by significant advancements in observational technology and methodologies, particularly in the realms of galactic studies and transient phenomena. Telescopes like Euclid and JWST are enhancing our understanding of the universe's structure and evolution while opening new avenues for research in time-domain astronomy. These developments indicate a vibrant and rapidly evolving field, with the potential for transformative discoveries that could redefine our understanding of the cosmos.
+### Conclusion  
+The current landscape of astrophysics is marked by significant strides in exoplanet detection and characterization, fresh insights into galactic structures, and pressing concerns about the sustainability of space operations. As researchers refine methods for identifying habitable worlds and understanding cosmic phenomena, the implications of satellite proliferation pose a growing challenge that could impact the future of observational astronomy. The field is navigating a critical juncture where technological advancements must be balanced with responsible practices to ensure the continued integrity of astronomical research.
 
 ### Top Sources:
-1. Thousands of planets are hidden in this photo - https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo - Euclid telescope reveals millions of stars and hidden planets in the Milky Way.
-2. Cosmic eruption caught in the act by submillimeter array's new fastest response system - https://phys.org/news/2026-06-cosmic-eruption-caught-submillimeter-array.html - SMA captures early observations of a gamma-ray burst.
-3. Astronomers find an enigmatic source that is most likely a Little Red Dot in formation - https://phys.org/news/2026-06-astronomers-enigmatic-source-red-dot.html - JWST discovers a source in the process of becoming an early galaxy.
-4. NASA rolls out three robotic moon missions as 2029 lunar base plans take shape - https://phys.org/news/2026-07-nasa-robotic-moon-missions-lunar.html - New uncrewed missions to support lunar base development announced.
-5. Nearby 'Super Earth' may be a better candidate for life than previously thought - https://phys.org/news/2026-06-nearby-super-earth-candidate-life.html - Exoplanet GJ 3378b shows potential for hosting life.
-6. The largest digital camera ever built begins decade-long survey of the universe - https://phys.org/news/2026-06-largest-digital-camera-built-decade.html - New camera starts capturing images of the universe.
-7. Chandra releases 'red, white, and blue' universe for US 250th - https://phys.org/news/2026-06-chandra-red-white-blue-universe.html - NASA celebrates with new cosmic images and sonifications.
-8. Mars may have once been filled with seas of magma that made the Red Planet habitable - https://www.space.com/astronomy/mars/mars-may-have-once-been-filled-with-seas-of-magma-that-made-the-red-planet-habitable - InSight mission suggests early conditions on Mars.
-9. Vera C. Rubin Observatory Begins Its Long-Awaited All-Sky Survey - https://skyandtelescope.org/astronomy-news/vera-c-rubin-observatory-begins-its-long-awaited-all-sky-survey/ - New survey set to spot billions of astronomical objects.
-10. Sound waves reconstruct Alaska fireball path after cameras miss key details - https://phys.org/news/2026-06-reconstruct-alaska-fireball-path-cameras.html - Innovative use of sound waves to track meteoroid events.
+1. LSST begins full operations with key contributions from Japanese researchers and engineers - https://phys.org/news/2026-07-lsst-full-key-contributions-japanese.html - The Vera C. Rubin Observatory officially starts its extensive astronomical survey.
+2. New star activity catalog could sharpen hunt for habitable worlds - https://phys.org/news/2026-07-star-sharpen-habitable-worlds.html - A new catalog integrates stellar activity into the search for exoplanets.
+3. Cosmic dust could play key role in cracking long-standing mystery of solar corona heating - https://phys.org/news/2026-07-cosmic-play-key-role-mystery.html - Research suggests cosmic dust influences solar corona temperatures.
+4. XMM-Newton and Chandra help revise distance to Milky Way's outer spiral arms - https://phys.org/news/2026-07-xmm-newton-chandra-distance-milky.html - New measurements indicate outer spiral arms are farther than previously thought.
+5. The growing number of satellites in orbit could soon make telescopes obsolete - https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic - A study warns of the risks posed by satellite proliferation.
+6. 13,000 tons of space junk clutters Earth orbit. Here's how it could be cleaned up - https://phys.org/news/2026-07-tons-space-junk-clutters-earth.html - An overview of the increasing space debris problem.
+7. How a giant planet survived its star's death, then migrated inward - https://phys.org/news/2026-06-giant-planet-survived-star-death.html - Observations reveal the fate of a planet around a white dwarf.
+8. Webb studies how a planet survived the death of its star - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star - The James Webb Space Telescope provides new insights into exoplanet survival.
+9. Martian dust storms may generate atmospheric electrical conditions that could impact future missions - https://phys.org/news/2026-07-martian-storms-generate-atmospheric-electrical.html - A study highlights potential hazards from Martian dust storms for future missions.
+10. Galaxy groups hiding in the universe's emptiest places - https://phys.org/news/2026-07-galaxy-groups-universe-emptiest.html - New research reveals unexpected galaxy groupings in vast cosmic voids.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo' target='_blank'>Thousands of planets are hidden in this photo</a></strong> — <em>2026-07-01 08:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-07-lsst-full-key-contributions-japanese.html' target='_blank'>LSST begins full operations with key contributions from Japanese researchers and engineers</a></strong> — <em>2026-07-02 01:40:05</em></summary>
 
-
-	Video: 
-			00:10:45
-				Millions of stars. Thousands of hidden worlds. One unprecedented view of our galaxy.Three years since launch, ESA’s Euclid space telescope reveals the Milky Way galaxy’s centre in extraordinary detail: a mosaic of tens of millions of stars captured in just 26 hours.But this is more than an image. It is a map of stellar evolution, from dark clouds where stars are being born to ancient populations packed into the galactic bulge.And hidden within this dense field of light are planets we cannot see directly.Through gravitational microlensing, astronomers detect distant worlds by measuring tiny, temporary changes in light as stars pass in front of one another, revealing planets and even their masses through gravity alone.Euclid, originally built to explore dark matter and dark energy, is now helping open a new window on our own galaxy, and the unseen worlds within it.
+NSF–DOE Vera C. Rubin Observatory has officially begun full operations for the Legacy Survey of Space and Time (LSST), one of the world's largest astronomical imaging surveys. Behind the scenes, Japanese researchers and engineers are drawing on technologies and expertise cultivated through the development and operation of the Subaru Telescope to support the project's software, systems and operations. More than 80 researchers from Japan are already participating in LSST science through access to its data. Looking ahead, the combination of Rubin's wide-area survey and the Subaru Telescope's detailed follow-up observations will help advance our understanding of fundamental mysteries of the universe.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-july-2026/' target='_blank'>July Podcast: Spotlight on Spica</a></strong> — <em>2026-07-01 07:27:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-star-sharpen-habitable-worlds.html' target='_blank'>New star activity catalog could sharpen hunt for habitable worlds</a></strong> — <em>2026-07-01 23:20:01</em></summary>
 
-This month’s episode highlights the bright star Spica, now prominent high in the southwest after evening twilight. It’s leading the parade of constellations, along with the brilliant planet Venus, that will grace the Northern Hemisphere’s summer skies. You'll also get to know other brights stars in Spica’s vicinity, along with excellent tips on how to be a better stargazer. So grab curiosity and come along on this month’s Sky Tour.
-The post July Podcast: Spotlight on Spica appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-nasa-robotic-moon-missions-lunar.html' target='_blank'>NASA rolls out three robotic moon missions as 2029 lunar base plans take shape</a></strong> — <em>2026-07-01 06:20:02</em></summary>
-
-NASA on Tuesday announced new uncrewed missions to aid in the future creation of a lunar surface base, a project beginning to take shape despite recent setbacks.
+Searching for habitable worlds beyond our solar system involves more than having a planet orbit within its star's habitable zone, the region where temperatures could be just right for liquid water to exist on the surface. On Earth, where water comprises approximately 75% of the planet's surface, life is abundant. But what about the exoplanet's star, specifically its activity and rotation? How could this influence how exoplanets are identified for current and future missions?
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-nasa-vows-ball-moon-world.html' target='_blank'>NASA vows to send ball to the moon if US wins World Cup</a></strong> — <em>2026-07-01 06:06:30</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-cosmic-play-key-role-mystery.html' target='_blank'>Cosmic dust could play key role in cracking long-standing mystery of solar corona heating</a></strong> — <em>2026-07-01 22:40:05</em></summary>
 
-NASA's chief on Tuesday tried to rally Team U.S. players in this year's World Cup tournament, promising to send a soccer ball to the moon if they win it all.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-cosmic-eruption-caught-submillimeter-array.html' target='_blank'>Cosmic eruption caught in the act by submillimeter array's new fastest response system</a></strong> — <em>2026-06-30 23:40:04</em></summary>
-
-On Jan. 26, 2026, the Submillimeter Array (SMA) on Maunakea crossed an important threshold for time-domain astronomy. For the first time, scientists from the Center for Astrophysics | Harvard & Smithsonian (CfA) demonstrated a new rapid-response capability at millimeter and submillimeter wavelengths, zooming in on a gamma-ray burst (GRB) within minutes of its discovery and capturing the earliest observations of such an event ever made at these frequencies. The successful demonstration is published in The Astrophysical Journal Letters.
+A researcher at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, has published a new study in The Astrophysical Journal suggesting that tiny charged dust grains near the sun may significantly influence how energy moves through the solar corona, the outer atmosphere of the sun. The discovery potentially rewrites how scientists understand why the corona is millions of degrees hotter than the surface of the sun itself.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-earth-microbes-survive-individual-martian.html' target='_blank'>Earth microbes can survive individual martian hazards—and evade astronaut immune systems</a></strong> — <em>2026-06-30 22:20:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/steven-spielberg-sci-fi-movies-ranked-worst-to-best' target='_blank'>Steven Spielberg sci-fi movies ranked, worst to best</a></strong> — <em>2026-07-01 22:00:00</em></summary>
 
-Hopefully, we're about to travel back to the moon relatively soon. And while the original "giant leap for mankind" was taken by a human, Neil Armstrong brought a plethora of other forms of life along with him. Humans themselves are essentially walking ecosystems, and understanding how our microbial companions survive in the harsh environments of space will be critical to ensuring the health and safety of future astronauts, no matter where their giant leaps might be. A new Ph.D. thesis from Tommaso Zaccaria at Radboud University showcases just how well suited terrestrial pathogens actually are to some of these harsh environments.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-chandra-red-white-blue-universe.html' target='_blank'>Chandra releases 'red, white, and blue' universe for US 250th</a></strong> — <em>2026-06-30 21:40:06</em></summary>
-
-In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory, rendered in red, white and blue, that represent the wonders of the universe the agency explores. The images are accompanied by a trio of new sonifications—a technique that translates astronomical data into sound.
+Disclosure Day has arrived in cinemas, and it's got us nostalgic for all Steven Spielberg's best directorial sci-fi movies to date.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-astronomers-enigmatic-source-red-dot.html' target='_blank'>Astronomers find an enigmatic source that is most likely a Little Red Dot in formation</a></strong> — <em>2026-06-30 21:40:03</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-nautilus-array-track-exoplanet-atmospheres.html' target='_blank'>Nautilus array to track missing exoplanet atmospheres</a></strong> — <em>2026-07-01 21:20:01</em></summary>
 
-Astronomers have, for the first time, found a source in the process of becoming a Little Red Dot, using the James Webb Space Telescope (JWST). Little Red Dots are likely early galaxies and some of the most intriguing objects found with JWST at high redshifts. The team, led by Karina Caputi of the University of Groningen in the Netherlands, announced the detection at the annual meeting of the European Astronomical Society (EAS 2026) in Lausanne, Switzerland. The result has been accepted for publication in The Astrophysical Journal. The paper is available on the arXiv preprint server.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/promise-me-the-moon-nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-lunar-surface' target='_blank'>'PROMISE' me the moon? NASA wants to send spare nuclear-powered Mars rover to the lunar surface</a></strong> — <em>2026-06-30 21:25:26</em></summary>
-
-NASA has announced new lunar landing contracts for its Artemis Moon Base program, as well as a potential new moon rover mission named PROMISE.
+Exoplanet atmospheres have become prime targets for astrobiologists in the search for life beyond Earth. This is because exoplanet surfaces can't be directly imaged yet, so astronomers must get creative in how they search for signs of life, also called biosignatures. Presently, powerful ground- and space-based telescopes like the Atacama Large Millimeter Array (ALMA) and NASA's James Webb Space Telescope (JWST) are improving in their ability to observe and analyze exoplanet atmospheres. But how did these atmospheres form and evolve, and what could this mean for the search for life beyond Earth?
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-iqps-radar-satellite-grain-goddess-provides' target='_blank'>Rocket Lab aborts launch of Japanese Earth-observing radar satellite at last second</a></strong> — <em>2026-06-30 21:01:30</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch' target='_blank'>Atlas V rocket launches 29 Amazon Leo broadband satellites to orbit from Florida</a></strong> — <em>2026-07-01 20:00:00</em></summary>
 
-Rocket Lab tried to launch its eighth mission for the Japanese Earth-imaging company iQPS on Thursday (June 30), but the attempt ended in an abort.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done' target='_blank'>Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it's done</a></strong> — <em>2026-06-30 21:00:00</em></summary>
-
-Blue Origin has started rebuilding the launch pad damaged by the explosion of its New Glenn rocket last month, but the company is working from a very different blueprint this time around.
+A United Launch Alliance Atlas V rocket launched 29 more Amazon Leo internet satellites to orbit from Florida early Thursday morning (July 2).
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2' target='_blank'>‘Just in time for Canada Day’: Spacewalking astronauts repair space station’s huge Canadarm2</a></strong> — <em>2026-06-30 20:30:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-tess-planet-years.html' target='_blank'>TESS just found a planet in a new way—and more may be hiding in its eight years of data</a></strong> — <em>2026-07-01 19:21:57</em></summary>
 
-Expedition 74 flight engineers Chris Williams and Jessica Meir conducted a seven-hour spacewalk to replace a wrist joint on the International Space Station's Canadarm2 robot arm on June 30, 2026.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-reconstruct-alaska-fireball-path-cameras.html' target='_blank'>Sound waves reconstruct Alaska fireball path after cameras miss key details</a></strong> — <em>2026-06-30 20:00:10</em></summary>
-
-When a bright fireball streaked across the Alaska sky last spring, the usual tools scientists rely on to track such events—cameras and satellites—did not provide a detailed picture. But the meteoroid left behind something else: low-frequency sound waves that traveled hundreds of miles and were captured by a dense network of earthquake and volcano-monitoring sensors on the ground.
+For the first time, NASA's TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to its warping of space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound microlensing world is a super-Jupiter orbiting far from its host star.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/' target='_blank'>NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th</a></strong> — <em>2026-06-30 19:54:29</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday' target='_blank'>'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday</a></strong> — <em>2026-07-01 19:00:00</em></summary>
 
-In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency explores. The images are accompanied by a trio of new sonifications – a technique that translates astronomical data into […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/' target='_blank'>A Day of Flight Testing at NASA Armstrong</a></strong> — <em>2026-06-30 19:27:13</em></summary>
-
-Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of […]
+NASA joined in the semiquincentennial celebrations this year by painting "America 250" on the rocket that launched the Artemis 2 astronauts around the moon.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/' target='_blank'>A Day of Flight Testing at NASA Armstrong</a></strong> — <em>2026-06-30 19:27:13</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-clock-chance-satellite-collisions-fast.html' target='_blank'>A new CRASH clock measures the chance of satellite collisions, and it's ticking down fast</a></strong> — <em>2026-07-01 18:40:10</em></summary>
 
-Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/' target='_blank'>La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades</a></strong> — <em>2026-06-30 19:04:43</em></summary>
-
-Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como […]
+Imagine a piece of space debris the size of a hockey puck slams into a Starlink satellite at about 10 kilometers per second. The kinetic energy is equivalent to 2 kilograms of TNT, or a fully loaded semitruck traveling at 100 kilometers an hour.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/' target='_blank'>NextSTEP-3 B: Moon Base Demonstrations</a></strong> — <em>2026-06-30 18:48:52</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/this-weird-hot-jupiter-exoplanet-has-a-hotspot-in-the-wrong-place-and-astronomers-arent-sure-how' target='_blank'>This weird 'hot Jupiter' exoplanet has a hotspot in the wrong place, and astronomers aren't sure how</a></strong> — <em>2026-07-01 18:00:00</em></summary>
 
-Notice ID: Coming Soon NASA’s Human Spaceflight Mission Directorate is seeking innovative ideas from industry partners through a new solicitation appendix under the NextSTEP-3 Omnibus Broad Agency Announcement. Appendix B: Moon Base Demonstrations calls for industry-led demonstrations, risk reduction, and special topic activities that enable an enduring human presence on the lunar surface. NASA’s Moon […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/' target='_blank'>NASA Awards More Moon Base Science, Previews New Opportunities</a></strong> — <em>2026-06-30 18:48:09</em></summary>
-
-Editor’s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover. NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as part of the agency’s Moon Base Program. Astrobotic, Firefly Aerospace, and Intuitive Machines will deliver […]
+Astronomers have discovered a curious new exoplanet that challenges assumptions about hot Jupiters, some of the most extreme planets in the universe.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/mars-may-have-once-been-filled-with-seas-of-magma-that-made-the-red-planet-habitable' target='_blank'>Mars may have once been filled with seas of magma that made the Red Planet habitable</a></strong> — <em>2026-06-30 18:00:00</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/nasa-announces-four-new-lunar-lander-missions-for-2028/' target='_blank'>NASA Announces Four New Lunar Lander Missions for 2028</a></strong> — <em>2026-07-01 17:48:35</em></summary>
 
-Deep oceans of magma once sloshed about inside the crust of Mars, seismic measurements taken by NASA's InSight mission suggest.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-nearby-super-earth-candidate-life.html' target='_blank'>Nearby 'Super Earth' may be a better candidate for life than previously thought</a></strong> — <em>2026-06-30 17:50:01</em></summary>
-
-Using the Hobby-Eberly Telescope at McDonald Observatory, astronomers have taken a closer look at a nearby exoplanet and discovered it may be more Earth-like than previously thought. The planet, known as GJ 3378b, orbits a small, cool star called a red dwarf. Just 25 light-years from Earth in the direction of the northern constellation Camelopardalis, it lies in its star's "habitable zone"—the region where temperatures could allow liquid water to exist—making it a candidate to host life.
+NASA has awarded contracts to three aerospace companies for four lunar landers to launch in 2028.
+The post NASA Announces Four New Lunar Lander Missions for 2028 appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-cataclysmic-collision-space-clues-astronomy.html' target='_blank'>A cataclysmic collision in space provides new clues on astronomy's biggest stalemate</a></strong> — <em>2026-06-30 17:40:07</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-universe-uniform-thought-cosmology-radical.html' target='_blank'>The universe is less uniform than we thought—cosmology may need a radical rethink</a></strong> — <em>2026-07-01 17:00:05</em></summary>
 
-Second only to black holes, neutron stars—incredibly dense star remnants—are the densest objects in the universe. When neutron stars collide, they create ripples in the fabric of space and time that we can detect on Earth.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630' target='_blank'>MIT student teams win top honors in NASA competition</a></strong> — <em>2026-06-30 17:30:00</em></summary>
-
-Three MIT teams took five top awards in the 2026 NASA RASC-AL Competition for designing critical elements for the moon base and future missions to Mars.
+Modern cosmology rests on a simple assumption: If we look on large enough scales, matter should be distributed evenly, with no preferred direction within the cosmos. This is known as the cosmological principle.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/star-fox-is-an-eye-catching-reimagining-of-a-timeless-sci-fi-classic-but-weve-been-here-before' target='_blank'>'Star Fox' is an eye-catching reimagining of a timeless sci-fi classic, but we've been here before</a></strong> — <em>2026-06-30 17:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic' target='_blank'>The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'</a></strong> — <em>2026-07-01 16:56:49</em></summary>
 
-Nintendo and Velan Studios' high-fidelity remake of Star Fox 64 for Switch 2 is an arcade-y blast from the past without major deviations.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-largest-digital-camera-built-decade.html' target='_blank'>The largest digital camera ever built begins decade-long survey of the universe</a></strong> — <em>2026-06-30 16:03:05</em></summary>
-
-The largest digital camera ever built is starting to capture images of unseen corners of the universe.
+If the number of satellites in Earth's orbit exceeds 100,000, humanity may lose its ability to study the universe from the planet's surface. Some companies want to put millions into space.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/rubin-observatory-begins-filming-the-greatest-cosmic-movie-ever-beginning-a-new-era-of-astronomy' target='_blank'>Rubin Observatory begins filming the 'greatest cosmic movie ever' beginning a new era of astronomy</a></strong> — <em>2026-06-30 16:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-tons-space-junk-clutters-earth.html' target='_blank'>13,000 tons of space junk clutters Earth orbit. Here's how it could be cleaned up</a></strong> — <em>2026-07-01 16:40:04</em></summary>
 
-"With the launch of the ten-year Legacy Survey of Space and Time, the Rubin Observatory is opening a new window on the universe."
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_ESA_s_Junior_Professional_Programme' target='_blank'>Apply now to ESA's Junior Professional Programme</a></strong> — <em>2026-06-30 15:30:00</em></summary>
-
-
-Are you passionate about space and looking to build a long-term career in the European space sector? Do you have less than three years of professional experience and a Master’s degree? The European Space Agency is offering a unique opportunity through its Junior Professional Programme (JPP), designed to cultivate the next generation of space professionals. If you dream of contributing to cutting-edge space missions and working in an international, dynamic environment, this programme is your gateway to an exciting future at ESA. Apply now to join us as a Junior Professional! 
+Seventy years ago, Earth had only one satellite: the moon. Now it has more than 15,000—about 10,000 of which are owned by Elon Musk's SpaceX. The world's first trillionaire plans to launch 1 million more satellites, each roughly 70 meters (230 feet) long and 20 meters (66 feet) wide, that would form a data center megaconstellation.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-red-galaxies-neutrinos.html' target='_blank'>The little red galaxies that may be sending us neutrinos</a></strong> — <em>2026-06-30 15:20:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-xmm-newton-chandra-distance-milky.html' target='_blank'>XMM-Newton and Chandra help revise distance to Milky Way's outer spiral arms</a></strong> — <em>2026-07-01 16:20:06</em></summary>
 
-Peering far into the distant, high-redshift universe, the James Webb telescope has discovered an abundance of small red galaxies known as the Little Red Dots. From their observations, astronomers believe that at least some of these galaxies may be home to growing supermassive black holes at their centers, objects which they believe are embedded in dense gaseous envelopes, an environment suitable for producing high-energy neutrinos.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/starry-chandelier-cluster/' target='_blank'>Starry Chandelier Cluster</a></strong> — <em>2026-06-30 15:02:59</em></summary>
-
-This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest […]
+The European Space Agency's XMM-Newton and NASA's Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these echoes, they found the outer arms to be up to 10% farther away than previously thought.
 
 </details>
 
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/vera-c-rubin-observatory-begins-its-long-awaited-all-sky-survey/' target='_blank'>Vera C. Rubin Observatory Begins Its Long-Awaited All-Sky Survey</a></strong> — <em>2026-06-30 15:02:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/julys-planetary-lineup-is-changing-and-venus-is-the-last-one-standing' target='_blank'>July's planetary lineup is changing — and Venus is the last one standing</a></strong> — <em>2026-07-01 16:00:00</em></summary>
 
-The telescope should spot billions of astronomical objects in the next 10 years.
-The post Vera C. Rubin Observatory Begins Its Long-Awaited All-Sky Survey appeared first on Sky & Telescope.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s' target='_blank'>America 250: How has telescope technology evolved since the dawn of the U.S.?</a></strong> — <em>2026-06-30 15:00:00</em></summary>
-
-Optical telescopes have come a long way in the past two-and-a-half centuries — from the homemade telescope of William Herschel to the orbiting Hubble Space Telescope.
+Venus dominates the evening sky while Saturn, Mars and Uranus put on a show for early risers.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/europes-deadly-heat-wave-seen-from-space-space-photo-of-the-day-for-june-30-2026' target='_blank'>Europe's deadly heat wave seen from space | Space photo of the day for June 30, 2026</a></strong> — <em>2026-06-30 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-martian-storms-generate-atmospheric-electrical.html' target='_blank'>Martian dust storms may generate atmospheric electrical conditions that could impact future missions</a></strong> — <em>2026-07-01 15:40:03</em></summary>
 
-Europe's Sentinel-3 satellite captured data that helps visualize June's deadly heat wave, allowing researchers to further understand the extent of soaring temperatures.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-06-rice-grown-moon-air-fertilizer.html' target='_blank'>Rice grown on the moon? Air-to-fertilizer technology helps rice grow in lunar soil simulant</a></strong> — <em>2026-06-30 13:40:06</em></summary>
-
-Securing sustainable food supplies is a key challenge for long-term human exploration and potential habitation of the moon. The moon's soil contains no organic material, and essential plant nitrogen sources like ammonia and nitrate are virtually nonexistent.
+A new study by a doctoral researcher at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, suggests global dust storms on Mars may organize the Martian atmosphere into regions favorable for electrical activity, increasing the potential for electrostatic discharges that could affect missions to the red planet by interfering with electronics, causing arcing between conductive surfaces, and damaging exposed scientific instruments and spacecraft systems. The research, conducted by Chali Idosa Uga, a third-year Ph.D. student in the Department of Space Science at UAH, is published in The Planetary Science Journal.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-cluster-ngc-norma-billion-years.html' target='_blank'>Open cluster NGC 6134 in Norma is 1.38 billion years old and hosts a core, tidal tail and diffuse halo</a></strong> — <em>2026-06-30 13:20:06</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-esa-outlines-high-tech-lander.html' target='_blank'>ESA outlines high-tech lander instruments for 2050 Enceladus</a></strong> — <em>2026-07-01 15:20:03</em></summary>
 
-Indonesian astronomers have conducted a comprehensive study of an open cluster in the constellation Norma, known as NGC 6134. Results of the new study, available in a research paper published June 23 on the preprint server arXiv, deliver important insights into the properties and nature of this cluster.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon' target='_blank'>'Titan is actually a very reasonable destination for humans': Scientists start mapping out crewed mission to huge Saturn moon</a></strong> — <em>2026-06-30 13:00:00</em></summary>
-
-Researchers met recently for the first "Humans to Titan Summit 2026," which explored how to send astronauts to the huge Saturn moon.
+Saturn's moon Enceladus has become a prime solar system target for astrobiologists. This is because the small moon, which is just over 10% the diameter of Earth's moon, harbors a vast subsurface ocean beneath its icy crust. This subsurface ocean, combined with the geysers at Enceladus' south pole that discharge bits of this ocean into the void, provides scientists with a treasure trove of opportunities for scientific research into whether Enceladus could harbor ingredients for life as we know it, or even direct evidence of life.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A' target='_blank'>Time to say goodbye to Sentinel-1A</a></strong> — <em>2026-06-30 12:30:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-orbit-overload-devastate-astronomy-million.html' target='_blank'>Orbit overload could devastate astronomy if 1.7 million proposed satellites brighten night sky</a></strong> — <em>2026-07-01 15:20:01</em></summary>
 
-
-After 12 years of exceptional service, the pioneering Copernicus Sentinel-1A radar satellite has reached the end of its mission. Originally designed for a seven-year life in orbit, the satellite has exceeded expectations, not only by its longevity, but through the extraordinary impact of its data, which have deepened our understanding of our changing planet and supported a wide range of operational services and laid the foundation for scientific discoveries.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/nasa-will-announce-moon-base-news-today-watch-it-live' target='_blank'>NASA will announce moon base news today: Watch it live</a></strong> — <em>2026-06-30 12:00:00</em></summary>
-
-NASA will provide an update about its moon base plans this afternoon, and you can watch it live.
+A new European Southern Observatory (ESO) study has found that current proposals to launch more than 1.7 million satellites into orbit, including extremely bright ones, would have "devastating consequences for astronomy." According to the study, no more than 100,000 faint satellites, below naked-eye visibility, should orbit Earth to safeguard our ability to observe the night sky with modern telescopes.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-06-distant-leaky-galaxies-reveal-universe.html' target='_blank'>One of the most distant 'leaky' galaxies ever found may reveal how the universe reionized</a></strong> — <em>2026-06-30 10:40:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-06-giant-planet-survived-star-death.html' target='_blank'>How a giant planet survived its star's death, then migrated inward</a></strong> — <em>2026-07-01 15:00:14</em></summary>
 
-Astronomers have identified one of the most distant candidate galaxies known to leak ionizing radiation—the same kind of radiation thought to have transformed the early universe during the epoch of reionization.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos' target='_blank'>June's Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos</a></strong> — <em>2026-06-30 10:08:52</em></summary>
-
-The June full moon rose low across the sky, treating stargazers worldwide to a stunning celestial display and we've got the photos to prove it.
+When astronomers discovered a giant planet orbiting a dead star in 2020, they wondered how it survived its star's violent demise. Now, observations from NASA's James Webb Space Telescope (JWST) may finally explain the planet's unlikely escape from destruction.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history' target='_blank'>Asteroid Day & eight other key dates in asteroid history</a></strong> — <em>2026-06-30 09:30:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star' target='_blank'>Webb studies how a planet survived the death of its star</a></strong> — <em>2026-07-01 15:00:00</em></summary>
 
 
-Happy Asteroid Day! Today is the annual UN-recognised global event to promote public education on asteroids and planetary defence. But why today, of all days? Read on to find out – and find out the other key dates in our current golden age of asteroids!
+An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf. The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/' target='_blank'>Ames Science Stars of the Month July 2026</a></strong> — <em>2026-06-30 09:12:44</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star' target='_blank'>Webb studies how a planet survived the death of its star</a></strong> — <em>2026-07-01 15:00:00</em></summary>
 
-NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences […]
+
+An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf. The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/moon/nasa-will-send-a-soccer-ball-to-the-moon-if-the-us-wins-the-world-cup' target='_blank'>NASA will send a soccer ball to the moon —if the US wins the World Cup</a></strong> — <em>2026-07-01 15:00:00</em></summary>
+
+NASA will send a soccer ball to the moon if the United States wins the FIFA World Cup, agency chief Jared Isaacman said on Tuesday (June 30).
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-07-fields-space-farming-tool-crop.html' target='_blank'>From fields to space farming, new tool detects crop drought stress before it's visible</a></strong> — <em>2026-07-01 14:40:03</em></summary>
+
+When it comes to drought stress, timing can be the difference between saving a crop and losing it, whether in a greenhouse or in the high-stakes environment of future space missions. In a recent study published in Plant Phenomics, researchers with the University of Florida Institute of Food and Agricultural Sciences (UF/IFAS), the United States Department of Agriculture (USDA) and NASA used hyperspectral imaging to detect stress in lettuce plants shortly after watering was reduced.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-07-video-thousands-planets-hidden-image.html' target='_blank'>Video: Thousands of planets are hidden in this image</a></strong> — <em>2026-07-01 14:20:03</em></summary>
+
+Millions of stars. Thousands of hidden worlds. One unprecedented view of our galaxy. Three years since launch, ESA's Euclid space telescope reveals the center of the Milky Way galaxy in extraordinary detail: a mosaic of tens of millions of stars captured in just 26 hours. But this is more than an image. It is a map of stellar evolution, from dark clouds where stars are being born to ancient populations packed into the galactic bulge.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/ocean-monitoring-satellite-spots-wildfire-smoke-from-space-space-photo-of-the-day-for-july-1-2026' target='_blank'>Ocean-monitoring satellite spots wildfire smoke from space | Space photo of the day for July 1, 2026</a></strong> — <em>2026-07-01 14:00:00</em></summary>
+
+A NASA satellite has found an unintended, important purpose.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/07/Mediterranean_Sea_breaks_June_surface_heat_record' target='_blank'>Mediterranean Sea breaks June surface heat record</a></strong> — <em>2026-07-01 13:45:00</em></summary>
+
+
+	Image:
+			This image shows the sea surface temperature anomaly detected in the Mediterranean Sea on 29 June 2026.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/new-nasa-space-telescope-images-reveal-the-universe-in-stunning-red-white-and-blue-for-america-250' target='_blank'>Stunning new NASA space telescope images reveal the universe in red, white and blue for America 250</a></strong> — <em>2026-07-01 13:00:49</em></summary>
+
+NASA's Chandra X-ray Observatory has released four stunning images of cosmic wonders, depicted in red, white and blue for the America 250 anniversary on July 4.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-06-webb-reveals-merger-scars-galaxies.html' target='_blank'>Webb reveals merger scars in galaxies that stopped forming stars 9 billion years ago</a></strong> — <em>2026-07-01 13:00:01</em></summary>
+
+Research has shed new light on why some distant galaxies suddenly stop forming stars. An international team led by astronomers at the University of Nottingham has used the James Webb Space Telescope to study a large sample of recently "quenched" galaxies in the distant universe, observed around nine billion years ago. Their findings appear in the Monthly Notices of the Royal Astronomical Society.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms' target='_blank'>XMM-Newton helps revise distance to outer spiral arms</a></strong> — <em>2026-07-01 12:00:00</em></summary>
+
+
+The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/solar-system/in-1776-the-solar-system-only-had-6-planets-now-it-has-8-does-it-end-there' target='_blank'>In 1776, the solar system only had 6 planets. Now, it has 8. Does it end there?</a></strong> — <em>2026-07-01 12:00:00</em></summary>
+
+As the United States prepares to celebrate its 250th anniversary, the history of the solar system tells its own story of exploration.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-07-galaxy-groups-universe-emptiest.html' target='_blank'>Galaxy groups hiding in the universe's emptiest places</a></strong> — <em>2026-07-01 11:20:04</em></summary>
+
+Imagine standing in the emptiest place the universe has to offer, a stretch of cosmic ocean so vast that light takes tens of millions of years to cross it, and yet still finding company. That is the puzzle behind a new study built on the Calar Alto Void Integral field Treasury surveY, or CAVITY, posted to the arXiv preprint server.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/sun-unleashes-powerful-x-class-solar-flare-and-earth-bound-cme-that-could-spark-northern-lights-for-july-4-weekend' target='_blank'>Sun unleashes powerful X-class solar flare and Earth-bound CME that could spark northern lights for July 4 weekend</a></strong> — <em>2026-07-01 10:09:38</em></summary>
+
+The X1.1 eruption briefly disrupted radio communications across the daylight side of Earth, while forecasters now expect the accompanying CME to reach Earth on July 3.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/nasa-audit-puts-boeings-starliner-under-an-even-bigger-microscope-when-will-it-fly-astronauts-again' target='_blank'>NASA audit puts Boeing's Starliner under an even bigger microscope: When will it fly astronauts again?</a></strong> — <em>2026-07-01 10:00:00</em></summary>
+
+A new NASA audit says the agency will need to purchase more astronaut flights to the ISS by 2030 and focuses on issues with Boeing's Starliner spacecraft.
 
 </details>
 
