@@ -51,111 +51,188 @@
     <h1>Ai Daily Summary</h1>
 <pre><code>### Major Themes in Recent AI Developments
 </code></pre>
-<h4>1. Integration and Accessibility of AI Tools</h4>
-<p>Recent advancements emphasize the integration of AI tools into more accessible platforms, significantly improving usability for developers and researchers. Notably, Amazon's collaboration with Hugging Face allows for a seamless transition from model discovery to experimentation within SageMaker Studio. This initiative not only democratizes access to sophisticated AI tools but also enhances the efficiency of model deployment workflows, catering to a broader audience of developers.</p>
+<h4>1. Enhanced Time-Series Forecasting Techniques</h4>
+<p>Recent advancements in time-series forecasting focus on improving prediction accuracy through innovative methodologies. Notable developments include the integration of information theory into ensemble modeling, which enhances the ability to combine forecasts from multiple models effectively. Additionally, the exploration of structural stability in econometric models is providing new insights into the reliability of predictions over time, potentially transforming how industries approach forecasting.</p>
 <p>Key Items:
-- Hugging Face and Amazon SageMaker integration facilitates easier model experimentation. (https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/)
-- Amazon Nova's customizable content moderation settings introduce a novel unlearning technique, improving model performance while allowing selective forgetting of data. (https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/)</p>
-<h4>2. Innovations in Model Training and Efficiency</h4>
-<p>Enhancements in the efficiency of large-scale model training are becoming increasingly critical. NVIDIA's research on nonuniform tensor parallelism aims to tackle the infrastructure challenges associated with training large language models (LLMs), thus improving throughput and reducing operational costs. As the demand for efficient training methods escalates, such innovations are essential for sustaining the growth of AI capabilities.</p>
+- "Information Theory and Ensemble Models" discusses strategies for enhancing ensemble methods in time-series forecasts. <a href="https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/">Link</a>
+- "Granger Causal Networks and Indirect Feedback" introduces non-parametric variable selection techniques, improving causal inference in time-series data. <a href="https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/">Link</a>
+- "Measuring Structure Stability of Econometric Models" emphasizes the critical role of structural integrity in forecasting models. <a href="https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/">Link</a></p>
+<h4>2. AI Innovations in Industrial Automation</h4>
+<p>AI applications in industrial settings are evolving, particularly in alarm management and robotics. NVIDIA's recent initiatives showcase AI agents designed to analyze and optimize industrial alarm systems, significantly enhancing operational efficiency. Furthermore, the development of humanoid robots using NVIDIA's Isaac GR00T framework indicates a trend toward more autonomous and intelligent robotic systems capable of complex tasks.</p>
 <p>Key Items:
-- NVIDIA's nonuniform tensor parallelism aims to enhance goodput in LLM training, addressing infrastructure challenges. (https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/)
-- Deployment of multi-turn reinforcement learning infrastructure on Amazon SageMaker HyperPod supports more complex training scenarios. (https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)</p>
-<h4>3. The Rise of Small AI for Global Applications</h4>
-<p>The emergence of "small AI" models is transforming the landscape of AI applications, particularly in resource-constrained settings. These models are designed to function efficiently on low-power devices, enabling critical tasks such as disease detection and medication verification in developing regions. This shift underscores the growing importance of localized AI solutions that do not depend on extensive infrastructure, making AI more applicable in diverse global contexts.</p>
+- "Building an Analysis AI Agent for Industrial Alarm Management" outlines how AI can streamline the management of industrial alarms. <a href="https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/">Link</a>
+- "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T" discusses advancements in developing task-specific skills for humanoid robots. <a href="https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/">Link</a></p>
+<h4>3. Innovations in AI-Driven Data Management</h4>
+<p>Amazon QuickSight has introduced significant enhancements in data modeling and management, particularly through Multi-Dataset Relationships. This new feature allows users to define logical connections between datasets, facilitating more complex queries and nuanced data analysis without extensive pre-processing. Such capabilities are crucial for organizations looking to derive deeper insights from their data.</p>
 <p>Key Items:
-- The RxScanner demonstrates the potential of small AI in healthcare, enabling medication verification without reliance on broadband. (https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-- Small AI models are increasingly being deployed in agriculture and public health, showcasing their versatility and impact. (https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)</p>
+- "Data modeling best practices for Amazon Quick Sight multi-dataset relationships" details the new feature for establishing logical relationships between datasets. <a href="https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/">Link</a>
+- "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick" explains how these features enhance data interactions. <a href="https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/">Link</a></p>
 <h3>Conclusion</h3>
-<p>The current AI landscape is marked by a clear trajectory toward greater accessibility, efficiency, and practical application of AI technologies. The integration of AI platforms, innovations in training methodologies, and the rise of small AI models reflect a dynamic field committed to addressing diverse needs. As these trends evolve, they are likely to reshape the deployment of AI globally, particularly in underserved communities, fostering a more inclusive technological future.</p>
+<p>The current landscape of AI research reflects a strong focus on enhancing predictive capabilities, optimizing industrial processes, and innovating data management practices. As these advancements continue to evolve, they showcase AI's versatility across various sectors while underscoring the importance of robust methodologies for ensuring reliability and accuracy. The field is characterized by a proactive approach to addressing complex challenges, highlighting the transformative potential of AI technologies.</p>
 <h3>Top Sources:</h3>
 <ol>
-<li>From Hugging Face to Amazon SageMaker Studio in one click - https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/ - Integration streamlines AI model experimentation.</li>
-<li>Teaching models to forget: Selective unlearning with Amazon Nova - https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/ - Novel unlearning technique improves model performance.</li>
-<li>Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism - https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/ - Addresses infrastructure challenges in LLM training.</li>
-<li>Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod - https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/ - Infrastructure for complex training scenarios.</li>
-<li>Small AI Models Gain Traction Around the World - https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals - The rise of small AI in global health care.</li>
-<li>Automatically redact PII in images with Amazon Nova - https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/ - PII redaction pipeline using contextual vision reasoning.</li>
-<li>Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/ - New MLflow integration for unified experiment tracking.</li>
-<li>Run MiniMax models on Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/ - Introduction of MiniMax models for diverse applications.</li>
-<li>How to Run End-to-End Tests with Claude Code - https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/ - Enhancing coding agent effectiveness through testing.</li>
+<li>Information Theory and Ensemble Models - https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/ - Discusses strategies for enhancing ensemble methods in time-series forecasts.</li>
+<li>Granger Causal Networks and Indirect Feedback - https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/ - Introduces non-parametric variable selection techniques for improved causal inference.</li>
+<li>Measuring Structure Stability of Econometric Models - https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/ - Emphasizes the role of structural integrity in forecasting models.</li>
+<li>Building an Analysis AI Agent for Industrial Alarm Management - https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/ - Outlines how AI can optimize industrial alarm management.</li>
+<li>Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T - https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/ - Discusses advancements in humanoid robotics.</li>
+<li>Data modeling best practices for Amazon Quick Sight multi-dataset relationships - https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/ - Details new capabilities for logical relationships between datasets.</li>
+<li>Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick - https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/ - Explains how new features enhance data interactions.</li>
+<li>Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/ - Discusses innovations in wireless communications using AI.</li>
+<li>Monitoring discriminative ML models using Amazon SageMaker AI with MLflow - https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/ - Highlights a solution for monitoring model performance.</li>
 <li>
-<p>Validating the RAG Answer Before the User Sees It: Spans, Quotes, and the Feedback Loop - https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/ - Structured output validation in document intelligence.</p>
+<p>Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation - https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/ - Compares temporal reasoning methods in AI models.</p>
 <hr />
 <h2>📰 Sources</h2>
-<p><details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/' target='_blank'>From Hugging Face to Amazon SageMaker Studio in one click</a></strong> — <em>2026-07-06 22:35:55</em></summary></p>
+<p><details><summary><strong><a href='https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/' target='_blank'>Information Theory and Ensemble Models</a></strong> — <em>2026-07-08 01:57:39</em></summary></p>
 </li>
 </ol>
-<p>Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.</p>
+<p>How should we ensemble time-series forecasts better?
+The post Information Theory and Ensemble Models appeared first on Towards Data Science.</p>
 </details>
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/' target='_blank'>Teaching models to forget: Selective unlearning with Amazon Nova</a></strong> — <em>2026-07-06 22:23:45</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/' target='_blank'>Granger Causal Networks and Indirect Feedback</a></strong> — <em>2026-07-08 01:56:11</em></summary>
 
-In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while preserving model quality. We also provide pointers for customers who want to apply these preference optimization techniques to their own experiments.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/' target='_blank'>Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism</a></strong> — <em>2026-07-06 21:44:23</em></summary>
-
-Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these...
+A non-parametric variable selection for Structural VARs
+The post Granger Causal Networks and Indirect Feedback appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706' target='_blank'>Toward a future that preserves benefits of neurotechnology for all</a></strong> — <em>2026-07-06 19:50:00</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/' target='_blank'>Measuring Structure Stability of Econometric Models</a></strong> — <em>2026-07-08 01:53:36</em></summary>
 
-PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/' target='_blank'>Run MiniMax models on Amazon Bedrock</a></strong> — <em>2026-07-06 17:00:44</em></summary>
-
-In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your workloads, and the different APIs you can use to access them. Using these models, customers can build agentic applications, long-context document analysis pipelines, and software engineering workflows, all backed by the security and operational guarantees of AWS.
+The simplest most important idea for time series forecasting
+The post Measuring Structure Stability of Econometric Models appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/' target='_blank'>Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod</a></strong> — <em>2026-07-06 16:58:13</em></summary>
+<details><summary><strong><a href='https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707' target='_blank'>How novice coders can develop AI programs for military applications</a></strong> — <em>2026-07-07 17:25:00</em></summary>
 
-In this post, you deploy a two-phase infrastructure for multi-turn RL using Amazon Nova Forge on Amazon SageMaker HyperPod. By the end, you have an event-driven pipeline that starts training when you upload data to Amazon Simple Storage Service (Amazon S3). The training job teaches the model to play Wordle, a placeholder for your own RL task.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/' target='_blank'>Automatically redact PII in images with Amazon Nova</a></strong> — <em>2026-07-06 16:55:02</em></summary>
-
-In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed on Amazon SageMaker AI for pixel-level segmentation, and Amazon Textract for optical character recognition (OCR). This pipeline is designed to provide comprehensive and compliant PII redaction even for challenging edge cases such as fingerprints, ID cards, or license plates in arbitrary orientations.
+A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/' target='_blank'>Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI</a></strong> — <em>2026-07-06 16:53:38</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/' target='_blank'>Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick</a></strong> — <em>2026-07-07 17:07:57</em></summary>
 
-In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a unified tracking interface. This integration streams metrics, parameters, and charts into your serverless Amazon SageMaker MLflow App in real time and you get a unified experiment tracking experience.
-
-</details>
-
-<details><summary><strong><a href='https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals' target='_blank'>Small AI Models Gain Traction Around the World</a></strong> — <em>2026-07-06 16:06:23</em></summary>
-
-One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year.The RxScanner is a handheld spectrometer that scans a pill with infrared light, then sends the item’s molecular profile to an AI model equipped with a pharmaceutical database. In seconds, the AI identifies the medication from its molecular profile—or reports that it’s phony.Pharmacies were using the system in more than a dozen countries, including Ghana, Kenya, Myanmar, and Alonge’s native Nigeria. But that morning in South Africa, it didn’t work. “I was shocked,” Alonge says.The spectrometer connected to the AI model—but the data center was 14,000 kilometers away and bandwidth was limited. “Our server was in the United States, and just to get the result of a single scan was taking me over 5 minutes.”So Alonge immediately asked his engineers to shrink the AI model down to a smaller, low-power, unconnected version that could run entirely on his Android phone. They produced it 2 hours later, and that saved the demo.More importantly, the work birthed a new version of his device, which can authenticate a pill in places without broadband, computers, or even reliable electricity. It also turned Alonge into an advocate for this kind of “small AI.”Small AI for Global Health Care AccessSmall AI is a far cry from wealthy nations’ colossal large language models (LLMs), hyperscale data centers, multibillion-dollar investments, and debates about AI consciousness. But for millions of people around the world, the only AI that matters, and often the only kind available, is small. (According to a World Bank Report issued in November, only 0.7 percent of internet users in the world’s poorest countries have used ChatGPT, compared to a quarter of all internet users in the most developed nations.)“Most people are discussing AI from the LLM/generative side. But that needs a lot of computing power, electricity, massive data, and skilled people to manage it,” Ajay Banga, president of the World Bank, said last January at the World Economic Forum, in Davos. “Outside the developed world, other than maybe India and China, very few countries have that combination.”By contrast, small AI can deliver useful, even life-saving services to people in areas that have none of those things, Banga said. In India, where the government’s AI plans call for more development of small AI, many such systems are working for farmers.For example, a drone-based system developed by Bala Murugan and colleagues at the Vellore Institute of Technology, in India, takes photos of cashew plants and quickly identifies those with splotches that indicate disease. All the processing takes place on the drone itself, so there’s no need for a computer on-site, nor for a connection to a central server.Using small language models trained for a specific problem, and sometimes running on cheap, low-power devices, other small-AI implementations have been developed to identify ant infestations in a Uruguayan vineyard, detect the presence of malaria-carrying mosquitoes in a number of nations, and run electrocardiograms from an Arduino device in parts of Brazil that lack access to more complex equipment.“This is the most important area in AI nowadays,” says Marcelo José Rovai, a professor at the Institute of Engineering and Information Systems at the Federal University of Itajubá, in Brazil, who was involved in all three projects. “It’s growing very fast.”Low-Power, Small-AI Models on Devices  Small AI models can run on a variety of low-power devices, including [from left to right] an Arduino Nano 33 BLE Sense, a Seeed Wio Terminal, and an Arduino Portenta.Moez AltayebFor Alonge, Rovai, and other advocates, small AI is not just “a promising trend,” as that November World Bank report calls it. It may be, in the long term, the form of AI that will touch the most lives and remain sustainable after some of the giant models become too costly for most users.“I think the future of AI is not like one giant model, at a center. I think it’s millions of small, precise models deployed at the edge, each one solving like a specific problem, a specific context,” Alonge says. This is partly because much of humanity—including people in parts of rich countries as well as the developing world—lives without access to cutting-edge frontier models. But, he says, it’s also because those models are not sustainable.“If someone is not subsidizing it, most people will not be able to afford those models. So those of us who are said to be small-AI developers are the ones who will have to build for the majority of the world,” Alonge says.There is no strict definition of “small AI,” but people often use the term for language models with at most a few billion parameters. (Compare that to cutting-edge models, which can include more than a trillion.) That’s small enough to run directly on a phone or a Raspberry Pi. That’s what allows these applications to run on devices without a connection to a data center and use only a few watts of power, often supplied by a battery or a solar panel.Despite their small footprint, these models aren’t fundamentally different technology from that of gigantic AI models, Rovai says. Many instances of small language models were created the same way the phone-based version of Alonge’s pharmaceuticals scanner was—by “pruning” large models, or removing the parameters that weren’t involved in the task. The result is a system that’s less capable generally but still very good at the specific job it was pruned for, Rovai says.  A lighter version of RxAll’s RxScanner spectrometer sends its results to an AI model run locally on a phone to check that a drug’s molecular signature is genuine.RxAllOther small models are created by “distillation.” They are trained to mimic a large model, until their performance approaches that of their “teacher,” Rovai says. In other cases, a larger model’s precision is reduced, for example, so that a model run on 32-bit architecture can run on 8-bit designs. In situations where the machine learning application is being used to classify data or predict patterns (like an ant infestation), it’s trained from the beginning on a small device, not derived from a larger model at all. Running all these small, specialized systems is becoming easier, Rovai says, for two reasons.The first reason is that hardware is getting better and more capable while using less power, he says. This means more and more phones can run small AI—especially those equipped with neural processing units, which are specialized chips that handle AI tasks like facial recognition and changing the brightness, shadows, or contrast in a photo.In 2025, slightly more than a third of all smartphones shipped worldwide were capable of running generative AI, and that figure will reach 45 percent by the end of this year, according to the technology research firm Counterpoint. By the end of next year, slightly more than half of all smartphones will be able to run a small AI model.The second reason Rovai cites is the shrinking footprint of language models. Both Google DeepMind’s Gemma 4 (released in April) and Alibaba’s Qwen 3.5 are “fantastic” for small AI, Rovai says. Both models are “open weight,” meaning users can adjust the connections between parameters to suit their needs. This makes it easy, for example, “to take a lot of data from, say, the milk industry and retrain the model specifically on that,” Rovai says.Rovai illustrated these reasons on a Zoom call, using one of his most recent experiments. Holding up a device, he says, “This is the new Arduino UNO Q—a US $50 device with a Qualcomm chipset. I’m running a language model here, which collects data from sensors and analyzes that data to detect tiny pools of water where mosquitoes might be breeding. It takes 3 watts to run it.”Support for Small-AI DevelopmentConvinced that millions of people are already benefiting from these kinds of applications, the World Bank now actively promotes small AI with grants, mentorship programs, financing, technical advice, and models of government policies that are friendly for small-AI development. For example, in Rwanda, the World Bank is backing a government program to help low-income households get devices that can run AI.All that said, no one claims that large language models are going away entirely. To create a generative AI that can run on a phone or other small device requires the architectural insights, data processing, and results of a larger model, Rovai says. “We need the big models to create these smaller models.” And for all that small AI can benefit people without access to big AI, the technology can’t solve the larger problems of development and digital inequality, Alonge says. Implementing small AI won’t allow nations to escape the challenge of creating an ecosystem to support AI: reliable power, a supply chain that works, and an educational system that develops the talents needed to create AI tools.Though his drug-scanning system can run for days on a phone with no connection, “you still want to be able to enable periodic syncing for updates with new signatures for the medications and analytics,” Alonge says. “And even when you are using batteries, reliable power is important. That phone battery is not going to last forever.”In many parts of the world, the future of small AI isn’t assured, he says. “It works, and many places will eventually need to use it. The question is whether or not the political actors are wise enough to invest in infrastructure to support it long term.”
+In this post, we walk through what Dataset Enrichment is, how it differs from legacy Topics, and provide three migration scenarios with step-by-step guidance so you can move your business context into the dataset layer with confidence.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/' target='_blank'>How to Run End-to-End Tests with Claude Code</a></strong> — <em>2026-07-06 15:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/' target='_blank'>Data modeling best practices for Amazon Quick Sight multi-dataset relationships</a></strong> — <em>2026-07-07 17:07:49</em></summary>
 
-Increase the effectiveness of your coding agents through end-to-end testing.
-The post How to Run End-to-End Tests with Claude Code appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/' target='_blank'>Validating the RAG Answer Before the User Sees It: Spans, Quotes, and the Feedback Loop</a></strong> — <em>2026-07-06 13:30:00</em></summary>
-
-Enterprise Document Intelligence [Vol.1 #8C] - Structured output is the start of validation, not the end: check the evidence, accept not-found, loop the feedback
-The post Validating the RAG Answer Before the User Sees It: Spans, Quotes, and the Feedback Loop appeared first on Towards Data Science.
+Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time. Instead of flattening tables ahead of time, you keep each table as its own Quick Sight dataset and declare how those datasets relate to one another inside a Quick Sight Topic.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/stop-ranking-agent-configs-by-average-score/' target='_blank'>Stop Ranking Agent Configs by Average Score</a></strong> — <em>2026-07-06 12:00:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/' target='_blank'>Data modeling patterns for Amazon Quick Sight multi-dataset relationships</a></strong> — <em>2026-07-07 17:07:39</em></summary>
 
-Best-worst comparisons, MaxDiff-style judging, and Plackett-Luce utility scores give agent teams a cleaner way to decide which configs to ship, prune, and route toward next.
-The post Stop Ranking Agent Configs by Average Score appeared first on Towards Data Science.
+In this post, we shift from concepts to patterns. For each schema, you’ll find a table structure, use cases, implementation steps, and sample SQL queries. We also cover workarounds for advanced scenarios that require extra modeling steps, and close with a summary of current limitations.
 
 </details>
-    <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: 2026-07-07 10:24 UTC</p>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/' target='_blank'>Multi-dataset Topic best practices for Amazon Quick Chat</a></strong> — <em>2026-07-07 17:07:31</em></summary>
+
+This post is for data architects, business intelligence (BI) engineers, and analytics engineers building or optimizing Quick Sight Topics for natural-language Chat-based exploration.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/' target='_blank'>Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick</a></strong> — <em>2026-07-07 17:07:22</em></summary>
+
+In this post, we walk through how multi-dataset Topics work, explain how the chat agent uses defined relationships to generate cross-dataset queries, and demonstrate an end-to-end implementation using a retail analytics scenario in Quick Sight.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/' target='_blank'>Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T</a></strong> — <em>2026-07-07 17:05:42</em></summary>
+
+As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids...
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/' target='_blank'>Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron</a></strong> — <em>2026-07-07 17:00:00</em></summary>
+
+Industrial machinery generates more alarms than technicians can triage. For each important alarm requiring follow-up, the technician pulls historical context,...
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/' target='_blank'>Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial</a></strong> — <em>2026-07-07 17:00:00</em></summary>
+
+Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to...
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/' target='_blank'>Build a serverless image editing agent with Amazon Bedrock AgentCore harness</a></strong> — <em>2026-07-07 16:51:29</em></summary>
+
+This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom orchestration code. We deploy the full solution, including authentication, encrypted storage, three image editing tools, and a React frontend, with a single deployment command. The infrastructure is defined using AWS Cloud Development Kit (AWS CDK).
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/' target='_blank'>Monitoring discriminative ML models using Amazon SageMaker AI with MLflow</a></strong> — <em>2026-07-07 16:49:09</em></summary>
+
+Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use case. This post shows how you can use open source Evidently together with Amazon SageMaker AI to generate monitoring reports, organize and compare the results in MLflow, scale through pipelines, and trigger drift notifications.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/' target='_blank'>Build an AI-powered AWS support companion with Amazon Bedrock AgentCore</a></strong> — <em>2026-07-07 16:46:43</em></summary>
+
+In this post, you build an AWS Support Companion using Amazon Bedrock AgentCore. The agent uses Strands Agents as the orchestration framework and connects to AWS services through the Model Context Protocol (MCP). By the end, you have a working agent that can analyze CloudWatch logs, search AWS documentation, query community knowledge from AWS re:Post, and create support cases, all from a single conversational interface. The solution deploys with a single script using AWS CloudFormation and includes a web frontend built on AWS Amplify for interacting with the agent.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/' target='_blank'>How AWS Finance teams reclaimed hundreds of hours with Amazon Quick</a></strong> — <em>2026-07-07 16:43:11</em></summary>
+
+In this post, we show how AWS Finance used chat agents and Flows in Amazin Quick to transform two of their most time-consuming workflows.
+
+</details>
+
+<details><summary><strong><a href='https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/' target='_blank'>The power of collaboration: How we can reduce traffic congestion</a></strong> — <em>2026-07-07 16:42:08</em></summary>
+
+Algorithms & Theory
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/' target='_blank'>A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers</a></strong> — <em>2026-07-07 16:30:00</em></summary>
+
+Enterprise Document Intelligence [Vol.1 #9A] - Same paper, same question as Article 1. One upgraded contract per brick: document parsing, question parsing, retrieval, generation
+The post A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/' target='_blank'>NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads</a></strong> — <em>2026-07-07 15:10:10</em></summary>
+
+Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/' target='_blank'>Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation</a></strong> — <em>2026-07-07 15:00:00</em></summary>
+
+A technical comparison of Proxy-Pointer and LLM-Wiki
+The post Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707' target='_blank'>Jesse Thaler named director of the Laboratory for Nuclear Science</a></strong> — <em>2026-07-07 14:45:00</em></summary>
+
+The professor of physics and inaugural director of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions will lead LNS and continue his research in particle physics.
+
+</details>
+
+<details><summary><strong><a href='https://spectrum.ieee.org/ai-art-market' target='_blank'>What Makes AI Art Worth Collecting?</a></strong> — <em>2026-07-07 14:00:02</em></summary>
+
+In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t understand how light worked.SHL0MS then revealed that the image was of a real Monet, one of around 250 variations of water lilies the artist had painted in his lifetime. He had simply downloaded a high-resolution image from Wikimedia and cropped out the signature. He minted the exchange as an NFT (a unique digital collectible recording ownership of the work), titled it “Inferior Image,” and sold it for just over US $40,000 after 28 bids.The stunt exposed how charged the conversation around AI art has become, and how quick people are to dismiss anything AI-generated as slop—even when it’s not. Yet even as those arguments continue, a market for AI-generated art has begun to form anyway. It’s fragmented and contested, but bigger than most people realize.Jediwolf, an anonymous collector who says he has spent more than 20 years acquiring digital and AI art, was watching the experiment unfold in real time on X. He had never interacted with SHL0MS before, but when the NFT went up for auction he made a bid and won. “I was buying a unique moment in time,” he says, “captured by an artist and preserved as a token.”The Monet was not AI art, but most of what Jediwolf buys is. One of Jediwolf’s digital collections, which he calls UnderTheGAN—a play on GANs, or generative adversarial networks, the AI technology that preceded today’s diffusion models—comprises roughly 100 works valued at around $72,000, focused on early AI art from 2015 to 2020, before the medium went mainstream. He describes his role as part collector, part researcher, part curator, trying to document a fast-moving field.“A decade ago, digital art was often treated as peripheral to the ‘serious’ art world,” he says. “Today, it is increasingly difficult to separate contemporary culture from the internet.”AI Art Moves Into MuseumsThe market for AI art extends beyond NFTs: AI-generated pieces are also finding their way into physical installations. Last month saw the opening of Dataland, the world’s first generative AI museum, in downtown Los Angeles. It was spearheaded by Refik Anadol, a digital artist who has built a career out of transforming data into large-scale immersive experiences. The opening exhibition has pieces that use data that Anadol collected from rainforests around the world, with real-time weather information from 16 rainforests feeding into all five galleries. In three of the rooms, the imagery also shifts in response to visitors’ own biometric data, tracked by bracelets they wear. Like any museum it sells tickets, ranging from $49 to $79, and has a gift shop. This shop, however, uses visitors’ biometric data collected during their visit to generate a unique design printed on a T-shirt. For $15,000, a robotic painting system called Qualia creates a one-of-a-kind canvas from that same data, painted once a day, with a waiting list already forming. A founding collection of 1,000 AI data sculptures that evolve based on environmental data from global rainforests sold out in 34 minutes at $5,000 each.The system running it all, which Anadol calls the Large Nature Model, was trained on more than 500 million nature images representing 2.2 million species, gathered through field expeditions to 16 rainforests and partnerships with institutions including the Smithsonian and the Cornell Lab of Ornithology.For Anadol, AI art requires a different kind of transparency than any medium that came before it. Because commercial AI tools have shaped how most people understand the technology, artists working with it seriously have to be more open about their process than painters or photographers ever did.“For AI art, we have to know where the data comes from, we have to know which model is trained and how it’s trained,” he says. “We can’t just think about authenticity and uniqueness if a service and product is the fundamental layer of the artwork.”The reviews for Dataland have mostly been positive, with one critic calling it the Citizen Kane of immersive experiences. But Anadol is used to a more divided reception. His 2022 installation at MoMA—a 7-by-7-meter screen of AI-generated fluid forms with shifting colors and sounds—drew 3 million visitors and entered the permanent collection, even as New York Magazine called it “a massive techno lava lamp.” Anadol sees the skepticism as nothing new, just the latest version of a resistance that has greeted all new media. “Every art form has gone through similar cycles of denial,” he says. “We are living in a renaissance that started 10 years ago, and I just don’t think everyone is aware of it yet.”Who Is Buying AI Art?The broader market data points in multiple directions at once. According to the Art Basel and UBS Art Market Report 2026, digital art’s share of sales nearly tripled between 2024 and 2025, and just over half of all fine art collectors surveyed had purchased a digital artwork in 2025, making it the third most popular category after painting and sculpture (the report does not break out AI art specifically).Meanwhile, Christie’s shuttered its pioneering digital art department in September, folding digital works back into its broader contemporary sales after none of its dedicated auctions broke $400,000.The most data-rich window into buyer behavior comes from a less glamorous corner of the market. After one major stock image platform allowed AI-generated images, monthly sales jumped 80 percent, according to Samuel Goldberg, an economist at Stanford Graduate School of Business who published a research paper about the shift. Traditional contributors began leaving the platform as generative images flooded in, and creators using AI tools rushed to fill the gap. “It looks like consumers like generative AI,” Goldberg says, “and it seems like nongenerative artists could be getting crowded out of the market.” Stock images are essentially a commodity version of art, according to Goldberg, and because image-generating models are already very good at producing them, what’s happening there may be a preview of what’s coming for other creative goods markets—including fine arts—as the technology improves.Artists are typically among the first to test the limits of a new technology; early adopters have created AI art since the 1970s. What’s new now is the ability for anyone to generate an image in seconds with a text prompt. That, according to Christiane Paul, curator of digital art at the Whitney Museum of American Art, is not the same thing at all. What fills those stock-image platforms, and what most people encounter when they think of AI art, does not qualify as art.True AI art, Paul says, is a subcategory of digital art that uses artificial intelligence as both a tool and a medium, engaging with it practically and conceptually, doing things like training custom models, building extensions, and layering control systems. “A visual created by a prompt is not art,” she says. What serious AI artists are actually doing is much more than typing a few words into DALL-E.Far from the shortcut most people assume, working seriously with AI as an artistic medium is, by her account, brutally hard. Every artist she talks to says the same thing. “It is much, much harder than a paintbrush to handle,” she says. “You are literally communicating with a system with a completely different logic.”Thanks to bubblemaps.io for its research assistance on the NFT market.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/space-mould/' target='_blank'>Identifying Microbes in Space</a></strong> — <em>2026-07-07 13:30:00</em></summary>
+
+What's living on the International Space Station?
+The post Identifying Microbes in Space appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/survival-analysis-for-data-drift-and-ml-reliability/' target='_blank'>Survival Analysis for Data Drift and ML Reliability</a></strong> — <em>2026-07-07 12:00:00</em></summary>
+
+Treating model degradation as a time-to-failure problem
+The post Survival Analysis for Data Drift and ML Reliability appeared first on Towards Data Science.
+
+</details>
+    <p style='font-size:0.9em;color:#666;margin-top:2em;'>Last updated: 2026-07-08 09:25 UTC</p>
     </body>
     </html>
