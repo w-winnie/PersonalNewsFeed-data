@@ -1,226 +1,246 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics News
+    ### Summary of Recent Developments in Astrophysics
 
-#### Lunar Missions and Infrastructure
-Recent advancements in lunar exploration focus on optimizing astronaut staffing and infrastructure development for sustained human presence on the Moon. A simulation study indicates that mission design must balance psychological well-being with practical considerations, suggesting an optimal number of astronauts for lunar bases. Meanwhile, the Artemis II astronauts recently reunited, reflecting on their historic mission that pushed the boundaries of crewed spaceflight. These developments are pivotal as they lay the groundwork for future lunar and Martian missions, emphasizing NASA's commitment to long-term exploration.
+#### Unraveling Cosmic Mysteries: Neutrinos and Supernovae
+Recent breakthroughs have enabled astronomers to potentially detect neutrinos from ancient supernovae, marking a significant leap in our understanding of stellar evolution. These elusive particles, produced during stellar explosions, offer a unique glimpse into the life cycles of stars and the early universe. The ability to trace these neutrinos back to their origins could reshape theories on how elements are distributed in the cosmos and the processes governing stellar death.
 
-Key Items:
-1. Staffing the Moon Base - https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost - Simulation emphasizes mission design for effective lunar habitation.
-2. Artemis II Reunion - https://phys.org/news/2026-07-artemis-ii-astronauts-reunite-moonship.html - Astronauts reflect on their record-breaking lunar flight.
+Key items:
+1. Astronomers report potential detection of neutrinos linked to ancient supernovae, enhancing knowledge of stellar death. - https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions
+2. These findings may necessitate a reevaluation of existing models of stellar evolution and element formation.
 
-#### Planetary Science and Exoplanet Discoveries
-The field of planetary science is experiencing significant breakthroughs that challenge existing models of planetary formation. A study proposes that primordial mini-moons may account for the composition of common meteorites, enhancing our understanding of early solar system dynamics. Additionally, the discovery of NGTS-38 b, a super-Jupiter with a unique orbit, illustrates the diversity and complexity of exoplanetary systems. These findings contribute to a deeper understanding of planetary evolution and the conditions that foster diverse planetary environments.
+#### Insights into Star Formation Mechanisms
+New observations from advanced radio telescopes have provided unprecedented insights into prestellar cores, the dense regions of gas and dust where stars are born. These observations are crucial for understanding the complexities of star formation, revealing how these cores evolve and contribute to the emergence of new stars in galaxies.
 
-Key Items:
-1. Mini-Moons and Meteorites - https://phys.org/news/2026-07-primordial-mini-moons-meteorite-composition.html - Study suggests mini-moons played a role in meteorite composition.
-2. Super-Jupiter Discovery - https://phys.org/news/2026-07-scientists-rare-super-jupiter-planet.html - New exoplanet discovery expands knowledge of giant gas planets.
+Key items:
+1. Researchers have captured detailed images of the processes that lead to star formation, offering clarity on how infant stars develop. - https://phys.org/news/2026-07-capturing-cosmic-drift-star-born.html
+2. This research could refine models of galactic evolution by elucidating the conditions necessary for star formation.
 
-#### Innovations in Space Technology
-Technological advancements are reshaping the landscape of space exploration. SpaceX's Falcon 9 rocket has achieved a record-breaking 36 launches, demonstrating the increasing reliability of commercial spaceflight. Concurrently, NASA's Roman Space Telescope is set to launch, promising to enhance our observational capabilities and deepen our understanding of the universe. These innovations not only support current missions but also establish a foundation for future explorations beyond our solar system.
+#### Ancient Quasars and Early Universe Dynamics
+The discovery of ancient quasars, dating back to just 670 million years after the Big Bang, presents significant challenges to current cosmological models regarding black hole formation. These quasars, powered by supermassive black holes, raise questions about the timeline and mechanisms of black hole growth in the early universe.
 
-Key Items:
-1. SpaceX Falcon 9 Record - https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record - Falcon 9 sets a new record for launches.
-2. Roman Space Telescope Prepares - https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026 - Upcoming launch expected to revolutionize astronomical observations.
+Key items:
+1. The identification of 31 ancient quasars suggests a rapid formation of massive black holes, prompting a reevaluation of early universe theories. - https://www.sciencedaily.com/releases/2026/07/260707025049.htm
+2. This discovery could significantly alter our understanding of black hole development shortly after the universe's inception.
 
 ### Conclusion
-The current landscape in astrophysics reflects a robust commitment to expanding human presence in space, deepening our understanding of planetary systems, and leveraging technological innovations for exploration. As lunar and Martian missions gain traction and new discoveries reshape our cosmic perspective, the field is poised for transformative breakthroughs that could redefine our understanding of the universe.
+The current landscape in astrophysics is characterized by significant advancements that enhance our understanding of cosmic phenomena, from neutrinos linked to supernovae to ancient quasars challenging existing black hole formation theories. These findings not only deepen our comprehension of stellar and black hole evolution but also prompt a critical reassessment of established cosmological models, indicating a dynamic and rapidly evolving field of study.
 
-### Top Sources
-1. Staffing the Moon Base - https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost - Simulation emphasizes mission design for effective lunar habitation.
-2. Artemis II Reunion - https://phys.org/news/2026-07-artemis-ii-astronauts-reunite-moonship.html - Astronauts reflect on their record-breaking lunar flight.
-3. Mini-Moons and Meteorites - https://phys.org/news/2026-07-primordial-mini-moons-meteorite-composition.html - Study suggests mini-moons played a role in meteorite composition.
-4. Super-Jupiter Discovery - https://phys.org/news/2026-07-scientists-rare-super-jupiter-planet.html - New exoplanet discovery expands knowledge of giant gas planets.
-5. SpaceX Falcon 9 Record - https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record - Falcon 9 sets a new record for launches.
-6. Roman Space Telescope Prepares - https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026 - Upcoming launch expected to revolutionize astronomical observations.
-7. Hidden Jet from Black Hole - https://phys.org/news/2026-07-hidden-jet-link-black-hole.html - Discovery of a radio burst from an intermediate-mass black hole.
-8. NASA's New Horizons Probe - https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there - New Horizons probe resumes operations after hibernation.
-9. Black Hole Collisions - https://phys.org/news/2026-07-black-hole-collisions-entropy-law.html - Study proposes a simpler prediction model for black hole remnants.
-10. Deep Space Software Upgrade - https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit - ESA's Hera mission upgrades software for asteroid exploration.
+### Top Sources:
+1. Astronomers may have heard the 1st 'whispers' of ghost particles created by supernova explosions - https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions - Detection of neutrinos from ancient supernovae could reshape understanding of stellar evolution.
+2. Capturing the cosmic 'drift' before a star is born - https://phys.org/news/2026-07-capturing-cosmic-drift-star-born.html - Advanced radio telescopes reveal insights into star formation processes.
+3. These ancient quasars shouldn't exist so soon after the Big Bang - https://www.sciencedaily.com/releases/2026/07/260707025049.htm - Discovery of ancient quasars challenges theories of early black hole formation.
+4. Newborn stars preserve organic-rich gas within ancient supernova debris - https://phys.org/news/2026-07-newborn-stars-rich-gas-ancient.html - First discovery of complex organic molecules in supernova remnants.
+5. NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar - https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/ - New insights into the structure of extreme cosmic objects.
+6. Observing oscillations, flares and tornados on the sun - https://phys.org/news/2026-07-oscillations-flares-tornados-sun.html - Detailed observations of solar dynamics from a balloon-borne observatory.
+7. This Mars rover could finally reveal whether life ever existed on Mars - https://www.sciencedaily.com/releases/2026/07/260707025051.htm - Rosalind Franklin rover's capabilities could detect signs of past life on Mars.
+8. Tianwen 2 Arrives at Quasi-Moon Kamoʻoalewa, Returns Images - https://skyandtelescope.org/astronomy-news/tianwen-2-arrives-at-quasi-moon-kamoʻoalewa-returns-images/ - China's mission provides new images of a unique quasi-satellite.
+9. Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns - https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns - Discovery of the oldest quasar offers insights into the early universe.
+10. China announces plan to build early-warning system for dangerous asteroids - https://www.space.com/space-exploration/asteroid-comet-missions/china-announces-plan-to-build-early-warning-system-for-dangerous-asteroids - New initiatives aim to enhance asteroid detection capabilities.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost' target='_blank'>Staffing the moon base: How many astronauts should live in NASA's lunar outpost?</a></strong> — <em>2026-07-09 10:00:00</em></summary>
+    <details><summary><strong><a href='https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions' target='_blank'>Astronomers may have heard the 1st 'whispers' of ghost particles created by supernova explosions</a></strong> — <em>2026-07-10 10:00:00</em></summary>
 
-A simulation of future astronaut moon bases suggests that mission design, and not just psychology, needs to be considered for success.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-artemis-ii-astronauts-reunite-moonship.html' target='_blank'>Artemis II astronauts reunite with their moonship 3 months after record-breaking flight</a></strong> — <em>2026-07-09 08:41:00</em></summary>
-
-The Artemis II astronauts reunited with their capsule Wednesday three months after flying around the moon and traveling deeper into space than anyone in history.
+The universe is haunted by "cosmic ghosts" called neutrinos, which seem to be the "whispers" of stars that died in supernova explosions over the course of billions of years.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-young-giant-gas-planet-beta.html' target='_blank'>Young giant gas planet Beta Pic B refuses to reveal its origin</a></strong> — <em>2026-07-09 08:00:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/dont-miss-out-on-the-ark-season-3-get-a-year-long-peacock-tv-deal-for-just-over-9-dollars-a-month' target='_blank'>Don't miss out on 'The Ark' Season 3 — get a year-long Peacock TV deal for just over $9 a month</a></strong> — <em>2026-07-10 09:17:09</em></summary>
 
-The young planetary system of the 23-million-year-old star Beta Pictoris (short: Beta Pic) is regarded as an iconic circumstellar dust disk, which hosts at least three giant gas planets. Discovered in 2008 by direct imaging, Beta Pic b is the most massive of those planets, measuring approximately 11 Jupiter masses. It orbits its host star on a wide trajectory, taking about 23 years for one revolution.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record' target='_blank'>SpaceX Falcon 9 rocket launches for record-breaking 36th time</a></strong> — <em>2026-07-08 23:00:00</em></summary>
-
-Liftoff occurred at 5:25 a.m. ET on Thursday (July 9).
+Watch SYFY's outer space saga 'The Ark' on Peacock TV and all the best sci-fi content at a bargain price.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-primordial-mini-moons-meteorite-composition.html' target='_blank'>Primordial mini-moons may explain meteorite composition</a></strong> — <em>2026-07-08 22:20:01</em></summary>
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-july-10-19/' target='_blank'>This Week's Sky at a Glance, July 10 – 19</a></strong> — <em>2026-07-10 08:55:00</em></summary>
 
-A new Southwest Research Institute-led study proposes a solution to a longstanding puzzle in planetary science: What caused the concentration, assembly, and preservation of millimeter-sized, spherical mineral grains within the parent bodies of the most common meteorites? The work is published in the journal Science Advances.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon' target='_blank'>Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon</a></strong> — <em>2026-07-08 22:00:00</em></summary>
-
-The Japanese company ispace is expanding its already extensive moon plans to include SpaceX's Starship megarocket.
+The bright, distinctive pattern of Upper Scorpius is on its best display in the south right after nightfall. Telescopic treasures await. In the west, Regulus now departs from Venus.
+The post This Week's Sky at a Glance, July 10 – 19 appeared first on Sky & Telescope.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/dance-of-death-between-binary-stars-leads-to-an-unusual-supernova' target='_blank'>Dance of death between binary stars leads to an unusual supernova</a></strong> — <em>2026-07-08 21:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-capturing-cosmic-drift-star-born.html' target='_blank'>Capturing the cosmic 'drift' before a star is born</a></strong> — <em>2026-07-10 08:00:02</em></summary>
 
-When some stars die, they do not do so alone, potentially solving a long-standing mystery around a particular class of cosmic explosion called an interacting supernova.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-scientists-rare-super-jupiter-planet.html' target='_blank'>Scientists discover rare 'super-Jupiter' planet with 180-day long orbit</a></strong> — <em>2026-07-08 20:40:02</em></summary>
-
-Scientists from Queen's University Belfast have led an international team in the discovery of a rare new planet, which is larger than Jupiter and orbits a distant star every 180 days. Named NGTS-38 b, it is an exoplanet—a planet that orbits a star beyond our solar system. It is about 8% larger than Jupiter and almost five times more massive. Planets of this size and mass are often referred to as "super-Jupiters."
+Stars like our sun are formed from the collapse of stellar objects called prestellar cores, cold and dense concentrations of gas and dust held together by gravity. While many questions remain about the exact mechanisms of star formation, advanced radio telescopes have given researchers new insights into the inner workings of infant stars.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-astronomers-deep-tiny-dangerous-space.html' target='_blank'>Astronomers dig deep to find tiny dangerous space debris</a></strong> — <em>2026-07-08 20:30:01</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Great_Bear_Lake_Canada' target='_blank'>Earth from Space: Great Bear Lake, Canada</a></strong> — <em>2026-07-10 08:00:00</em></summary>
 
-In a new study, published in the Journal of the Astronautical Sciences, Warwick researchers led an international effort to uncover some of the faintest debris in geosynchronous orbit ever observed, finding fragments as small as 5 centimeters (2 inches) and obtaining valuable data to characterize their behavior.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-image-hubble-captures-star-studded.html' target='_blank'>Image: Hubble captures star-studded cluster</a></strong> — <em>2026-07-08 20:00:02</em></summary>
-
-This image from NASA's Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way's most massive globular clusters, or spherical collections of gravitationally bound stars.
+	Image:
+			The Copernicus Sentinel-2 mission captures Canada’s Great Bear Lake in striking colours.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission' target='_blank'>NASA begins funding hardware for 'Skyfall' Mars helicopter mission</a></strong> — <em>2026-07-08 20:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-wally-funk-aviation-oldest-woman.html' target='_blank'>Wally Funk, aviation pioneer who was the oldest woman to travel into space, dies at 87</a></strong> — <em>2026-07-10 07:57:28</em></summary>
 
-NASA's nuclear-powered mission to Mars is taking shape with the selection of Firefly Aerospace to design and manufacture the protective aeroshell that will shield the Skyfall spacecraft's descent stage during its plummet through the Martian atmosphere.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/trump-gifts-artemis-astronauts-a-flag-from-the-us-capitol-to-plant-on-the-moon' target='_blank'>Trump gifts Artemis astronauts an American flag from the US Capitol to plant on the moon</a></strong> — <em>2026-07-08 19:00:00</em></summary>
-
-The next American flag to be planted on the moon has been placed in the hands of one of the last astronauts to walk on the lunar surface.
+Wally Funk, an aviation pioneer who was the oldest woman to launch into space, has died. She was 87.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-astronomers-universe-hub.html' target='_blank'>Astronomers build a one-stop universe data hub</a></strong> — <em>2026-07-08 18:50:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever' target='_blank'>Making history! China lands rocket during an orbital launch for 1st time ever (video)</a></strong> — <em>2026-07-10 06:55:44</em></summary>
 
-Astronomers spend much of their time mapping the universe, but until now their results have been collected and archived in so many different ways that the data can't talk to each other.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-unraveling-solar-mystery-extreme-thinness.html' target='_blank'>Unraveling a long-standing solar mystery: The extreme thinness of the sun's tachocline layer</a></strong> — <em>2026-07-08 18:40:01</em></summary>
-
-Researchers are closer to unraveling a longstanding solar mystery surrounding the extreme thinness of the sun's tachocline layer of strong shearing motion—a region believed to be critical for creating the violent eruptions of high-energy particles and radiation from the sun known as "space weather."
+A Chinese Long March 10B rocket aced its debut launch on Friday (July 10), sending a satellite to orbit and coming down for a history-making landing at sea.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space' target='_blank'>Shoebox-sized 'detector satellites' could sniff out a nuclear bomb in space</a></strong> — <em>2026-07-08 18:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/' target='_blank'>Where Venezuela’s Earthquakes Shifted the Ground</a></strong> — <em>2026-07-10 04:00:00</em></summary>
 
-A constellation of cubesats fitted with special detectors could sniff out nuclear weapons hidden on satellites launched by adversary nations, a new study suggests.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/steamy-nights-at-the-galactic-equator/' target='_blank'>Steamy Nights at the Galactic Equator</a></strong> — <em>2026-07-08 17:40:11</em></summary>
-
-Here's an observing guide to both familiar and lesser-known deep-sky objects that inhabit our galaxy's equatorial zone.
-The post Steamy Nights at the Galactic Equator appeared first on Sky & Telescope.
+Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-lab-moon-lunar-cement-alternative.html' target='_blank'>From the lab to the moon: Lunar cement alternative survives 6 months on ISS and returned stronger in some tests</a></strong> — <em>2026-07-08 17:00:03</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/07/260709160632.htm' target='_blank'>Physicists created a tiny universe where time emerged without a clock</a></strong> — <em>2026-07-09 23:46:43</em></summary>
 
-Building material samples from the University of Delaware spent six months mounted outside the International Space Station, where the harsh conditions of low Earth orbit tested their limits.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/stargazing/venus-takes-center-stage-with-2-easy-to-see-sky-shows-this-july-heres-when-and-where-to-look' target='_blank'>Venus takes center stage with 2 easy-to-see sky shows this July. Here's when and where to look</a></strong> — <em>2026-07-08 17:00:00</em></summary>
-
-Venus pairs up with Regulus on July 9 before meeting a slender crescent moon on July 17.
+What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny "mini universe" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/this-is-the-future-of-spatial-intelligence-vantor-unveils-stunning-3d-satellite-views-of-earth-photos' target='_blank'>'This is the future of spatial intelligence': Vantor unveils stunning 3D satellite views of Earth (photos)</a></strong> — <em>2026-07-08 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/' target='_blank'>NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station</a></strong> — <em>2026-07-09 22:09:27</em></summary>
 
-The American Earth-observation company Vantor is now mapping Earth from space in 3D, and the images are stunning.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-hidden-jet-link-black-hole.html' target='_blank'>Hidden jet from a 'missing-link' black hole lights up the radio sky</a></strong> — <em>2026-07-08 15:50:02</em></summary>
-
-Astronomers using the U.S. National Science Foundation Very Large Array (NSF VLA) have detected an extraordinary burst of radio light from a rare cosmic event in which an intermediate-mass black hole tears apart a star, revealing what appears to be the off-axis afterglow of a powerful jet. The research is published in The Astrophysical Journal Letters.
+NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/mit-researcher-proposes-way-to-detect-nuclear-weapons-in-space-0708' target='_blank'>MIT researcher proposes a way to detect nuclear weapons in space</a></strong> — <em>2026-07-08 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87' target='_blank'>Wally Funk, trailblazing pilot and astronaut, passes away at 87</a></strong> — <em>2026-07-09 22:00:00</em></summary>
 
-The 1967 Outer Space Treaty bans nuclear weapons in space, but there’s currently no way to verify that satellites aren’t carrying them.
-
-</details>
-
-<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/' target='_blank'>Did a Passing Star Shower Us with Comets?</a></strong> — <em>2026-07-08 14:25:13</em></summary>
-
-We might be living through a comet shower created by a star that millions of years ago jostled the Oort Cloud surrounding the solar system.
-The post Did a Passing Star Shower Us with Comets? appeared first on Sky & Telescope.
+Wally Funk, who flew to space at 82 after a lifetime of flying and fighting for women in aviation and aerospace, has passed away at age 87.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-black-hole-collisions-entropy-law.html' target='_blank'>Black hole collisions may follow entropy law, offering simpler remnant predictions</a></strong> — <em>2026-07-08 14:00:01</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/07/260709160657.htm' target='_blank'>This alien planet never has sunrise or sunset. It may support life</a></strong> — <em>2026-07-09 21:27:22</em></summary>
 
-When two black holes orbit each other, they eventually spiral inward and collide in one of the most violent phenomena in the universe. The event is so energetic that it significantly distorts the universe around it. It emits gravitational waves—ripples in the fabric of spacetime—that are strong enough to be detected with precision instruments on Earth even when they originate billions of light-years away.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026' target='_blank'>NASA's Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026</a></strong> — <em>2026-07-08 14:00:00</em></summary>
-
-Roman is in Florida, getting ready for its August liftoff.
+A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/the-us-space-force-just-got-a-new-electromagnetic-weapon-to-jam-adversary-satellites' target='_blank'>The US Space Force just got a new electromagnetic weapon to jam adversary satellites</a></strong> — <em>2026-07-08 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns' target='_blank'>Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns</a></strong> — <em>2026-07-09 21:00:00</em></summary>
 
-The U.S. Space Force has acquired one of its first publicly acknowledged offensive weapons, one that can blast adversary satellites with electromagnetic radiation.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit' target='_blank'>Deep space software upgrade for Hera’s asteroid visit</a></strong> — <em>2026-07-08 12:44:00</em></summary>
-
-
-Operating across 140 million km of space, the control team for ESA’s Hera mission have succeeded in upgrading the software running the spacecraft, leaving it ready to explore the distant Dimorphos and Didymos asteroids this autumn.
+Using the ESA's Euclid space telescope, astronomers have discovered a treasure trove of black hole-powered quasars in the early universe, including the most ancient and distant ever seen.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-07-success-hayabusa-flyby-asteroid-torifune.html' target='_blank'>Another success for Hayabusa 2 as it completes a flyby of asteroid Torifune</a></strong> — <em>2026-07-08 12:40:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-oscillations-flares-tornados-sun.html' target='_blank'>Observing oscillations, flares and tornados on the sun</a></strong> — <em>2026-07-09 20:20:07</em></summary>
 
-Hayabusa 2's primary mission is now well in the past. JAXA's asteroid-sampling spacecraft rendezvoused with asteroid Ryugu in June 2018. It studied the asteroid for 1.5 years and gathered a sample that was returned to Earth in December 2020.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-07-jwst-overmassive-early-black-holes.html' target='_blank'>JWST's 'overmassive' early black holes may not be so massive after all</a></strong> — <em>2026-07-08 12:40:01</em></summary>
-
-Astronomers studying a population of unusually X-ray-silent and overmassive black holes discovered by the James Webb Space Telescope have found that they may not be as massive as they appear. The new paper, outlining a plausible scenario that would produce such black holes, was published in Astronomy & Astrophysics on June 19.
+For six and a half days in July 2024, the balloon-borne solar observatory Sunrise III kept its gaze fixed on the sun. The stratospheric flight, which stretched from the northernmost tip of Sweden to Canada's Northwest Territories, yielded a treasure trove of data exceeding 200 terabytes. These observations are unique. They provide insights—unprecedented in detail—into a layer of the sun approximately 2,000 kilometers thick and can continuously track its immense dynamics over several hours.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/technology/revolutionary-rocket-engine-company-venus-aerospace-raises-usd91-million-to-scale-design' target='_blank'>Revolutionary rocket engine company Venus Aerospace raises $91 million to scale design</a></strong> — <em>2026-07-08 12:00:00</em></summary>
+<details><summary><strong><a href='https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/' target='_blank'>NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar</a></strong> — <em>2026-07-09 20:08:35</em></summary>
 
-Venus Aerospace has raised $91 million to further develop the company's rotating detonation rocket engine and plans to bring its designs from testing to production across multiple applications.
+For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there' target='_blank'>NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?</a></strong> — <em>2026-07-08 11:45:53</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-07-smart-ruler-swarms-space-telescopes.html' target='_blank'>A 'smart ruler' could help swarms of space telescopes image exoplanets</a></strong> — <em>2026-07-09 19:40:05</em></summary>
 
-NASA's New Horizons probe has woken up in good health nearly 6 billion miles away beyond Pluto after spending nearly a year in hibernation.
+We've talked plenty of times here about the infeasibility of launching a mirror big enough to directly image exoplanets using current rocket fairings—at least as long as we're not sending them 500-plus AU away to a gravitational lensing point. We've also talked at length about the potential solution to that problem—interferometry, where multiple smaller satellites link up precisely but are spaced far enough apart to act as one gigantic mirror. The problem is, from a technical standpoint, it's really hard to build these kinds of systems.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit' target='_blank'>SpaceX wants to launch 100,000 Starlink satellites to orbit</a></strong> — <em>2026-07-09 19:28:45</em></summary>
+
+SpaceX has applied for approval to operate a 100,000-member megaconstellation of next-gen Starlink satellites in Earth orbit. And each of the new spacecraft will weigh about 4,400 pounds.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-07-image-curiosity-rover-martian-sulfur.html' target='_blank'>Image: Curiosity rover sees Martian sulfur up close</a></strong> — <em>2026-07-09 18:32:20</em></summary>
+
+This close-up view shows fragments of sulfur crystals, the first ever seen on the Red Planet.
+
+</details>
+
+<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/' target='_blank'>Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data</a></strong> — <em>2026-07-09 18:14:21</em></summary>
+
+The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/reckless-space-based-data-centers-lack-environmental-review-drawing-criticism' target='_blank'>'Reckless' space-based data centers lack environmental review, drawing criticism</a></strong> — <em>2026-07-09 18:00:00</em></summary>
+
+"Allowing a million orbiting data centers with no environmental review isn’t just irresponsible — it’s reckless."
+
+</details>
+
+<details><summary><strong><a href='https://skyandtelescope.org/astronomy-news/tianwen-2-arrives-at-quasi-moon-kamo%ca%bboalewa-returns-images/' target='_blank'>Tianwen 2 Arrives at Quasi-Moon Kamoʻoalewa, Returns Images</a></strong> — <em>2026-07-09 17:11:13</em></summary>
+
+China’s Tianwen 2 mission returns its close view of Earth's tiny "quasi-moon" Kamoʻoalewa.
+The post Tianwen 2 Arrives at Quasi-Moon Kamoʻoalewa, Returns Images appeared first on Sky & Telescope.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/silo-season-3-showrunner-graham-yost-explains-the-time-jumps-and-turning-half-of-the-show-into-a-political-thriller-interview' target='_blank'>'Silo' season 3 showrunner Graham Yost explains the time jumps and turning half of the show into a political thriller (interview)</a></strong> — <em>2026-07-09 17:00:00</em></summary>
+
+'We're harkening back to 'Three Days of The Condor,' 'The Parallax View,' and things like that of the '70s.'
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/' target='_blank'>Curiosity Sees Martian Sulfur Up Close</a></strong> — <em>2026-07-09 16:33:50</em></summary>
+
+This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take […]
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-07-ghost-orion-shell-hydrogen-stellar.html' target='_blank'>The ghost in Orion's shell: Hydrogen maps show repeated stellar feedback sculpted around Orion Nebula</a></strong> — <em>2026-07-09 16:20:01</em></summary>
+
+An international team led by Juan Diego Soler at the University of Vienna used two of the world's most powerful radio telescopes to uncover previously hidden structures within the Orion Nebula. The project produced the sharpest maps ever made of neutral hydrogen in that region of massive star formation. The findings expose the complex relationship of star-forming regions with their environment and suggest that the Orion Nebula has been shaped by multiple episodes of stellar feedback rather than a single expanding bubble. The study has been published in the journal Astronomy & Astrophysics.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-07-newborn-stars-rich-gas-ancient.html' target='_blank'>Newborn stars preserve organic-rich gas within ancient supernova debris</a></strong> — <em>2026-07-09 15:50:01</em></summary>
+
+For the first time, astronomers have discovered stellar cocoons rich in complex organic molecules within a supernova remnant. A research team from Niigata University, Gifu University, RIKEN and Kyoto University in Japan used the Atacama Large Millimeter/submillimeter Array (ALMA) to observe the remnant of a massive star that exploded about 1,600 years ago.
+
+</details>
+
+<details><summary><strong><a href='https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/' target='_blank'>NASA Scientists Take to Air and Space to Study Arctic Sea Ice</a></strong> — <em>2026-07-09 15:42:58</em></summary>
+
+This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks […]
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow' target='_blank'>Satellites in tandem reveal 30 years of Antarctic ice flow</a></strong> — <em>2026-07-09 15:10:00</em></summary>
+
+
+Thirty years after the European Space Agency first demonstrated the power of flying two satellites in very close formation, the concept was recently recreated. By temporarily positioning two Copernicus Sentinel-1 radar satellites to replicate the pioneering ERS-1–ERS-2 ‘tandem mission’, ESA achieved one-day repeat radar imaging of the same Antarctic region.The results once again demonstrate how this approach can be used to measure glacier motion and pinpoint the critical grounding line with exceptional precision.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/could-evidence-of-life-on-mars-be-hiding-in-clay-europe-wants-to-send-a-rover-to-check' target='_blank'>Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check</a></strong> — <em>2026-07-09 15:00:00</em></summary>
+
+ESA's Rosalind Franklin rover will investigate possible signs of life in Martian clay.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026' target='_blank'>Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026</a></strong> — <em>2026-07-09 14:00:00</em></summary>
+
+Can you hear the waves?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better' target='_blank'>The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'</a></strong> — <em>2026-07-09 13:00:00</em></summary>
+
+The U.S. government is looking into launching commercial rockets from sea-based launch sites, but some advocacy groups fear making the ocean a dumping ground.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/asteroid-comet-missions/china-announces-plan-to-build-early-warning-system-for-dangerous-asteroids' target='_blank'>China announces plan to build early-warning system for dangerous asteroids</a></strong> — <em>2026-07-09 12:00:00</em></summary>
+
+The country's plans include spacecraft designed to detect asteroids coming from the direction of the sun, which has long been a space-rock blind spot.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/07/260707025049.htm' target='_blank'>These ancient quasars shouldn't exist so soon after the Big Bang</a></strong> — <em>2026-07-09 11:12:53</em></summary>
+
+Astronomers have uncovered 31 of the oldest known quasars, including the two earliest ever detected, shining from a time when the universe was only about 670 million years old. Powered by supermassive black holes billions of times the Sun’s mass, these incredibly bright objects challenge scientists’ understanding of how such enormous black holes formed so quickly after the Big Bang.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/07/260707025051.htm' target='_blank'>This Mars rover could finally reveal whether life ever existed on Mars</a></strong> — <em>2026-07-09 10:40:52</em></summary>
+
+The hunt for ancient life on Mars just got an important test run. Scientists confirmed that the Rosalind Franklin rover's sophisticated instrument can detect subtle differences in two stable molecules that could preserve evidence of past life for billions of years. But the team also uncovered a surprise: organic molecules in the Murchison meteorite appear to have been contaminated by fossil fuel pollution during their journey through Earth's atmosphere.
 
 </details>
 
