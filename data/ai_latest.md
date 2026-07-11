@@ -2,132 +2,151 @@
 
     ### Major Themes in Recent AI Developments
 
-#### 1. AI in Telecommunications
-Telecommunications companies are increasingly adopting AI to enhance operational efficiency and customer service. Deutsche Telekom's recent initiatives exemplify this trend, as the company integrates advanced AI tools to create more responsive customer interactions and streamline workflows. This shift is indicative of a broader movement within the industry, where AI is not only improving service standards but also reshaping the operational landscape.
+#### 1. Enhancing Efficiency in LLM Training
+Recent efforts are focused on optimizing large language model (LLM) training processes to address existing limitations in GPU memory and computational efficiency. Techniques such as host offloading and kernel fusion are being utilized to enhance resource allocation, enabling the deployment of larger and faster models. These advancements are critical for improving the scalability and performance of AI applications across various domains, particularly in natural language processing.
 
 Key Items:
-- Deutsche Telekom's AI integration is poised to redefine customer engagement and operational efficiency in telecommunications.
-- The trend reflects a significant industry transformation, with AI solutions becoming essential for competitive advantage.
+- **Reducing High-Bandwidth Memory Bottlenecks** - This article discusses strategies for alleviating GPU memory constraints during LLM training using host offloading, which allows for better resource management. [Link](https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/)
+- **Kernel Fusion in NVIDIA CUDA** - This piece explains how kernel fusion can optimize memory traffic and reduce overhead, leading to improved GPU performance. [Link](https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/)
+- **Disaggregated Prefill and Decode for LLM Inference** - This post describes implementing a new inference method using vLLM on Amazon SageMaker, showcasing an innovative approach to LLM deployment. [Link](https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/)
 
-#### 2. Synthetic Data Generation for Financial Applications
-NVIDIA's NeMo framework is making waves in the financial sector by generating synthetic data to overcome the limitations of real-world datasets. This development is crucial for training large language models (LLMs) used in financial applications, which often struggle with data scarcity and bias. By creating synthetic data, NeMo enhances model performance and broadens the scope of financial NLP research.
-
-Key Items:
-- Synthetic data generation via NVIDIA's NeMo framework addresses data scarcity challenges in financial AI.
-- This approach not only improves model training but also helps mitigate biases present in traditional datasets.
-
-#### 3. Emergence of Large Tabular Models (LTMs)
-The introduction of NEXUS by AI startup Fundamental marks a significant advancement in the analysis of structured data. Unlike traditional large language models (LLMs), NEXUS is specifically designed to handle tabular datasets, which are prevalent in various industries. This innovation is driving a shift towards more specialized models that can automate and enhance data analysis processes.
+#### 2. AI Innovations in Healthcare
+AI's role in healthcare is expanding, particularly through the development of real-time image verification systems that enhance diagnostic accuracy and efficiency. These systems are designed to process large volumes of medical images rapidly, which can lead to improved patient outcomes and streamlined operations in clinical settings.
 
 Key Items:
-- NEXUS has been integrated into AWS's SageMaker, demonstrating its practical application in real-world scenarios.
-- The rise of LTMs signifies a growing recognition of the need for tailored solutions in data analysis.
+- **Real-time Dental Image Verification** - Henry Schein One developed an AI-powered system that evaluates dental X-ray quality in real-time, demonstrating significant scalability and efficiency in healthcare settings. [Link](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)
+- **Accelerating End-to-End Co-Folding Performance** - This article discusses the use of NVIDIA's BioNeMo toolkit for biomolecular structure prediction, which is pivotal in drug discovery and protein engineering. [Link](https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/)
+
+#### 3. Building Advanced AI Infrastructure
+The focus on developing robust AI infrastructure continues to gain momentum, particularly in creating semantic layers and enhancing agentic AI capabilities. These innovations aim to improve the way AI systems manage data and workflows, making them more intelligent and adaptable to various applications.
+
+Key Items:
+- **Build a Semantic Layer for Agentic AI** - This post outlines how to create a semantic layer using AWS services, which facilitates more effective data management and querying for AI applications. [Link](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)
+- **Scaling Agentic Workflows in Quick Automate** - This article explores integrating case management with automation capabilities, emphasizing the importance of dynamic scaling in enterprise processes. [Link](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/)
 
 ### Conclusion
-The current AI landscape is characterized by significant advancements tailored to specific applications across telecommunications, finance, and data analysis. These developments reflect a broader trend towards integrating AI into traditional industries, enhancing operational efficiencies, and improving decision-making capabilities. As organizations increasingly seek specialized AI solutions, the focus is shifting towards models that effectively address unique data types and operational contexts.
+The current AI landscape is characterized by significant advancements in optimizing training and inference for large language models, enhancing healthcare applications through real-time image processing, and building sophisticated infrastructure for AI systems. These developments reflect a broader trend towards efficiency and adaptability, positioning AI technologies to drive transformative changes across various sectors. As the field evolves, the emphasis on practical applications and robust infrastructure will likely shape the future of AI research and deployment.
 
-Top Sources:
-1. How Deutsche Telekom is rewiring telecommunications with AI - https://openai.com/index/deutsche-telekom - Deutsche Telekom's integration of AI is transforming customer service and operations.
-2. Synthetic Data Generation for Financial AI Research with NVIDIA NeMo - https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/ - NVIDIA's NeMo framework is generating synthetic data to enhance financial AI models.
-3. The AI Scientist: Towards full automation of the research life cycle - https://vectorinstitute.ai/the-ai-scientist-automated-research-life-cycle/ - The shift towards AI-driven research automation is redefining scientific inquiry.
-4. Aurora 1.5: Extending open foundation models for weather and Earth-system applications - https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/ - Microsoft's Aurora 1.5 enhances predictive capabilities for weather and climate applications.
-5. Large Tabular Models Excel Where LLMs Fail - https://spectrum.ieee.org/large-tabular-models-nexus - Fundamental's NEXUS model addresses the limitations of LLMs in analyzing structured data.
-6. Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration - https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/ - Amazon SageMaker HyperPod improves enterprise AI inference capabilities.
-7. Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy - https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/ - Insights into the importance of infrastructure in distributed AI training.
-8. Tiny robot boats build floating structures - https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709 - MIT's aquatic robots showcase innovative applications of AI in robotics.
-9. Where Does an AI’s Personality Actually Come From? - https://towardsdatascience.com/where-does-an-ais-personality-actually-come-from/ - Exploration of the engineering challenges in AI personality development.
-10. Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents - https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/ - New methodologies for improving document retrieval efficiency.
+### Top Sources:
+1. Reducing High-Bandwidth Memory Bottlenecks - https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/ - Discusses strategies for alleviating GPU memory constraints during LLM training.
+2. Kernel Fusion in NVIDIA CUDA - https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/ - Explains how kernel fusion can optimize GPU performance.
+3. Real-time Dental Image Verification - https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/ - Describes an AI system for evaluating dental X-ray quality in real-time.
+4. Accelerating End-to-End Co-Folding Performance - https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/ - Discusses AI applications in biomolecular structure prediction.
+5. Build a Semantic Layer for Agentic AI - https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/ - Outlines creating a semantic layer for enhanced data management.
+6. Scaling Agentic Workflows in Quick Automate - https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/ - Explores integrating case management with automation capabilities.
+7. Disaggregated Prefill and Decode for LLM Inference - https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/ - Describes a new inference method using vLLM on Amazon SageMaker.
+8. I Built My Second ETL Pipeline - https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/ - Discusses building a production-ready ETL pipeline.
+9. RAG Was Always a Temporary Workaround - https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/ - Examines the future of AI infrastructure beyond vector databases.
+10. The Big Con of Agentic AI - https://towardsdatascience.com/the-big-con-of-agentic-ai/ - Analyzes the implications of over-dependence on AI systems in decision-making.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://openai.com/index/deutsche-telekom' target='_blank'>How Deutsche Telekom is rewiring telecommunications with AI</a></strong> — <em>2026-07-10 07:00:00</em></summary>
+    <details><summary><strong><a href='https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/' target='_blank'>Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading</a></strong> — <em>2026-07-10 18:17:40</em></summary>
 
-How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/' target='_blank'>Synthetic Data Generation for Financial AI Research with NVIDIA NeMo</a></strong> — <em>2026-07-09 19:40:37</em></summary>
-
-Fine-tuning LLMs for financial natural language processing (NLP) is constrained by limited, imbalanced data. Real-world financial news overrepresents earnings...
+Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...
 
 </details>
 
-<details><summary><strong><a href='https://vectorinstitute.ai/the-ai-scientist-automated-research-life-cycle/' target='_blank'>The AI Scientist: Towards full automation of the research life cycle</a></strong> — <em>2026-07-09 18:38:32</em></summary>
+<details><summary><strong><a href='https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/' target='_blank'>I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer</a></strong> — <em>2026-07-10 17:00:00</em></summary>
 
-For centuries, the scientific method has been a fundamentally human endeavour. Researchers conceive hypotheses, design experiments, interpret findings, and communicate results. That paradigm shifted in March 2026 when Nature published […]
-The post The AI Scientist: Towards full automation of the research life cycle appeared first on Vector Institute for Artificial Intelligence.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/' target='_blank'>A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale</a></strong> — <em>2026-07-09 17:15:04</em></summary>
-
-Molecular dynamics (MD) simulations are among the most demanding workloads in computational science. Using them, researchers can observe atomic behavior in...
+Building a production-ready RSS pipeline with Python, Docker, PostgreSQL, and Kestra
+The post I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer appeared first on Towards Data Science.
 
 </details>
 
-<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/' target='_blank'>Aurora 1.5: Extending open foundation models for weather and Earth-system applications</a></strong> — <em>2026-07-09 16:46:22</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/' target='_blank'>Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead</a></strong> — <em>2026-07-10 16:41:03</em></summary>
 
-Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.
-The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/' target='_blank'>MCP tool design: Practical approaches and tradeoffs</a></strong> — <em>2026-07-09 16:40:16</em></summary>
-
-In this post, we show where MCP tool design goes wrong and how to fix it with practical context engineering approaches.
+There are many ways to optimize code for GPUs. In this post, you’ll learn how kernel fusion can improve memory bandwidth and reduce kernel launch overhead,...
 
 </details>
 
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/' target='_blank'>Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration</a></strong> — <em>2026-07-09 16:38:11</em></summary>
+<details><summary><strong><a href='https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/' target='_blank'>AI Model Co-Design: Hardware-Friendly LLM Design</a></strong> — <em>2026-07-10 16:36:02</em></summary>
 
-In this post, we walk through five capabilities now available in SageMaker HyperPod inference: multi-tier data capture for auditing and model improvement, direct deployment from Hugging Face Hub, local NVMe model loading for faster cold starts, automated Route 53 DNS for custom domains, and pod-level IAM through custom service accounts.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/' target='_blank'>Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy</a></strong> — <em>2026-07-09 16:30:00</em></summary>
-
-A measured look at distributed training, from DDP and FSDP to the ZeRO stages in between, and why the wiring between your GPUs matters as much as the strategy you choose
-The post Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy appeared first on Towards Data Science.
+AI performance comes down to three dimensions:  Accuracy: How well the model reasons and produces outputs Throughput: How many tokens per second a...
 
 </details>
 
-<details><summary><strong><a href='https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709' target='_blank'>Tiny robot boats build floating structures</a></strong> — <em>2026-07-09 15:50:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/' target='_blank'>Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization</a></strong> — <em>2026-07-10 15:35:05</em></summary>
 
-MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.
-
-</details>
-
-<details><summary><strong><a href='https://towardsdatascience.com/how-to-find-the-optimal-coding-agent-interface/' target='_blank'>How to Find the Optimal Coding Agent Interface</a></strong> — <em>2026-07-09 15:00:00</em></summary>
-
-Find the optimal way to interact with your coding agents
-The post How to Find the Optimal Coding Agent Interface appeared first on Towards Data Science.
+In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/' target='_blank'>Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents</a></strong> — <em>2026-07-09 13:30:00</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/' target='_blank'>Real-time dental image verification with Amazon SageMaker AI at Henry Schein One</a></strong> — <em>2026-07-10 15:33:47</em></summary>
 
-Enterprise Document Intelligence [Vol.1 #7quater] - A 492-page document has a 358-entry table of contents. You can’t read it all, and top-k over every page mixes the answer with its neighbours. Route through the TOC instead: a bounded loop inside retrieval that saves tokens and lifts precision
-The post Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents appeared first on Towards Data Science.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot' target='_blank'>GPT-5.6 is now the preferred model in Microsoft 365 Copilot</a></strong> — <em>2026-07-09 13:00:00</em></summary>
-
-Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
+This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI that evaluates dental X-ray quality at the point of capture, in real time, across thousands of locations. The system went from concept to over 10,000 active locations within months and has already processed over 11 million X-rays and growing at 1.5 million per week. Henry Schein One is now scaling toward 40,000 locations globally across four regions.
 
 </details>
 
-<details><summary><strong><a href='https://spectrum.ieee.org/large-tabular-models-nexus' target='_blank'>Large Tabular Models Excel Where LLMs Fail</a></strong> — <em>2026-07-09 12:00:01</em></summary>
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/' target='_blank'>Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore</a></strong> — <em>2026-07-10 15:31:12</em></summary>
 
-The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structured data. A new type of generative AI is set to change this situation.Although you can get your favorite chatbot to solve intractable math problems, review dense legal documents, compose a catchy pop song, or put together some slick PowerPoint slides, give it anything more than a small table and it doesn’t have a clue what to do.For most companies and organizations, the most important data sits in spreadsheets. Whether it’s a bank’s transaction logs, a marketing agency’s website metrics, clinical trial participants’ vital signs, or the vast amount of proton collision information produced at atom smashers like the Large Hadron Collider, structured, row-and-column data runs the world, and LLMs can’t deal with it.AI startup Fundamental is pioneering a new type of AI foundation model, known as a large tabular model (LTM), to fill the gap. Fundamental came out of stealth mode on 5 February 2026 with US $275 million in funding and a model called NEXUS, purpose-built for tabular data. Now, the model is being adopted by companies such as Amazon Web Services, while others race to build their own LTMs. Why LLMs struggle with spreadsheetsPart of why structured data has garnered less attention is a very human bias, argues Boris van Breugel, a senior AI researcher based in Amsterdam. “People like to see images, videos, and ChatGPT responses,” he says. “But tabular data really lags behind because it’s not fun to look at numbers.” Different tabular datasets are also difficult to compare, explains van Breugel, who co-wrote a prescient position paper on this topic in 2024. Whereas most language has similar semantics, making LLMs well-suited to being trained on vast amounts of text data, van Breugel argues that it is much harder to train a single tabular model on tables with very different variables. Additionally, language is sequential by nature (as are music, images, and video). Changing the order of words in a sentence may change or completely destroy its meaning. But the structured data you find in spreadsheets isn’t sequential. You can swap the order of columns or play around with rows, but the underlying factual meaning of the data remains the same.This independence from linear order is incompatible with an LLM’s fundamental purpose of predicting the next value in a linear sequence. “With LLMs, even slightly changing the input, you get a different output,” says Jeremy Fraenkel, CEO of Fundamental. “That’s fine, and actually often desirable for LLMs, but when you’re making a prediction of whether a transaction is fraudulent or not, you want to make sure that the prediction is the same, or deterministic, no matter what.”Developing Fundamental’s LTMCurrent tabular data solutions are limited to machine learning algorithms, such as XGBoost, that have been around for more than 15 years and are used by organizations globally. These algorithms—called gradient-boosted decision trees—have to be trained and optimized by data scientists over the course of months for each and every use case. In contrast, NEXUS and other emerging LTMs are foundational, leveraging learning amassed from pre-training on diverse databases so that they can be applied across a range of different predictive tasks with minimal bespoke feature engineering or task-specific model building.And unlike LLMs, which primarily model sequences of tokens, LTMs model the structure of tabular data directly. They jointly learn from each entry’s numerical value, what it represents, and how it relates to other entries. For example, imagine an entry in a grocery stock inventory table for bananas: The LTM can take in not just the magnitude—say, 500—but the fact that the entry represents the current banana stock quantity, its category (produce), and the statistical properties that link the entry with the rest of the column. This contextual understanding enables more accurate reasoning and prediction over structured data.According to Fraenkel, one of Fundamental’s biggest challenges in developing NEXUS was obtaining the right training data. Unlike natural language, which is abundant and broadly uniform in structure, tabular data is relatively hard to find—much of the data is sensitive or proprietary—and diverse. There are very few similarities between, for instance, a biology dataset and a financial one. That combination of factors meant Fundamental needed to invest in building a huge training set.“We pre-trained NEXUS on billions of tables using a combination of proprietary datasets acquired through partnerships and licensing, high-quality public and open-source datasets, and data augmentation techniques that expanded the diversity and coverage of our training corpus,” Fraenkel says, though he is keen to point out that NEXUS is not trained on customer data. In fact, it is a confidential computing platform, which means that Fundamental physically cannot access customer data, let alone train on it.This feature was most likely a key consideration when in June, Amazon Web Services (AWS) embedded NEXUS in Amazon SageMaker, widely considered the default operating system for secure machine learning. This brings NEXUS to many customer’s often sensitive data—a contrasting approach to LLMs, where the data has to be imported to the model.“With Amazon, we have a first-party partnership, which means that our model exists as if it’s a native AWS solution,” says Fraenkel. “And over time, the goal is to expand these types of relationships to allow [ens-users] to really access their data wherever they do their predictions.”The future of data analysisThough Fundamental has taken the lead, at least in enterprise applications, the company is not alone in pursuing foundational LTMs. In March, Feedzai, which provides fraud and financial crime prevention services, and credit card company Mastercard separately launched similar proprietary technologies focused on finance. Then, in late June, Google launched its own foundational competitor TabFM, trained entirely on hundreds of millions of synthetic datasets. And machine learning researchers are not far behind either. FlexTab, TabICL, and iLTM are just three of a raft of LTMs developed by the research community in the past year, all in the pursuit of bringing the success of LLMs to the tabular domain.For all involved, the direction of travel is clear. “I would be very surprised if most data processing and analysis is not done through an automated system in the future, whether that’s an LLM, an LTM, or some combination,” says van Breugel. “Most people don’t necessarily like to do data analysis, and these systems will be able to do it a lot better.”Fraenkel agrees. “I see the relationship between LLMs and LTMs as being a bit like the human brain: The left side is good at reasoning and understanding and summarizing text, and the right side is really good at understanding numbers and statistics and patterns,” he says. “But it’s when you combine both of those that you really get something much more powerful.”
+In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries the layer to answer customer 360 questions across both sources without extract, transform, and load (ETL). The same Stardog deployment works behind AWS computes (Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and AWS Lambda). We use AgentCore here because it bundles inbound auth, hosting, and tool credentials into one managed service.
 
 </details>
 
-<details><summary><strong><a href='https://towardsdatascience.com/where-does-an-ais-personality-actually-come-from/' target='_blank'>Where Does an AI’s Personality Actually Come From?</a></strong> — <em>2026-07-09 12:00:00</em></summary>
+<details><summary><strong><a href='https://vectorinstitute.ai/vector-institute-and-south-koreas-national-ai-research-lab-partner-to-accelerate-frontier-ai-research/' target='_blank'>Vector Institute and South Korea’s National AI Research Lab partner to accelerate frontier AI research</a></strong> — <em>2026-07-10 15:29:24</em></summary>
 
-They aren’t designed, you can’t help perceiving one anyway, and that makes them an engineering problem almost no one is solving.
-The post Where Does an AI’s Personality Actually Come From? appeared first on Towards Data Science.
+The Vector Institute and the National AI Research Lab (NAIRL) of South Korea have announced a new strategic partnership to accelerate frontier artificial intelligence research, opening new pathways for researcher […]
+The post Vector Institute and South Korea’s National AI Research Lab partner to accelerate frontier AI research appeared first on Vector Institute for Artificial Intelligence.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/' target='_blank'>Scaling agentic workflows with native case management in Amazon Quick Automate</a></strong> — <em>2026-07-10 15:28:54</em></summary>
+
+In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables dynamic scaling. Finally, we walk through how to structure case management for enterprise processes, including HITL and case tracking, through a real-life use case.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/' target='_blank'>Deploying quantized models on Amazon SageMaker AI with Unsloth</a></strong> — <em>2026-07-10 15:26:05</em></summary>
+
+In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute Cloud (Amazon EC2) for direct instance access, Amazon SageMaker AI inference endpoints for managed serving, and Amazon Elastic Kubernetes Service (Amazon EKS) or Amazon Elastic Container Service (Amazon ECS) when inference needs to fit into an existing container framework. You also learn operational practices for production deployments.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/' target='_blank'>How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore</a></strong> — <em>2026-07-10 15:23:25</em></summary>
+
+Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates with persistent context, secure tool access, and production-grade reliability. We built that system on Amazon Bedrock AgentCore using the Strands Agents SDK. This post walks through how we architected it, which agents we built, and the outcomes for our customers.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/' target='_blank'>Disaggregated prefill and decode for LLM inference on SageMaker HyperPod</a></strong> — <em>2026-07-10 15:20:16</em></summary>
+
+In this post, we show how to implement DPD with vLLM on Amazon SageMaker HyperPod using the HyperPod Inference Operator.
+
+</details>
+
+<details><summary><strong><a href='https://vectorinstitute.ai/vector-institute-and-european-space-agency-partner-to-advance-ai-for-earth-observation/' target='_blank'>Vector Institute and European Space Agency partner to advance AI for Earth observation</a></strong> — <em>2026-07-10 15:05:08</em></summary>
+
+The Vector Institute and the European Space Agency (ESA) have announced a partnership to pioneer new applications of artificial intelligence for Earth observation, with an initial focus on climate science […]
+The post Vector Institute and European Space Agency partner to advance AI for Earth observation appeared first on Vector Institute for Artificial Intelligence.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/' target='_blank'>PySpark for Beginners: Building Intermediate-Level Skills</a></strong> — <em>2026-07-10 15:00:00</em></summary>
+
+A practical next step into partitions, shuffles, joins, caching, and execution plans.
+The post PySpark for Beginners: Building Intermediate-Level Skills appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/' target='_blank'>RAG Was Always a Temporary Workaround. What is Next?</a></strong> — <em>2026-07-10 13:30:00</em></summary>
+
+Vector databases are a temporary bridge. Discover why the next AI infrastructure revolution relies on persistent neural state and strict latency budgets, not on vector databases.
+The post RAG Was Always a Temporary Workaround. What is Next? appeared first on Towards Data Science.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/' target='_blank'>Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit</a></strong> — <em>2026-07-10 13:00:00</em></summary>
+
+Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein...
+
+</details>
+
+<details><summary><strong><a href='https://towardsdatascience.com/the-big-con-of-agentic-ai/' target='_blank'>The Big Con of Agentic AI</a></strong> — <em>2026-07-10 12:00:00</em></summary>
+
+What our over-dependence on external consulting teaches us about delegating our minds to machines
+The post The Big Con of Agentic AI appeared first on Towards Data Science.
 
 </details>
 
