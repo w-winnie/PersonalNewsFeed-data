@@ -1,152 +1,141 @@
 # Astro Daily Summary
 
-    ### Theme 1: The Birth of Comets and Solar System Bodies
-Recent studies have illuminated the dynamic processes involved in the transition of centaurs into comets, enhancing our understanding of the evolution of small solar system bodies. Observations have captured a centaur approximately 3 billion miles from Earth as it transforms into a comet, showcasing the emergence of a coma—a defining feature of comets. Additionally, Comet McNaught has exhibited unexpected brightness during its approach to the Sun, providing a unique opportunity for amateur astronomers to observe these changes. Such findings underscore the complexities of cometary evolution and the conditions that lead to their active phases.
+    ### Major Themes in Recent Astrophysics Developments
 
-### Theme 2: Advancements in Mercury Exploration
-The BepiColombo mission, which has been en route to Mercury for nearly eight years, is nearing a pivotal phase as its two spacecraft prepare for orbit insertion. This mission aims to investigate Mercury's surface and magnetic field, promising to reveal crucial insights into the planet's formation and geological history. As the spacecraft approach their destination, they will execute a series of intricate maneuvers, marking a significant technological achievement in planetary exploration. The findings from BepiColombo could reshape our understanding of Mercury, the least-explored planet in our solar system.
+#### 1. Advancements in Planetary Exploration
+Recent missions and research are significantly enhancing our understanding of planetary bodies, particularly Mercury. The BepiColombo mission has entered its final phase, approaching Mercury after an eight-year journey. This mission aims to deliver unprecedented insights into Mercury's geology and internal structure, which are crucial for understanding terrestrial planet formation. Complementing this, new studies from the University of Liège and KU Leuven have provided insights into Mercury's core and crust formation, highlighting the role of graphite in its geological history.
 
-### Theme 3: Stellar Phenomena and Cosmic Observations
-Recent advancements in artificial intelligence have significantly improved our understanding of hot subdwarfs, a class of stars characterized by their high temperatures. Analyzing extensive data from the Gaia mission, researchers are uncovering new insights into stellar evolution and the diverse characteristics of these stars. Concurrently, NASA's Hubble Space Telescope has captured remarkable images of star-forming regions in the Large Magellanic Cloud, highlighting the intricate processes that govern stellar birth. These developments reflect ongoing efforts to map the complexities of stellar life cycles and their environments.
+Key Items:
+- The BepiColombo spacecraft is set to arrive at Mercury, promising to reveal new geological insights. [Link](https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html)
+- Research on Mercury's formation processes unveils the conditions that shaped its core and surface. [Link](https://phys.org/news/2026-09-mercury-graphite-crust-core.html)
+
+#### 2. Insights into Cosmic Structure and Element Formation
+Astrophysical research is also deepening our understanding of the universe's structure and the processes that create elements. A recent detection of hydrogen signals from billions of years ago using the MeerKAT radio telescope may help astronomers map the early universe's structure. Additionally, new findings regarding stellar nucleosynthesis are clarifying how stars produce and distribute elements, which is essential for understanding the material basis of planets and life.
+
+Key Items:
+- Detection of ancient hydrogen signals could enhance models of cosmic evolution and structure. [Link](https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe)
+- Research on stellar processes reveals mechanisms behind element formation and distribution, crucial for understanding cosmic chemistry. [Link](https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how)
+
+#### 3. Understanding Asteroids and Star Formation Dynamics
+Recent studies have focused on the physical properties of asteroids and the dynamics of star formation. A new framework for assessing the strength of granular asteroids indicates that Bennu's surface is significantly weaker than previously estimated, which has implications for future exploration and mining. Concurrently, research into star formation in Stephan's Quintet illustrates how galaxy interactions compress molecular gas, leading to new star births, reflecting the dynamic processes of galaxy evolution.
+
+Key Items:
+- A universal scaling framework reveals Bennu's surface strength, impacting asteroid characterization. [Link](https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html)
+- Studies on star formation in galaxy interactions provide insights into the processes that drive star birth. [Link](https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html)
 
 ### Conclusion
-The field of astrophysics is currently thriving with significant advancements in our understanding of celestial phenomena, from the birth of comets to the exploration of Mercury and the intricacies of stellar evolution. These developments not only deepen our scientific knowledge but also illustrate the vital role of technological innovation in astronomical research. As new discoveries continue to emerge, the implications for our understanding of the solar system and the broader universe remain profound.
+The current landscape of astrophysical research is characterized by significant advancements in planetary exploration, a deeper understanding of cosmic structures, and insights into stellar dynamics. As missions like BepiColombo approach their targets and new observational techniques uncover ancient signals, our comprehension of the universe's formation and evolution is expanding. The interplay between these studies not only enhances our knowledge of planetary systems and stellar processes but also has broader implications for understanding the origins of life-essential elements. The field is moving towards a more integrated perspective of the cosmos, driven by innovative research and technological progress.
 
-Top Sources:
-1. Scientists watch a comet being born 3 billion miles away - https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away - Observations of a centaur transforming into a comet provide insights into solar system evolution.
-2. 2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do - https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do - BepiColombo mission approaches Mercury, promising new discoveries about the planet.
-3. Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data - https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html - AI analysis reveals new insights into the characteristics of hot subdwarf stars.
-4. Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades - https://www.space.com/astronomy/comets/comet-mcnaught-put-on-a-surprise-show-this-summer-heres-how-to-spot-it-before-it-fades - Comet McNaught brightens unexpectedly during its perihelion approach.
-5. NASA's Hubble spies superbubble scene - https://phys.org/news/2026-09/photo-nasa-hubble-spies-superbubble.html - Hubble captures stunning images of star-forming regions in the Large Magellanic Cloud.
-6. A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - https://phys.org/news/2026-09-pair-spacecraft-closer-mercury-decade.html - Mercury-bound spacecraft near their destination after extensive travel.
-7. NASA scientists discover a giant 10-sided pattern on Saturn - https://www.sciencedaily.com/releases/2026/09/260903064229.htm - New atmospheric patterns on Saturn's south pole are being studied for their formation and persistence.
-8. Perseverance rover watches Earth vanish behind Martian moon - https://phys.org/news/2026-09-perseverance-rover-earth-martian-moon.html - NASA's Perseverance captures unique images of Earth from Mars.
-9. The biggest black hole merger ever observed could be less massive than it appears - https://phys.org/news/2026-09-biggest-black-hole-merger-massive.html - New analysis suggests gravitational wave measurements may overestimate black hole masses.
-10. Newly discovered 1666 manuscript may trace four-lens telescope experiments to Galileo - https://phys.org/news/2026-09-newly-manuscript-lens-telescope-galileo.html - Historical manuscript sheds light on Galileo's telescope innovations.
+### Top Sources:
+1. Spacecraft bound for Mercury begins 'tricky' arrival - https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html - BepiColombo spacecraft approaches Mercury after eight years in transit.
+2. How Mercury formed its graphite crust and core - https://phys.org/news/2026-09-mercury-graphite-crust-core.html - Research sheds light on the geological evolution of Mercury.
+3. Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? - https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe - Ancient hydrogen detection may enhance our understanding of cosmic evolution.
+4. Stars forge and deliver the elements that make up your body — and scientists may finally know how - https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how - New insights into stellar processes reveal how elements are created and distributed.
+5. Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee - https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html - A new framework assesses asteroid surface strength, impacting future exploration.
+6. Turbulent times for star formation in Stephan's Quintet - https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html - Galaxy interactions drive molecular gas compression, leading to new star formation.
+7. Venus is becoming a thinner crescent — and that's when it finally starts making sense - https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense - Observations reveal Venus's phase changes, enhancing our understanding of planetary atmospheres.
+8. Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern - https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html - New observations of Betelgeuse's atmosphere reveal dynamic changes possibly influenced by a companion star.
+9. Rescue satellite gets close to NASA's doomed telescope, even if it can't save it - https://phys.org/news/2026-09-satellite-nasa-doomed-telescope.html - A private spacecraft attempts to assist NASA's Swift Observatory.
+10. Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026 - https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026 - Hubble captures an impressive 'superbubble' in the Large Magellanic Cloud.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away' target='_blank'>Scientists watch a comet being born 3 billion miles away</a></strong> — <em>2026-09-04 10:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html' target='_blank'>Spacecraft bound for Mercury begins 'tricky' arrival</a></strong> — <em>2026-09-05 10:20:01</em></summary>
 
-A rare look at a centaur transforming into a comet with coma is providing a missing link in the evolution of small, icy solar system bodies.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change' target='_blank'>How Sentinel-3 tracks climate change</a></strong> — <em>2026-09-04 08:00:00</em></summary>
-
-
-Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.
+After an eight-year journey, a spacecraft carrying European and Japanese probes began the monthslong, high-risk approach to Mercury on Thursday to study the sun-scorched planet.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html' target='_blank'>Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data</a></strong> — <em>2026-09-03 20:40:05</em></summary>
+<details><summary><strong><a href='https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons' target='_blank'>This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system</a></strong> — <em>2026-09-05 10:00:00</em></summary>
 
-There are myriad ways of "being a star," and scientists spend years trying to uncover and understand them. One unusual type is the so-called hot subdwarf—small stars that burn mysteriously hot for their size. Scientists from the Faculty of Physics and the Faculty of Mathematics and Informatics at Vilnius University (VU) are working to explain this strange phenomenon and recently made important breakthroughs.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-perseverance-rover-earth-martian-moon.html' target='_blank'>Perseverance rover watches Earth vanish behind Martian moon</a></strong> — <em>2026-09-03 20:40:03</em></summary>
-
-Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA's Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars' two moons.
+NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/alien-isolation-2-facing-a-ruthless-and-evolved-xenomorph-in-our-gamescom-hands-on-preview' target='_blank'>'Alien: Isolation 2': Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview</a></strong> — <em>2026-09-03 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe' target='_blank'>Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?</a></strong> — <em>2026-09-04 21:00:00</em></summary>
 
-Sega and Creative Assembly's long-awaited survival horror sequel hits the ground running with a new cast of characters and a fast-paced prologue.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-photo-nasa-hubble-spies-superbubble.html' target='_blank'>Photo: NASA's Hubble spies superbubble scene</a></strong> — <em>2026-09-03 19:40:03</em></summary>
-
-This NASA/ESA Hubble Space Telescope image features a sprawling cosmic vista in the Large Magellanic Cloud, or LMC, the largest of the small galaxies that orbit our Milky Way galaxy. At just 160,000 light-years away, the LMC offers a close look at highly active star-forming sites like the one in this image. This photogenic nebula, named LHA 120-N44, or N44, is in the constellation Dorado.
+Astronomers have used the MeerKAT radio telescope to detect hydrogen gas located billions of light-years away, from a period when the cosmos was billions of years younger.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-newly-manuscript-lens-telescope-galileo.html' target='_blank'>Newly discovered 1666 manuscript may trace four-lens telescope experiments to Galileo</a></strong> — <em>2026-09-03 19:20:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-mercury-graphite-crust-core.html' target='_blank'>How Mercury formed its graphite crust and core</a></strong> — <em>2026-09-04 20:00:01</em></summary>
 
-A potentially history-altering finding by a University of Limerick researcher may provide the most detailed technical analysis of a telescope demonstrably made by the famous astronomer and scientist Galileo Galilei.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do' target='_blank'>2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do</a></strong> — <em>2026-09-03 18:00:00</em></summary>
-
-After an 8-year trek to Mercury, BepiColombo will finally split into two spacecraft ready to track down the secrets of the least-explored planet in the inner solar system.
+As the BepiColombo mission prepares to enter the final phase of its journey to Mercury, a series of studies conducted by researchers at the University of Liège and KU Leuven sheds new light on the early stages of the evolution of the planet closest to the sun. Using experimental petrology, the researchers are reconstructing in the laboratory the formation of Mercury's core, the crystallization of its magma ocean and the formation of its mantle. The studies are published in Earth and Planetary Science Letters, Nature Communications and Advances in Geochemistry and Cosmochemistry.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-doesnt-venus-moon.html' target='_blank'>Why doesn't Venus have a moon? A new study may have the answer</a></strong> — <em>2026-09-03 17:10:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute' target='_blank'>Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute</a></strong> — <em>2026-09-04 19:00:00</em></summary>
 
-Venus is one of the solar system's most unusual planets. It may sometimes be called "Earth's twin" because of its similar size and density, but it rotates on its axis in the opposite direction of most planets, has surface temperatures hot enough to melt lead and lacks a moon.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway' target='_blank'>'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space?</a></strong> — <em>2026-09-03 17:00:00</em></summary>
-
-The latest 'Strange New Worlds' takes the silliness to warp factor nine, but soap opera plots have long been part of the 'Star Trek' mix
+Beam into these stellar celebrations to mark the sci-fi franchise's historic anniversary this Labor Day Weekend!
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-pair-spacecraft-closer-mercury-decade.html' target='_blank'>A pair of spacecraft draw closer to Mercury after nearly decade-long voyage</a></strong> — <em>2026-09-03 16:30:02</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html' target='_blank'>Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee</a></strong> — <em>2026-09-04 18:20:06</em></summary>
 
-Two Mercury-bound spacecraft left their mother ship behind on Thursday and headed down the home stretch of their nearly decade-long voyage to the solar system's smallest and closest-to-the-sun planet.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival' target='_blank'>'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival</a></strong> — <em>2026-09-03 16:25:20</em></summary>
-
-After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.
+In a new Nature Communications study, researchers developed a universal scaling framework for the strength of granular asteroids, showing that their tensile strength can be predicted from the size and shape of their constituent particles.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/comet-mcnaught-put-on-a-surprise-show-this-summer-heres-how-to-spot-it-before-it-fades' target='_blank'>Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades</a></strong> — <em>2026-09-03 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense' target='_blank'>Venus is becoming a thinner crescent — and that's when it finally starts making sense</a></strong> — <em>2026-09-04 18:00:00</em></summary>
 
-Comet McNaught brightened dramatically during two outbursts around perihelion as it made a close approach to the sun.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay' target='_blank'>BepiColombo’s Mercury arrival begins - full replay</a></strong> — <em>2026-09-03 15:00:00</em></summary>
-
-
-	Video: 
-			02:31:10
-				Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.After travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.Broadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. Livestream schedule (CEST): 
-13:45 – Livestream begins 
-14:00 – MTM separation 
-14:30 – Livestream pause 
-15:30 – Livestream resumes 
-15:53 – Earliest possible acquisition of signal and spacecraft status check 16:00-16:45 – End of livestream  
+Venus is sinking into the sunset as it catches up with Earth — and a small telescope now reveals something the naked eye never can: another planet going through phases.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/mesmerizing-plasma-loops-on-the-sun-space-photo-of-the-day-for-sept-3-2026' target='_blank'>Mesmerizing plasma loops on the sun | Space photo of the day for Sept. 3, 2026</a></strong> — <em>2026-09-03 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html' target='_blank'>Turbulent times for star formation in Stephan's Quintet</a></strong> — <em>2026-09-04 17:40:04</em></summary>
 
-"To see one AND catch it right on the limb AND have it happen on a clear day when I'm home and able to catch it was a real treat."
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026' target='_blank'>On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive</a></strong> — <em>2026-09-03 14:00:00</em></summary>
-
-On Sept. 3, 2006, a European satellite named SMART-1 crashed into the moon!  Here's why it mattered.
+Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new stars.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260903064229.htm' target='_blank'>NASA scientists discover a giant 10-sided pattern on Saturn</a></strong> — <em>2026-09-03 12:41:39</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html' target='_blank'>Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern</a></strong> — <em>2026-09-04 16:20:03</em></summary>
 
-A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-biggest-black-hole-merger-massive.html' target='_blank'>The biggest black hole merger ever observed could be less massive than it appears</a></strong> — <em>2026-09-03 12:30:49</em></summary>
-
-Gravitational waves are ripples in spacetime created when pairs of black holes spiral into each other and eventually merge. But if this ripple has been warped by another massive object on its way to Earth, a new analysis suggests that these black holes might appear far larger than they really are.
+For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using the Atacama Large Millimeter Array (ALMA). Led by Bill Dent at the University of Manchester, the team found that the giant star's inner atmosphere has become increasingly uneven and asymmetric, in a way that could be connected to a far smaller companion star.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite' target='_blank'>India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)</a></strong> — <em>2026-09-03 12:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how' target='_blank'>Stars forge and deliver the elements that make up your body — and scientists may finally know how</a></strong> — <em>2026-09-04 16:00:00</em></summary>
 
-India launched an Earth-imaging satellite toward geosynchronous orbit today (Sept. 3) —something it had not previously done successfully.
+Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-satellite-nasa-doomed-telescope.html' target='_blank'>Rescue satellite gets close to NASA's doomed telescope, even if it can't save it</a></strong> — <em>2026-09-04 14:52:33</em></summary>
+
+A private spacecraft that was supposed to provide a lifeline to NASA's Swift Observatory managed to get close to the sinking telescope and even snap photos two weeks after the rescue was abandoned.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026' target='_blank'>Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026</a></strong> — <em>2026-09-04 14:00:00</em></summary>
+
+The Hubble Space Telescope has spotted a spectacular 'super bubble' in our Milky Way's nearest neighbor the Large Magellanic Cloud. Check out our space photo of the day.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus' target='_blank'>On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus</a></strong> — <em>2026-09-04 14:00:00</em></summary>
+
+On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus.  Here's why it mattered.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026' target='_blank'>Week in images: 31 Aug - 04 Sep 2026</a></strong> — <em>2026-09-04 13:10:00</em></summary>
+
+
+Week in images: 31 Aug - 04 Sep 2026
+Discover our week through the lens
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/we-played-exodus-and-this-sci-fi-rpg-should-please-mass-effect-fans-even-if-you-cant-romance-the-talking-octopus' target='_blank'>We played 'Exodus', a sci-fi RPG that should please 'Mass Effect' fans, even if you can't romance the talking octopus</a></strong> — <em>2026-09-04 13:00:00</em></summary>
+
+An explosive hands-on demo has us more excited than before for the new action RPG led by BioWare veterans, who talked to us about its making.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust' target='_blank'>How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust</a></strong> — <em>2026-09-04 13:00:00</em></summary>
+
+New research suggests that dust from meteorites contains a "fossil record" dating back 4.6 billion years to the formation of the sun, revealing the role magnetism played in the birth of the solar system.
 
 </details>
 
