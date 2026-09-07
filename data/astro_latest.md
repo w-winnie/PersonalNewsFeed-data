@@ -1,141 +1,109 @@
 # Astro Daily Summary
 
-    ### Major Themes in Recent Astrophysics Developments
+    ### Summary of Recent Developments in Astrophysics
 
-#### 1. Advancements in Planetary Exploration
-Recent missions and research are significantly enhancing our understanding of planetary bodies, particularly Mercury. The BepiColombo mission has entered its final phase, approaching Mercury after an eight-year journey. This mission aims to deliver unprecedented insights into Mercury's geology and internal structure, which are crucial for understanding terrestrial planet formation. Complementing this, new studies from the University of Liège and KU Leuven have provided insights into Mercury's core and crust formation, highlighting the role of graphite in its geological history.
+#### Advances in Black Hole Research
+Recent investigations into black holes have reignited interest in the concept of "hidden hair," which proposes that information may be preserved around black holes, challenging long-held views on information loss. Researchers are focusing on the ringdown phase following black hole mergers, where gravitational waves carry information about the black hole's environment. These studies could provide critical insights into the fundamental nature of black holes and the physics governing them.
 
-Key Items:
-- The BepiColombo spacecraft is set to arrive at Mercury, promising to reveal new geological insights. [Link](https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html)
-- Research on Mercury's formation processes unveils the conditions that shaped its core and surface. [Link](https://phys.org/news/2026-09-mercury-graphite-crust-core.html)
+Key items:
+1. **Do black holes have hidden hair?** - Researchers are examining the ringdown phase of merging black holes to uncover information about their surroundings. [Link](https://phys.org/news/2026-09-black-holes-hidden-hair-scientists.html)
 
-#### 2. Insights into Cosmic Structure and Element Formation
-Astrophysical research is also deepening our understanding of the universe's structure and the processes that create elements. A recent detection of hydrogen signals from billions of years ago using the MeerKAT radio telescope may help astronomers map the early universe's structure. Additionally, new findings regarding stellar nucleosynthesis are clarifying how stars produce and distribute elements, which is essential for understanding the material basis of planets and life.
+#### Expanding Cosmic Surveys
+The Sloan Digital Sky Survey (SDSS) has released its 20th data set, a significant milestone that enhances our understanding of the universe. This extensive dataset provides detailed information on stars, interstellar medium, and distant galaxies, serving as a vital resource for researchers studying galaxy formation and the large-scale structure of the cosmos. The new data is expected to drive future discoveries across various astrophysical domains.
 
-Key Items:
-- Detection of ancient hydrogen signals could enhance models of cosmic evolution and structure. [Link](https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe)
-- Research on stellar processes reveals mechanisms behind element formation and distribution, crucial for understanding cosmic chemistry. [Link](https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how)
+Key items:
+1. **20th data release of the Sloan Digital Sky Survey** - This extensive dataset offers unprecedented insights into the cosmos, aiding various astrophysical research initiatives. [Link](https://phys.org/news/2026-09-20th-sloan-digital-sky-survey.html)
 
-#### 3. Understanding Asteroids and Star Formation Dynamics
-Recent studies have focused on the physical properties of asteroids and the dynamics of star formation. A new framework for assessing the strength of granular asteroids indicates that Bennu's surface is significantly weaker than previously estimated, which has implications for future exploration and mining. Concurrently, research into star formation in Stephan's Quintet illustrates how galaxy interactions compress molecular gas, leading to new star births, reflecting the dynamic processes of galaxy evolution.
+#### Mercury Exploration Milestones
+The BepiColombo mission, a collaboration between the European Space Agency and JAXA, has marked a pivotal moment with the successful separation of its Mercury Transfer Module. This event signals the spacecraft's approach to Mercury, where it will conduct detailed studies of the planet's surface and atmosphere. The mission is set to enhance our understanding of Mercury's geology and its significance in the solar system.
 
-Key Items:
-- A universal scaling framework reveals Bennu's surface strength, impacting asteroid characterization. [Link](https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html)
-- Studies on star formation in galaxy interactions provide insights into the processes that drive star birth. [Link](https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html)
+Key items:
+1. **BepiColombo begins Mercury arrival with MTM separation success** - The successful separation of the Mercury Transfer Module is a significant step toward the mission's objectives. [Link](https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success)
 
 ### Conclusion
-The current landscape of astrophysical research is characterized by significant advancements in planetary exploration, a deeper understanding of cosmic structures, and insights into stellar dynamics. As missions like BepiColombo approach their targets and new observational techniques uncover ancient signals, our comprehension of the universe's formation and evolution is expanding. The interplay between these studies not only enhances our knowledge of planetary systems and stellar processes but also has broader implications for understanding the origins of life-essential elements. The field is moving towards a more integrated perspective of the cosmos, driven by innovative research and technological progress.
+The field of astrophysics is currently characterized by significant advancements in black hole research, expansive cosmic surveys, and ambitious planetary exploration missions like BepiColombo. These developments not only deepen our understanding of fundamental astrophysical processes but also pave the way for future discoveries that could reshape our comprehension of the universe. As researchers continue to explore and analyze new data, the implications of these findings promise to resonate across various areas of astrophysics and related sciences.
 
 ### Top Sources:
-1. Spacecraft bound for Mercury begins 'tricky' arrival - https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html - BepiColombo spacecraft approaches Mercury after eight years in transit.
-2. How Mercury formed its graphite crust and core - https://phys.org/news/2026-09-mercury-graphite-crust-core.html - Research sheds light on the geological evolution of Mercury.
-3. Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? - https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe - Ancient hydrogen detection may enhance our understanding of cosmic evolution.
-4. Stars forge and deliver the elements that make up your body — and scientists may finally know how - https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how - New insights into stellar processes reveal how elements are created and distributed.
-5. Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee - https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html - A new framework assesses asteroid surface strength, impacting future exploration.
-6. Turbulent times for star formation in Stephan's Quintet - https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html - Galaxy interactions drive molecular gas compression, leading to new star formation.
-7. Venus is becoming a thinner crescent — and that's when it finally starts making sense - https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense - Observations reveal Venus's phase changes, enhancing our understanding of planetary atmospheres.
-8. Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern - https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html - New observations of Betelgeuse's atmosphere reveal dynamic changes possibly influenced by a companion star.
-9. Rescue satellite gets close to NASA's doomed telescope, even if it can't save it - https://phys.org/news/2026-09-satellite-nasa-doomed-telescope.html - A private spacecraft attempts to assist NASA's Swift Observatory.
-10. Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026 - https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026 - Hubble captures an impressive 'superbubble' in the Large Magellanic Cloud.
+1. Do black holes have hidden hair? Scientists find a new way to check - https://phys.org/news/2026-09-black-holes-hidden-hair-scientists.html - Researchers are examining the ringdown phase of merging black holes to uncover information about their surroundings.
+2. The 20th data release of the Sloan Digital Sky Survey - https://phys.org/news/2026-09-20th-sloan-digital-sky-survey.html - This extensive dataset offers unprecedented insights into the cosmos, aiding various astrophysical research initiatives.
+3. BepiColombo begins Mercury arrival with MTM separation success - https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success - The successful separation of the Mercury Transfer Module is a significant step toward the mission's objectives.
+4. SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) - https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly - SpaceX continues to expand its Starlink satellite constellation with a recent successful launch.
+5. The future of Earth observation: Private satellites and AI bring benefits but also pose risks - https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks - The integration of AI in Earth observation is transforming data analysis while raising concerns about privacy and data management.
+6. Labor Day in space: NASA astronauts get the holiday off - https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off - NASA astronauts aboard the ISS took a break for Labor Day, highlighting life in space.
+7. Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching - https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching - A review of a budget-friendly telescope ideal for amateur astronomers.
+8. Europe's space future in focus at the International Space Summit - https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit - Discussions at the summit aim to shape Europe's role in future space exploration.
+9. On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test - https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026 - A historical look at the first sea launch of a V-2 rocket.
+10. Feel the Force with these 10 out-of-this-world Lego Star Wars starships - https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships - A fun overview of Lego Star Wars starships for fans.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html' target='_blank'>Spacecraft bound for Mercury begins 'tricky' arrival</a></strong> — <em>2026-09-05 10:20:01</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-09-black-holes-hidden-hair-scientists.html' target='_blank'>Do black holes have hidden hair? Scientists find a new way to check</a></strong> — <em>2026-09-07 13:00:06</em></summary>
 
-After an eight-year journey, a spacecraft carrying European and Japanese probes began the monthslong, high-risk approach to Mercury on Thursday to study the sun-scorched planet.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons' target='_blank'>This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system</a></strong> — <em>2026-09-05 10:00:00</em></summary>
-
-NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.
+When two black holes crash together and merge, the newly formed black hole rings like a bell, sending out gravitational waves with specific frequencies that fade over time. This brief, fading pattern of waves is called ringdown, and it may hold secrets about what is hiding around black holes.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe' target='_blank'>Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?</a></strong> — <em>2026-09-04 21:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks' target='_blank'>The future of Earth observation: Private satellites and AI bring benefits but also pose risks</a></strong> — <em>2026-09-07 13:00:00</em></summary>
 
-Astronomers have used the MeerKAT radio telescope to detect hydrogen gas located billions of light-years away, from a period when the cosmos was billions of years younger.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-mercury-graphite-crust-core.html' target='_blank'>How Mercury formed its graphite crust and core</a></strong> — <em>2026-09-04 20:00:01</em></summary>
-
-As the BepiColombo mission prepares to enter the final phase of its journey to Mercury, a series of studies conducted by researchers at the University of Liège and KU Leuven sheds new light on the early stages of the evolution of the planet closest to the sun. Using experimental petrology, the researchers are reconstructing in the laboratory the formation of Mercury's core, the crystallization of its magma ocean and the formation of its mantle. The studies are published in Earth and Planetary Science Letters, Nature Communications and Advances in Geochemistry and Cosmochemistry.
+We've entered a new world of Earth observation, in which artificial intelligence helps researchers make sense of an ever-glowing glut of privately gathered data.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute' target='_blank'>Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute</a></strong> — <em>2026-09-04 19:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-20th-sloan-digital-sky-survey.html' target='_blank'>The 20th data release of the Sloan Digital Sky Survey</a></strong> — <em>2026-09-07 11:00:07</em></summary>
 
-Beam into these stellar celebrations to mark the sci-fi franchise's historic anniversary this Labor Day Weekend!
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html' target='_blank'>Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee</a></strong> — <em>2026-09-04 18:20:06</em></summary>
-
-In a new Nature Communications study, researchers developed a universal scaling framework for the strength of granular asteroids, showing that their tensile strength can be predicted from the size and shape of their constituent particles.
+The Sloan Digital Sky Survey (SDSS), the largest multispectral imaging and spectroscopic redshift survey of the cosmos, has released its 20th data release (DR 20). It is also the third release of the survey's fifth phase (SDSS-V), representing a massive operational expansion of the legacy established with prior releases. This milestone provides an unprecedented look at the stars, the interstellar medium (ISM) and distant galaxies that make up the cosmos.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense' target='_blank'>Venus is becoming a thinner crescent — and that's when it finally starts making sense</a></strong> — <em>2026-09-04 18:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching' target='_blank'>Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching</a></strong> — <em>2026-09-07 11:00:00</em></summary>
 
-Venus is sinking into the sunset as it catches up with Earth — and a small telescope now reveals something the naked eye never can: another planet going through phases.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html' target='_blank'>Turbulent times for star formation in Stephan's Quintet</a></strong> — <em>2026-09-04 17:40:04</em></summary>
-
-Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new stars.
+20% off at Amazon, the Celestron FirstScope is the telescope I grab for quick stargazing sessions and it's ideal for beginners and kids too.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html' target='_blank'>Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern</a></strong> — <em>2026-09-04 16:20:03</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off' target='_blank'>Labor Day in space: NASA astronauts get the holiday off</a></strong> — <em>2026-09-07 10:00:00</em></summary>
 
-For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using the Atacama Large Millimeter Array (ALMA). Led by Bill Dent at the University of Manchester, the team found that the giant star's inner atmosphere has become increasingly uneven and asymmetric, in a way that could be connected to a far smaller companion star.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how' target='_blank'>Stars forge and deliver the elements that make up your body — and scientists may finally know how</a></strong> — <em>2026-09-04 16:00:00</em></summary>
-
-Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.
+Like their compatriots here on Earth, the three NASA astronauts living aboard the International Space Station will get a well-deserved rest on Labor Day.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-satellite-nasa-doomed-telescope.html' target='_blank'>Rescue satellite gets close to NASA's doomed telescope, even if it can't save it</a></strong> — <em>2026-09-04 14:52:33</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success' target='_blank'>BepiColombo begins Mercury arrival with MTM separation success</a></strong> — <em>2026-09-07 08:25:00</em></summary>
 
-A private spacecraft that was supposed to provide a lifeline to NASA's Swift Observatory managed to get close to the sinking telescope and even snap photos two weeks after the rescue was abandoned.
 
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026' target='_blank'>Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026</a></strong> — <em>2026-09-04 14:00:00</em></summary>
-
-The Hubble Space Telescope has spotted a spectacular 'super bubble' in our Milky Way's nearest neighbor the Large Magellanic Cloud. Check out our space photo of the day.
+On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury. 
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus' target='_blank'>On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus</a></strong> — <em>2026-09-04 14:00:00</em></summary>
-
-On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus.  Here's why it mattered.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026' target='_blank'>Week in images: 31 Aug - 04 Sep 2026</a></strong> — <em>2026-09-04 13:10:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success' target='_blank'>BepiColombo begins Mercury arrival with MTM separation success</a></strong> — <em>2026-09-07 08:25:00</em></summary>
 
 
-Week in images: 31 Aug - 04 Sep 2026
-Discover our week through the lens
+On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury. 
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-games/we-played-exodus-and-this-sci-fi-rpg-should-please-mass-effect-fans-even-if-you-cant-romance-the-talking-octopus' target='_blank'>We played 'Exodus', a sci-fi RPG that should please 'Mass Effect' fans, even if you can't romance the talking octopus</a></strong> — <em>2026-09-04 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit' target='_blank'>Europe's space future in focus at the International Space Summit</a></strong> — <em>2026-09-07 06:10:00</em></summary>
 
-An explosive hands-on demo has us more excited than before for the new action RPG led by BioWare veterans, who talked to us about its making.
+
+The International Space Summit, taking place in Paris, France, on 9 and 10 September, will bring together world leaders, ministers, industry representatives and astronauts at a pivotal moment for the future of space. ESA Director General Josef Aschbacher will invite European leaders to reflect on the role Europe wishes to play in the next era of space exploration and on the level of ambition needed to help shape it.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust' target='_blank'>How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust</a></strong> — <em>2026-09-04 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026' target='_blank'>On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test</a></strong> — <em>2026-09-06 16:23:04</em></summary>
 
-New research suggests that dust from meteorites contains a "fossil record" dating back 4.6 billion years to the formation of the sun, revealing the role magnetism played in the birth of the solar system.
+On Sept. 6, 1947, a V-2 rocket launched from an U.S. Navy aircraft carrier for the first time. Here's why it mattered.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly' target='_blank'>SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)</a></strong> — <em>2026-09-06 15:54:11</em></summary>
+
+SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships' target='_blank'>Feel the Force with these 10 out-of-this-world Lego Star Wars starships</a></strong> — <em>2026-09-06 15:00:00</em></summary>
+
+Whether you're a Jedi or a Sith, if you love Star Wars' iconic vessels you'll want to own these ten Lego Star Wars starships.
 
 </details>
 
