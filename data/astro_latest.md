@@ -1,272 +1,179 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Emerging Insights into Dark Galaxies and Cosmic Mysteries
+Recent findings regarding the candidate dark galaxy Cloud-9 underscore a paradigm shift in our understanding of galaxy formation, suggesting that galaxies can exist with minimal stellar content. Observations have confirmed Cloud-9's star-deficient nature, challenging existing models that rely heavily on star formation for galaxy evolution. Moreover, fast radio bursts (FRBs) are being investigated as tools to probe dark matter and dark energy, potentially illuminating some of the universe's most profound questions.
 
-#### Insights into Black Holes and Cosmic Dynamics
-Recent research has significantly advanced our understanding of black holes, particularly their growth and behavior within galaxies. A groundbreaking observation of a wandering black hole actively consuming gas provides the first direct evidence of a predicted accretion mechanism, shedding light on black hole dynamics. Furthermore, a new theoretical framework proposes that black holes may evolve in tandem with the expansion of the universe, challenging traditional views of their static nature. These findings not only enhance our knowledge of black hole behavior but also imply a more interconnected cosmic evolution.
+Key items illustrating this theme include:
+1. **Cloud-9 Observations** - Deep observations confirm Cloud-9's star deficiency, raising questions about galaxy formation theories. [Link](https://phys.org/news/2026-09-galaxy-stars-cloud-case.html)
+2. **Fast Radio Bursts** - Recent studies suggest FRBs could provide insights into dark matter and energy, highlighting their utility in cosmic exploration. [Link](https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning)
 
-Key items:
-1. A wandering black hole caught feeding - https://phys.org/news/2026-08-black-hole-caught.html - First direct evidence of a wandering black hole's feeding mechanism.
-2. Black holes grow along with the universe - https://phys.org/news/2026-09-black-holes-universe.html - New theory suggests black holes expand with the universe.
+### Stellar Evolution and Planetary Consumption
+A novel detection technique utilizing beryllium abundance has been introduced to identify stars that have consumed rocky planets, offering a new perspective on planetary system evolution. This method enhances our understanding of the interactions between stars and their surrounding planetary bodies. Additionally, new research has clarified the mechanisms behind the luminosity bump observed in low-mass stars, linking it to entropy changes, which could refine our models of stellar life cycles.
 
-#### Mars Exploration and Sample Return Missions
-Mars exploration is entering a new phase, highlighted by China's Tianwen 3 mission, which is set for a 2028 launch and aims to return samples by 2031. This ambitious endeavor reflects a growing global interest in Mars and its geological history. Concurrently, NASA's Curiosity rover has reached a milestone of 5,000 sols on Mars, continuing to gather crucial data about the planet's surface and atmosphere. These missions are pivotal for understanding Mars' potential for past life and the feasibility of future human colonization.
+Key items illustrating this theme include:
+1. **Beryllium Detection** - A new method for identifying stars that have ingested rocky planets broadens the study of planetary dynamics. [Link](https://phys.org/news/2026-09-beryllium-stars-swallowed-rocky-planets.html)
+2. **Luminosity Bump Research** - Investigations reveal the role of entropy in the luminosity bump of evolved stars, enhancing our understanding of stellar evolution. [Link](https://phys.org/news/2026-09-discontinuity-disorder-luminosity-evolved-stars.html)
 
-Key items:
-1. China on track to launch Mars sample-return mission in 2028 - https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment - China's ambitious Mars mission aims for a 2028 launch.
-2. Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars - https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/ - Curiosity rover marks a significant milestone on Mars.
+### Advancements in Cosmic Observations and Technologies
+NASA's Chandra X-ray Observatory has identified a new class of "hypersoft X-ray sources," which may provide solutions to longstanding astrophysical puzzles. This discovery could lead to new lines of inquiry in high-energy astrophysics. Additionally, the upcoming launch of the Roman Space Telescope is poised to revolutionize exoplanet research by enabling direct imaging of exoplanets, significantly advancing our understanding of planetary atmospheres.
 
-#### Exploring the Early Universe and Cosmic Structures
-Astronomers have made strides in understanding the early universe through the identification of the most distant progenitor of a galaxy supercluster. This discovery, aided by the Dark Energy Camera, provides new insights into the formation of cosmic structures. Additionally, studies utilizing both the Hubble and James Webb Space Telescopes have revealed unexpected characteristics of trans-Neptunian objects, enhancing models of solar system formation. These findings underscore the ongoing efforts to unravel the complexities of cosmic evolution.
-
-Key items:
-1. Discovery of a distant galaxy supercluster - https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html - Discovery of the most distant galaxy supercluster progenitor.
-2. Hubble and Webb find far-out solar system objects 'remember' the past - https://phys.org/news/2026-09-hubble-webb-solar.html - New insights into trans-Neptunian objects from Hubble and Webb.
+Key items illustrating this theme include:
+1. **Hypersoft X-ray Sources** - The identification of these sources could address unresolved astrophysical questions, opening new research avenues. [Link](https://phys.org/news/2026-09-chandra-uncovers-hypersoft-ray-sources.html)
+2. **Roman Space Telescope Launch** - The Roman Space Telescope's capabilities will likely transform exoplanet imaging and atmospheric studies. [Link](https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean)
 
 ### Conclusion
-The current landscape of astrophysics is characterized by significant breakthroughs in our understanding of black holes, ambitious Mars exploration initiatives, and new insights into the early universe's structure. These developments reflect a vibrant and interconnected scientific community committed to deepening our understanding of cosmic phenomena, paving the way for future explorations and discoveries that could reshape our comprehension of the universe.
+The current landscape in astrophysics is characterized by significant advancements in our understanding of dark matter, galaxy formation, and stellar evolution. Innovative observational techniques and theoretical advancements are fostering deeper insights into cosmic phenomena. As researchers continue to explore these mysteries, the field is experiencing a transformative period marked by a synergy between observation and theory, promising to reshape our comprehension of the universe.
 
-### Top Sources:
-1. A wandering black hole caught feeding - https://phys.org/news/2026-08-black-hole-caught.html - First direct evidence of a wandering black hole's feeding mechanism.
-2. Black holes grow along with the universe - https://phys.org/news/2026-09-black-holes-universe.html - New theory suggests black holes expand with the universe.
-3. China on track to launch Mars sample-return mission in 2028 - https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment - China's ambitious Mars mission aims for a 2028 launch.
-4. Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars - https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/ - Curiosity rover marks a significant milestone on Mars.
-5. Extremely massive galaxy proto-supercluster smashes distance record - https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html - Discovery of the most distant galaxy supercluster progenitor.
-6. Hubble and Webb find far-out solar system objects 'remember' the past - https://phys.org/news/2026-09-hubble-webb-solar.html - New insights into trans-Neptunian objects from Hubble and Webb.
-7. Big supernova dataset challenges dark energy theory - https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html - Comprehensive supernova catalog reveals new clues about dark energy.
-8. NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images - https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/ - Innovative use of algorithms to study ancient imagery.
-9. ALMA watches a massive binary assemble in real time - https://phys.org/news/2026-09-alma-massive-binary-real.html - Detailed observation of a binary star system's formation.
-10. Fast radio bursts could help disentangle galactic feedback from dark matter effects - https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html - Insights into the nature of fast radio bursts and their implications for galactic studies.
+Top Sources:
+1. A galaxy with almost no stars? New Cloud-9 observations strengthen the case - https://phys.org/news/2026-09-galaxy-stars-cloud-case.html - Deep observations of Cloud-9 reinforce its star-deficient nature.
+2. Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning' - https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning - Fast radio bursts may unlock secrets about dark matter and energy.
+3. Beryllium signal identifies stars that have swallowed rocky planets - https://phys.org/news/2026-09-beryllium-stars-swallowed-rocky-planets.html - New method detects stars that consumed their planets by measuring beryllium abundance.
+4. Chandra uncovers 'hypersoft X-ray sources' that may solve two astrophysical puzzles - https://phys.org/news/2026-09-chandra-uncovers-hypersoft-ray-sources.html - Discovery of unique X-ray sources could address longstanding astrophysical questions.
+5. Discontinuity and disorder: Explaining the luminosity bump in evolved stars - https://phys.org/news/2026-09-discontinuity-disorder-luminosity-evolved-stars.html - Study reveals entropy's role in the luminosity bump of low-mass stars.
+6. JWST discovers that Chariklo's invisible rings are changing - https://phys.org/news/2026-09-jwst-chariklo-invisible.html - Changes in Chariklo's rings provide new insights into ring system dynamics.
+7. NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean? - https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean - Roman Telescope set to revolutionize exoplanet imaging.
+8. This 'impossible' black hole merger may be explained by a warp in spacetime - https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime - New research suggests a plausible explanation for a previously deemed impossible black hole merger.
+9. Helium measurements clarify conditions seconds after the Big Bang - https://phys.org/news/2026-09-helium-conditions-seconds-big.html - New studies confirm elemental formation theories from the Big Bang.
+10. Next-gen gravitational wave detectors could spot the first black holes - https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html - Future detectors may identify the universe's earliest black holes.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/stargazing/a-ghostly-pyramid-of-light-is-about-to-appear-before-dawn-heres-how-to-see-the-zodiacal-light-2026' target='_blank'>A ghostly pyramid of light is about to appear before dawn — here's how to see it</a></strong> — <em>2026-09-09 12:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-09-galaxy-stars-cloud-case.html' target='_blank'>A galaxy with almost no stars? New Cloud-9 observations strengthen the case</a></strong> — <em>2026-09-10 12:00:01</em></summary>
 
-A ghostly "false dawn" is about to light up the predawn sky — if you know where to look.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-toys-lego/now-40-percent-off-its-your-last-chance-to-grab-this-retired-lego-marvel-baby-rocket-raccoons-ship-including-the-most-adorable-lego-figure-ever' target='_blank'>Now 40% off, it's your last chance to grab this retired Lego Marvel Baby Rocket Raccoon's Ship, including the most adorable Lego figure ever</a></strong> — <em>2026-09-09 12:00:00</em></summary>
-
-Love Guardians of the Galaxy? Get $14 off this Lego Marvel Baby Rocket's Ship at Walmart and make your own adventures. You'll have to hurry, though, this retired set is going fast.
+Astronomers have taken one of the deepest looks yet at Cloud-9, a candidate "dark galaxy," and found no trace of stars. The paper outlining this discovery was posted to the arXiv preprint server on Aug. 21.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-08-black-hole-caught.html' target='_blank'>A wandering black hole caught feeding on the run</a></strong> — <em>2026-09-09 11:30:02</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning' target='_blank'>Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'</a></strong> — <em>2026-09-10 10:00:00</em></summary>
 
-Astronomers have found the first direct evidence that a wandering black hole can feed itself by dragging gas along in its wake as it moves through its galaxy. It's the first direct evidence of an accretion channel long predicted in theory but never before observed. The paper describing this discovery was posted to the arXiv preprint server on Aug. 11.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment' target='_blank'>China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'</a></strong> — <em>2026-09-09 10:00:00</em></summary>
-
-China is making progress on its Tianwen 3 Mars sample-return mission, which aims to launch in 2028 and return a collection of Red Planet dirt and rock to Earth in 2031.
+Though their origins may be shrouded in mystery, fast radio bursts could be used to probe some of the universe's biggest puzzles, including the nature of dark matter and dark energy.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/' target='_blank'>Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars</a></strong> — <em>2026-09-09 06:20:49</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153' target='_blank'>Watch SpaceX launch classified mission for the US Space Force today</a></strong> — <em>2026-09-10 04:05:00</em></summary>
 
-Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit' target='_blank'>MTG-I2 reaches its final orbit</a></strong> — <em>2026-09-09 06:20:00</em></summary>
-
-
-Europe’s Meteosat Third Generation Imager 2 (MTG-I2) satellite has reached its designated orbit at 36 000 km from Earth and is ready to begin its commissioning phase, preparing it to provide years of service to improve weather forecasting over Europe and North Africa.
+SpaceX will launch the classified USSF-153 mission for the U.S. Space Force today (Sept. 10), and you can watch the action live.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/' target='_blank'>Anak Krakatau Rumbles Again</a></strong> — <em>2026-09-09 04:01:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-tiny-salt-crevices-miniature-greenhouses.html' target='_blank'>Tiny salt crevices could act as miniature 'Greenhouses' for Martian microbes</a></strong> — <em>2026-09-09 23:00:02</em></summary>
 
-A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-black-holes-faster-galaxies.html' target='_blank'>Some black holes grow much faster than their galaxies</a></strong> — <em>2026-09-09 00:40:01</em></summary>
-
-Nearly every galaxy has a supermassive black hole. The few that don't have had theirs ejected during a galactic collision. That's because galaxies and their black holes have formed hand in hand. There is still some debate as to whether galaxies formed around the seeds of supermassive black holes or the other way around, but there is plenty of evidence to support the idea that the two evolve together.
+We've been searching for life on Mars for a long time, but so far we've come up empty. The fundamental problem is a Catch-22 involving two of the key ingredients for life. Life as we know it needs liquid water and reasonable temperatures, both of which are available on Mars, but hardly ever at the same time. But a new paper from lead author Anna Bognar and her team at ELTE Eötvös Loránd University and the Konkoly Observatory describes a way for life to access both requirements at the same time—by hiding away in salt crystals.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-mission-rendezvous-halley-comet.html' target='_blank'>A new mission could rendezvous with Halley's Comet in 2061</a></strong> — <em>2026-09-08 23:00:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-beryllium-stars-swallowed-rocky-planets.html' target='_blank'>Beryllium signal identifies stars that have swallowed rocky planets</a></strong> — <em>2026-09-09 21:30:01</em></summary>
 
-Halley's Comet captures the imagination in a way that few other astronomical objects do. When it last made its approach toward the sun (admittedly when this author, who is now middle-aged, was 1 year old in 1986), humanity responded with a fleet of spacecraft known informally as the "Halley Armada." Yet because of the comet's trajectory, those spacecraft were only able to visit their target for a fleeting few hours, leaving planetary scientists wanting more. Now, a new paper by researchers at Khalifa University and their co-authors, available on the arXiv preprint server, describes a mission plan that would allow a spacecraft to rendezvous with this best-known comet for the first time.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html' target='_blank'>Extremely massive galaxy proto-supercluster smashes distance record</a></strong> — <em>2026-09-08 22:00:03</em></summary>
-
-An international team of astronomers has discovered the most distant progenitor to a galaxy supercluster ever. The discovery supports existing theories of how galaxy clusters evolve and reveals how they are connected to the larger cosmic web. The study relies largely on data from the ODIN survey, conducted with the U.S. Department of Energy-fabricated Dark Energy Camera on the U.S. National Science Foundation Víctor M. Blanco 4-meter Telescope in Chile.
+An international team led by researchers from the University of São Paulo (USP) in Brazil has developed an innovative method to identify stars that have consumed the planets around them. The technique detects variations in the abundance of beryllium, a relatively rare chemical element, and could open a new window into studying the evolution of planetary systems.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon' target='_blank'>Did Venus eat its own moon?</a></strong> — <em>2026-09-08 21:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-chandra-uncovers-hypersoft-ray-sources.html' target='_blank'>Chandra uncovers 'hypersoft X-ray sources' that may solve two astrophysical puzzles</a></strong> — <em>2026-09-09 21:20:09</em></summary>
 
-Scientists may finally know why Venus, Earth's twin, lacks a moon, finding that the hottest planet in the solar system may have consumed its own natural satellite.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/' target='_blank'>From the Corps to the Cosmos, featuring Jaden Caradine</a></strong> — <em>2026-09-08 20:29:59</em></summary>
-
-Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA’s Langley Research Center in Hampton, Virginia, Caradine […]
+Using NASA's Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/' target='_blank'>NASA Calls for Proposals to Accelerate Lunar Surface Technologies</a></strong> — <em>2026-09-08 20:16:16</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-alien-civilizations-hyper-efficient-distinct.html' target='_blank'>If alien civilizations use hyper-efficient computers, they will have a distinct energy signal we can detect</a></strong> — <em>2026-09-09 21:20:04</em></summary>
 
-NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html' target='_blank'>Fast radio bursts could help disentangle galactic feedback from dark matter effects</a></strong> — <em>2026-09-08 20:00:10</em></summary>
-
-Intense, brief flashes of radio light called fast radio bursts (FRBs) travel across billions of light-years to reach Earth, passing through a fog of matter along the way. The bursts' origins are unclear but may originate from highly magnetized dead stars called magnetars. The denser the fog through which FRBs travel, the more dispersed their signals become—similar to the way a prism splits white light into a rainbow of colors.
+Love it or hate it, artificial intelligence is likely here to stay. Its ravenous need for computational power has overwhelmed chip manufacturers and power companies alike. While our current AI obsession is likely a bubble ready to burst, we won't simply stop using computers. Since their first invention, computers have continued to grow more powerful, and our civilization has grown ever more dependent on them. Computation defines our civilization. Perhaps computational power is what defines any advanced civilization. If that's the case, then the most advanced civilizations in the universe would push computing to its most powerful and efficient state.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-giant-impacts-small-icy-moons.html' target='_blank'>Giant impacts may strip small icy moons of subsurface oceans</a></strong> — <em>2026-09-08 19:40:10</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime' target='_blank'>This 'impossible' black hole merger may be explained by a warp in spacetime</a></strong> — <em>2026-09-09 21:00:00</em></summary>
 
-Southwest Research Institute (SwRI) scientists used simulations to understand the role disruptive impacts play on icy moons with subsurface oceans in our solar system. A recent paper published in the journal Nature Astronomy concludes that disruptive impacts can affect the presence and persistence of subsurface oceans in these moons but do not seem to create new oceans.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch' target='_blank'>Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch</a></strong> — <em>2026-09-08 19:23:56</em></summary>
-
-Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.
+A "forbidden" merger between two black holes may not have been quite as impossible as previously thought. New research that suggests the black holes involved were smaller than first calculated.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-martian-air-yield-methane-rocket.html' target='_blank'>Martian air could yield methane rocket fuel with fewer unwanted byproducts</a></strong> — <em>2026-09-08 19:20:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station-astronaut-gives-out-of-this-world-tribute-to-honor-star-treks-60th-anniversary' target='_blank'>International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary</a></strong> — <em>2026-09-09 20:00:00</em></summary>
 
-As NASA prepares to send humans to Mars as early as the 2030s, University of Mississippi researchers are working on one of the key questions: How will they get back?
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger' target='_blank'>'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger?</a></strong> — <em>2026-09-08 19:00:00</em></summary>
-
-"To explore strange new worlds; to seek out new life and new civilizations; to boldly go where no one has gone before!"
+European Space Agency astronaut Sophie Adenot paid tribute to Star Trek’s real-world contributions to science and exploration by wearing Captain Pike’s Starfleet badge aboard the International Space Station on the show’s 60th anniversary.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/astrophotography/astrophotographer-captures-jaw-dropping-view-of-the-crescent-nebula' target='_blank'>Astrophotographer captures jaw-dropping view of the Crescent Nebula</a></strong> — <em>2026-09-08 18:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-europe-space.html' target='_blank'>What to know about Europe's push to compete in space</a></strong> — <em>2026-09-09 19:50:01</em></summary>
 
-Astrophotographer Kevin Boardman spent more than 16 hours capturing the intricate filaments of the  Crescent Nebula.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-september-8-2026' target='_blank'>On this day in space! Sept. 8, 2004: NASA's Genesis spacecraft crashed in the Utah desert, shattering its samples of solar wind particles from the sun</a></strong> — <em>2026-09-08 17:17:42</em></summary>
-
-On Sept. 8, 2004, NASA's Genesis spacecraft crash-landed in Utah after its parachutes failed to deploy.  Here's why it mattered.
+Key figures from Europe's space industry and other international players have converged on Paris to discuss how to advance the continent's ambitions in a global market dominated by the United States.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/stargazing/skywatching-kit/an-unmissable-usd450-off-we-rank-this-vintage-style-nikon-as-the-best-camera-under-usd2000-but-its-going-fast' target='_blank'>An unmissable $450 off, we rank this vintage-style Nikon as the best camera under $2000, but it is going fast</a></strong> — <em>2026-09-08 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-artemis-ii-moonshot-astronaut-nasa.html' target='_blank'>Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA</a></strong> — <em>2026-09-09 19:35:49</em></summary>
 
-Our expert thinks this Nikon Zf camera is a stylish, powerful performer at full price, offering great low-light performance to boot. Now, thanks to this Amazon deal, it's the cheapest it's been all year.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/' target='_blank'>Superbubble in the Large Magellanic Cloud</a></strong> — <em>2026-09-08 16:49:15</em></summary>
-
-NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the […]
+The two NASA astronauts who led the Artemis II moonshot earlier this year are stepping away from spaceflight.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-quiet-black-holes-stellar-companion.html' target='_blank'>Quiet black holes with a stellar companion raise questions about how they form</a></strong> — <em>2026-09-08 16:20:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-discontinuity-disorder-luminosity-evolved-stars.html' target='_blank'>Discontinuity and disorder: Explaining the luminosity bump in evolved stars</a></strong> — <em>2026-09-09 19:00:01</em></summary>
 
-Active black holes are easy to detect. Their superheated accretion disks emit bright X-rays, and the jets streaming from their poles are easily seen at visible and radio wavelengths. But most stellar-mass black holes are inactive. They either drift through the galaxy alone or orbit a companion star without consuming its material. We can't observe inactive black holes directly. We can only observe their effects on nearby objects. We currently know of three such black holes thanks to the Gaia spacecraft.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-hubble-webb-solar.html' target='_blank'>Hubble and Webb find that far-out solar system objects 'remember' the past</a></strong> — <em>2026-09-08 16:05:13</em></summary>
-
-For the first time, scientists used the combined power of NASA's Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, trans-Neptunian objects (TNOs). Some are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than expected and that the colors of these bodies followed the same relationships as those of their larger family members.
+Toward the end of their lives, low-mass stars undergo an abrupt dip in brightness, also known as the luminosity bump. While the endpoint of this bump is well understood, its onset has remained elusive. Now, in a paper published by The Astrophysical Journal Letters, Saskia Hekker, leader of the Theory and Observations of Stars group at the Heidelberg Institute for Theoretical Studies (HITS), finds that entropy is the key driver of the bump.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/2-satellites-just-burned-up-in-earths-atmosphere-and-scientists-were-watching-from-a-private-jet-heres-why' target='_blank'>2 satellites just burned up in Earth's atmosphere — and scientists were watching from a private jet. Here's why</a></strong> — <em>2026-09-08 16:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/stars/astronomers-discover-two-stars-that-joined-together-to-form-a-binary-system-just-60-years-ago' target='_blank'>Astronomers discover two stars that joined together to form a binary system just 60 years ago</a></strong> — <em>2026-09-09 19:00:00</em></summary>
 
-A team of researchers just chased a pair of reentering satellites in a private jet to learn about the pollution caused by space debris burning up in Earth's atmosphere.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-interstellar-visitor-3iatlas-clues-frozen.html' target='_blank'>Interstellar visitor 3I/ATLAS carries clues from the frozen outskirts of another star system</a></strong> — <em>2026-09-08 15:50:01</em></summary>
-
-UK astronomers have uncovered new clues about the origin of 3I/ATLAS—only the third known object from beyond the solar system ever spotted. In a new paper published in Monthly Notices of the Royal Astronomical Society, researchers reveal that the comet formed in extremely cold conditions, far from any star.
+Using ALMA, astronomers have watched as two stars come together to form a massive stellar binary, finding chaos that indicates they emerged from different backgrounds.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-black-holes-universe.html' target='_blank'>Do black holes grow along with the universe? A new study says yes</a></strong> — <em>2026-09-08 15:20:04</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-helium-conditions-seconds-big.html' target='_blank'>Helium measurements clarify conditions seconds after the Big Bang</a></strong> — <em>2026-09-09 18:40:03</em></summary>
 
-We know the universe is constantly expanding. We also know that gravitationally bound objects, such as solar systems and black holes, seem to be immune to that expansion. But a new paper by theoretical physicists Valerio Faraoni and Massimiliano Rinaldi challenges that assumption. They suggest that black holes can't just ignore the expanding universe around them. Instead, they have to expand along with it. Their paper is posted to the arXiv preprint server.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-alma-massive-binary-real.html' target='_blank'>ALMA watches a massive binary assemble in real time</a></strong> — <em>2026-09-08 15:20:02</em></summary>
-
-Using the Atacama Large Millimeter/submillimeter Array (ALMA), astronomers have captured one of the most detailed three-dimensional views yet of a massive binary star system while it is still being born. By tracking the motions of two young, massive stars over nearly eight years, the team found that the pair follows a highly stretched-out orbit and is surrounded by strongly tilted gas disks, both relative to each other and to the stars' orbit.
+New observations of the composition of distant galaxies offer insights into the earliest phases of the universe and confirm decades of scientific understanding of the elements and particles produced by the Big Bang, according to a new study.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/' target='_blank'>NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images</a></strong> — <em>2026-09-08 15:15:56</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-jwst-chariklo-invisible.html' target='_blank'>JWST discovers that Chariklo's invisible rings are changing</a></strong> — <em>2026-09-09 18:00:04</em></summary>
 
-Algorithm NASA first applied to satellite imagery is now used to peer into antiquity
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-eggshells-aluminum-material-significant-space.html' target='_blank'>Eggshells-inspired aluminum material offers significant protection from space debris</a></strong> — <em>2026-09-08 15:00:06</em></summary>
-
-There are nearly 1 million pieces of debris larger than 1 centimeter (0.4 inch) in near-Earth orbit. As we continue launching spacecraft and telescopes to explore the universe, this debris poses a significant threat of high-speed impact damage. In the Journal of Applied Physics researchers from Dalian University of Technology in China explored an eggshell-inspired design as a potential spacecraft protection material.
+Until just over a decade ago, ring systems were thought to be exclusive to the giant planets of the solar system, such as Jupiter, Saturn, Uranus and Neptune. However, in 2013, a small body barely 250 kilometers (155 miles) in diameter, located at nearly 17 times the Earth–sun distance, joined this small group. The object is Chariklo, a small body orbiting between Saturn and Uranus, around which astronomers discovered two dense rings.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/as-star-trek-turns-60-we-take-the-iconic-sci-fi-franchise-to-sickbay-for-a-full-health-report' target='_blank'>As 'Star Trek' turns 60, we take the iconic sci-fi franchise to sickbay for a full health report</a></strong> — <em>2026-09-08 15:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean' target='_blank'>NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?</a></strong> — <em>2026-09-09 18:00:00</em></summary>
 
-As Gene Roddenberry's baby enters its seventh decade, we give 'Trek' a 60th birthday health check.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-astronauts-tackle-aging-earth.html' target='_blank'>How studying astronauts could help tackle aging on Earth</a></strong> — <em>2026-09-08 14:20:08</em></summary>
-
-Astronauts who undergo long-duration spaceflight aboard the International Space Station often return with health problems that resemble some age-related conditions in people on Earth.
+"When you look up at the night sky, most of those stars have planets."
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/' target='_blank'>1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day</a></strong> — <em>2026-09-08 14:06:52</em></summary>
+<details><summary><strong><a href='https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un' target='_blank'>We're about to exceed 1.5-degree global warming limit, according to the UN</a></strong> — <em>2026-09-09 16:00:00</em></summary>
 
-More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/' target='_blank'>NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past</a></strong> — <em>2026-09-08 14:00:28</em></summary>
-
-For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]
+"We can – and must – get on the right path."
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026' target='_blank'>SpaceX rocket taxi returns after Roman Telescope launch | Space photo of the day for Sept. 8, 2026</a></strong> — <em>2026-09-08 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html' target='_blank'>Next-gen gravitational wave detectors could spot the first black holes</a></strong> — <em>2026-09-09 15:00:11</em></summary>
 
-The Roman Space Telescope launched beyond Earth on Aug. 30. And one of the most amazing parts of the liftoff was the Falcon Heavy rocket's boosters returning back to our planet, safe and sound.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html' target='_blank'>Big supernova dataset challenges dark energy theory</a></strong> — <em>2026-09-08 13:20:03</em></summary>
-
-The most comprehensive catalog of exploding white dwarf stars ever assembled has revealed new clues about dark energy, the mysterious force driving the universe's accelerating expansion. Researchers at The University of Queensland's School of Mathematics and Physics have led a global effort to compile a dataset containing information on 2,884 Type Ia supernovae used to measure cosmic distances.
+A few hundred million years after the Big Bang, the first stars ignited—literally the "let there be light" moment for the universe. Now known to astronomers as Population III, or Pop III, stars, these giants were very different from the stars we know today. They formed from pristine hydrogen and helium, with almost no "metal" (i.e., other elements) holding them back. They were also huge, growing to tens to hundreds of times larger than the sun. And they died young, in many cases collapsing into the universe's earliest black holes.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/science/particle-physics/the-rise-of-quantum-gravity-einsteins-theory-seen-in-the-quantum-realm-for-1st-time' target='_blank'>The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time</a></strong> — <em>2026-09-08 13:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/us-military-practices-orbital-dogfighting-in-1st-ever-live-fly-exercise-in-space' target='_blank'>US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space</a></strong> — <em>2026-09-09 15:00:00</em></summary>
 
-Scientists have spotted the first hints that Einstein's formulation of gravity operates in the quantum realm.
+United States Space Command just held its first-ever "Apollo Maneuvers" exercise, which saw spacecraft maneuvering in orbit through simulated contested environments.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260907201552.htm' target='_blank'>Scientists observe Einstein’s gravity in the quantum world for the first time</a></strong> — <em>2026-09-08 12:09:21</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-african-space-senegal-pursues-homemade.html' target='_blank'>As African space race heats up, Senegal pursues homemade satellites</a></strong> — <em>2026-09-09 14:20:12</em></summary>
 
-Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that one part was held in place while the other fell freely under gravity, then reunited the two to measure the tiny difference that emerged.
+Senegalese engineers in hairnets and white gloves are carefully assembling a nanosatellite at a French lab—another step toward fostering their own space industry back home.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026' target='_blank'>On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch</a></strong> — <em>2026-09-09 14:00:00</em></summary>
+
+On Sept. 9, 1982, the first private rocket, Conestoga 1, launched into space from a Texas cattle ranch. Here's why it mattered.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026' target='_blank'>Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026</a></strong> — <em>2026-09-09 14:00:00</em></summary>
+
+Anak Krakatau erupted, and satellites were watching.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/science/astrophysics/a-photon-from-the-biggest-cosmic-explosion-since-the-big-bang-appears-to-have-defied-einstein-scientists-may-finally-know-how' target='_blank'>A photon from the biggest cosmic explosion since the Big Bang appears to have defied Einstein. Scientists may finally know how</a></strong> — <em>2026-09-09 13:00:00</em></summary>
+
+A photon from the biggest cosmic explosion since the Big Bang, the gamma-ray burst nicknamed "the BOAT," should not have reached Earth, according to Einstein. Now scientists may know how it did.
 
 </details>
 
