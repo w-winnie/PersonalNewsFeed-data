@@ -1,168 +1,203 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics and Space Exploration
+    ### Themes in Recent Astrophysical Developments
 
-#### The Role of Black Holes in Star Formation
-Recent investigations have revealed a nuanced relationship between supermassive black holes and star formation in their host galaxies. Research focusing on NGC 1068 indicates that the gas outflows produced by an actively accreting black hole can actually stimulate star formation rather than suppress it, a departure from the traditional view. This conclusion is bolstered by an analysis of nine nearby galaxies, which collectively suggest that the energy released by these cosmic giants can foster new star formation, highlighting a complex interplay within galactic ecosystems.
+#### Unveiling Galactic Dynamics
+Recent findings from the James Webb Space Telescope (JWST) have significantly advanced our understanding of galactic dynamics, particularly regarding gas outflows from galaxies previously thought to be "dead." These observations challenge long-held assumptions about star formation processes and the influence of supermassive black holes on their environments. The implications of these discoveries could reshape theories surrounding galaxy evolution and the lifecycle of stars.
 
-#### Advancements in Earth Observation Technology
-The dual launch of the FLEX and Sentinel-3C satellites represents a significant leap in Earth observation technology. FLEX is engineered to detect the faint fluorescence from plants during photosynthesis, offering critical data for assessing plant health and environmental conditions. Meanwhile, Sentinel-3C enhances monitoring capabilities across oceans, land, and the atmosphere, providing timely data that can inform weather forecasts and climate research. These advancements underscore the growing importance of satellite technology in understanding and addressing climate change.
+Key items illustrating this theme include:
+1. **Webb measures extreme gas outflows from distant 'dead' galaxies** - https://phys.org/news/2026-09-webb-extreme-gas-outflows-distant.html - JWST captures the most powerful outflow recorded, which may not permanently inhibit star formation.
+2. **Supermassive black hole winds are 100 times more powerful than scientists thought** - https://www.sciencedaily.com/releases/2026/09/260914102429.htm - XRISM observations reveal that black hole winds extend far beyond their host galaxies, significantly impacting galactic environments.
 
-#### Cosmic Chemistry in Extreme Environments
-New findings have overturned previous assumptions regarding the formation of complex carbon molecules in space. Research indicates that such chemistry can initiate even in the extremely cold environments found in space, suggesting that the building blocks of life may form in regions previously thought to be too frigid for such processes. This has profound implications for theories regarding the origins of life, indicating that life’s precursors could exist in the cold, dark expanses of the universe.
+#### Insights into Stellar Evolution
+Astronomers are gaining unprecedented insights into stellar evolution, with real-time observations of a rapidly evolving star entering a new phase of its lifecycle. This opportunity to study stellar transformation enhances our understanding of the processes that govern star life and death, providing valuable data for future research.
+
+Key items illustrating this theme include:
+1. **'Born-again' star offers rare chance to watch stellar evolution in real time** - https://phys.org/news/2026-09-born-star-rare-chance-stellar.html - This rapidly changing star's evolution allows for unprecedented observational studies.
+2. **Webb reveals stunning panorama of star formation** - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation - JWST captures new brown dwarfs, expanding the known mass range and offering insights into star formation processes.
+
+#### Innovations in Space Exploration Technology
+Technological advancements are propelling the future of space exploration, with significant developments such as the Nancy Grace Roman Space Telescope's extended operational lifespan and SpaceX's preparations for the Starship rocket's first orbital flight. These innovations will enhance our ability to conduct astronomical surveys and explore beyond Earth.
+
+Key items illustrating this theme include:
+1. **22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn** - https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn - Extended mission duration will allow for more extensive astronomical surveys.
+2. **SpaceX prepares for first orbital flight of Starship rocket** - https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html - This launch represents a critical step towards ambitious interplanetary missions.
 
 ### Conclusion
-The current landscape of astrophysics and space exploration is marked by a deeper understanding of the interactions between cosmic structures and the development of advanced observational technologies. Insights into the role of black holes in star formation, breakthroughs in Earth observation, and new perspectives on cosmic chemistry are shaping our comprehension of both the universe and our planet. These findings not only enrich scientific inquiry but also enhance our capability to monitor and respond to environmental challenges.
+The current landscape of astrophysics is characterized by significant technological advancements and a deeper understanding of cosmic phenomena. Observational breakthroughs from the JWST and ongoing missions like the Roman Space Telescope are reshaping our comprehension of galaxy dynamics and stellar evolution. Meanwhile, innovations in space exploration technology signal a promising future for interplanetary travel and research. The field is undergoing a transformative phase, marked by both groundbreaking discoveries and the potential for future exploration.
 
-### Top Sources:
-1. A famous galaxy's black hole has been hiding its most violent behavior - https://phys.org/news/2026-09-famous-galaxy-black-hole-violent.html - Astronomers reveal new insights into the outflows of a black hole in NGC 1068.
-2. Active black holes reveal star-forming rings and shock waves in nine nearby galaxies - https://phys.org/news/2026-09-black-holes-reveal-star-nearby.html - Study shows black holes may contribute to star formation in their host galaxies.
-3. FLEX and Sentinel-3C launched - https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched - Launch of two satellites enhances Earth observation capabilities.
-4. Series of reactions reveals how complex carbon chemistry can begin in frigid space - https://phys.org/news/2026-09-series-reactions-reveals-complex-carbon.html - New findings on carbon chemistry challenge previous assumptions about the conditions needed for molecule formation.
-5. Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video) - https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites - Highlights from the launch of FLEX and Sentinel-3C.
-6. Dense galaxies are carving out a bubble in the early universe - https://phys.org/news/2026-09-dense-galaxies-early-universe.html - JWST observations reveal new structures in the early universe.
-7. Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it - https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it - Insights into the formation of interstellar comets.
-8. How the 2024 solar superstorm drained Earth's radiation belt - https://phys.org/news/2026-09-solar-superstorm-earth-belt.html - Analysis of a significant geomagnetic storm's impact on Earth's environment.
-9. Physicists zoom into the birth of cosmic rainstorms with new CERN study - https://phys.org/news/2026-09-physicists-birth-cosmic-rainstorms-cern.html - New research explores the origins of cosmic rays and their effects on Earth.
-10. Could the clues to ancient alien civilizations be hiding in moon dust? - https://phys.org/news/2026-09-clues-ancient-alien-civilizations-moon.html - Discussion on the potential for finding evidence of past extraterrestrial life in lunar material.
+### Top Sources
+1. Webb measures extreme gas outflows from distant 'dead' galaxies - https://phys.org/news/2026-09-webb-extreme-gas-outflows-distant.html - JWST captures the most powerful outflow recorded, which may not permanently inhibit star formation.
+2. Supermassive black hole winds are 100 times more powerful than scientists thought - https://www.sciencedaily.com/releases/2026/09/260914102429.htm - XRISM observations reveal that black hole winds extend far beyond their host galaxies, significantly impacting galactic environments.
+3. 'Born-again' star offers rare chance to watch stellar evolution in real time - https://phys.org/news/2026-09-born-star-rare-chance-stellar.html - This rapidly changing star's evolution allows for unprecedented observational studies.
+4. Webb reveals stunning panorama of star formation - https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation - JWST captures new brown dwarfs, expanding the known mass range and offering insights into star formation processes.
+5. 22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn - https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn - Extended mission duration will allow for more extensive astronomical surveys.
+6. SpaceX prepares for first orbital flight of Starship rocket - https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html - This launch represents a critical step towards ambitious interplanetary missions.
+7. A world 20 light-years away reveals surprisingly organized, Jupiter-like weather - https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html - New methods reveal structured weather patterns on distant brown dwarfs.
+8. CubeSat instrument extends solar storm warnings 10x - https://phys.org/news/2026-09-cubesat-instrument-solar-storm-10x.html - Enhanced solar storm prediction capabilities improve space weather monitoring.
+9. Making rocket fuel out of Mars' thin air: New breakthrough could make it happen - https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen - This innovation could support future Mars missions by utilizing local resources.
+10. Laser altimeter BELA ready to explore Mercury's surface - https://phys.org/news/2026-09-laser-altimeter-bela-ready-explore.html - BepiColombo mission prepares for detailed study of Mercury's geology.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-2nd-classified-mission-for-us-space-force-in-less-than-a-week-tonight-watch-it-live' target='_blank'>SpaceX launching 2nd classified mission for US Space Force in less than a week tonight: Watch it live</a></strong> — <em>2026-09-15 12:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-09-webb-extreme-gas-outflows-distant.html' target='_blank'>Webb measures extreme gas outflows from distant 'dead' galaxies</a></strong> — <em>2026-09-16 12:10:06</em></summary>
 
-SpaceX will launch its second classified mission for the U.S. Space Force in less than a week tonight (Sept. 15), and you can watch the action live.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-famous-galaxy-black-hole-violent.html' target='_blank'>A famous galaxy's black hole has been hiding its most violent behavior</a></strong> — <em>2026-09-15 11:20:01</em></summary>
-
-Astronomers have found that a nearby galaxy's black hole is blasting out a far more powerful and hidden gas outflow than previously realized. Studying NGC 1068, a well-known galaxy with an actively feeding black hole at its center, researchers combined new infrared observations with existing data to map how the black hole's energy is reshaping the surrounding gas. The results are reported in a paper published Aug. 6 in Astronomy & Astrophysics.
+Astronomers using the James Webb Space Telescope have measured the most powerful gas outflow ever recorded from a "dead" galaxy outside our cosmic neighborhood and found that even outflows this extreme may not be enough to permanently shut down star formation.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-clues-ancient-alien-civilizations-moon.html' target='_blank'>Could the clues to ancient alien civilizations be hiding in moon dust?</a></strong> — <em>2026-09-15 10:20:01</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/where-will-the-us-space-academy-be-based-nasa-wants-class-to-start-by-2028' target='_blank'>Where will the US Space Academy be based? NASA wants class to start by 2028</a></strong> — <em>2026-09-16 12:00:00</em></summary>
 
-Most of our experience with the Search for Extraterrestrial Intelligence (SETI) has focused on capturing radio signals that alien species have sent out, whether intentionally or unintentionally. That creates a huge "synchronicity" problem—what if there aren't any alien civilizations broadcasting radio signals now, but there were a billion years ago? The Milky Way is around 13 billion years old—hoping that we exist at the same time as an alien civilization that happens to be actively messaging is a huge leap of faith.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon' target='_blank'>'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon</a></strong> — <em>2026-09-15 10:00:00</em></summary>
-
-Former NASA astronaut and Artemis II pilot Victor Glover is stepping away from his space agency duties to take on a new role —  executive advisor to the president of Cal Poly University.
+The hunt is on for a state to host the newly announced U.S. Space Academy. Groundbreaking for the new institution, wherever it ends up being, is targeted for 2027.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights' target='_blank'>FLEX and Sentinel-3C launch highlights</a></strong> — <em>2026-09-15 07:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station' target='_blank'>Russia launching 3 tons of cargo to the space station today: Watch it live</a></strong> — <em>2026-09-16 10:00:00</em></summary>
 
-
-	Video: 
-			00:03:22
-				ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).  FLEX is designed to reveal a phenomenon invisible to the human eye: the faint fluorescence emitted by plants as they photosynthesise. Equipped with a Fluorescence Imaging Spectrometer, FLEX will detect and measure this incredibly weak signal from orbit. Because the fluorescence varies with plant health and environmental conditions, the measurements will provide scientists with new information about photosynthetic activity and vegetation stress on a global scale. Sentinel-3C is the third in the Sentinel-3 series.  Carrying a suite of cutting-edge instruments, Copernicus Sentinel-3C will continue the mission’s task of measuring systematically Earth’s oceans, land, ice and atmosphere to monitor and understand large-scale global dynamics. The mission also provides essential information in near-real time for ocean and weather forecasting.  Europe’s Vega-C rocket can launch 2300 kg into space, such as small scientific and Earth observation spacecraft. At 35 m tall, Vega-C weighs 210 tonnes on the launch pad and reaches orbit with three solid-propellant-powered stages before the fourth liquid-propellant stage takes over for precise placement of satellites into their desired orbit around Earth. This flight was a first dual launch for Vega-C, using a secondary payload adapter called Vespa. Sentinel-3C was placed on top of Vespa inside the main fairing and once deployed the Vespa adapter opened to reveal FLEX for its injection into orbit.   
+Russia plans to launch the Progress 96 cargo mission to the International Space Station today (Sept. 16), and you can watch the action live.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched' target='_blank'>FLEX and Sentinel-3C launched</a></strong> — <em>2026-09-15 03:25:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-born-star-rare-chance-stellar.html' target='_blank'>'Born-again' star offers rare chance to watch stellar evolution in real time</a></strong> — <em>2026-09-16 09:00:09</em></summary>
 
-
-The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-dense-galaxies-early-universe.html' target='_blank'>Dense galaxies are carving out a bubble in the early universe</a></strong> — <em>2026-09-15 01:40:01</em></summary>
-
-When JWST's first science results started rolling in, it was a triumph for scientific vision and persistence. For years, the fate of the powerful space telescope was uncertain. It went way over budget, and for 25 years, troubling conversations accompanied its ongoing development. Several times, it seemed like it would be canceled, and in 2011, Congress came close to ending the program.
+Astronomers have confirmed that one of the fastest-changing stars ever observed has entered a new stage of its evolution, offering a rare opportunity to watch a star's life unfold on human timescales.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-plasma-fuels-thin-air.html' target='_blank'>A new design for a plasma engine fuels on only thin air</a></strong> — <em>2026-09-15 00:40:01</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet' target='_blank'>Purple swirls on the Red Planet</a></strong> — <em>2026-09-16 09:00:00</em></summary>
 
-Choosing an orbit for a satellite always comes with trade-offs. Very low Earth orbit (VLEO), between 100–450 km (62–280 miles), has distinct advantages. Remote-sensing cameras can take better pictures, communications and radar require less power, and atmospheric drag automatically cleans up dead satellites.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-black-holes-reveal-star-nearby.html' target='_blank'>Active black holes reveal star-forming rings and shock waves in nine nearby galaxies</a></strong> — <em>2026-09-14 20:20:10</em></summary>
-
-A new study of nine nearby galaxies has shown that actively growing supermassive black holes may contribute to, rather than prevent, star formation in their host galaxies.
+This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us' target='_blank'>The warmest summer on record: 2026 hit a scorching new high in the US</a></strong> — <em>2026-09-14 20:00:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet' target='_blank'>Purple swirls on the Red Planet</a></strong> — <em>2026-09-16 09:00:00</em></summary>
 
-Temperatures and precipitation are hitting new extremes.
 
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it' target='_blank'>Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it</a></strong> — <em>2026-09-14 19:00:00</em></summary>
-
-"Every one of these objects we study helps us understand a little more about how planets form around other stars."
+This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-series-reactions-reveals-complex-carbon.html' target='_blank'>Series of reactions reveals how complex carbon chemistry can begin in frigid space</a></strong> — <em>2026-09-14 18:00:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html' target='_blank'>SpaceX prepares for first orbital flight of Starship rocket</a></strong> — <em>2026-09-16 08:17:52</em></summary>
 
-Before there was Earth, there was chemistry. In the unimaginable cold, dark clouds where stars and planets are born, carbon molecules assemble into more complex forms—starting a chemical journey that could eventually deliver some of life's basic ingredients to young planets. There's only one problem: These molecules need heat to form. At least that's what scientists have long believed. But new research from FIU chemist Alexander Mebel reveals such chemistry can actually happen at temperatures nearing absolute zero, which is -460°F (-273°C).
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites' target='_blank'>Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)</a></strong> — <em>2026-09-14 18:00:00</em></summary>
-
-A Vega C rocket launched Europe's FLEX and Copernicus-3C spacecraft toward orbit from French Guiana tonight (Sept. 14).
+SpaceX announced Tuesday that it was planning to send its flagship rocket, Starship, into orbit, a key step in its project to one day reach the moon or Mars.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says' target='_blank'>The US government is 'sincere in its efforts to understand UAP', new White House council chair says</a></strong> — <em>2026-09-14 17:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-acknowledges-deployed-weapons-space.html' target='_blank'>US acknowledges for the first time that it has deployed weapons in space</a></strong> — <em>2026-09-16 08:08:20</em></summary>
 
-The recently created UAP Science Advisory Council recently gathered at a private meeting at the Office of the Director of National Intelligence.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/' target='_blank'>NASA Welcomes Djibouti as Newest Artemis Accords Signatory</a></strong> — <em>2026-09-14 16:46:07</em></summary>
-
-The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins […]
+The United States has confirmed for the first time that it has deployed weapons in space, a remarkable revelation after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-solar-superstorm-earth-belt.html' target='_blank'>How the 2024 solar superstorm drained Earth's radiation belt</a></strong> — <em>2026-09-14 16:00:12</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html' target='_blank'>A world 20 light-years away reveals surprisingly organized, Jupiter-like weather</a></strong> — <em>2026-09-16 07:00:01</em></summary>
 
-In May 2024, Earth experienced its most intense geomagnetic storm since the Halloween storms of 2003. This "superstorm" filled night skies in many parts of the world with colorful aurorae, and it disrupted some infrastructure, such as GPS signals used by agricultural equipment.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027' target='_blank'>The original 'Star Wars' is coming to IMAX for the first time ever in 2027</a></strong> — <em>2026-09-14 16:00:00</em></summary>
-
-Both the OG 'Star Wars' and 'Star Wars: Starfighter' score the ultimate cinematic treatment in 2027.
+Scientists from Trinity College Dublin have developed a way to unravel changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, SIMP 0136, previously linked to northern lights-like phenomena, is largely shaped by just two dominant processes: changes in temperature and the vertical structure of its clouds.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-physicists-birth-cosmic-rainstorms-cern.html' target='_blank'>Physicists zoom into the birth of cosmic rainstorms with new CERN study</a></strong> — <em>2026-09-14 15:00:04</em></summary>
+<details><summary><strong><a href='https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn' target='_blank'>22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn</a></strong> — <em>2026-09-15 21:24:37</em></summary>
 
-Every second, particles zip through your body at nearly the speed of light. They rain down from a storm high in the sky, where cosmic rays, a powerful type of interstellar matter, constantly strike atoms in Earth's atmosphere. The impacts break them apart into a shower of particles that rain to the ground.
-
-</details>
-
-<details><summary><strong><a href='https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed' target='_blank'>No cities on the moon — there isn't enough water, scientists say (op-ed)</a></strong> — <em>2026-09-14 15:00:00</em></summary>
-
-The discovery of water in dark craters at the moon's poles has sparked a "moon rush" to establish bases there, and then villages, cities and heavy industry. How sustainable is this rush?
+Originally planned to have a primary five-year mission followed by a five-year extended mission, the Nancy Grace Roman Space Telescope will now operate for over two decades.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026' target='_blank'>On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years</a></strong> — <em>2026-09-14 14:55:27</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html' target='_blank'>Webb reveals dynamic panorama of star formation, including smallest known brown dwarfs</a></strong> — <em>2026-09-15 21:20:01</em></summary>
 
-On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion' target='_blank'>Questions? Ask our Hera Space Companion!</a></strong> — <em>2026-09-14 14:00:00</em></summary>
-
-
-Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission accessible to everyone!
+This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA's James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range and revealing new insights about the star-formation process.
 
 </details>
 
-<details><summary><strong><a href='https://www.space.com/space-exploration/cygnus-the-swan-lifts-up-the-international-space-station-space-photo-of-the-day-for-sept-14-2026' target='_blank'>Cygnus the swan lifts up the International Space Station | Space photo of the day for Sept. 14, 2026</a></strong> — <em>2026-09-14 14:00:00</em></summary>
+<details><summary><strong><a href='https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030' target='_blank'>New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030</a></strong> — <em>2026-09-15 20:00:00</em></summary>
 
-Just a little help from its friends.
+Blizzard Entertainment is returning to StarCraft with an all-new game that's leaving the series' real-time strategy roots behind.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence' target='_blank'>US Space Force says it operates weapons in orbit: 'Our aim is deterrence'</a></strong> — <em>2026-09-15 19:54:56</em></summary>
+
+The U.S. Space Force is opening up about its operation of orbital weapons, "that can defend the joint force against space-enabled attacks."
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time' target='_blank'>SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time</a></strong> — <em>2026-09-15 18:33:25</em></summary>
+
+SpaceX is targeting Sept. 22 for Starship's first-ever orbital launch, a landmark flight that will deploy 26 Starlink satellites and last about 10 hours.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say' target='_blank'>Microscopic alien technology may be hidden in moon dust, scientists say</a></strong> — <em>2026-09-15 18:00:00</em></summary>
+
+Could we find alien technology embedded in moon dust?
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-cubesat-instrument-solar-storm-10x.html' target='_blank'>CubeSat instrument extends solar storm warnings 10x</a></strong> — <em>2026-09-15 17:20:13</em></summary>
+
+The sun is the reason life exists on our small, blue planet. It provides solar radiation that warms the planet and ignites intricate biochemical processes like photosynthesis, producing oxygen for life to breathe. However, while the sun is known for giving life, it can also take it away with solar flares, geomagnetic storms and solar radiation storms, collectively referred to as space weather.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/entertainment/space-movies-shows/captain-eo-at-40-michael-jacksons-wild-sci-fi-movie-that-you-could-only-watch-at-disney-theme-parks' target='_blank'>'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks</a></strong> — <em>2026-09-15 17:00:00</em></summary>
+
+Remember when the King of Pop joined forces with Coppola, Lucas and Disney for an inspiring 3D space musical?
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen' target='_blank'>Making rocket fuel out of Mars' thin air: New breakthrough could make it happen</a></strong> — <em>2026-09-15 16:00:00</em></summary>
+
+By making fuel on the Red Planet rather than bringing it from Earth, a Mars mission could save vital mass.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-laser-altimeter-bela-ready-explore.html' target='_blank'>Laser altimeter BELA ready to explore Mercury's surface</a></strong> — <em>2026-09-15 15:00:01</em></summary>
+
+Launched on Oct. 20, 2018, the joint ESA/JAXA BepiColombo mission has traveled for almost eight years, using a carefully planned but eventful sequence of planetary flybys and solar-electric propulsion to gradually approach its destination, Mercury. The mission is now entering the final stage of its journey to the smallest and innermost planet of our solar system.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities' target='_blank'>'The violence leaves a mark': How satellites are helping the world monitor war and atrocities</a></strong> — <em>2026-09-15 15:00:00</em></summary>
+
+A satellite's view from above fills the gaps in our understanding of the grim realities of war and makes it harder for totalitarian regimes to hide their crimes. But challenges exist.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation' target='_blank'>Webb reveals stunning panorama of star formation</a></strong> — <em>2026-09-15 14:00:00</em></summary>
+
+
+This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation' target='_blank'>Webb reveals stunning panorama of star formation</a></strong> — <em>2026-09-15 14:00:00</em></summary>
+
+
+This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026' target='_blank'>On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight</a></strong> — <em>2026-09-15 14:00:00</em></summary>
+
+On Sept. 15, 1968, the Soviet Union launched the Zond 5 spacecraft carrying tortoises and more on a mission to loop around the moon and return to Earth. Here's why it mattered.
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026' target='_blank'>Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026</a></strong> — <em>2026-09-15 14:00:00</em></summary>
+
+"Both of our workspaces this week contained features unlike quite anything we have seen in the past."
+
+</details>
+
+<details><summary><strong><a href='https://www.space.com/stargazing/international-observe-the-moon-night-2026-is-on-sept-19-heres-how-to-join-in' target='_blank'>International Observe the Moon Night 2026 is on Sept. 19: Here's how to join in</a></strong> — <em>2026-09-15 13:04:11</em></summary>
+
+International Observe the Moon Night 2026 occurs on Sept. 19 as the lunar disk is well placed for exploring its craters, mountains and ancient lava plains.
+
+</details>
+
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260914102429.htm' target='_blank'>Supermassive black hole winds are 100 times more powerful than scientists thought</a></strong> — <em>2026-09-15 12:34:32</em></summary>
+
+Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, extending far beyond the black hole’s host galaxy. The energy involved rivals several billion supernova explosions, revealing just how dramatically black holes can influence the space around them.
 
 </details>
 
