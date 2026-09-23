@@ -1,121 +1,122 @@
 # Astro Daily Summary
 
-    ### Recent Developments in Astrophysics
+    ### Major Themes in Recent Astrophysics Developments
 
-#### Cosmic Rays and Pulsar Discoveries
-Recent findings have significantly advanced our understanding of cosmic rays, particularly their origins. A collaboration between China's Einstein Probe satellite and the Large High Altitude Air Shower Observatory (LHAASO) has identified a 42-light-year-long X-ray tail linked to a pulsar approximately 4,600 light-years away. This tail coincides with ultrahigh-energy gamma rays detected by LHAASO, suggesting that pulsars may play a crucial role in the acceleration of cosmic rays. This revelation could redefine our understanding of cosmic ray sources and their propagation mechanisms.
+#### Advancements in Planetary Defense
+Recent developments in planetary defense highlight a growing international commitment to safeguarding Earth from potential asteroid threats. The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have successfully activated their Ramses spacecraft, a pivotal step in a mission focused on detecting and possibly deflecting hazardous asteroids. Concurrently, ESA's Hera mission is set to arrive at the Dimorphos asteroid this November, promising to provide crucial data on asteroid dynamics and their implications for planetary defense strategies.
 
-#### Insights from Mars Exploration
-NASA's Perseverance rover has provided new insights into the Jezero Crater, revealing evidence of at least three distinct episodes of water presence. The discovery of clay and silt-rich rocks, along with carbonate minerals, suggests that this region may have once harbored conditions suitable for microbial life. These findings enhance our understanding of Martian geology and underscore the importance of water in Mars' evolutionary history, which is vital for ongoing and future astrobiological research.
+Key Items:
+1. First switch on for ESA-JAXA Ramses asteroid mission - https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission - ESA and JAXA's Ramses spacecraft activated, marking a key milestone in planetary defense.
+2. A hitchhiker’s guide to Hera’s target asteroids - https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids - Insights into what the Hera mission will encounter at Dimorphos.
 
-#### Advancements in Spacecraft Technology
-Innovative advancements in spacecraft technology have been demonstrated by students at Cornell University, who successfully deployed light sails from CubeSats. These sails utilize photon momentum for propulsion, marking a significant step forward in lightweight spacecraft design. This technology could enable more efficient and smaller missions, potentially revolutionizing future exploration efforts in low Earth orbit and beyond.
+#### Understanding Stellar Evolution and Early Galaxies
+A comprehensive survey using the Hubble Space Telescope has produced the largest dataset of massive stars in early galaxies, significantly enhancing our understanding of stellar evolution. This research reveals that these ancient massive stars exhibit distinct characteristics compared to their Milky Way counterparts, which could explain the unexpected traits of early galaxies. Such insights are critical for unraveling the processes that governed galaxy formation and evolution during the universe's infancy.
 
-#### Black Hole Research Breakthroughs
-Recent studies have revealed a universal behavior among black holes concerning their jet emissions. Observations indicate that both supermassive and smaller black holes activate jets when their feeding rates drop to about 2% of the Eddington limit. This finding suggests a common underlying mechanism for jet production across different black hole scales, which could unify our understanding of black hole dynamics and their influence on galaxy evolution.
+Key Items:
+1. Largest dataset of its kind could clarify how massive stars shaped early galaxies - https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html - Hubble survey reveals new insights into early galaxies and their massive stars.
+
+#### Breakthroughs in Exoplanet Research
+Astronomers have made a groundbreaking discovery by detecting radio signals from the exoplanet β Pictoris b, marking a significant advancement in exoplanetary science. This detection not only establishes a new observational technique but also enhances our understanding of the atmospheres and magnetic fields of distant worlds. The ability to study exoplanets through radio emissions could transform our approach to understanding planetary systems beyond our solar system.
+
+Key Items:
+1. Astronomers detect radio signals coming from an exoplanet for the first time - https://phys.org/news/2026-09-astronomers-radio-exoplanet.html - Detection of radio signals from β Pictoris b opens new avenues in exoplanet research.
+
+#### Insights into Cosmic Phenomena
+The Large Hadron Collider (LHC) has provided new insights by ruling out additional locations for the existence of microscopic quantum black holes, refining the theoretical landscape of quantum gravity. Additionally, the identification of the Milky Way's first microblazar, a powerful particle accelerator, underscores the dynamic processes within our galaxy and their implications for high-energy astrophysics.
+
+Key Items:
+1. The LHC just ruled out another hiding place for quantum black holes - https://www.sciencedaily.com/releases/2026/09/260922005649.htm - New data from the LHC narrows the search for quantum black holes.
+2. Milky Way's first microblazar may produce fastest particles in the galaxy - https://phys.org/news/2026-09-milky-microblazar-fastest-particles-galaxy.html - Discovery of a microblazar enhances understanding of cosmic particle acceleration.
 
 ### Conclusion
-The current landscape of astrophysics is characterized by significant breakthroughs that enhance our understanding of cosmic phenomena, from pulsars and black holes to the geological history of Mars. These advancements not only deepen our knowledge of the universe but also pave the way for innovative technologies that will facilitate future exploration. As researchers continue to explore these cosmic mysteries, the potential for transformative discoveries remains substantial.
+The current trajectory of astrophysics is characterized by significant technological advancements and discoveries that deepen our understanding of planetary defense, stellar evolution, and cosmic phenomena. As missions like Ramses and Hera advance and new observational techniques emerge, the field is on the cusp of transformative insights that promise to reshape our understanding of the universe.
 
 ### Top Sources:
-1. A call to boost European space exploration - https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration - ESA outlines a vision for enhancing Europe's role in space exploration.
-2. A 42-light-year X-ray tail links a pulsar to previously 'orphan' gamma rays - https://phys.org/news/2026-09-year-ray-tail-links-pulsar.html - New observations connect high-energy cosmic rays to pulsar activity.
-3. Jupiter uses a surprisingly complex system to fend off particles from the sun - https://phys.org/news/2026-09-jupiter-complex-fend-particles-sun.html - Juno mission reveals key differences in Jupiter's bow shock.
-4. Student-led missions deploy free-flying light sails from CubeSats in low Earth orbit - https://phys.org/news/2026-09-student-missions-deploy-free-flying.html - Innovative light-sail experiments demonstrate new spacecraft technology.
-5. Early Mars rocks reveal at least three separate water episodes - https://phys.org/news/2026-09-early-mars-reveal-episodes.html - Perseverance rover finds evidence of past water environments on Mars.
-6. Solar Orbiter catches the sun's missing high-speed vibrations - https://phys.org/news/2026-09-solar-orbiter-sun-high-vibrations.html - New findings on solar wind dynamics from the Solar Orbiter.
-7. Superdense neutron star caught feeding on a blue hypergiant's stellar wind - https://phys.org/news/2026-09-superdense-neutron-star-caught-blue.html - Observations reveal interactions between a neutron star and a massive star's outflow.
-8. Researchers measure the environment where the first supermassive black holes formed - https://phys.org/news/2026-09-environment-supermassive-black-holes.html - JWST data sheds light on early supermassive black hole formation.
-9. Black holes of every size follow the same surprising rule - https://www.sciencedaily.com/releases/2026/09/260920222358.htm - Evidence suggests a universal mechanism for black hole jet emissions.
-10. Juice to fly past Earth for third gravity assist - https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist - ESA's Juice spacecraft prepares for a crucial maneuver en route to Jupiter.
+1. First switch on for ESA-JAXA Ramses asteroid mission - https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission - ESA and JAXA's Ramses spacecraft activated, marking a key milestone in planetary defense.
+2. A hitchhiker’s guide to Hera’s target asteroids - https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids - Insights into what the Hera mission will encounter at Dimorphos.
+3. The LHC just ruled out another hiding place for quantum black holes - https://www.sciencedaily.com/releases/2026/09/260922005649.htm - New data from the LHC narrows the search for quantum black holes.
+4. Largest dataset of its kind could clarify how massive stars shaped early galaxies - https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html - Hubble survey reveals new insights into early galaxies and their massive stars.
+5. Astronomers detect radio signals coming from an exoplanet for the first time - https://phys.org/news/2026-09-astronomers-radio-exoplanet.html - Detection of radio signals from β Pictoris b opens new avenues in exoplanet research.
+6. Milky Way's first microblazar may produce fastest particles in the galaxy - https://phys.org/news/2026-09-milky-microblazar-fastest-particles-galaxy.html - Discovery of a microblazar enhances understanding of cosmic particle acceleration.
+7. The Solar System chose fire over ice from the very beginning - https://www.sciencedaily.com/releases/2026/09/260921081052.htm - Ancient meteorites reveal insights into the early solar system's formation processes.
+8. Earth's chorus waves show limited link to rapid electron loss from radiation belts - https://phys.org/news/2026-09-earth-chorus-limited-link-rapid.html - Study on Earth's radiation belts and their implications for space weather.
+9. 3I/ATLAS has an extreme taste for heavy water - https://phys.org/news/2026-09-3iatlas-extreme-heavy.html - Analysis of interstellar object 3I/ATLAS reveals isotopic discrepancies linked to its origin.
+10. Is a nearby advanced alien civilization out there waiting to pounce on Earth? Unlikely, says new study - https://phys.org/news/2026-09-nearby-advanced-alien-civilization-pounce.html - Study challenges the notion of advanced extraterrestrial civilizations.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration' target='_blank'>A call to boost European space exploration</a></strong> — <em>2026-09-22 11:26:00</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission' target='_blank'>First switch on for ESA-JAXA Ramses asteroid mission</a></strong> — <em>2026-09-23 11:17:00</em></summary>
 
 
-The Call sets out a shared vision for strengthening Europe's role in human and robotic space exploration and provides political guidance for preparations ahead of the Intermediate Ministerial Meeting in Rome on 15 December.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-year-ray-tail-links-pulsar.html' target='_blank'>A 42-light-year X-ray tail links a pulsar to previously 'orphan' gamma rays</a></strong> — <em>2026-09-22 07:57:28</em></summary>
-
-Understanding the origin, acceleration and propagation of high-energy cosmic rays has been a century-old mystery in astrophysics. Recently, joint observations from China's Einstein Probe (EP) satellite and the Large High Altitude Air Shower Observatory (LHAASO) showed an extraordinarily long X-ray tail near a pulsar about 4,600 light-years (27 quadrillion miles) from Earth—one that had never before been seen in full. The tail extends about 42 light-years (250 trillion miles) and stretches in the same direction as ultrahigh-energy gamma-ray emission detected by LHAASO, with the two showing a close spatial match.
+The European Space Agency’s and Japan Aerospace Exploration Agency’s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor – marking a major milestone in its time-critical development schedule.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-jupiter-complex-fend-particles-sun.html' target='_blank'>Jupiter uses a surprisingly complex system to fend off particles from the sun</a></strong> — <em>2026-09-21 22:40:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html' target='_blank'>UK to launch new military space squadron to protect satellites</a></strong> — <em>2026-09-23 09:20:02</em></summary>
 
-A University of Iowa-led research team has reported in a new study the most detailed observations to date of the bow shock at Jupiter, our solar system's gas giant. The findings from NASA's Juno mission reveal key differences between Jupiter's bow shock and Earth's. They also may lead to a better understanding of the physics of how shocks function in even more powerful energy releases, such as those from dying stars. The research is published in Nature Communications.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-student-missions-deploy-free-flying.html' target='_blank'>Student-led missions deploy free-flying light sails from CubeSats in low Earth orbit</a></strong> — <em>2026-09-21 21:10:02</em></summary>
-
-Students in Cornell's Space Systems Design Studio (SSDS) have released mission results for two unique light-sail experiments. These sails are slightly larger than a pizza box and harness momentum from photons to accelerate to high velocities. With ChipSats onboard—gram-scale spacecraft that fit in the palm of your hand—the sails can become free-flyers. They origami-fold into CubeSats for launch and completely separate when deployed, allowing them to be far smaller and lighter than traditional solar sails. The ChipSats provide all ground communications and steering capabilities for a fraction of the mass and cost.
+Britain announced Wednesday that it will launch a new military space squadron to defend the country's satellites, the latest move as countries race to develop military space capabilities.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-early-mars-reveal-episodes.html' target='_blank'>Early Mars rocks reveal at least three separate water episodes</a></strong> — <em>2026-09-21 20:30:01</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids' target='_blank'>A hitchhiker’s guide to Hera’s target asteroids</a></strong> — <em>2026-09-23 08:10:00</em></summary>
 
-When NASA's Perseverance rover reached the inner edge of Mars' Jezero Crater in September 2023, mission scientists were surprised by what they found. The geologic area, called the "Margin Unit," stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top of each other over millennia. Composed of clay and silt, sedimentary rocks on Earth are good at preserving past microbial life. The scientists were especially intrigued by strong signals of carbonate minerals detected by Mars orbiters. On Earth, carbonates frequently form in shallow ocean and lake environments capable of supporting life.
 
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-earth-center-mass-drifts-thought.html' target='_blank'>Earth's center of mass drifts less than we thought</a></strong> — <em>2026-09-21 19:40:06</em></summary>
-
-Where is Earth's center of mass? The answer seems trivially obvious. It's right in the middle of the planet. Ah, but that kind of thinking won't get you a paper in the Geophysical Journal International. It's also not a trivial question. Knowing Earth's center of mass to within millimeters reveals some interesting facts about our planet.
+Currently speeding through deep space at 12 km/s relative to Earth, ESA’s Hera spacecraft is due to reach its target Dimorphos asteroid this November. But if an astronaut were magically teleported onto the small-car-sized Hera upon arrival, what would they be seeing, and what would it feel like to walk on the asteroid’s surface?
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-solar-orbiter-sun-high-vibrations.html' target='_blank'>Solar Orbiter catches the sun's missing high-speed vibrations</a></strong> — <em>2026-09-21 19:00:04</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260922005649.htm' target='_blank'>The LHC just ruled out another hiding place for quantum black holes</a></strong> — <em>2026-09-23 03:32:54</em></summary>
 
-The sun's magnetic fields are a twisty, curvy, ever-changing mess. In particular, our star's polar regions host areas called polar coronal holes, which contain invisible magnetic highways that stretch into interplanetary space. But there's a lot we don't know about how those highways actually work, particularly how they give the particles that form the fast solar wind an extra "kick" that sends them zooming at hundreds of kilometers per second.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-superdense-neutron-star-caught-blue.html' target='_blank'>Superdense neutron star caught feeding on a blue hypergiant's stellar wind</a></strong> — <em>2026-09-21 16:20:01</em></summary>
-
-Using data from the Japan–led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star's outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA's exploration of the extreme universe to better understand how the cosmos works.
+Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gravity much stronger at extremely tiny scales, potentially offering clues toward the long-sought theory of quantum gravity.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-rebellious-exoplanet-orbits-star.html' target='_blank'>A 'rebellious' exoplanet orbits in the opposite direction of its star</a></strong> — <em>2026-09-21 15:00:01</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260921081052.htm' target='_blank'>The Solar System chose fire over ice from the very beginning</a></strong> — <em>2026-09-23 03:06:29</em></summary>
 
-A star and its planets form when a cloud of gas and dust collapses in on itself somewhere in space. The cloud then forms a disk around the nascent star, within which the planets will form. This protostar and its disk then rotate in the same direction.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-red-planet-purple-side.html' target='_blank'>The Red Planet has a purple side</a></strong> — <em>2026-09-21 14:00:03</em></summary>
-
-Oxidized iron dominates the Martian color palette. The dusty reds, ochers, browns and tans give the planet its nickname: the Red Planet. But new images of Mars' south polar region show something different. Swirls of pink, purple and red highlight the region and a feature named Thyles Rupes, an icy crag with cliffs higher than 1 km (0.6 miles). Rupes means cliff in Latin, while Thyles is a mythical northern land spoken of in the ancient world.
+Ancient iron meteorites reveal that some of the Solar System’s first solid bodies were built mostly from tiny heat-forged rock beads called chondrules, while water-rich dust was largely excluded. The finding pushes this selective planet-building process back to within the Solar System’s first million years.
 
 </details>
 
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist' target='_blank'>Juice to fly past Earth for third gravity assist</a></strong> — <em>2026-09-21 14:00:00</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-nearby-advanced-alien-civilization-pounce.html' target='_blank'>Is a nearby advanced alien civilization out there waiting to pounce on Earth? Unlikely, says new study</a></strong> — <em>2026-09-22 20:00:04</em></summary>
 
-
-The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist' target='_blank'>Juice to fly past Earth for third gravity assist</a></strong> — <em>2026-09-21 14:00:00</em></summary>
-
-
-The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.
+Science fiction suggests that life on other planets, if it exists, is likely far more advanced than life on Earth. A recent study suggests otherwise.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-environment-supermassive-black-holes.html' target='_blank'>Researchers measure the environment where the first supermassive black holes formed</a></strong> — <em>2026-09-21 13:40:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-earth-chorus-limited-link-rapid.html' target='_blank'>Earth's chorus waves show limited link to rapid electron loss from radiation belts</a></strong> — <em>2026-09-22 19:00:01</em></summary>
 
-When the James Webb Space Telescope pointed its powerful instruments toward the early universe, scientists were surprised by what it found. At high-redshift (z) values, corresponding to less than 1 billion years after the Big Bang, astronomers witnessed an abundance of galaxies that hosted what appeared to be the "seeds" of supermassive black holes (SMBHs).
+The Van Allen radiation belts are huge, doughnut-shaped regions of highly energetic charged particles trapped by Earth's magnetosphere. These charged particles play a major role in space weather, so studying them is important for predicting and managing risks to satellites, astronauts, power grids and other infrastructure.
 
 </details>
 
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260920222358.htm' target='_blank'>Black holes of every size follow the same surprising rule</a></strong> — <em>2026-09-21 13:23:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html' target='_blank'>Largest dataset of its kind could clarify how massive stars shaped early galaxies</a></strong> — <em>2026-09-22 18:00:05</em></summary>
 
-Scientists have found evidence that black holes of vastly different sizes may launch powerful jets according to the same universal rule. Supermassive black holes can produce jets soon after tearing apart a star, then fire up again hundreds or thousands of days later when their feeding rate drops to about 2% of the Eddington limit. That same threshold is known to trigger jets from much smaller black holes in the Milky Way.
+The more astronomers learn about the universe's earliest galaxies, the stranger they seem. Many of their surprising properties may be explained by differences between their massive stars and those in galaxies like our own Milky Way. A new University of Utah-led survey with the Hubble Space Telescope is shedding light on the stellar astrophysics operating in early galaxies.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-astronomers-radio-exoplanet.html' target='_blank'>Astronomers detect radio signals coming from an exoplanet for the first time</a></strong> — <em>2026-09-22 16:40:07</em></summary>
+
+Exoplanets are exotic worlds orbiting distant stars far beyond our solar system. Ever since the first ones were discovered in the 1990s, astronomers have turned their attention to these distant worlds to understand more about them. Now, for the first time, scientists have detected radio signals coming directly from one of these planets, a massive gas giant named β Pictoris b.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-3iatlas-extreme-heavy.html' target='_blank'>3I/ATLAS has an extreme taste for heavy water</a></strong> — <em>2026-09-22 16:00:01</em></summary>
+
+More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the world's most powerful observatories when it was discovered in July 2025, and some of those telescopes found something peculiar—the isotopes it contained appeared different. A new paper submitted to The Astrophysical Journal Letters (and available as a preprint on arXiv) by Kenji Furuya of the RIKEN Pioneering Research Institute in Japan and his co-authors shows that the isotopic discrepancy is likely due to the "low metallicity" of the stellar nursery in which 3I/ATLAS was born.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-milky-microblazar-fastest-particles-galaxy.html' target='_blank'>Milky Way's first microblazar may produce fastest particles in the galaxy</a></strong> — <em>2026-09-22 15:40:01</em></summary>
+
+An international team of astronomers from ASTRON, JIVE, the University of Amsterdam and other institutions has found the first so-called "microblazar" in the Milky Way. This stellar system is composed of a massive star and a black hole with a jet that is pointed toward Earth. The researchers also identified the region where the jet hits a molecular cloud as a place where particles are accelerated to ultra-high energies, likely up to petaelectronvolts. This would make microblazars one of the most powerful particle accelerators in the galaxy. The research was appears in Astronomy & Astrophysics.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-tilt-earth-axis-apparent-position.html' target='_blank'>The tilt in Earth's axis makes the apparent position of continents shift with the seasons</a></strong> — <em>2026-09-22 15:20:02</em></summary>
+
+Most kids learn in elementary school that the seasons are caused by Earth rotating on a tilted axis during its yearly orbit around the sun. The substantial tilt, about 23.5 degrees, is thought to be the result of an ancient planetary body, Theia, smashing into Earth about 4.5 billion years ago, in the same cataclysmic collision that formed the moon.
 
 </details>
 
