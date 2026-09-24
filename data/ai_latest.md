@@ -2,145 +2,124 @@
 
     ### Major Themes in Recent AI Developments
 
-#### Advancements in Language Models
-Recent breakthroughs in language models (LLMs) emphasize enhancements in efficiency and practical applications. OpenAI's launch of GPT-6 Sol and Luna on Amazon Bedrock introduces specialized models designed for diverse workloads, improving both performance and cost-effectiveness. The incorporation of an advanced prompt caching mechanism further optimizes response times, reflecting a trend toward making LLMs more accessible for real-world tasks. These developments suggest a shift towards operational efficiency in AI applications.
+#### 1. Visual AI in Urban Analytics
+Recent innovations in visual AI are making significant contributions to urban studies, blending technology with social science insights. MIT's Senseable City Lab has released findings in their new book, "How AI Sees the City," which discusses both the potential benefits of using visual AI to analyze urban environments and the ethical dilemmas surrounding privacy and surveillance. This work highlights the growing intersection of AI and societal issues, emphasizing the importance of ethical frameworks in AI deployment.
 
 Key Items:
-1. Better prompt caching for GPT-6 - https://openai.com/index/better-prompt-caching-for-gpt-6 - Enhancements lead to higher cache hit rates and reduced costs.
-2. Bring more intelligence to everyday work with GPT-6 Sol and Luna on Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/ - New models tailored for specific workloads are now available.
-3. Claude Opus 5.5 is now available on AWS - https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/ - Anthropic’s latest model enhances capabilities for coding and knowledge tasks.
+- MIT's Senseable City Lab explores visual AI's role in urban research, balancing insights with ethical considerations. (Link: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924)
 
-#### Innovative Applications in Industry
-AI's application across industries is becoming increasingly transformative, with solutions that significantly improve operational efficiency. Tata Elxsi's IRIS platform utilizes real-time video analysis to swiftly identify safety risks, while Trane Technologies' AI tool reduces diagnostic workflows from 20 minutes to merely 20 seconds. Such innovations highlight AI's potential to streamline processes, reduce costs, and enhance safety in various sectors.
+#### 2. AI Advancements in Medical Imaging
+NVIDIA has unveiled NV-Reason-CT, a groundbreaking 3D vision-language model tailored for radiology. This model enhances the reasoning capabilities of radiologists by enabling a chain-of-thought approach to interpreting complex medical images. The introduction of NV-Reason-CT is poised to improve diagnostic accuracy and clinical workflows, potentially transforming patient care through advanced AI assistance.
 
 Key Items:
-1. How Tata Elxsi detects industrial safety risks in seconds on AWS - https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/ - Real-time video filtering and analysis lead to faster safety alerts.
-2. How Trane gets building insights 60x faster with Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/ - AI reduces diagnostic time dramatically, improving operational efficiency.
+- NV-Reason-CT enhances diagnostic reasoning for radiologists, marking a pivotal advancement in AI-assisted medical imaging. (Link: https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
 
-#### Revolutionizing Research with AI Agents
-The emergence of Paper2Agent represents a novel approach to academic research, allowing scholarly articles to be transformed into interactive AI agents. This innovation enables researchers to conduct analyses directly from published methods, fostering reproducibility and collaboration. By facilitating dynamic engagement with research findings, this development could significantly alter knowledge dissemination and usage in the scientific community.
+#### 3. Robotics and Remote AI Processing
+Microsoft Research has published insights on offloading AI inference from robotic systems to external servers, significantly boosting task efficiency. This method allows robots to utilize more complex computations remotely, enhancing their operational capabilities without overburdening onboard resources. Such advancements promise to improve the functionality and versatility of robots across various applications.
 
 Key Items:
-1. Why Read a Research Paper When You Can Turn It Into an AI Agent? - https://spectrum.ieee.org/paper2agent-ai-agents-research-papers - A new framework allows papers to be transformed into interactive agents for practical use.
-2. Multi-Agent Research Paper Collaboration - Demonstrates how agents can work together to explore complex research questions, enhancing interdisciplinary collaboration.
+- Microsoft’s research emphasizes the advantages of offloaded inference in robotic applications, enhancing performance in real-world tasks. (Link: https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)
+
+#### 4. Evolution of AI in Software Development
+Amazon has introduced new features for its AI coding agents, such as OpenCode, which leverage open-weight models for secure coding assistance. This development allows for more flexible and secure workflows within AWS, reflecting a trend towards integrating advanced AI capabilities into software development. The evolution of these coding assistants is set to transform how developers approach programming tasks.
+
+Key Items:
+- Amazon's OpenCode utilizes open-weight models for secure coding, showcasing a significant advancement in AI's role in software development. (Link: https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
 
 ### Conclusion
-The current landscape in AI showcases rapid advancements in language models, innovative industry applications, and transformative research methodologies. These trends indicate a movement towards more efficient, practical AI solutions that not only enhance capabilities but also foster collaboration and operational improvements across various domains. As these developments unfold, the potential for AI to reshape industries and research practices becomes increasingly evident.
+The current landscape of AI research is marked by a convergence of technological advancements across diverse fields, including urban studies, healthcare, robotics, and software development. These innovations not only enhance the functional capabilities of AI systems but also raise critical ethical questions and practical challenges. As the focus on responsible AI deployment intensifies, researchers and practitioners are increasingly called to consider the broader implications of their work, ensuring that advancements serve to benefit society as a whole.
 
 ### Top Sources:
-1. Better prompt caching for GPT-6 - https://openai.com/index/better-prompt-caching-for-gpt-6 - Enhancements lead to higher cache hit rates and reduced costs.
-2. Bring more intelligence to everyday work with GPT-6 Sol and Luna on Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/ - New models tailored for specific workloads are now available.
-3. Claude Opus 5.5 is now available on AWS - https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/ - Anthropic’s latest model enhances capabilities for coding and knowledge tasks.
-4. How Tata Elxsi detects industrial safety risks in seconds on AWS - https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/ - Real-time video filtering and analysis lead to faster safety alerts.
-5. How Trane gets building insights 60x faster with Amazon Bedrock AgentCore - https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/ - AI reduces diagnostic time dramatically, improving operational efficiency.
-6. Why Read a Research Paper When You Can Turn It Into an AI Agent? - https://spectrum.ieee.org/paper2agent-ai-agents-research-papers - A new framework allows papers to be transformed into interactive agents for practical use.
-7. Multi-Agent Research Paper Collaboration - Demonstrates how agents can work together to explore complex research questions, enhancing interdisciplinary collaboration.
-8. Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing - https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/ - Discusses secure environments for sensitive AI inference.
-9. Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI - https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/ - A systematic approach to optimize AI model deployment.
-10. Topology-Aware Workload Scheduling with NVIDIA Topograph - https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/ - Innovations in GPU workload optimization for AI applications.
+1. The promise and peril of using visual AI to study cities - https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924 - MIT explores the implications of visual AI for urban research.
+2. Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning - https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/ - NVIDIA's new model enhances diagnostic reasoning in radiology.
+3. Offloaded inference for real-world physical AI robotics - https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/ - Microsoft Research discusses improving robotic efficiency through offloaded inference.
+4. Use open weight models as your AI coding agent with Amazon Bedrock - https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/ - Amazon introduces secure, flexible coding assistance with open-weight models.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense' target='_blank'>OpenAI extends cyber access to Ukraine for civilian defense</a></strong> — <em>2026-09-23 13:00:00</em></summary>
+    <details><summary><strong><a href='https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924' target='_blank'>The promise and peril of using visual AI to study cities</a></strong> — <em>2026-09-24 04:00:00</em></summary>
+
+In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/' target='_blank'>Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning</a></strong> — <em>2026-09-23 22:54:56</em></summary>
+
+Radiology AI has made remarkable strides in detecting abnormalities across chest X-rays, pathology slides, and 2D scans. Yet one of the most clinically rich and...
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/' target='_blank'>Validate GPU Cluster Readiness Before AI Workloads Land</a></strong> — <em>2026-09-23 19:45:19</em></summary>
+
+A GPU cluster can pass every health check and still fail to run an AI workload. Even when every GPU, network link, and pod reports healthy, a 512-GPU training...
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/' target='_blank'>From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock</a></strong> — <em>2026-09-23 18:41:09</em></summary>
+
+HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock AgentCore. Using Model Context Protocol (MCP), HAL delivers governed knowledge inside the tools teams already use, with no AWS credentials on the client and security anchored in Microsoft Entra ID.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/' target='_blank'>Manage Kubernetes Node Fleets with NodeWright</a></strong> — <em>2026-09-23 18:25:49</em></summary>
+
+Kubernetes manages what runs on your nodes. Managing the nodes themselves is the challenge: kernel settings, system packages, storage layouts, security agents,...
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/' target='_blank'>Agentic conversational video intelligence built on AWS</a></strong> — <em>2026-09-23 18:21:54</em></summary>
+
+Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates Amazon Bedrock, Amazon Rekognition, and Amazon Transcribe at runtime, deciding which service to call so you can ask natural language questions about your videos and get answers in seconds.
+
+</details>
+
+<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/' target='_blank'>Use open weight models as your AI coding agent with Amazon Bedrock</a></strong> — <em>2026-09-23 18:17:44</em></summary>
+
+Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the right model to each task, and keep your data in your own AWS account with no infrastructure to manage.
+
+</details>
+
+<details><summary><strong><a href='https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/' target='_blank'>Offloaded inference for real-world physical AI robotics</a></strong> — <em>2026-09-23 16:01:36</em></summary>
+
+Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.
+The post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research.
+
+</details>
+
+<details><summary><strong><a href='https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/' target='_blank'>Advancing Private AI Compute with secure, server-side memory</a></strong> — <em>2026-09-23 16:00:57</em></summary>
+
+Introducing private, server-side memory to Private AI Compute for personal AI.
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/two-years-of-openai-academy' target='_blank'>Two years of OpenAI Academy</a></strong> — <em>2026-09-23 16:00:00</em></summary>
+
+Marking two years of OpenAI Academy and bringing AI skills to even more communities.
+
+</details>
+
+<details><summary><strong><a href='https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/' target='_blank'>How SWE-Serve Exposes the Gap Between Local Tests and Live Serving</a></strong> — <em>2026-09-23 16:00:00</em></summary>
+
+An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software...
+
+</details>
+
+<details><summary><strong><a href='https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923' target='_blank'>MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow</a></strong> — <em>2026-09-23 15:30:00</em></summary>
+
+Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.
+
+</details>
+
+<details><summary><strong><a href='https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/' target='_blank'>Gemini 3.8 text-to-speech says hello</a></strong> — <em>2026-09-23 15:25:14</em></summary>
+
+
+
+</details>
+
+<details><summary><strong><a href='https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense' target='_blank'>OpenAI extends cyber access to Ukraine for civilian defense</a></strong> — <em>2026-09-23 13:00:00</em></summary>
 
 OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/grab-openai-ai-skills-southeast-asia' target='_blank'>Grab and OpenAI bring practical AI skills to Southeast Asia</a></strong> — <em>2026-09-23 00:00:00</em></summary>
-
-OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/better-prompt-caching-for-gpt-6' target='_blank'>Better prompt caching for GPT-6</a></strong> — <em>2026-09-22 21:00:00</em></summary>
-
-Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
-
-</details>
-
-<details><summary><strong><a href='https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922' target='_blank'>Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research</a></strong> — <em>2026-09-22 19:00:00</em></summary>
-
-Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/' target='_blank'>Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock</a></strong> — <em>2026-09-22 18:10:22</em></summary>
-
-GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.
-
-</details>
-
-<details><summary><strong><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna' target='_blank'>Introducing GPT-6 Sol and Luna</a></strong> — <em>2026-09-22 18:00:00</em></summary>
-
-Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/' target='_blank'>Claude Opus 5.5 is now available on AWS</a></strong> — <em>2026-09-22 17:28:01</em></summary>
-
-Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's new in Opus 5.5, practical guidance, and how to start building with the model on Amazon Bedrock.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/' target='_blank'>Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing</a></strong> — <em>2026-09-22 17:27:41</em></summary>
-
-As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/' target='_blank'>Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore</a></strong> — <em>2026-09-22 17:18:13</em></summary>
-
-Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and instruction following with Strands Evals and Amazon Bedrock AgentCore Evaluations.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/' target='_blank'>Topology-Aware Workload Scheduling with NVIDIA Topograph</a></strong> — <em>2026-09-22 17:16:28</em></summary>
-
-AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement...
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/' target='_blank'>How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore</a></strong> — <em>2026-09-22 15:46:07</em></summary>
-
-Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/' target='_blank'>Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI</a></strong> — <em>2026-09-22 15:35:53</em></summary>
-
-Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob API, and using the results to make data-driven capacity decisions about fleet size.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/' target='_blank'>How Trane gets building insights 60x faster with Amazon Bedrock AgentCore</a></strong> — <em>2026-09-22 15:30:34</em></summary>
-
-In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a 60x improvement in time-to-insight. This post shares the architectural approach and key design decisions behind the solution.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/' target='_blank'>How Tata Elxsi detects industrial safety risks in seconds on AWS</a></strong> — <em>2026-09-22 15:19:54</em></summary>
-
-Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates detections into high-confidence alerts, detecting unsafe conditions in seconds instead of minutes.
-
-</details>
-
-<details><summary><strong><a href='https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/' target='_blank'>Extending public sector intelligence with Agentforce and AWS</a></strong> — <em>2026-09-22 15:17:45</em></summary>
-
-Public sector agencies process large volumes of unstructured evidence, such as body camera footage and scanned documents. This post shows how to combine Amazon Bedrock Data Automation with the Model Context Protocol (MCP) to turn that data into structured insights and surface them through natural language queries in Salesforce Agentforce.
-
-</details>
-
-<details><summary><strong><a href='https://spectrum.ieee.org/paper2agent-ai-agents-research-papers' target='_blank'>Why Read a Research Paper When You Can Turn It Into an AI Agent?</a></strong> — <em>2026-09-22 15:00:05</em></summary>
-
-Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken dependencies, and half-finished readme.txt?Well, now you can, more or less.Say hello to Paper2Agent, a new open-source framework that transforms academic reports into interactive AI agents you can talk to. Give it a paper, along with the accompanying codebase, data, or other supplementary material, and the system automatically extracts the core workflows, then spins up a tested, runnable toolkit that you can use on your own datasets.The concept may sound a little like Google’s NotebookLM (now called Gemini Notebook), which lets you upload documents and chat with an AI about what’s in them. But Paper2Agent aims to go a step further: Rather than simply answering questions about a paper, its agents can actually run the methods described in it—and potentially combine those methods with tools from other papers.The goal, explains Stanford computer scientist James Zou, is to change what a scientific paper fundamentally is. “Knowledge should not be static records,” Zou says. “It really should be dynamic and interactive—and this has many benefits, including making knowledge more reproducible but also enabling all sorts of new kinds of discovery.”Zou and his colleagues described the tool 16 September in Nature. They tested Paper2Agent across diverse disciplines including statistics, econometrics, and astrophysics. However, the researchers focused their proof-of-concept demonstrations on computational biology, where turning published methods into usable tools can be particularly cumbersome.From Paper to PromptThe team started with AlphaGenome, a deep-learning model that predicts how mutations in DNA affect gene regulation. (A companion resource unveiled earlier this month, the AlphaGenome Atlas, cataloged the model’s predictions for all 9 billion possible single-letter changes in the human genome.)The researchers fed Paper2Agent the corresponding documentation and code. About 45 minutes later, with no human intervention, the AI had produced 22 tools covering different aspects of AlphaGenome’s functionality, all on a personal laptop and for less than US $15 in computing costs. One tool, for example, could predict how a DNA change might affect gene activity, while others could compare those effects across tissues or analyze multiple variants at once.“The idea of making papers more dynamic and executable through an agentic interface is quite compelling.” —Dongping Chen, University of MarylandAll 22 tools passed automated validation, thanks to a testing agent working behind the scenes to run the various AlphaGenome sub-tools against reference results. If a test failed, the agent would diagnose the problem and try to fix the tool, with up to six attempts per function. If that didn’t work, it could drop the tool altogether.The validated tools were then packaged into a Model Context Protocol server and connected to Claude Code (though any compatible chat-based AI assistant could do). The result was a user-facing AlphaGenome agent that could take questions in plain English, run the appropriate analyses, and spit back results and visualizations.The team then put the agent through its paces, hitting it with a battery of questions, ranging from simple requests to open-ended research problems. According to the researchers’ analysis, it outperformed both standard Claude given the AlphaGenome codebase and a specialist AI co-scientist tool called Biomni.Multi-Agent Research Paper CollaborationGoing one step further, the researchers turned a couple of more papers into interactive agents and linked them with the AlphaGenome agent. (One of the additional papers was on how inherited DNA variants linked to autoimmune disease disrupt cell function, while the other was a more systematic exploration of how silencing every expressed gene alters immune cells.)Prompted to investigate the genetic basis of psoriasis, an itchy skin disease, the three agents collectively zeroed in on a little-understood gene called GPR137 as a likely causal factor. What’s more, the AI proposed 10 ways to validate this inference. A human researcher selected one, and the resulting analysis found that silencing GPR137 produced changes in gene activity strikingly similar to those caused by the psoriasis-linked variant in immune cells.“These agents, because they’re able to directly collaborate and communicate, can facilitate all these kinds of collaborations,” says Zou.Other researchers see plenty of potential as well. “The idea of making papers more dynamic and executable through an agentic interface is quite compelling,” says Dongping Chen, a computer scientist at the University of Maryland in College Park.“Agentification itself is a useful certificate that says, ‘This work is relatively complete and well documented.’” —James Zou, Stanford UniversityOlivier Elemento, a computational biologist who directs the Englander Institute for Precision Medicine at Weill Cornell Medicine in New York City, sees the approach as having broader implications for how researchers share their work.“It’s a real advance in terms of how we think about the publication process,” he says, “with AI at the center and in a way that makes publications more interactive.” (Elemento peer-reviewed the study for Nature.)The potential applications extend beyond the research side of academia, too. Artur Skowroński, head of application development at the Polish software company VirtusLab, noted in a blog post that Paper2Agent could help bring scientific papers to life in classrooms. For example, students could use the agent to play with methods described in the literature instead of merely reading about them.The Future of Agentified Research PapersWith Paper2Agent now up and running, Zou and his colleagues have begun turning more of their own research papers into agents. Just one day after publishing their Nature paper on Paper2Agent, they unveiled the Virtual Biotech, a multi-agent platform modeled on a drug development company.They described the system in Science and, at the same time, posted a Paper2Agent-generated incarnation of the paper.However, not every study they threw at the tool could be converted into an agent. Of the 100 computational biology papers they tried, 26 failed to make the leap to agent form, often because of incomplete code, missing documentation, or other software packages that couldn’t be made to work.But Zou sees that as a feature, not necessarily a bug. When the system gets stuck, it can expose missing information, errors in the code, or discrepancies between the paper and its implementation—problems that might otherwise go unnoticed. As Zou puts it: “Agentification itself is a useful certificate that says, ‘This work is relatively complete and well documented.’” Human scientists, Zou says, will still have the final say. But he envisions agents becoming part of what it means to publish a paper. Today, papers come with data and code availability statements. Tomorrow, he suggests, they could come with an “agent availability” statement: a virtual corresponding author available around the clock, in any language, to answer the questions that real authors never have time to field.Naturally, Zou and his colleagues decided to try the idea on their own study. They fed the Paper2Agent manuscript into Paper2Agent, creating an agent that now lives at paper2agent.ai. In other words, a paper about turning papers into agents has turned itself into an agent. The recursion, it seems, has already begun.
-
-</details>
-
-<details><summary><strong><a href='https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/' target='_blank'>What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities</a></strong> — <em>2026-09-22 13:00:00</em></summary>
-
-NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while...
 
 </details>
 
