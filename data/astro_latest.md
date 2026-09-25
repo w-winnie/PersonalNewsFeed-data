@@ -1,188 +1,127 @@
 # Astro Daily Summary
 
-    ### Summary of Recent Developments in Astrophysics
+    ### Emerging Insights into Stellar and Planetary Formation
 
-#### Insights into the Early Universe
-Recent observations from the James Webb Space Telescope (JWST) have provided groundbreaking insights into the early universe, revealing that some galaxies formed just 500 million years after the Big Bang were already enriching their environments with heavy elements. This challenges prior assumptions about the primordial composition of the universe and suggests that processes of star formation and chemical enrichment began much earlier than previously anticipated. Such findings are poised to reshape our understanding of galaxy formation and the timeline of element synthesis in the cosmos.
+Recent discoveries in astrophysics are reshaping our understanding of how stars and planets form, revealing complex interactions that challenge existing theories. A significant finding involves a white dwarf emitting a long-lasting shock wave, suggesting the presence of an unknown "mystery engine" influencing its behavior. Additionally, astronomers have made real-time observations of gas giant formation, providing critical data on the transition from protoplanetary disks to fully formed planets. These insights not only refine models of stellar evolution but also illuminate the intricate processes that govern planetary systems.
 
-Key items:
-1. JWST's findings indicate that early galaxies played a significant role in cosmic chemical evolution. - https://phys.org/news/2026-09-jwst-early-galaxies-seeding-universe.html
-2. These discoveries may necessitate revisions to existing models of galaxy formation.
+Key Items:
+1. A dead white dwarf producing a shock wave that shouldn’t exist has been reported, indicating complex stellar interactions. - https://www.sciencedaily.com/releases/2026/09/260924020410.htm
+2. Astronomers have captured an unprecedented view of gas giant formation in action, enhancing our understanding of planet evolution. - https://phys.org/news/2026-09-astronomers-capture-unprecedented-view-gas.html
+3. Ancient meteorites have revealed strong magnetic fields in the early solar system, suggesting that magnetism played a significant role in planetary formation. - https://www.sciencedaily.com/releases/2026/09/260924020355.htm
 
-#### Progress in Dark Matter Research
-A novel methodology utilizing three-dimensional wave simulations has been developed to study "fuzzy" dark matter and its effects on gravitational lensing. This innovative approach allows for more accurate predictions regarding the influence of dark matter on light from distant objects, potentially leading to new detection methods. The research enhances our theoretical framework for understanding dark matter, which remains one of the most enigmatic components of the universe.
+### New Perspectives on Cosmic Structures
 
-Key items:
-1. The new simulation framework could significantly advance our capabilities in dark matter research through gravitational lensing analysis. - https://phys.org/news/2026-09-astrophysicists-simulations-window-dark.html
-2. These findings may inform future observational strategies aimed at detecting dark matter.
+Advancements in the study of cosmic structures have led to surprising revelations about galaxies and the cosmic microwave background (CMB). Notably, the spiral galaxy Messier 74 has been found to be nearly twice its previously estimated size due to the identification of faint young stars beyond its known boundaries. Concurrently, ongoing investigations into the CMB are exploring potential twists in this ancient light, which could provide critical insights into the early universe's conditions and its subsequent evolution.
 
-#### Exoplanet Habitability and Magnetic Fields
-The Square Kilometre Array (SKA) is set to enhance our understanding of exoplanet habitability by potentially detecting magnetic fields around distant planets. Magnetic fields are critical for shielding planets from harmful stellar radiation, and this research shift could refine the criteria used to identify life-supporting conditions in other star systems. The ability to assess magnetic fields may lead to more targeted searches for habitable exoplanets.
-
-Key items:
-1. The emerging focus on magnetic fields marks a significant development in evaluating exoplanet habitability. - https://phys.org/news/2026-09-ska-magnetic-fields-distant-exoplanets.html
-2. This approach could reshape the landscape of astrobiological research.
+Key Items:
+1. The discovery of faint young stars has led to a reevaluation of Messier 74's size, suggesting a more complex structure than previously understood. - https://phys.org/news/2026-09-faint-young-stars-reveal-spiral.html
+2. New checks on the cosmic microwave background are exploring the possibility of twists in the universe's oldest light, potentially reshaping our understanding of cosmic evolution. - https://phys.org/news/2026-09-universe-oldest.html
 
 ### Conclusion
-The current trajectory in astrophysics highlights significant advancements in understanding the early universe, unraveling the complexities of dark matter, and refining the criteria for exoplanet habitability. These developments reflect a broader trend of integrating cutting-edge observational techniques with theoretical modeling, paving the way for deeper insights into cosmic phenomena and the fundamental processes that govern the universe.
 
-### Top Sources:
-1. JWST finds early galaxies were already seeding the universe with heavy elements - https://phys.org/news/2026-09-jwst-early-galaxies-seeding-universe.html - Early galaxies enriched their surroundings with heavy elements, reshaping our understanding of cosmic evolution.
-2. Astrophysicists use wave simulations to open a new window on dark matter - https://phys.org/news/2026-09-astrophysicists-simulations-window-dark.html - New simulations provide insights into the influence of fuzzy dark matter on gravitational lensing.
-3. SKA may detect magnetic fields on distant exoplanets - https://phys.org/news/2026-09-ska-magnetic-fields-distant-exoplanets.html - The detection of exoplanet magnetic fields could redefine criteria for assessing habitability.
-4. Bennu asteroid samples point to a surprising origin involving Jupiter - https://phys.org/news/2026-09-bennu-asteroid-samples-involving-jupiter.html - Analysis of asteroid samples reveals unexpected links to Jupiter's influence.
-5. NASA Selects Far-Infrared Telescope as First in New Mission Class - https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/ - A new far-infrared telescope aims to explore the universe's history and evolution.
-6. NASA's Hubble seeks lensed supernova, marks 200,000 orbits - https://phys.org/news/2026-09-nasa-hubble-lensed-supernova-orbits.html - Hubble's milestone continues to enhance our understanding of cosmic events.
-7. Earth may have gained optimal conditions for life's chemistry 4.33 billion years ago - https://phys.org/news/2026-09-earth-gained-optimal-conditions-life.html - New research suggests early Earth conditions stabilized for life's emergence.
-8. Aiming at number 9: CASPAR targets fluorine in new science run - https://phys.org/news/2026-09-aiming-caspar-fluorine-science.html - CASPAR experiment restarts to study fluorine production in stars.
-9. Exercise keeps astronauts' hearts strong enough for flight to Mars - https://phys.org/news/2026-09-astronauts-hearts-strong-flight-mars.html - Exercise during space missions is crucial for cardiovascular health.
-10. How diffractive solar sails could stop a killer asteroid at 100 km/s - https://phys.org/news/2026-09-diffractive-solar-killer-asteroid-kms.html - Innovative solar sails may provide a means to divert hazardous asteroids.
+The current trajectory of astrophysics is marked by significant breakthroughs that not only refine our understanding of stellar and planetary formation but also enhance our knowledge of cosmic structures. These developments reflect a deeper inquiry into the fundamental processes that shape the universe, suggesting an exciting period of exploration and discovery. As researchers continue to uncover these complexities, the potential implications for our understanding of cosmic evolution and planetary system formation are profound and far-reaching.
+
+Top Sources:
+1. A dead star producing a shock wave that shouldn’t exist - https://www.sciencedaily.com/releases/2026/09/260924020410.htm - A white dwarf is generating a persistent shock wave, indicating complex stellar interactions.
+2. Ancient meteorites reveal a powerful force that helped build the Solar System - https://www.sciencedaily.com/releases/2026/09/260924020355.htm - Strong early magnetic fields are shown to influence planetary formation.
+3. Astronomers capture an unprecedented view of gas giant formation in action - https://phys.org/news/2026-09-astronomers-capture-unprecedented-view-gas.html - Real-time observations of gas giant formation enhance our understanding of planet evolution.
+4. Faint young stars reveal spiral galaxy Messier 74 may be twice as large as thought - https://phys.org/news/2026-09-faint-young-stars-reveal-spiral.html - Discovery of new stellar populations prompts a reevaluation of galaxy size.
+5. Is the universe twisted? A new check on a possible twist in the universe's oldest light - https://phys.org/news/2026-09-universe-oldest.html - Investigating potential twists in the cosmic microwave background could reshape our understanding of the universe.
+6. Supernova or black hole: Neutrino 'flavor' may determine the fate of dying stars - https://phys.org/news/2026-09-supernova-black-hole-neutrino-flavor.html - Research explores the pivotal role of neutrinos in stellar death scenarios.
+7. NASA to study human health and performance during Crew-13 mission - https://phys.org/news/2026-09-nasa-human-health-crew-mission.html - Ongoing studies on spaceflight effects aim to improve astronaut health and mission success.
+8. Engineers just designed a better 'shock absorber' for spacecraft - https://phys.org/news/2026-09-absorber-spacecraft.html - Innovations in spacecraft design aim to enhance resilience during launches.
+9. Coolest lava world yet with signs of an atmosphere offers clues to early Earth - https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html - Discoveries of rocky exoplanets with atmospheres provide insights into planetary habitability.
+10. US-India satellite captures time-lapse video of volcanic eruption - https://phys.org/news/2026-09-india-satellite-captures-lapse-video.html - New satellite technology tracks volcanic activity, enhancing our understanding of geological processes.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://phys.org/news/2026-09-jwst-early-galaxies-seeding-universe.html' target='_blank'>JWST finds early galaxies were already seeding the universe with heavy elements</a></strong> — <em>2026-09-24 09:00:04</em></summary>
-
-When the universe was still in its infancy—only 500 million years after the Big Bang, or about 3% of its current age—some of the universe's earliest stars and galaxies had already formed. Astronomers have long predicted that much of the gas surrounding these young galaxies must have remained relatively pristine, composed mostly of hydrogen and helium, the primordial ingredients available in the newborn cosmos.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026' target='_blank'>Record participation in ESA’s Industry Space Days 2026</a></strong> — <em>2026-09-24 07:05:00</em></summary>
+    <details><summary><strong><a href='https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition' target='_blank'>ESA and the EU partner with Museo Galileo on new exhibition</a></strong> — <em>2026-09-25 09:00:00</em></summary>
 
 
-On 16–17 September, the European Space Agency (ESA) hosted a record 3100 visitors from Europe’s space industry for a two-day Industry Space Days (ISD) event at ESA’s ESTEC technical centre in the Netherlands. 
+The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the pioneer astronomer Galileo Galilei and Europe’s satellite navigation system Galileo.  
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/' target='_blank'>APOD: 2026 September 24 – The Ghosts of Five Supernovas</a></strong> — <em>2026-09-24 04:05:00</em></summary>
+<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon' target='_blank'>Earth from Space: Venetian Lagoon</a></strong> — <em>2026-09-25 08:00:00</em></summary>
 
-APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts […]
 
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/' target='_blank'>Cloudy Cloak Over the Northwest</a></strong> — <em>2026-09-24 04:01:00</em></summary>
-
-A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.
+	Image:
+			This image of the Venetian Lagoon in northern Italy was acquired by the IRIDE satellites on 17 May 2026.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/' target='_blank'>Cloudy Cloak Over the Northwest</a></strong> — <em>2026-09-24 04:01:00</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260924020410.htm' target='_blank'>“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist</a></strong> — <em>2026-09-25 03:19:34</em></summary>
 
-A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-astrophysicists-simulations-window-dark.html' target='_blank'>Astrophysicists use wave simulations to open a new window on dark matter</a></strong> — <em>2026-09-23 23:40:05</em></summary>
-
-Astrophysicists from The University of Hong Kong (HKU), working with a research team led by Beijing Normal University (BNU), have developed a more physically realistic approach to testing how ultralight, or "fuzzy," dark matter could influence gravitationally lensed images. The study is the first to make gravitational-lensing predictions directly from three-dimensional wave simulations of fuzzy dark matter.
+A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-bennu-asteroid-samples-involving-jupiter.html' target='_blank'>Bennu asteroid samples point to a surprising origin involving Jupiter</a></strong> — <em>2026-09-23 22:40:01</em></summary>
+<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260924020355.htm' target='_blank'>Ancient meteorites reveal a powerful force that helped build the Solar System</a></strong> — <em>2026-09-25 02:45:24</em></summary>
 
-The asteroid Bennu orbits the sun once every 1.2 years and approaches Earth every six years, passing within around 300,000 kilometers. NASA took advantage of this to collect material from the celestial body. In a spectacular operation in 2023, the US space agency collected samples from the surface of the asteroid Bennu by its OSIRIS-REx probe.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/' target='_blank'>NASA Modernizes Commercial Airline Systems</a></strong> — <em>2026-09-23 22:08:54</em></summary>
-
-NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]
+Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity to help transform a vast cloud of gas and dust into the sun and planetary disk.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-aiming-caspar-fluorine-science.html' target='_blank'>Aiming at number 9: CASPAR targets fluorine in new science run</a></strong> — <em>2026-09-23 21:40:05</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-india-satellite-captures-lapse-video.html' target='_blank'>US-India satellite captures time-lapse video of volcanic eruption</a></strong> — <em>2026-09-24 23:40:05</em></summary>
 
-The Compact Accelerator System for Performing Astrophysical Research (CASPAR) recreates conditions inside stars to study how elements are made. The experiment recently restarted with a new target—the ninth element on the periodic table, fluorine.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/' target='_blank'>NASA Welcomes Croatia as Newest Artemis Accords Signatory</a></strong> — <em>2026-09-23 20:37:19</em></summary>
-
-The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson […]
+Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia's Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in nearly five centuries, Krasheninnikov started erupting. Since then, the northern volcano has been spilling a steady, eastward-flowing field of molten rock and debris, and the NASA-ISRO Synthetic Aperture Radar (NISAR) mission has been tracking the changes in the landscape.
 
 </details>
 
-<details><summary><strong><a href='https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/' target='_blank'>NASA Selects Far-Infrared Telescope as First in New Mission Class</a></strong> — <em>2026-09-23 20:09:42</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html' target='_blank'>Coolest lava world yet with signs of an atmosphere offers clues to early Earth</a></strong> — <em>2026-09-24 22:20:06</em></summary>
 
-NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is […]
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/' target='_blank'>NASA Aircraft to Make Low-Altitude Research Flights Over Colorado</a></strong> — <em>2026-09-23 19:03:03</em></summary>
-
-Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado […]
+In the search for extraterrestrial life, it makes sense to first look for rocky planets with an atmosphere, like Earth. Without an atmosphere, a planet can't have surface water. But of the more than 6,300 exoplanets cataloged thus far, the vast majority are not rocky, and only a handful of the rocky worlds appear to have an atmosphere.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-nasa-hubble-lensed-supernova-orbits.html' target='_blank'>NASA's Hubble seeks lensed supernova, marks 200,000 orbits</a></strong> — <em>2026-09-23 19:00:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-nasa-human-health-crew-mission.html' target='_blank'>NASA to study human health and performance during Crew-13 mission</a></strong> — <em>2026-09-24 20:00:05</em></summary>
 
-NASA's Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another milestone for an observatory that continues to transform our understanding of the universe.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/' target='_blank'>NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</a></strong> — <em>2026-09-23 18:43:43</em></summary>
-
-NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and […]
+During NASA's SpaceX Crew-13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members' manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health data to inform future missions, and measuring forces astronauts experience during their return to Earth to help refine re-entry hardware and procedures.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-side-moon-clues-magnetic-field.html' target='_blank'>The far side of the moon provides clues to a past magnetic field</a></strong> — <em>2026-09-23 18:00:23</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-absorber-spacecraft.html' target='_blank'>Engineers just designed a better 'shock absorber' for spacecraft</a></strong> — <em>2026-09-24 19:40:04</em></summary>
 
-Unlike Earth, the moon no longer has a core-generated magnetic field. On our planet, the movement of liquid iron in the outer core generates a global magnetic field. This so-called geodynamo works on a similar principle to a bicycle dynamo, which converts mechanical motion into electrical energy. "Today, there is an ongoing heated debate as to whether the moon also operated a dynamo in the past," says Xi Yang, a Ph.D. student in the Department of Earth and Planetary Sciences at ETH Zurich. This is because analyses of rock samples brought back to Earth by the Apollo astronauts are contradictory.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-astronauts-hearts-strong-flight-mars.html' target='_blank'>Exercise keeps astronauts' hearts strong enough for flight to Mars</a></strong> — <em>2026-09-23 17:24:09</em></summary>
-
-Intense exercise during long spaceflights helps maintain heart structure and function within a range needed to tolerate the low-gravity environment of Mars, a study co-led by a UT Southwestern Medical Center researcher suggests. The findings, published in Circulation, not only address an issue critical to future space missions but could also lead to better interventions to improve heart health on Earth.
+Rocket launches are among the most violent ways humans have devised to travel. They generate millions of pounds of thrust and subject passengers to intense g-forces. Humans must undergo serious training to withstand those forces, while machines must be designed to survive them. If a delicate mirror or solder joint cracks before a multibillion-dollar satellite even begins its mission, the years of effort that went into its design and assembly could be lost. Now, researchers in Switzerland have come up with an ingenious way to make that less likely.
 
 </details>
 
-<details><summary><strong><a href='https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/' target='_blank'>Arctic Sea Ice Reaches 2026 Annual Minimum Extent</a></strong> — <em>2026-09-23 17:15:32</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-universe-oldest.html' target='_blank'>Is the universe twisted? A new check on a possible twist in the universe's oldest light</a></strong> — <em>2026-09-24 17:30:01</em></summary>
 
-Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-roaming-black-holes-hidden-history.html' target='_blank'>Roaming black holes may tell the hidden history of galaxies</a></strong> — <em>2026-09-23 17:00:06</em></summary>
-
-If you want to understand the origins of black holes, Yale astronomers say, you need to look beyond the centers of galaxies and start searching in the nooks and crannies. That's where you'll find the "wanderers"—black holes whose journeys may tell the story of how the first black holes formed.
+The cosmic microwave background (CMB) is the universe's oldest light, leftover thermal radiation from about 380,000 years after the big bang. Maps of the CMB offer a picture of the "baby universe" as it was 13.8 billion years ago.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-ska-magnetic-fields-distant-exoplanets.html' target='_blank'>SKA may detect magnetic fields on distant exoplanets</a></strong> — <em>2026-09-23 16:20:01</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-supernova-black-hole-neutrino-flavor.html' target='_blank'>Supernova or black hole: Neutrino 'flavor' may determine the fate of dying stars</a></strong> — <em>2026-09-24 16:20:08</em></summary>
 
-Studying exoplanets has given astronomers insights into the characteristics that could help them find life beyond Earth. For years, astronomers thought an exoplanet's location in a star's habitable zone was enough to make it an Earth-like world. But some stars are more active than our sun, exposing planets in their habitable zones to far more radiation than Earth receives. Astronomers have increasingly recognized that a planet's magnetic field, which shields Earth from harmful radiation, could be a key characteristic in identifying Earth-like worlds.
-
-</details>
-
-<details><summary><strong><a href='https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/' target='_blank'>Shannon Lucid’s Record-Setting Mission Aboard Mir</a></strong> — <em>2026-09-23 16:03:37</em></summary>
-
-Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]
+As a star nears the end of its life, it faces two very different fates: It can explode as a supernova, leaving behind a neutron star, or collapse and become a black hole. What determines the outcome remains one of astrophysics' great unanswered questions.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-diffractive-solar-killer-asteroid-kms.html' target='_blank'>How diffractive solar sails could stop a killer asteroid at 100 km/s</a></strong> — <em>2026-09-23 16:00:10</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-astronomers-capture-unprecedented-view-gas.html' target='_blank'>Astronomers capture an unprecedented view of gas giant formation in action</a></strong> — <em>2026-09-24 15:20:10</em></summary>
 
-Asteroids don't come with a warning label that they might one day hit Earth. While we don't know of any currently on course to do so, we are finding thousands of new ones each year, and there's always a chance that one could.
-
-</details>
-
-<details><summary><strong><a href='https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/' target='_blank'>FFA 2026 Hyperwall Schedule</a></strong> — <em>2026-09-23 14:58:13</em></summary>
-
-FFA 2026 Hyperwall Schedule
+In recent decades, astronomers have reconstructed a fairly complete scenario for planet formation, from minute dust motes clumping together to the emergence of rocky spheres thousands of kilometers across, like Earth, or larger gas giants like Jupiter.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-earth-gained-optimal-conditions-life.html' target='_blank'>Earth may have gained optimal conditions for life's chemistry 4.33 billion years ago</a></strong> — <em>2026-09-23 14:40:16</em></summary>
+<details><summary><strong><a href='https://phys.org/news/2026-09-faint-young-stars-reveal-spiral.html' target='_blank'>Faint young stars reveal spiral galaxy Messier 74 may be twice as large as thought</a></strong> — <em>2026-09-24 13:00:01</em></summary>
 
-Conditions on early Earth may have become stable enough to sustain the chemistry associated with the origins of life around 4.33 billion years ago, according to new research co-led by Planetary Science Institute senior scientist Oleg Abramov.
+Astronomers have discovered a faint population of young stars extending far beyond the known edge of the nearby spiral galaxy Messier 74. The finding suggests the galaxy is nearly twice as large as previously measured. The new study was published Sept. 4 in Astronomy & Astrophysics.
 
 </details>
 
-<details><summary><strong><a href='https://phys.org/news/2026-09-silicon-solar-cells-satellite-power.html' target='_blank'>Silicon solar cells could cut satellite power costs by up to 90%</a></strong> — <em>2026-09-23 14:00:01</em></summary>
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury' target='_blank'>Win a trip to ESA to witness BepiColombo arrive at Mercury</a></strong> — <em>2026-09-24 13:00:00</em></summary>
 
-Switching to modern silicon solar cells could cut the cost of powering satellites by as much as 90% based on beginning-of-life (BOL) performance, according to a review led by the University of Surrey. The switch to silicon cells could also halve the weight of the solar cells needed on a spacecraft, freeing mass for fuel or instruments or cutting launch costs.
+
+Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM  Full rules and how to enter below. 
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury' target='_blank'>Win a trip to ESA to witness BepiColombo arrive at Mercury</a></strong> — <em>2026-09-24 13:00:00</em></summary>
+
+
+Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM  Full rules and how to enter below. 
 
 </details>
 
