@@ -2,49 +2,129 @@
 
     ### Summary of Recent Developments in Astrophysics
 
-#### Understanding Cosmic Structures and Dynamics
-Recent advancements in observational astrophysics have provided deeper insights into the mechanics of galaxies and cosmic structures. The Hubble Space Telescope's study of NGC 4693 revealed a central region rotating independently from its spiral arms, challenging existing models of galaxy dynamics. Concurrently, the James Webb Space Telescope's imaging of the MACS J0454.1-0300 galaxy cluster employed gravitational lensing to unveil distant galaxies, allowing astronomers to probe the universe's formative years, approximately 2 billion years after the Big Bang.
+#### 1. Insights into Martian Climate and Composition
+Recent research has unveiled that Mars’ north pole is significantly less dusty than previously believed, which enhances our understanding of its climatic history and potential habitability. The discovery of relatively clean ice at the pole provides a clearer picture of past environmental conditions, suggesting that Martian ice could serve as a valuable archive for future studies. This finding is particularly relevant as it may influence upcoming exploration missions aimed at determining Mars' capacity to support life.
 
 Key items:
-1. NGC 4693's unusual rotation pattern raises questions about the interactions between different components of galaxies - https://phys.org/news/2026-09-sync-galaxy.html.
-2. Webb’s imaging of MACS J0454.1-0300 reveals previously hidden galaxies, emphasizing the power of gravitational lensing - https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors.
+- "The north pole of Mars is less dusty than scientists thought" - https://phys.org/news/2026-09-north-pole-mars-dusty-scientists.html - This study reveals new insights into Martian polar ice composition, crucial for understanding past climates.
+- "Happy New Year on Mars" - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars - Celebrating the start of a new Martian year, which can provide further data for ongoing climate studies.
 
-#### Innovations in Space Exploration Technology
-The field of space exploration technology is rapidly evolving, with new missions aiming for enhanced efficiency and capability. NASA's Nancy Grace Roman Space Telescope is poised to improve our understanding of stellar dynamics within the Milky Way. Furthermore, ESA's Juice spacecraft successfully executed an Earth flyby, showcasing innovative trajectory adjustments that minimize fuel consumption. NASA is also developing a dual-mode propulsion CubeSat that could transform satellite maneuverability, indicating a shift towards more sustainable space operations.
-
-Key items:
-1. The Roman Space Telescope promises to provide insights into stellar behavior and interactions within our galaxy - https://phys.org/news/2026-09-nasa-nancy-grace-roman-space.html.
-2. Juice’s Earth flyby illustrates efficient trajectory planning in space missions - https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter.
-3. NASA's dual-mode propulsion CubeSat could revolutionize small satellite maneuvering - https://phys.org/news/2026-09-nasa-dual-mode-propulsion-cubesat.html.
-
-#### Probing the Early Universe and Dark Matter
-The investigation of the universe's early epochs continues to advance with innovative techniques and instruments. The Canadian Hydrogen Intensity Mapping Experiment (CHIME) has successfully detected hydrogen's faint glow, offering a new method to study dark energy. Additionally, the upcoming CosmoCube mission aims to detect signals from the cosmic dark ages, potentially revealing insights into the formation of the first galaxies and the nature of dark matter.
+#### 2. Advances in Exoplanet Research
+The detection of helium gas escaping from the atmosphere of exoplanet LHS 1140b represents a significant leap in exoplanet studies, raising questions about atmospheric composition and potential habitability. This finding exemplifies the increasing sophistication of techniques used to analyze exoplanet atmospheres, enhancing our understanding of the conditions that may support life beyond our solar system.
 
 Key items:
-1. CHIME's detection of hydrogen's glow opens new avenues for investigating dark energy - https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html.
-2. CosmoCube's mission to the Moon seeks to uncover signals from the universe before stars formed - https://www.sciencedaily.com/releases/2026/09/260927225034.htm.
+- "Alien life? Why the possibility of exoplanet LHS 1140b emitting helium gas is so exciting" - https://phys.org/news/2026-09-alien-life-possibility-exoplanet-lhs.html - This report highlights the implications of atmospheric studies in the search for life.
+- "Suns set on hunt for giant planets in nearby binary system" - https://phys.org/news/2026-09-suns-giant-planets-nearby-binary.html - Research focused on the 70 Ophiuchi AB system sets the stage for future observations of rocky planets.
 
-The current landscape in astrophysics reflects a dynamic interplay between observational advancements and technological innovations. As researchers develop new instruments and methodologies, they are not only deepening our understanding of cosmic phenomena but also setting the stage for more ambitious exploration missions that could redefine our knowledge of the universe. The integration of these breakthroughs highlights a period of significant progress and collaborative effort in the quest to unravel the mysteries of the cosmos.
+#### 3. Technological Innovations in Space Exploration
+SpaceX's successful orbital flight of the Starship has validated its heat shield technology, marking a pivotal moment for reusable spacecraft and interplanetary missions. This mission not only tested key components for future exploration but also facilitated the deployment of additional Starlink satellites, which could significantly enhance global internet access. Such advancements are expected to lower the costs of space travel and broaden the scope of future missions.
+
+Key items:
+- "Starship's first orbital flight put its heat shield to the test" - https://phys.org/news/2026-09-starship-orbital-flight-shield.html - This flight represents a key milestone in the development of reusable spacecraft.
+- "NASA-made material for moon manufacturing" - https://phys.org/news/2026-09-microscope-nasa-material-moon.html - A new material developed for in-situ resource utilization on the Moon could revolutionize future lunar missions.
+
+### Conclusion
+The current landscape of astrophysics is characterized by significant advancements in our understanding of planetary atmospheres, Martian climate, and cutting-edge technologies for space exploration. These developments not only deepen our knowledge of the universe but also set the stage for future missions, enhancing the prospects for discovering life beyond Earth. As research progresses, the integration of new methodologies and technologies is likely to accelerate our exploration of the cosmos.
 
 ### Top Sources:
-1. Happy New Year on Mars - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars - Mars begins a new orbit around the Sun on September 30, 2026.
-2. How NASA's Nancy Grace Roman Space Telescope will open a window into the Milky Way - https://phys.org/news/2026-09-nasa-nancy-grace-roman-space.html - Insights into stellar dynamics and interactions are expected from this mission.
-3. Diving into an out-of-sync galaxy - https://phys.org/news/2026-09-sync-galaxy.html - Hubble reveals intriguing dynamics in NGC 4693.
-4. The ice blasting from Saturn's moon Enceladus is stranger than scientists realized - https://www.sciencedaily.com/releases/2026/09/260929053528.htm - New insights into Enceladus' icy plumes could inform future life detection missions.
-5. Galaxies in a cosmic house of mirrors - https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors - Webb captures gravitational lensing effects revealing distant galaxies.
-6. This suitcase-sized spacecraft could hear the universe before stars existed - https://www.sciencedaily.com/releases/2026/09/260927225034.htm - CosmoCube aims to probe the cosmic dark ages.
-7. Hydrogen's distant glow opens new way to investigate dark energy - https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html - CHIME's findings enhance understanding of dark energy.
-8. Successful Earth flyby improves Juice’s course to Jupiter - https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter - Juice utilizes gravity assist for efficient trajectory adjustment.
-9. NASA tests dual mode propulsion CubeSat ahead of launch - https://phys.org/news/2026-09-nasa-dual-mode-propulsion-cubesat.html - New propulsion technology could benefit future satellite missions.
-10. A tiny stellar system may be a 'satellite of a satellite' - https://phys.org/news/2026-09-tiny-stellar-satellite.html - Discovery of Fornax-7 expands knowledge of faint stellar systems.
+1. The north pole of Mars is less dusty than scientists thought - https://phys.org/news/2026-09-north-pole-mars-dusty-scientists.html - This study reveals new insights into Martian polar ice composition, crucial for understanding past climates.
+2. Starship's first orbital flight put its heat shield to the test - https://phys.org/news/2026-09-starship-orbital-flight-shield.html - This flight represents a key milestone in the development of reusable spacecraft.
+3. New simulations connect the first stars to cosmic fingerprints still visible today - https://phys.org/news/2026-09-simulations-stars-cosmic-fingerprints-visible.html - Detailed simulations exploring early star formation and cosmic evolution.
+4. Alien life? Why the possibility of exoplanet LHS 1140b emitting helium gas is so exciting - https://phys.org/news/2026-09-alien-life-possibility-exoplanet-lhs.html - This report highlights the implications of atmospheric studies in the search for life.
+5. Under the Microscope: NASA-made material for moon manufacturing - https://phys.org/news/2026-09-microscope-nasa-material-moon.html - A new material developed for in-situ resource utilization on the Moon could revolutionize future lunar missions.
+6. Suns set on hunt for giant planets in nearby binary system - https://phys.org/news/2026-09-suns-giant-planets-nearby-binary.html - Research focused on the 70 Ophiuchi AB system sets the stage for future observations of rocky planets.
+7. Science begins for Smile - https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile - The European-Chinese Smile mission starts its scientific operations to study solar wind effects on Earth.
+8. Happy New Year on Mars - https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars - Celebrating the start of a new Martian year, which can provide further data for ongoing climate studies.
+9. How ocean chemistry helped life keep breathing - https://phys.org/news/2026-09-ocean-chemistry-life.html - Insights into ancient ocean chemistry and its role in sustaining life-friendly conditions on early Earth.
+10. NASA highlights lessons learned from Swift boost mission - https://phys.org/news/2026-09-nasa-highlights-lessons-swift-boost.html - Experience gained from a recent mission to boost the Swift Observatory's orbit will inform future servicing efforts.
                 
     ---
                 
     ## 📰 Sources
-    <details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars' target='_blank'>Happy New Year on Mars</a></strong> — <em>2026-09-30 06:00:00</em></summary>
+    <details><summary><strong><a href='https://phys.org/news/2026-09-north-pole-mars-dusty-scientists.html' target='_blank'>The north pole of Mars is less dusty than scientists thought</a></strong> — <em>2026-09-30 13:00:22</em></summary>
+
+Although Mars may have once resembled Earth, the rocky red planet now appears far from hospitable. Still, certain details—such as ice-bound water—pique researchers' curiosity. As on Earth, ice on Mars contains valuable records of past climate that could reveal whether the planet hosts, or has ever hosted, life.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-starship-orbital-flight-shield.html' target='_blank'>Starship's first orbital flight put its heat shield to the test</a></strong> — <em>2026-09-30 13:00:17</em></summary>
+
+SpaceX's Starship, the most powerful launch vehicle ever developed, reached Earth orbit for the first time on Sept. 28, 2026. This mission, the rocket's 14th test flight, also marked the first time that Starship deployed Starlink internet satellites into the existing larger constellation: 26 new next-generation nodes in total.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-simulations-stars-cosmic-fingerprints-visible.html' target='_blank'>New simulations connect the first stars to cosmic fingerprints still visible today</a></strong> — <em>2026-09-30 12:00:06</em></summary>
+
+Researchers have used some of the most detailed simulations yet of the early universe to investigate how the first stars and galaxies formed. Led by researchers at the University of Bath in the U.K., alongside collaborators at the University of Chicago in the U.S. and the Institut d'Astrophysique de Paris in France, the MEGATRON project uses advanced simulations to explore how the first stars and galaxies lit up the previously dark cosmos and enriched it with the chemical elements that would later become the building blocks of everything around us.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile' target='_blank'>Science begins for Smile</a></strong> — <em>2026-09-30 07:05:00</em></summary>
+
+
+On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile' target='_blank'>Science begins for Smile</a></strong> — <em>2026-09-30 07:05:00</em></summary>
+
+
+On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.
+
+</details>
+
+<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars' target='_blank'>Happy New Year on Mars</a></strong> — <em>2026-09-30 06:00:00</em></summary>
 
 
 30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-alien-life-possibility-exoplanet-lhs.html' target='_blank'>Alien life? Why the possibility of exoplanet LHS 1140b emitting helium gas is so exciting</a></strong> — <em>2026-09-29 23:20:02</em></summary>
+
+This summer, exoplanet science—the study of planets orbiting stars beyond our sun—took a big step forward. Reports of helium gas escaping from the atmosphere of LHS 1140b propelled this exoplanet from the pages of scientific journals into the mainstream media.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-microscope-nasa-material-moon.html' target='_blank'>Under the Microscope: NASA-made material for moon manufacturing</a></strong> — <em>2026-09-29 20:20:02</em></summary>
+
+Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA's Glenn Research Center in Cleveland, the material could be created directly on the moon or Mars, allowing NASA to pack fewer supplies—saving weight and reducing launch costs.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-suns-giant-planets-nearby-binary.html' target='_blank'>Suns set on hunt for giant planets in nearby binary system</a></strong> — <em>2026-09-29 18:20:06</em></summary>
+
+New research led by the University of Michigan is helping set the stage for future observatories to characterize rocky planets outside our solar system, planets that could prove life isn't confined to Earth. The new research represents the most sensitive modern search for giant planets in a nearby binary system—a system with two stars orbiting each other—known as 70 Ophiuchi AB, or 70 Oph AB.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-spacex-starship-rocket-job-orbital.html' target='_blank'>SpaceX's Starship rocket does its job during first orbital flight</a></strong> — <em>2026-09-29 18:00:05</em></summary>
+
+SpaceX sent its Starship super-rocket on its first orbital flight—a shorter-than-planned test mission that put operational Starlink satellites into orbit for the first time.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-ocean-chemistry-life.html' target='_blank'>How ocean chemistry helped life keep breathing</a></strong> — <em>2026-09-29 17:40:11</em></summary>
+
+Scientists have helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more than 2 billion years ago, providing evidence that ancient ocean chemistry sustained life-friendly conditions.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-nasa-highlights-lessons-swift-boost.html' target='_blank'>NASA highlights lessons learned from Swift boost mission</a></strong> — <em>2026-09-29 17:00:01</em></summary>
+
+A commercial mission to boost NASA's Neil Gehrels Swift Observatory ended without raising the spacecraft's orbit, but the agency and Katalyst Space gained experience that will benefit future in-space servicing programs.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-nasa-missions-boeing-starliner-spacecraft.html' target='_blank'>NASA announces new missions for Boeing Starliner spacecraft</a></strong> — <em>2026-09-29 16:10:01</em></summary>
+
+NASA announced Monday that it is planning new missions using Boeing's Starliner spacecraft, the first since a troubled test flight left two astronauts stranded at the International Space Station for months.
+
+</details>
+
+<details><summary><strong><a href='https://phys.org/news/2026-09-nasa-ramps-boeing-astronaut-capsule.html' target='_blank'>NASA ramps up support to get Boeing's astronaut capsule flying after Butch and Suni fiasco</a></strong> — <em>2026-09-29 14:43:21</em></summary>
+
+NASA is throwing extra support and money behind Boeing's troubled astronaut capsule to get it fixed and flying again as soon as possible.
 
 </details>
 
@@ -57,90 +137,6 @@ Look up at the night sky with the naked eye and it may seem like it rarely chang
 <details><summary><strong><a href='https://phys.org/news/2026-09-sync-galaxy.html' target='_blank'>Diving into an out-of-sync galaxy</a></strong> — <em>2026-09-29 13:20:05</em></summary>
 
 Galaxies are like snowflakes: No two are exactly alike, even the spirals. The Hubble Space Telescope took a close look at the distant spiral NGC 4693 and found intriguing hints about its past. For one thing, this member of the Virgo Cluster seems to have a central region that's rotating out of sync with its spiral arms and bulge. Those arms don't seem to connect to the central region, and the bulge itself seems to extend above the plane of the galaxy. In other words, there seems to be a decoupling between the arms and the bulge.
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260929053528.htm' target='_blank'>The ice blasting from Saturn's moon Enceladus is stranger than scientists realized</a></strong> — <em>2026-09-29 09:58:00</em></summary>
-
-Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and clues to life.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors' target='_blank'>Galaxies in a cosmic house of mirrors</a></strong> — <em>2026-09-29 08:00:00</em></summary>
-
-
-	Image:
-			This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.MACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.The way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.The gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.Astronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.A NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.The data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]
-
-Release on esawebb.org
-
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors' target='_blank'>Galaxies in a cosmic house of mirrors</a></strong> — <em>2026-09-29 08:00:00</em></summary>
-
-
-	Image:
-			This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.MACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.The way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.The gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.Astronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.A NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.The data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]
-
-Release on esawebb.org
-
-
-</details>
-
-<details><summary><strong><a href='https://www.sciencedaily.com/releases/2026/09/260927225034.htm' target='_blank'>This suitcase-sized spacecraft could hear the universe before stars existed</a></strong> — <em>2026-09-29 03:45:39</em></summary>
-
-CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first galaxies.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html' target='_blank'>Hydrogen's distant glow opens new way to investigate dark energy</a></strong> — <em>2026-09-28 23:00:04</em></summary>
-
-The Canadian Hydrogen Intensity Mapping Experiment (CHIME) has shown for the first time that it can detect the faint glow of hydrogen gas from deep in the universe's past using only its own data.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-meteor-oklahoma-million-years-previously.html' target='_blank'>Meteor hit Oklahoma 100 million years later than previously thought</a></strong> — <em>2026-09-28 21:50:01</em></summary>
-
-Researchers at The University of Texas at Austin have rewritten a small part of Oklahoma's geologic history with global implications for ancient life. Below the surface of the small town of Ames, Oklahoma, a meteor impact site spans miles. The crater is buried by sedimentary strata in the subsurface, but it remains an important marker of Oklahoma's ancient past and present-day economy; the Ames impact structure is a major oil and gas producer.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-tiny-telescope-robots-reveals-galaxy.html' target='_blank'>Testing tiny telescope robots reveals design changes that could improve galaxy maps</a></strong> — <em>2026-09-28 18:20:02</em></summary>
-
-Astronomers have cataloged billions of stars and hundreds of billions of galaxies. We have found thousands of planets orbiting stars. We can also map where galaxies sit and trace how the universe changes over time.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-scientists-lunar-magnetic-fossil-samples.html' target='_blank'>Scientists find lunar 'magnetic fossil' in Chang'e-6 samples</a></strong> — <em>2026-09-28 17:40:10</em></summary>
-
-The moon no longer has a global magnetic field, but lunar rocks and soils still contain records of ancient magnetism. Studying the magnetic minerals in these samples can help scientists understand how the moon's magnetic field evolved over time.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter' target='_blank'>Successful Earth flyby improves Juice’s course to Jupiter</a></strong> — <em>2026-09-28 15:00:00</em></summary>
-
-
-The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.
-
-</details>
-
-<details><summary><strong><a href='https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter' target='_blank'>Successful Earth flyby improves Juice’s course to Jupiter</a></strong> — <em>2026-09-28 15:00:00</em></summary>
-
-
-The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-nasa-dual-mode-propulsion-cubesat.html' target='_blank'>NASA tests dual mode propulsion CubeSat ahead of launch</a></strong> — <em>2026-09-28 14:20:09</em></summary>
-
-Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that. Engineers at NASA's Marshall Space Flight Center in Huntsville, Alabama, recently completed a series of environmental and physical tests on a new small satellite designed to make spaceflight safer and more efficient.
-
-</details>
-
-<details><summary><strong><a href='https://phys.org/news/2026-09-tiny-stellar-satellite.html' target='_blank'>A tiny stellar system may be a 'satellite of a satellite'</a></strong> — <em>2026-09-28 13:50:01</em></summary>
-
-Astronomers using data from the Euclid space telescope have discovered an exceptionally faint stellar system near the Fornax dwarf galaxy. Called Fornax-7, it appears to contain only about 170 times the mass of the sun in stars. The discovery paper was posted to the arXiv preprint server on Sept. 13.
 
 </details>
 
